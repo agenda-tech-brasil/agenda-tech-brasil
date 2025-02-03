@@ -1459,6 +1459,16 @@
               "tipo": "online"
             },
             {
+              "nome": "AI-Driven Pipeline: Construindo uma Solução de Dados com Databricks, GenAI e RAG",
+              "data": [
+                "06"
+              ],
+              "url": "https://www.meetup.com/engenharia-dados-academy/events/305898094",
+              "cidade": "Brasilia",
+              "uf": "DF",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Excel Weekend 10",
               "data": [
                 "07"
