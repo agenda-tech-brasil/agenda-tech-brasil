@@ -1459,6 +1459,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Encontro de Fevereiro no Núcleo de Tecnologia do MTST",
+              "data": [
+                "06"
+              ],
+              "url": "https://www.meetup.com/grupy-sp/events/305843538",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Excel Weekend 10",
               "data": [
                 "07"

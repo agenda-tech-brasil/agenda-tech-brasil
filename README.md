@@ -55,6 +55,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 05: [FIAP Meetup #135 - Da IA generativa aos agentes na Google Cloud](https://www.meetup.com/fiapmeetups/events/305753577) - _São Paulo/SP_ ![híbrido]
 - 06: [Construindo uma Aplicação Web de IA com Python e Flask](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033025) ![online]
 - 06: [[Front @ Uber] Simulando a entrevista de Design & Architecture de front-end](https://www.meetup.com/uber-tech-latam/events/305607442) ![online]
+- 06: [Encontro de Fevereiro no Núcleo de Tecnologia do MTST](https://www.meetup.com/grupy-sp/events/305843538) - _São Paulo/SP_ ![presencial]
 - 07: [Excel Weekend 10](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305401582) - _São Paulo/SP_ ![híbrido]
 - 11: [Crie Testes Unitários e Documentação com GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033451) ![online]
 - 12: [Golang SP na Uber](https://www.meetup.com/golangbr/events/305810241/) - _São Paulo/SP_ ![presencial]
