@@ -19,32 +19,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 
 ## Eventos em 2025
 <!-- ANO2025:START -->
-### Janeiro
-<!-- JANEIRO:START -->
-- 07: [Confraria Web3 - São Paulo](https://www.meetup.com/confrariaweb3/events/304681266) - _São Paulo/SP_ ![presencial]
-- 08: [Novidades do SQL Server, Fabric, AI e IoT anunciadas no Ignite 2024](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304899359) ![online]
-- 09: [PHPSP Pub](https://www.meetup.com/php-sp/events/300873764) - _São Paulo/SP_ ![presencial]
-- 13: [Caminhos para uma Carreira em Cloud para Mulheres](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256759) ![online]
-- 13: [Live: Dicas de carreira para pessoas desenvolvedoras de RPA](https://www.youtube.com/watch?v=r_n1zam__5g) ![online]
-- 15: [Princípios básicos e conceitos de nuvem](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256854) ![online]
-- 16: [Beer for Devs - De volta para 2025: o futuro chegou!](https://eventos.totvs.com/event/beer-for-devs-tendencias-2025?utm_campaign=pautas-organicas-social&utm_source=linkedin-sc&utm_medium=organico&utm_term=institucional-totvs_institucional&utm_content=social_feed_estatico_pauta-4-beer-for-devs-incricao-tendencias-2025_20250109) - _São Paulo/SP_ ![presencial]
-- 20: [Descrever aplicações e serviços do Microsoft 365](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304256937) ![online]
-- 21: [Agentes Autônomos, Copilot e IA: o que vem de novo e como me preparar?](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305015310) ![online]
-- 21: [Meetup Codecon - #09 Florianópolis](https://eventos.codecon.dev/meetup-codecon-fln-09/) - _Florianópolis/SC_ ![presencial]
-- 22: [Descrever as capacidades de segurança e conformidade do Microsoft 365](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304420522) ![online]
-- 22: [FIAP Meetup - IA E Gestão de projetos: o mercado para todos os profissionais](https://www.meetup.com/fiapmeetups/events/305131240) ![online]
-- 22: [Ano Novo do SouJava na Oracle](https://souj.org/jan25) - _São Paulo/SP_ ![híbrido]
-- 23: [Thasfin #20 | Orange Juice | Fcamara](https://guild.host/events/thasfin-20-orange-juice-6p4kc5) - _São Paulo/SP_ ![presencial]
-- 23: [FIAP Meetup #133 - IA no futuro: desenvolvimento ético e responsável](https://www.meetup.com/fiapmeetups/events/305608038) ![online]
-- 23: [Meetup Codecon - #12 - Joinville](https://eventos.codecon.dev/meetup-codecon-joi-12/) - _Joinville/SC_ ![presencial]
-- 24: [Vamos Programar Juntos a Web3 com a Confraria.](https://www.meetup.com/confrariaweb3/events/305689573) ![online]
-- 25: [Roda de Conversa Pyladies Manaus](https://www.even3.com.br/roda-de-conversa-pyladies-manaus/) - _Manaus/AM_ ![presencial]
-- 27: [Microsoft 365 Para Elas: próximos passos em seu plano de estudos!](https://www.meetup.com/microsoft-reactor-sao-paulo/events/304257628) ![online]
-- 27: [Boa semana web 3 Meetup Online de Segunda-feira](https://www.meetup.com/confrariaweb3/events/305734015) ![online]
-- 28: [Construindo agents autônomos inteligentes com Copilot Studio e AI Builder](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305456188) ![online]
-- 29: [Introdução ao Azure IoT Operations](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305456672) ![online]
-- 29: [112º Meetup AWS UG SP - O Jogo da Inspeção na AWS](https://www.meetup.com/awsusergroupsp/events/305669500) - _São Paulo/SP_ ![presencial]
-<!-- JANEIRO:END -->
+
 ### Fevereiro
 <!-- FEVEREIRO:START -->
 - 01: [VII Meetup PyData Manaus](https://www.even3.com.br/pydata-manaus/) - _Manaus/AM_ ![presencial]
