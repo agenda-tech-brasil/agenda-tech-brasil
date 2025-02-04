@@ -117,6 +117,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- AGOSTO:START -->
 - 13: [Security Leaders Recife 2025](https://securityleaders.com.br/eventos/security-leaders-recife-2025/) - _Recife/PE_ ![presencial]
 - 16: [Hacking Na Web Day - Florianópolis - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Florianópolis/SC_ ![presencial]
+- 23: [Bxsec Security Conference - 2025](https://www.instagram.com/bxsec/) - _Santos/SP_ ![presencial]
 <!-- AGOSTO:END -->
 ### Setembro
 <!-- SETEMBRO:START -->
