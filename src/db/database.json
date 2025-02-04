@@ -1479,6 +1479,16 @@
               "tipo": "online"
             },
             {
+              "nome": "FIAP Meetup #136 - Além do código: IA e as escolhas de carreiras",
+              "data": [
+                "11"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/305991139/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Golang SP na Uber",
               "data": [
                 "12"
