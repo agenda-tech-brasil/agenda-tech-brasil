@@ -2070,6 +2070,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Big Data Brazil Experience 2025",
+              "data": [
+                "22"
+              ],
+              "url": "https://www.sympla.com.br/evento/big-data-brazil-experience-2025/2571633",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC Summit Brasília",
               "data": [
                 "26",
