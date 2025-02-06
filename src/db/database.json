@@ -1647,6 +1647,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "GitTogether São Paulo",
+              "data": [
+                "20"
+              ],
+              "url": "https://www.meetup.com/gittogether-brasil/events/306033353",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Data World Xperience 2025 - Explore o futuro dos dados além da IA",
               "data": [
                 "20",
