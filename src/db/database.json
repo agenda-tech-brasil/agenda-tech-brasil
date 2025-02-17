@@ -1733,6 +1733,16 @@
               "cidade": "Montes Claros",
               "uf": "MG",
               "tipo": "presencial"
+            },
+            {
+              "nome": "FIAP - Masterclass Tech Forward 2025: inovações que estão moldando o mundo",
+              "data": [
+                "26"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/306221222",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             }
           ]
         },
