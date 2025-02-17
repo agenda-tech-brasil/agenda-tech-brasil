@@ -53,6 +53,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 19: [AGI Club #1 - Ifood Lab](https://lu.ma/si2mn42p?_bhlid=0d188da526f838daf35ae1a033ae0eca41614623&utm_campaign=o-novo-ataque-da-openai-na-automacao-do-trabalho&utm_medium=newsletter&utm_source=www.datahackers.news) - _Osasco/SP_ ![presencial]
 - 19: [FIAP & PM3 - Dados e Gamificação: estratégias para gerar valor nos negócios](https://www.meetup.com/fiapmeetups/events/306134905) ![online]
 - 19: [Meetup DevParaná Cascavel](https://www.meetup.com/developerparana/events/306141325) - _Cascavel/PR_ ![presencial]
+- 19: [Guia prático para mudar de carreira e ingressar na área de dados](https://www.meetup.com/le-wagon-sao-paulo-coding-bootcamp/events/306157468) - _São Paulo/SP_ ![presencial]
 - 20: [FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA](https://www.meetup.com/fiapmeetups/events/304567086) - _São Paulo/SP_ ![híbrido]
 - 20: [Global Power Platform Bootcamp 2025](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305920866) ![online]
 - 20: [FIAP & PM3 - IA e Dados: estratégias para antecipar clientes e gerar produção](https://www.meetup.com/fiapmeetups/events/306137804) ![online]
