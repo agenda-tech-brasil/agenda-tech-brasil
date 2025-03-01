@@ -125,6 +125,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 10 e 11: [IAM Tech Day São Paulo 2025](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial) - _São Paulo/SP_ ![presencial]
 - 12: [Hacking Na Web Day - Recife - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Recife/PE_ ![presencial]
 - 14: [DP-700: Data Warehousing no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306397019) ![online]
+- 16: [DP-700: Administração e governança do Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306397061) ![online]
 - 23: [DP-700: Prepare-se para o dia do exame e Q&A](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306397097) ![online]
 - 27, 28, 29 e 30: [Web Summit Rio 2025](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ ![presencial]
 <!-- ABRIL:END -->
