@@ -90,6 +90,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 13: [DevPR na Estrada: Umuarama](https://www.sympla.com.br/evento/devpr-na-estrada-umuarama/2830573) - _Umuarama/PR_ ![presencial]
 - 13: [DevPR na Estrada: Ponta Grossa](https://www.sympla.com.br/evento/devpr-na-estrada-ponta-grossa/2830493) - _Ponta Grossa/PR_ ![presencial]
 - 13: [DevPR na Estrada: Londrina](https://www.sympla.com.br/evento/devpr-na-estrada-gdg-londrina-meetup-londrina/2830481) - _Londrina/PR_ ![presencial]
+- 13: [Pylestras de Março das Pyladies + Grupy @ Obramax](https://www.meetup.com/grupy-sp/events/306330610/) - _São Paulo/SP_ ![presencial]
 - 14: [São Paulo | Global AI Bootcamp 2025](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306171333) - _São Paulo/SP_ ![presencial]
 - 14: [Global AI Bootcamp 2025](https://aka.ms/globalaibootcampsp2025) ![online]
 - 14: [DevPR na Estrada: Campo Mourão](https://www.sympla.com.br/evento/devpr-na-estrada-campo-mourao/2830570) - _Campo Mourão/PR_ ![presencial]
