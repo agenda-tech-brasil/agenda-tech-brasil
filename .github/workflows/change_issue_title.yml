@@ -17,6 +17,8 @@ jobs:
           # Extraindo o nome do evento do corpo da issue
           event_info="${{ github.event.issue.body }}"
 
+          LABELS="${{ toJson(github.event.issue.labels) }}"
+
           get_event_value() {
             local event_info="$1"
             local key_name="$2"
@@ -26,9 +28,27 @@ jobs:
           event_name=$(get_event_value "$event_info" 'Nome do(a) Evento/Agenda')
 
           if [ -z "$event_name" ]; then
-            echo "Nome do evento não encontrado no corpo da issue."
-            exit 1
+            if ! echo "$LABELS" | grep -q 'name: arquivar'; then
+              echo "Nome do evento não encontrado no corpo da issue."
+              exit 1
+            fi 
           fi
+          
+          new_title="Agenda/Evento: $event_name"
+
+          if echo "$LABELS" | grep -q 'name: arquivar'; then
+              archive_month=$(get_event_value "$event_info" 'Mês para ser Arquivado')
+              archive_year=$(get_event_value "$event_info" 'Ano do Mês a ser Arquivado ou Ano a ser arquivado')
+
+              issue_number="${{ github.event.issue.number }}"
+              repo_name="${{ github.repository }}"
+
+              if [[ $archive_month == "None" ]]; then
+                new_title="Arquivar: ${archive_year}"
+              else
+                new_title="Arquivar: ${archive_month}/${archive_year}"
+              fi
+          fi 
 
           # Modificando o título da issue usando a API do GitHub
           issue_number="${{ github.event.issue.number }}"
@@ -38,4 +58,4 @@ jobs:
             -H "Authorization: token $GITHUB_TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/repos/$repo_name/issues/$issue_number \
-            -d "{\"title\":\"Agenda/Evento: $event_name\"}"
+            -d "{\"title\":\"$new_title\"}"
