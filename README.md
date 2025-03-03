@@ -109,6 +109,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 22: [KCD Rio de Janeiro 2025 (Cloud)](https://community.cncf.io/kcd-brasil/) - _Rio De Janeiro/RJ_ ![presencial]
 - 22: [Internacional Women’s Day Recife 2025](https://www.instagram.com/wtmrecife/) - _Recife/PE_ ![presencial]
 - 24: [Microsoft Reactor: Descrever conceitos de segurança, conformidade e identidade](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306160766) ![online]
+- 25: [FIAP Masterclass - Next Level Innovation: o futuro tech e o impacto nos negócios](https://www.meetup.com/fiapmeetups/events/306461292) - _São Paulo/SP_ ![presencial]
 - 26: [Security Girls 2025: Função, os tipos de identidade e as capacidades de autenticação do Entra](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306239922) ![online]
 - 26 e 27: [TDC Summit SP](https://thedevconf.com/tdc/2025/summit-sao-paulo/) - _São Paulo/SP_ ![presencial]
 - 28: [Sem Servidor Conf 2025](https://semservidor.com.br/sem-servidor-conf/) - _Florianópolis/SC_ ![presencial]

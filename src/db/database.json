@@ -2214,6 +2214,16 @@
               "tipo": "online"
             },
             {
+              "nome": "FIAP Masterclass - Next Level Innovation: o futuro tech e o impacto nos negócios",
+              "data": [
+                "25"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/306461292",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Security Girls 2025: Função, os tipos de identidade e as capacidades de autenticação do Entra",
               "data": [
                 "26"
