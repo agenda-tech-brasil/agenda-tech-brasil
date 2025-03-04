@@ -80,7 +80,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 11: [DevPR na Estrada: Foz do Iguaçu](https://www.sympla.com.br/evento/devpr-na-estrada-foz-do-iguacu/2832078) - _Foz Do Iguaçu/PR_ ![presencial]
 - 11: [DevPR na Estrada: Guarapuava](https://www.sympla.com.br/evento/devpr-na-estrada-guarapuava/2830564) - _Guarapuava/PR_ ![presencial]
 - 11: [DevPR na Estrada: Dois Vizinhos](https://www.sympla.com.br/evento/devpr-na-estrada-dois-vizinhos/2830579) - _Dois Vizinhos/PR_ ![presencial]
-- 11: [Como conquistar minha independência financeira como Analista de Dados?](https://ebaconline.com.br/webinars/tech-webinar-2025-03-11?utm_campaign=webinar_2946_tech-webinar-2025-03-11_customerio_email_confirmation_triggered_all_2025-03&utm_source=email&utm_medium=email&utm_content=c_14_message_14&_cio_id=b9fd0643bede01cfb57c) ![online]
+- 11: [Como conquistar minha independência financeira como Analista de Dados?](https://ebaconline.com.br/webinars/tech-webinar-2025-03-11) ![online]
 - 12: [DP-700: Prepare-se para o dia do exame e Q&A](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305761207) ![online]
 - 12: [DevPR na Estrada: Francisco Beltrão](https://www.sympla.com.br/evento/devpr-na-estrada-francisco-beltrao/2830575) - _Francisco Beltrão/PR_ ![presencial]
 - 12: [DevPR na Estrada: Toledo](https://www.sympla.com.br/evento/devpr-na-estrada-toledo/2830488) - _Toledo/PR_ ![presencial]
