@@ -81,6 +81,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 11: [DevPR na Estrada: Guarapuava](https://www.sympla.com.br/evento/devpr-na-estrada-guarapuava/2830564) - _Guarapuava/PR_ ![presencial]
 - 11: [DevPR na Estrada: Dois Vizinhos](https://www.sympla.com.br/evento/devpr-na-estrada-dois-vizinhos/2830579) - _Dois Vizinhos/PR_ ![presencial]
 - 11: [Como conquistar minha independência financeira como Analista de Dados?](https://ebaconline.com.br/webinars/tech-webinar-2025-03-11) ![online]
+- 11: [Visualização de dados - Análise Exploratória (Parte 2) - Clube do livro](https://www.meetup.com/rladies-sao-paulo/events/306533503) ![online]
 - 12: [DP-700: Prepare-se para o dia do exame e Q&A](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305761207) ![online]
 - 12: [DevPR na Estrada: Francisco Beltrão](https://www.sympla.com.br/evento/devpr-na-estrada-francisco-beltrao/2830575) - _Francisco Beltrão/PR_ ![presencial]
 - 12: [DevPR na Estrada: Toledo](https://www.sympla.com.br/evento/devpr-na-estrada-toledo/2830488) - _Toledo/PR_ ![presencial]
