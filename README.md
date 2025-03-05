@@ -73,6 +73,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- MARÇO:START -->
 - 06: [FIAP Meetup #140 - Tech-Driven Marketing: o novo jogo.](https://www.meetup.com/fiapmeetups/events/306307881) ![online]
 - 07: [Azure Talks - Back-End - APIs, Serverless, dicas, problemas comuns](https://www.meetup.com/azure-talks/events/306334078) ![online]
+- 08: [Conhecendo o PHP e suas Estruturas de Controle - Comunidade PHP Manaus às 19h](https://discord.gg/zvxafpvf) ![online]
 - 10: [Muito Além do SaaS: Arquiteturas Multi-Agentes e o Futuro do Agent-as-a-Service](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306178578) ![online]
 - 10: [DevPR na Estrada: Pato Branco](https://www.sympla.com.br/evento/devpr-na-estrada-pato-branco/2830576?utm_medium=social&utm_source=linktree&utm_campaign=pato+branco+-+10%2f03&referrer=linktr.ee) - _Pato Branco/PR_ ![presencial]
 - 10: [DevPR na Estrada: Cascavel](https://www.sympla.com.br/evento/devpr-na-estrada-cascavel/2830476?utm_medium=social&utm_source=linktree&utm_campaign=cascavel+-+10%2f03&referrer=linktr.ee) - _Cascavel/PR_ ![presencial]
