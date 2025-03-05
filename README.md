@@ -76,6 +76,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 10: [Muito Além do SaaS: Arquiteturas Multi-Agentes e o Futuro do Agent-as-a-Service](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306178578) ![online]
 - 10: [DevPR na Estrada: Pato Branco](https://www.sympla.com.br/evento/devpr-na-estrada-pato-branco/2830576?utm_medium=social&utm_source=linktree&utm_campaign=pato+branco+-+10%2f03&referrer=linktr.ee) - _Pato Branco/PR_ ![presencial]
 - 10: [DevPR na Estrada: Cascavel](https://www.sympla.com.br/evento/devpr-na-estrada-cascavel/2830476?utm_medium=social&utm_source=linktree&utm_campaign=cascavel+-+10%2f03&referrer=linktr.ee) - _Cascavel/PR_ ![presencial]
+- 10: [O Movimento das Mulheres em Tech - comunidades](https://www.sympla.com.br/evento-online/o-movimento-das-mulheres-em-tech/2857987) ![online]
 - 11: [DevPR na Estrada: Ivaiporã](https://www.sympla.com.br/evento/devpr-na-estrada-ivaipora/2836417) - _Ivaiporã/PR_ ![presencial]
 - 11: [DevPR na Estrada: Foz do Iguaçu](https://www.sympla.com.br/evento/devpr-na-estrada-foz-do-iguacu/2832078) - _Foz Do Iguaçu/PR_ ![presencial]
 - 11: [DevPR na Estrada: Guarapuava](https://www.sympla.com.br/evento/devpr-na-estrada-guarapuava/2830564) - _Guarapuava/PR_ ![presencial]
