@@ -102,6 +102,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 15: [DevOps Days Goiânia 2025](https://devopsdays.org/events/2025-goiania/welcome/) - _Goiânia/GO_ ![presencial]
 - 15: [Mulheres e Inteligência Artificial](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306226593) ![online]
 - 15: [International Women's Day Belo Horizonte](https://www.sympla.com.br/evento/international-women-s-day-belo-horizonte/2815712) - _Belo Horizonte/MG_ ![híbrido]
+- 15: [DevOps Saturday: GitHub, Containers, Carreira, Certificações](https://www.meetup.com/azure-talks/events/306571075) - _São Paulo/SP_ ![presencial]
 - 17: [Receitas de arquitetura para aplicativos alimentados por IA](https://aka.ms/bia/reactorsp) - _São Paulo/SP_ ![presencial]
 - 18: [FIAP Meetup #140: Estratégias de negócios e IA para as transformações do mercado](https://www.meetup.com/fiapmeetups/events/306105463) - _São Paulo/SP_ ![híbrido]
 - 19, 20 e 21: [SecOps Summit 2025](https://www.secopssummit.com.br/) - _Porto Alegre/RS_ ![presencial]
