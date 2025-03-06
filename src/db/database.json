@@ -2670,6 +2670,16 @@
               "cidade": "Recife, Pernambuco",
               "uf": "PE",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Tech Woman",
+              "data": [
+                "26"
+              ],
+              "url": "https://www.instagram.com/techwoman.rec/",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial"
             }
           ]
         },
