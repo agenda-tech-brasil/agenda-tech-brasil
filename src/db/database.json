@@ -1951,6 +1951,18 @@
               "tipo": "online"
             },
             {
+              "nome": "Semana da Liderança em Tecnologia",
+              "data": [
+                "11",
+                "12",
+                "13"
+              ],
+              "url": "https://escolaforja.com.br/lp/semana-lideranca-tech",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "DP-700: Prepare-se para o dia do exame e Q&A",
               "data": [
                 "12"
