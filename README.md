@@ -109,6 +109,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 19, 20 e 21: [SecOps Summit 2025](https://www.secopssummit.com.br/) - _Porto Alegre/RS_ ![presencial]
 - 20: [GitTogether São Paulo](https://www.meetup.com/gittogether-brasil/events/306033353) - _São Paulo/SP_ ![presencial]
 - 20: [EBAC TALKS: Da tecnologia ao comportamento: tendências e inovações para 2025](https://ebaconline.com.br/webinars/ebactalks_tecnologia_20-03-25) ![online]
+- 20: [[Clojure BR] Como eu me preparei para chegar bem no Nubank com Alberto Souza](https://www.meetup.com/clojure-br/events/306442926/) ![online]
 - 20 e 21: [Data World Xperience 2025 - Explore o futuro dos dados além da IA](https://dwxperience.com.br/) - _Florianópolis/SC_ ![presencial]
 - 21: [Desenvolvimento de Agentes Inteligentes com AI, C#, RAG, Devprime e Azure OpenAI](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306159218) - _São Paulo/SP_ ![híbrido]
 - 22: [BSidesRJ - 2025](https://bsidesrj.com.br/) - _Rio De Janeiro/RJ_ ![presencial]
