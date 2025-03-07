@@ -162,7 +162,6 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 18 e 19: [Codecon Summit 25](https://eventos.codecon.dev/codecon-summit-25/) - _Curitiba/PR_ ![presencial]
 - 19: [CajuSec](https://www.cajusec.com.br) - _Aracaju/SE_ ![presencial]
 - 20, 21, 22, 23 e 24: [XLV Congresso da Sociedade Brasileira de Computação - CSBC 2025](https://csbc.sbc.org.br/2025/) - _Maceió/AL_ ![presencial]
-- 26: [Tech Woman 2025](https://www.instagram.com/techwoman.rec/) - _Recife, Pernambuco/PE_ ![presencial]
 - 26: [Tech Woman](https://www.instagram.com/techwoman.rec/) - _Recife/PE_ ![presencial]
 <!-- JULHO:END -->
 ### Agosto
