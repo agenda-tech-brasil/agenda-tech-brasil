@@ -1,0 +1,38 @@
+name: "📦 Arquivar Mês/Ano"
+description: Utilize essa opção para arquivar mês do evento
+title: "(Atenção: O Título da Issue é gerado automaticamente. Sendo assim, não precisa definir um título manualmente aqui.)"
+labels: ["arquivar"]
+body:
+  - type: dropdown
+    id: event_year
+    attributes:
+      label: "Ano do Mês a ser Arquivado ou Ano a ser arquivado"
+      description: "Qual o ano que o mês irá ser arquivado? (Deixe o mês vazio caso queira arquivar o ano)"
+      multiple: false
+      default: 0
+      options:
+        - "2025"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: event_month
+    attributes:
+      label: "Mês para ser Arquivado"
+      description: "Em qual mês irá ser arquivado? (Deixe o mês vazio caso queira arquivar o ano)"
+      multiple: false
+      options:
+        - Janeiro
+        - Fevereiro
+        - Março
+        - Abril
+        - Maio
+        - Junho
+        - Julho
+        - Agosto
+        - Setembro
+        - Outubro
+        - Novembro
+        - Dezembro
+    validations:
+      required: false

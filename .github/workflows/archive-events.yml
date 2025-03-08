@@ -1,0 +1,90 @@
+name: Criar PR para Arquivar Agendas e Eventos
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+env:
+  reviewers: "pachicodes,stephan-lopes"
+
+jobs:
+  archive-events:
+    if: contains(github.event.issue.labels.*.name, 'arquivar')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone do Repositório
+        uses: actions/checkout@v4
+
+      - name: Obter detalhes do mês e ano da issue
+        id: issue_details
+        run: |
+
+          event_info="${{ github.event.issue.body }}"
+
+          get_event_values() {
+            local event_info="$1"
+            local key_name="$2"
+
+            echo "$event_info" | awk '/^###/ { key=$0; next }NF { print key ": " $0 }' | grep "$key_name" | sed 's/^[^:]*: //'
+          }
+
+          extract_abbreviation() {
+              local input="$1"
+              echo "$input" | sed -E 's/.*\(([^)]+)\).*/\1/'
+          }
+
+          capitalize_first_letter() {
+            echo "$1" | awk '{ for(i=1;i<=NF;i++) $i=toupper(substr($i,1,1)) substr($i,2); }1'
+          }
+
+          archive_month=$(get_event_values "$event_info" 'Mês para ser Arquivado')
+          archive_year=$(get_event_values "$event_info" 'Ano do Mês a ser Arquivado ou Ano a ser arquivado')
+
+          if [[ $archive_month == "None" ]]; then
+            archive_month=""
+          fi
+
+          echo "archive_month=${archive_month}" >> $GITHUB_ENV
+          echo "archive_year=${archive_year}" >> $GITHUB_ENV
+      
+      - name: Arquivar o Mês/Ano
+        run: |
+          pip3 install -r src/requirements.txt
+          python3 src/archive.py
+
+          
+      - name: Gera o markdown baseado no database.json
+        run: |
+          pip3 install -r src/requirements.txt
+          python3 src/generate_page.py
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "${{ github.event.issue.user.login }}"
+          git config --global user.email "${{ github.event.issue.user.login }}@users.noreply.github.com"
+
+      - name: Criar uma nova branch
+        run: |
+          branch_name="feature/add-event-issue-${{ github.event.issue.number }}"
+          git checkout -b $branch_name
+          git add README.md src/db/database.json
+          git commit -m "Adicionando novo evento: ${{ env.event_name }}"
+          git push origin $branch_name
+
+          echo "branch_name=${branch_name}" >> $GITHUB_ENV
+
+      - name: Criar Pull Request
+        run: |
+          gh pr create \
+          -B main \
+          -H ${{ env.branch_name }} \
+          --title "Arquivar: ${{ env.archive_month != '' && format('{0}/{1}', env.archive_month, env.archive_year) || env.archive_year }}" \
+          --body "Closes #${{ github.event.issue.number }}" \
+          --label arquivar \
+          --reviewer "${{ env.reviewers }}"
+        env:
+          GH_TOKEN: ${{ github.token }}
