@@ -106,6 +106,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 15: [DevOps Saturday: GitHub, Containers, Carreira, Certificações](https://www.meetup.com/azure-talks/events/306571075) - _São Paulo/SP_ ![presencial]
 - 17: [Receitas de arquitetura para aplicativos alimentados por IA](https://aka.ms/bia/reactorsp) - _São Paulo/SP_ ![presencial]
 - 18: [FIAP Meetup #140: Estratégias de negócios e IA para as transformações do mercado](https://www.meetup.com/fiapmeetups/events/306105463) - _São Paulo/SP_ ![híbrido]
+- 18: [Meetup SouJava Brasília - Edição Especial (2 dias de evento)](https://forms.gle/jbvwxrzuwztq5uce8) - _Brasília/DF_ ![presencial]
 - 19: [Growth Hacking e Destaque para a sua Startup](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305185008) ![online]
 - 19, 20 e 21: [SecOps Summit 2025](https://www.secopssummit.com.br/) - _Porto Alegre/RS_ ![presencial]
 - 20: [GitTogether São Paulo](https://www.meetup.com/gittogether-brasil/events/306033353) - _São Paulo/SP_ ![presencial]
