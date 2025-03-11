@@ -2193,6 +2193,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Trinca & GDG",
+              "data": [
+                "19"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-trinca-amp-gdg/",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
               "nome": "SecOps Summit 2025",
               "data": [
                 "19",

@@ -107,6 +107,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 17: [Receitas de arquitetura para aplicativos alimentados por IA](https://aka.ms/bia/reactorsp) - _São Paulo/SP_ ![presencial]
 - 18: [FIAP Meetup #140: Estratégias de negócios e IA para as transformações do mercado](https://www.meetup.com/fiapmeetups/events/306105463) - _São Paulo/SP_ ![híbrido]
 - 19: [Growth Hacking e Destaque para a sua Startup](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305185008) ![online]
+- 19: [Trinca & GDG](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-trinca-amp-gdg/) - _Porto Alegre/RS_ ![presencial]
 - 19, 20 e 21: [SecOps Summit 2025](https://www.secopssummit.com.br/) - _Porto Alegre/RS_ ![presencial]
 - 20: [GitTogether São Paulo](https://www.meetup.com/gittogether-brasil/events/306033353) - _São Paulo/SP_ ![presencial]
 - 20: [EBAC TALKS: Da tecnologia ao comportamento: tendências e inovações para 2025](https://ebaconline.com.br/webinars/ebactalks_tecnologia_20-03-25) ![online]
