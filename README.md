@@ -123,6 +123,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 25: [FIAP Masterclass - Next Level Innovation: o futuro tech e o impacto nos negócios](https://www.meetup.com/fiapmeetups/events/306461292) - _São Paulo/SP_ ![presencial]
 - 26: [Security Girls 2025: Função, os tipos de identidade e as capacidades de autenticação do Entra](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306239922) ![online]
 - 26 e 27: [TDC Summit SP](https://thedevconf.com/tdc/2025/summit-sao-paulo/) - _São Paulo/SP_ ![presencial]
+- 27: [Platforms Talks no BB - Banco do Brasil](https://events.teams.microsoft.com/event/6a68031a-d667-4160-82b1-c4a1f54b1f65@ea0c2907-38d2-4181-8750-b0b190b60443) ![online]
 - 28: [Sem Servidor Conf 2025](https://semservidor.com.br/sem-servidor-conf/) - _Florianópolis/SC_ ![presencial]
 - 29: [1º Encontro de Mulheres em Tecnologia no Cerrado - Celebrando a diversidade fem](https://www.meetup.com/aws-user-group-brasilia/events/306265242/?slug=aws-user-group-brasilia&eventId=305233284&isFirstPublish=true) - _Brasília/DF_ ![presencial]
 <!-- MARÇO:END -->
