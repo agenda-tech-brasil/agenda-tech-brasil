@@ -2512,6 +2512,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Platform Days v2025.1",
+              "data": [
+                "16"
+              ],
+              "url": "https://www.platform.rocks",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "DP-700: Prepare-se para o dia do exame e Q&A",
               "data": [
                 "23"
