@@ -2336,6 +2336,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Qlik Meetup Recife - Tudo o que você sempre quis saber sobre o AutoML",
+              "data": [
+                "25"
+              ],
+              "url": "https://www.meetup.com/pt-br/qlik-meetup-recife/events/306683715/?eventorigin=group_upcoming_events",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Security Girls 2025: Função, os tipos de identidade e as capacidades de autenticação do Entra",
               "data": [
                 "26"
