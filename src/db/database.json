@@ -2213,6 +2213,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Meetup SouJava",
+              "data": [
+                "19"
+              ],
+              "url": "https://www.meetup.com/soujava/events/306709951/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "SecOps Summit 2025",
               "data": [
                 "19",
