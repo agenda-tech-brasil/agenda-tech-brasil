@@ -100,6 +100,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 16: [DP-700: Administração e governança do Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306397061) ![online]
 - 16: [Platform Days v2025.1](https://www.platform.rocks) - _São Paulo/SP_ ![presencial]
 - 23: [DP-700: Prepare-se para o dia do exame e Q&A](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306397097) ![online]
+- 23, 24 e 25: [ERBD 2025](https://www.sbc.org.br/evento/xx-escola-regional-de-banco-de-dados-erbd-2025/) - _Florianópolis/SC_ ![presencial]
 - 27, 28, 29 e 30: [Web Summit Rio 2025](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ ![presencial]
 <!-- ABRIL:END -->
 ### Maio

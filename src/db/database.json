@@ -2582,6 +2582,18 @@
               "tipo": "online"
             },
             {
+              "nome": "ERBD 2025",
+              "data": [
+                "23",
+                "24",
+                "25"
+              ],
+              "url": "https://www.sbc.org.br/evento/xx-escola-regional-de-banco-de-dados-erbd-2025/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Web Summit Rio 2025",
               "data": [
                 "27",
