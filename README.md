@@ -85,6 +85,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- MARÇO:END -->
 ### Abril
 <!-- ABRIL:START -->
+- 02, 01, 03 e 04: [Semana da Computação UFRJ](https://www.instagram.com/semanadacomputacaoufrj/) - _Cidade Universitária/RJ_ ![presencial]
 - 02, 03, 04 e 05: [Computer on the beach](https://computeronthebeach.com.br/) - _Itajaí/SC_ ![presencial]
 - 05: [SQL Saturday Joinville 2025](https://comunidado.com.br) - _Joinville/SC_ ![presencial]
 - 05: [Esquenta CSBC 2025](https://www.instagram.com/p/dglvicfx0wd/?utm_source=ig_web_copy_link&igsh=mzrlodbinwflza==) - _Arapiraca/AL_ ![presencial]

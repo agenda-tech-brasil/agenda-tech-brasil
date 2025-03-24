@@ -2423,6 +2423,19 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Semana da Computação UFRJ",
+              "data": [
+                "02",
+                "01",
+                "03",
+                "04"
+              ],
+              "url": "https://www.instagram.com/semanadacomputacaoufrj/",
+              "cidade": "Cidade Universitária",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Computer on the beach",
               "data": [
                 "02",
