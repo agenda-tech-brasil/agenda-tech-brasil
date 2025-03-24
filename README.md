@@ -12,7 +12,7 @@ _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontra
 
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
-<a href="#fevereiro">Fevereiro</a>・<a href="#março">Março</a>・<a href="#abril">Abril</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a>・<a href="#novembro">Novembro</a></p>
+<a href="#março">Março</a>・<a href="#abril">Abril</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a>・<a href="#novembro">Novembro</a></p>
 
 ## Contribuindo
 
@@ -22,53 +22,6 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 
 ## Eventos em 2025
 <!-- ANO2025:START -->
-### Fevereiro
-<!-- FEVEREIRO:START -->
-- 01: [VII Meetup PyData Manaus](https://www.even3.com.br/pydata-manaus/) - _Manaus/AM_ ![presencial]
-- 03: [FIAP Meetup - IA na Hiperautomação: fundamentos, estratégias e aplicações](https://www.meetup.com/fiapmeetups/events/304541695) ![online]
-- 03: [RocketSeat Start 2025 - O guia para o seu novo ano na programação](https://rocketseat.com.br/eventos/start/convite/veridiana-4585) ![online]
-- 04: [Engenharia de prompt com o GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305019531) ![online]
-- 04: [[Front @ Uber] Simulando a entrevista de Depth in Specialization de front-end](https://www.meetup.com/uber-tech-latam/events/305607351/) ![online]
-- 05: [FIAP Meetup #135 - Da IA generativa aos agentes na Google Cloud](https://www.meetup.com/fiapmeetups/events/305753577) - _São Paulo/SP_ ![híbrido]
-- 06: [Construindo uma Aplicação Web de IA com Python e Flask](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033025) ![online]
-- 06: [[Front @ Uber] Simulando a entrevista de Design & Architecture de front-end](https://www.meetup.com/uber-tech-latam/events/305607442) ![online]
-- 06: [AI-Driven Pipeline: Construindo uma Solução de Dados com Databricks, GenAI e RAG](https://www.meetup.com/engenharia-dados-academy/events/305898094) - _Brasilia/DF_ ![presencial]
-- 06: [Encontro de Fevereiro no Núcleo de Tecnologia do MTST](https://www.meetup.com/grupy-sp/events/305843538) - _São Paulo/SP_ ![presencial]
-- 07: [Excel Weekend 10](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305401582) - _São Paulo/SP_ ![híbrido]
-- 08: [Confraria ZN - Bitcoin & web3](https://www.meetup.com/confrariaweb3/events/306059999) - _São Paulo/SP_ ![presencial]
-- 11: [Crie Testes Unitários e Documentação com GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033451) ![online]
-- 11: [FIAP Meetup #136 - Além do código: IA e as escolhas de carreiras](https://www.meetup.com/fiapmeetups/events/305991139/) - _São Paulo/SP_ ![presencial]
-- 12: [Golang SP na Uber](https://www.meetup.com/golangbr/events/305810241/) - _São Paulo/SP_ ![presencial]
-- 13: [Colaboração e implantação com o GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305033642/) ![online]
-- 13: [FIAP Meetup #135 - Mulheres no mercado tech: trajetórias de inclusão e equidade](https://www.meetup.com/fiapmeetups/events/305594436/) - _São Paulo/SP_ ![híbrido]
-- 13: [Elastic & Apache Kafka® no Brasil](https://www.meetup.com/elastic-brasil-virtual/events/305768639/?eventid=305768639) ![online]
-- 14: [AI Cybersecurity Night 2025](https://www.meetup.com/pt-br/dotnet-sao-paulo/events/306010495/) - _São Paulo/SP_ ![presencial]
-- 15: [Hack In Cariri - 2025](https://www.sympla.com.br/evento/hack-in-cariri-2025/2719344) - _Juazeiro Do Norte/CE_ ![presencial]
-- 15: [GitTogether Fortaleza - Fevereiro](https://www.meetup.com/gittogether-brasil/events/306097512) - _Fortaleza/CE_ ![presencial]
-- 17: [DP-700: Implementar e gerenciar soluções analíticas no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305759596) ![online]
-- 17, 18, 19 e 20: [Rcoketseat NLW Connect](https://rocketseat.com.br/eventos/nlw/convite/veridiana-6753) ![online]
-- 18: [DP-700: Ingestão e Transformação de Dados no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305761075) ![online]
-- 18: [FIAP & PM3 - Liderança e Tecnologia: habilidades estratégicas para 2025](https://www.meetup.com/fiapmeetups/events/306121586) ![online]
-- 19: [DP-700: Monitore e Otimize suas Soluções no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305761164) ![online]
-- 19: [AGI Club #1 - Ifood Lab](https://lu.ma/si2mn42p?_bhlid=0d188da526f838daf35ae1a033ae0eca41614623&utm_campaign=o-novo-ataque-da-openai-na-automacao-do-trabalho&utm_medium=newsletter&utm_source=www.datahackers.news) - _Osasco/SP_ ![presencial]
-- 19: [FIAP & PM3 - Dados e Gamificação: estratégias para gerar valor nos negócios](https://www.meetup.com/fiapmeetups/events/306134905) ![online]
-- 19: [Meetup DevParaná Cascavel](https://www.meetup.com/developerparana/events/306141325) - _Cascavel/PR_ ![presencial]
-- 19: [Guia prático para mudar de carreira e ingressar na área de dados](https://www.meetup.com/le-wagon-sao-paulo-coding-bootcamp/events/306157468) - _São Paulo/SP_ ![presencial]
-- 20: [FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA](https://www.meetup.com/fiapmeetups/events/304567086) - _São Paulo/SP_ ![híbrido]
-- 20: [Global Power Platform Bootcamp 2025](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305920866) ![online]
-- 20: [FIAP & PM3 - IA e Dados: estratégias para antecipar clientes e gerar produção](https://www.meetup.com/fiapmeetups/events/306137804) ![online]
-- 20: [Global Power Platform Bootcamp 2025](https://aka.ms/globalpowerplatformbootcampsp2025) ![online]
-- 21: [Segurança em Ambientes Híbridos com Azure Arc e Copilot for Security](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305650975) ![online]
-- 22: [FortalSec - 2025](https://www.fortalsec.com.br/) - _Fortaleza/CE_ ![presencial]
-- 24, 25, 26 e 27: [Escola de Verão 2025 - Unimontes/IFNMG](https://2025.escoladeverao.com.br/) - _Montes Claros/MG_ ![presencial]
-- 25: [Carnaval do SouJava na Oracle](https://www.meetup.com/soujava/events/306280789/) - _São Paulo/SP_ ![híbrido]
-- 26: [FIAP - Masterclass Tech Forward 2025: inovações que estão moldando o mundo](https://www.meetup.com/fiapmeetups/events/306221222) - _São Paulo/SP_ ![presencial]
-- 26: [Pré Carnaval SouJava Campinas + Bosch!](https://www.meetup.com/soujavacampinas/events/306251209/) - _Campinas/SP_ ![presencial]
-- 27: [[Ingá.php] O poder das métricas para times de engenharia](https://www.meetup.com/developerparana/events/306254879) - _Maringá/PR_ ![presencial]
-- 27: [Mulheres em IA no Microsoft Reactor](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305899912) ![online]
-- 27: [FIAP #140 - XP Inc: a importância dos profissionais tech no mercado financeiro](https://www.meetup.com/fiapmeetups/events/306262763) - _São Paulo/SP_ ![presencial]
-- 27: [Flutter + Test: Como grandes empresas testam seus apps](https://www.meetup.com/fluttercwb/events/306033204) ![online]
-<!-- FEVEREIRO:END -->
 ### Março
 <!-- MARÇO:START -->
 - 06: [FIAP Meetup #140 - Tech-Driven Marketing: o novo jogo.](https://www.meetup.com/fiapmeetups/events/306307881) ![online]
@@ -133,7 +86,6 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ### Abril
 <!-- ABRIL:START -->
 - 02, 03, 04 e 05: [Computer on the beach](https://computeronthebeach.com.br/) - _Itajaí/SC_ ![presencial]
-- 05: [Esquenta CSBC 2025](https://www.instagram.com/p/DGLVicFx0wd/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) - _Arapiraca/AL_ ![presencial]
 - 05: [SQL Saturday Joinville 2025](https://comunidado.com.br) - _Joinville/SC_ ![presencial]
 - 07: [DP-700: Introdução à engenharia de dados no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396703) ![online]
 - 08: [DP-700: Ingestão e gerenciamento de dados no Fabric com Data Factory e Notebooks](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396836) ![online]

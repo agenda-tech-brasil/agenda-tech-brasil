@@ -1376,7 +1376,7 @@
         },
         {
           "mes": "fevereiro",
-          "arquivado": false,
+          "arquivado": true,
           "eventos": [
             {
               "nome": "VII Meetup PyData Manaus",
