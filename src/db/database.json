@@ -1136,7 +1136,7 @@
     },
     {
       "ano": 2025,
-      "arquivado": false,
+      "arquivado": true,
       "meses": [
         {
           "mes": "janeiro",
