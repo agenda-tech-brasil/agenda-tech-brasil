@@ -86,6 +86,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ### Abril
 <!-- ABRIL:START -->
 - 02, 03, 04 e 05: [Computer on the beach](https://computeronthebeach.com.br/) - _Itajaí/SC_ ![presencial]
+- 04: [Mulheres na Tecnologia - Comunidade Mana Jobs A.I](https://developer.microsoft.com/en-us/reactor/events/25519/?wt.mc_id=meetup_25519_webpage_reactor) - _São Paulo/SP_ ![híbrido]
 - 05: [SQL Saturday Joinville 2025](https://comunidado.com.br) - _Joinville/SC_ ![presencial]
 - 05: [Esquenta CSBC 2025](https://www.instagram.com/p/dglvicfx0wd/?utm_source=ig_web_copy_link&igsh=mzrlodbinwflza==) - _Arapiraca/AL_ ![presencial]
 - 07: [DP-700: Introdução à engenharia de dados no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396703) ![online]

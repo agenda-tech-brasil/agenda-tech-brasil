@@ -2436,6 +2436,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Mulheres na Tecnologia - Comunidade Mana Jobs A.I",
+              "data": [
+                "04"
+              ],
+              "url": "https://developer.microsoft.com/en-us/reactor/events/25519/?wt.mc_id=meetup_25519_webpage_reactor",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "SQL Saturday Joinville 2025",
               "data": [
                 "05"
