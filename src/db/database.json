@@ -2423,6 +2423,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Microsoft Reactor: Azure Web App",
+              "data": [
+                "01"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/306650979",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Computer on the beach",
               "data": [
                 "02",
