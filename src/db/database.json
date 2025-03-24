@@ -2423,6 +2423,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Microsoft Reactor: GitHub4Women - 2ª edição",
+              "data": [
+                "01"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/306692200/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Computer on the beach",
               "data": [
                 "02",
