@@ -2376,6 +2376,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Golang SP na SumUp - #94",
+              "data": [
+                "26"
+              ],
+              "url": "https://www.meetup.com/golangbr/events/306322001",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC Summit SP",
               "data": [
                 "26",
