@@ -2376,6 +2376,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Frontend Maringá na Accion",
+              "data": [
+                "26"
+              ],
+              "url": "https://www.meetup.com/developerparana/events/306743613",
+              "cidade": "Maringá",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC Summit SP",
               "data": [
                 "26",
