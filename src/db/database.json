@@ -2730,6 +2730,16 @@
               "tipo": "híbrido"
             },
             {
+              "nome": "agenda-tech-brasil",
+              "data": [
+                "12"
+              ],
+              "url": "https://github.com/agenda-tech-brasil/agenda-tech-brasil/issues",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Python Nordeste 2025",
               "data": [
                 "20",
