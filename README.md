@@ -78,6 +78,8 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 25: [FIAP Masterclass - Next Level Innovation: o futuro tech e o impacto nos negócios](https://www.meetup.com/fiapmeetups/events/306461292) - _São Paulo/SP_ ![presencial]
 - 25: [Qlik Meetup Recife - Tudo o que você sempre quis saber sobre o AutoML](https://www.meetup.com/pt-br/qlik-meetup-recife/events/306683715/?eventorigin=group_upcoming_events) ![online]
 - 26: [Security Girls 2025: Função, os tipos de identidade e as capacidades de autenticação do Entra](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306239922) ![online]
+- 26: [Frontend Maringá na Accion](https://www.meetup.com/developerparana/events/306743613) - _Maringá/PR_ ![presencial]
+- 26: [Golang SP na SumUp - #94](https://www.meetup.com/golangbr/events/306322001) - _São Paulo/SP_ ![presencial]
 - 26 e 27: [TDC Summit SP](https://thedevconf.com/tdc/2025/summit-sao-paulo/) - _São Paulo/SP_ ![presencial]
 - 27: [Platforms Talks no BB - Banco do Brasil](https://events.teams.microsoft.com/event/6a68031a-d667-4160-82b1-c4a1f54b1f65@ea0c2907-38d2-4181-8750-b0b190b60443) ![online]
 - 28: [Sem Servidor Conf 2025](https://semservidor.com.br/sem-servidor-conf/) - _Florianópolis/SC_ ![presencial]
@@ -85,6 +87,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- MARÇO:END -->
 ### Abril
 <!-- ABRIL:START -->
+- 01: [Microsoft Reactor: Azure Web App](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306650979) ![online]
 - 02, 03, 04 e 05: [Computer on the beach](https://computeronthebeach.com.br/) - _Itajaí/SC_ ![presencial]
 - 05: [SQL Saturday Joinville 2025](https://comunidado.com.br) - _Joinville/SC_ ![presencial]
 - 05: [Esquenta CSBC 2025](https://www.instagram.com/p/dglvicfx0wd/?utm_source=ig_web_copy_link&igsh=mzrlodbinwflza==) - _Arapiraca/AL_ ![presencial]
@@ -92,6 +95,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 08: [DP-700: Ingestão e gerenciamento de dados no Fabric com Data Factory e Notebooks](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396836) ![online]
 - 08: [AWS Innovate América Latina](https://aws.amazon.com/pt/events/aws-innovate/latam/generative-ai-data/) ![online]
 - 08: [Microsoft Reactor: Construindo aplicativos com o modo de agente do GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306668977) ![online]
+- 08: [Microsoft Reactor: AI Agents Hackathon Kickoff](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306692200) ![online]
 - 08, 09, 10 e 11: [Agile Trends 2025 - Inteligência Artificial: agilidade e transformação](https://agiletrendsbr.com/) - _São Paulo/SP_ ![presencial]
 - 09: [DP-700: Implementar inteligência em tempo real no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396896) ![online]
 - 09, 10 e 11: [II Simpósio Brasileiro de Computação na Educação Básica (SBC-EB 2025)](https://www.educompbrasil.org/simposio/2025/sbc-eb) - _Juiz De Fora/MG_ ![presencial]
@@ -101,6 +105,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 16: [DP-700: Administração e governança do Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306397061) ![online]
 - 16: [Platform Days v2025.1](https://www.platform.rocks) - _São Paulo/SP_ ![presencial]
 - 23: [DP-700: Prepare-se para o dia do exame e Q&A](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306397097) ![online]
+- 23, 24 e 25: [ERBD 2025](https://www.sbc.org.br/evento/xx-escola-regional-de-banco-de-dados-erbd-2025/) - _Florianópolis/SC_ ![presencial]
 - 27, 28, 29 e 30: [Web Summit Rio 2025](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ ![presencial]
 <!-- ABRIL:END -->
 ### Maio
@@ -109,8 +114,10 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 05 e 06: [GopherCon Brasil 2025](https://www.blueticket.com.br/evento/35079/gophercon-brasil-2025) - _Florianópolis/SC_ ![presencial]
 - 17 e 18: [BSidesSP - 2025](https://securitybsides.com.br/) - _São Paulo/SP_ ![presencial]
 - 17 e 18: [Codecon Universe](https://codecon.dev/universe) - _Joinville/SC_ ![presencial]
+- 17 e 18: [Formação AI Services, OpenAI e Data Science no Azure - Online](https://www.meetup.com/azureacademy/events/306774998) ![online]
 - 19, 20, 21, 22 e 23: [XLIII Simpósio Brasileiro de Redes de Computadores - SBRC 2025](https://sbrc.sbc.org.br/2025) - _Natal/RN_ ![presencial]
 - 24: [PGDay Blumenau 2025](https://pgdayblumenau.com.br/) - _Blumenau/SC_ ![presencial]
+- 24 e 25: [Formação Azure Specialist AZ-900 AZ-104 AZ-305](https://www.meetup.com/azureacademy/events/306775008) ![online]
 - 29: [SIRENA Conference - 2025](https://www.instagram.com/sirena.conference/) - _São Paulo/SP_ ![presencial]
 - 30 e 31: [PHP Velho Oeste 2025](https://phpvelhoeste.com.br/) - _Chapecó/SC_ ![presencial]
 - 31: [Tech Hub Conf JF](https://techhubjf.org/conf) - _Juiz De Fora/MG_ ![presencial]
@@ -118,6 +125,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ### Junho
 <!-- JUNHO:START -->
 - 07: [Hacking Na Web Day - Belo Horizonte - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Belo Horizonte/MG_ ![presencial]
+- 07: [Azure Synapse Analytics, Fabric e Data Factory Day - ETL e BIG Data](https://www.meetup.com/azureacademy/events/306775025) ![online]
 - 11, 12 e 13: [TDC Floripa](https://thedevconf.com/tdc/2025/florianopolis/) - _Florianópolis/SC_ ![híbrido]
 - 20, 21 e 22: [Python Nordeste 2025](https://2025.pythonnordeste.org/) - _Teresina/PI_ ![presencial]
 <!-- JUNHO:END -->
