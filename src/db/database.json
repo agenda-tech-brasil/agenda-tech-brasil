@@ -2875,6 +2875,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Teste",
+              "data": [
+                "07"
+              ],
+              "url": "teste.com",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Codecon Summit",
               "data": [
                 "18",

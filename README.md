@@ -134,6 +134,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- JUNHO:END -->
 ### Julho
 <!-- JULHO:START -->
+- 07: [Teste](teste.com) ![online]
 - 18 e 19: [Codecon Summit](https://codecon.dev/summit) - _Curitiba/PR_ ![presencial]
 - 18 e 19: [Codecon Summit 25](https://eventos.codecon.dev/codecon-summit-25/) - _Curitiba/PR_ ![presencial]
 - 19: [CajuSec](https://www.cajusec.com.br) - _Aracaju/SE_ ![presencial]
