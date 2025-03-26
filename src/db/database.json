@@ -2376,6 +2376,26 @@
               "tipo": "online"
             },
             {
+              "nome": "Frontend Maringá na Accion",
+              "data": [
+                "26"
+              ],
+              "url": "https://www.meetup.com/developerparana/events/306743613",
+              "cidade": "Maringá",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Golang SP na SumUp - #94",
+              "data": [
+                "26"
+              ],
+              "url": "https://www.meetup.com/golangbr/events/306322001",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC Summit SP",
               "data": [
                 "26",
@@ -2423,6 +2443,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Microsoft Reactor: Azure Web App",
+              "data": [
+                "01"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/306650979",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Semana da Computação UFRJ",
               "data": [
                 "01",
@@ -2447,6 +2477,16 @@
               "cidade": "Itajaí",
               "uf": "SC",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Mulheres na Tecnologia - Comunidade Mana Jobs A.I",
+              "data": [
+                "04"
+              ],
+              "url": "https://developer.microsoft.com/en-us/reactor/events/25519/?wt.mc_id=meetup_25519_webpage_reactor",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
             },
             {
               "nome": "SQL Saturday Joinville 2025",
@@ -2499,6 +2539,26 @@
               "tipo": "online"
             },
             {
+              "nome": "Microsoft Reactor: Construindo aplicativos com o modo de agente do GitHub Copilot",
+              "data": [
+                "08"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/306668977",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Microsoft Reactor: AI Agents Hackathon Kickoff",
+              "data": [
+                "08"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/306692200",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Agile Trends 2025 - Inteligência Artificial: agilidade e transformação",
               "data": [
                 "08",
@@ -2543,6 +2603,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Microsoft Reactor: Back-End Development Night 2025",
+              "data": [
+                "11"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/306897959",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
             },
             {
               "nome": "Hacking Na Web Day - Recife - 2025",
@@ -2593,6 +2663,18 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
+            },
+            {
+              "nome": "ERBD 2025",
+              "data": [
+                "23",
+                "24",
+                "25"
+              ],
+              "url": "https://www.sbc.org.br/evento/xx-escola-regional-de-banco-de-dados-erbd-2025/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
             },
             {
               "nome": "Web Summit Rio 2025",
@@ -2660,6 +2742,17 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Formação AI Services, OpenAI e Data Science no Azure - Online",
+              "data": [
+                "17",
+                "18"
+              ],
+              "url": "https://www.meetup.com/azureacademy/events/306774998",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "XLIII Simpósio Brasileiro de Redes de Computadores - SBRC 2025",
               "data": [
                 "19",
@@ -2682,6 +2775,17 @@
               "cidade": "Blumenau",
               "uf": "SC",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Formação Azure Specialist AZ-900 AZ-104 AZ-305",
+              "data": [
+                "24",
+                "25"
+              ],
+              "url": "https://www.meetup.com/azureacademy/events/306775008",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             },
             {
               "nome": "SIRENA Conference - 2025",
@@ -2729,6 +2833,16 @@
               "cidade": "Belo Horizonte",
               "uf": "MG",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Azure Synapse Analytics, Fabric e Data Factory Day - ETL e BIG Data",
+              "data": [
+                "07"
+              ],
+              "url": "https://www.meetup.com/azureacademy/events/306775025",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             },
             {
               "nome": "TDC Floripa",
