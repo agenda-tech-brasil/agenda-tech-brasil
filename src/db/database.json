@@ -3036,6 +3036,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Teste",
+              "data": [
+                "15"
+              ],
+              "url": "http://teste.com",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Python Brasil 2025",
               "data": [
                 "21",
