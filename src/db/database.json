@@ -3100,6 +3100,22 @@
               "tipo": "híbrido"
             }
           ]
+        },
+        {
+          "mes": "dezembro",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Teste",
+              "data": [
+                "09"
+              ],
+              "url": "http://teste.com",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            }
+          ]
         }
       ]
     }
