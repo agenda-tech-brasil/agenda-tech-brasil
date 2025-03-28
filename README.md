@@ -94,6 +94,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 04: [Mulheres na Tecnologia - Comunidade Mana Jobs A.I](https://developer.microsoft.com/en-us/reactor/events/25519/?wt.mc_id=meetup_25519_webpage_reactor) - _São Paulo/SP_ ![híbrido]
 - 05: [SQL Saturday Joinville 2025](https://comunidado.com.br) - _Joinville/SC_ ![presencial]
 - 05: [Esquenta CSBC 2025](https://www.instagram.com/p/dglvicfx0wd/?utm_source=ig_web_copy_link&igsh=mzrlodbinwflza==) - _Arapiraca/AL_ ![presencial]
+- 05: [IWD Santos 2025](https://www.sympla.com.br/evento/iwd-santos-2025/2860201) - _Santos/SP_ ![presencial]
 - 07: [DP-700: Introdução à engenharia de dados no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396703) ![online]
 - 08: [DP-700: Ingestão e gerenciamento de dados no Fabric com Data Factory e Notebooks](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396836) ![online]
 - 08: [AWS Innovate América Latina](https://aws.amazon.com/pt/events/aws-innovate/latam/generative-ai-data/) ![online]
