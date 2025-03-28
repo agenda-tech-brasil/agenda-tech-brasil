@@ -2519,6 +2519,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "IWD Santos 2025",
+              "data": [
+                "05"
+              ],
+              "url": "https://www.sympla.com.br/evento/iwd-santos-2025/2860201",
+              "cidade": "Santos",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "DP-700: Introdução à engenharia de dados no Microsoft Fabric",
               "data": [
                 "07"
