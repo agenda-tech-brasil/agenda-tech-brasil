@@ -12,7 +12,7 @@ _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontra
 
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
-<a href="#março">Março</a>・<a href="#abril">Abril</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a>・<a href="#novembro">Novembro</a></p>
+<a href="#abril">Abril</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a>・<a href="#novembro">Novembro</a></p>
 
 ## Contribuindo
 
@@ -22,70 +22,6 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 
 ## Eventos em 2025
 <!-- ANO2025:START -->
-### Março
-<!-- MARÇO:START -->
-- 06: [FIAP Meetup #140 - Tech-Driven Marketing: o novo jogo.](https://www.meetup.com/fiapmeetups/events/306307881) ![online]
-- 07: [Azure Talks - Back-End - APIs, Serverless, dicas, problemas comuns](https://www.meetup.com/azure-talks/events/306334078) ![online]
-- 10: [Muito Além do SaaS: Arquiteturas Multi-Agentes e o Futuro do Agent-as-a-Service](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306178578) ![online]
-- 10: [DevPR na Estrada: Pato Branco](https://www.sympla.com.br/evento/devpr-na-estrada-pato-branco/2830576?utm_medium=social&utm_source=linktree&utm_campaign=pato+branco+-+10%2f03&referrer=linktr.ee) - _Pato Branco/PR_ ![presencial]
-- 10: [DevPR na Estrada: Cascavel](https://www.sympla.com.br/evento/devpr-na-estrada-cascavel/2830476?utm_medium=social&utm_source=linktree&utm_campaign=cascavel+-+10%2f03&referrer=linktr.ee) - _Cascavel/PR_ ![presencial]
-- 10: [O Movimento das Mulheres em Tech - comunidades](https://www.sympla.com.br/evento-online/o-movimento-das-mulheres-em-tech/2857987) ![online]
-- 11: [DevPR na Estrada: Ivaiporã](https://www.sympla.com.br/evento/devpr-na-estrada-ivaipora/2836417) - _Ivaiporã/PR_ ![presencial]
-- 11: [DevPR na Estrada: Foz do Iguaçu](https://www.sympla.com.br/evento/devpr-na-estrada-foz-do-iguacu/2832078) - _Foz Do Iguaçu/PR_ ![presencial]
-- 11: [DevPR na Estrada: Guarapuava](https://www.sympla.com.br/evento/devpr-na-estrada-guarapuava/2830564) - _Guarapuava/PR_ ![presencial]
-- 11: [DevPR na Estrada: Dois Vizinhos](https://www.sympla.com.br/evento/devpr-na-estrada-dois-vizinhos/2830579) - _Dois Vizinhos/PR_ ![presencial]
-- 11: [Como conquistar minha independência financeira como Analista de Dados?](https://ebaconline.com.br/webinars/tech-webinar-2025-03-11) ![online]
-- 11: [Visualização de dados - Análise Exploratória (Parte 2) - Clube do livro](https://www.meetup.com/rladies-sao-paulo/events/306533503) ![online]
-- 11, 12 e 13: [Semana da Liderança em Tecnologia](https://escolaforja.com.br/lp/semana-lideranca-tech) ![online]
-- 12: [DP-700: Prepare-se para o dia do exame e Q&A](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305761207) ![online]
-- 12: [DevPR na Estrada: Francisco Beltrão](https://www.sympla.com.br/evento/devpr-na-estrada-francisco-beltrao/2830575) - _Francisco Beltrão/PR_ ![presencial]
-- 12: [DevPR na Estrada: Toledo](https://www.sympla.com.br/evento/devpr-na-estrada-toledo/2830488) - _Toledo/PR_ ![presencial]
-- 12: [DevPR na Estrada: Curitiba](https://www.sympla.com.br/evento/devpr-na-estrada-curitiba/2830491) - _Curitiba/PR_ ![presencial]
-- 12: [DevPR na Estrada: Maringá](https://www.sympla.com.br/evento/devpr-na-estrada-maringa/2830417) - _Maringá/PR_ ![presencial]
-- 12: [DevPR na Estrada: Cianorte](https://www.sympla.com.br/evento/devpr-na-estrada-cianorte/2830574) - _Cianorte/PR_ ![presencial]
-- 12: [FinOps Foundation](https://events.finops.org/event/sao-paulo-finops-meetup-mar/) - _São Paulo/SP_ ![presencial]
-- 13: [DevPR na Estrada: Umuarama](https://www.sympla.com.br/evento/devpr-na-estrada-umuarama/2830573) - _Umuarama/PR_ ![presencial]
-- 13: [DevPR na Estrada: Ponta Grossa](https://www.sympla.com.br/evento/devpr-na-estrada-ponta-grossa/2830493) - _Ponta Grossa/PR_ ![presencial]
-- 13: [DevPR na Estrada: Londrina](https://www.sympla.com.br/evento/devpr-na-estrada-gdg-londrina-meetup-londrina/2830481) - _Londrina/PR_ ![presencial]
-- 13: [Pylestras de Março das Pyladies + Grupy @ Obramax](https://www.meetup.com/grupy-sp/events/306330610/) - _São Paulo/SP_ ![presencial]
-- 14: [São Paulo | Global AI Bootcamp 2025](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306171333) - _São Paulo/SP_ ![presencial]
-- 14: [Global AI Bootcamp 2025](https://aka.ms/globalaibootcampsp2025) ![online]
-- 14: [DevPR na Estrada: Campo Mourão](https://www.sympla.com.br/evento/devpr-na-estrada-campo-mourao/2830570) - _Campo Mourão/PR_ ![presencial]
-- 15: [Hacking Na Web Day - Brasília - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Brasília/DF_ ![presencial]
-- 15: [Mulher Tech Sim Senhor](https://www.mulhertechsimsr.com.br/) - _João Pessoa/PB_ ![presencial]
-- 15: [DevOps Days Goiânia 2025](https://devopsdays.org/events/2025-goiania/welcome/) - _Goiânia/GO_ ![presencial]
-- 15: [Mulheres e Inteligência Artificial](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306226593) ![online]
-- 15: [International Women's Day Belo Horizonte](https://www.sympla.com.br/evento/international-women-s-day-belo-horizonte/2815712) - _Belo Horizonte/MG_ ![híbrido]
-- 15: [DevOps Saturday: GitHub, Containers, Carreira, Certificações](https://www.meetup.com/azure-talks/events/306571075) - _São Paulo/SP_ ![presencial]
-- 17: [Receitas de arquitetura para aplicativos alimentados por IA](https://aka.ms/bia/reactorsp) - _São Paulo/SP_ ![presencial]
-- 18: [FIAP Meetup #140: Estratégias de negócios e IA para as transformações do mercado](https://www.meetup.com/fiapmeetups/events/306105463) - _São Paulo/SP_ ![híbrido]
-- 18: [Meetup SouJava Brasília - Edição Especial (2 dias de evento)](https://forms.gle/jbvwxrzuwztq5uce8) - _Brasília/DF_ ![presencial]
-- 19: [Growth Hacking e Destaque para a sua Startup](https://www.meetup.com/microsoft-reactor-sao-paulo/events/305185008) ![online]
-- 19: [Trinca & GDG](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-trinca-amp-gdg/) - _Porto Alegre/RS_ ![presencial]
-- 19: [Café Quântico: Introdução às Tecnologias Quânticas - O Futuro está chegando - Quantum Brasil](https://www.linkedin.com/posts/maria-de-fatima-nunes-alves_tecnologiaquaesntica-computaaexaetoquaesntica-activity-7305256512254312448-fiej?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=acoaactkveebuje_e33pdtwj5ejxplty_9cvfgq) ![online]
-- 19: [Meetup SouJava](https://www.meetup.com/soujava/events/306709951/) - _São Paulo/SP_ ![híbrido]
-- 19, 20 e 21: [SecOps Summit 2025](https://www.secopssummit.com.br/) - _Porto Alegre/RS_ ![presencial]
-- 20: [GitTogether São Paulo](https://www.meetup.com/gittogether-brasil/events/306033353) - _São Paulo/SP_ ![presencial]
-- 20: [EBAC TALKS: Da tecnologia ao comportamento: tendências e inovações para 2025](https://ebaconline.com.br/webinars/ebactalks_tecnologia_20-03-25) ![online]
-- 20: [[Clojure BR] Como eu me preparei para chegar bem no Nubank com Alberto Souza](https://www.meetup.com/clojure-br/events/306442926/) ![online]
-- 20 e 21: [Data World Xperience 2025 - Explore o futuro dos dados além da IA](https://dwxperience.com.br/) - _Florianópolis/SC_ ![presencial]
-- 21: [Desenvolvimento de Agentes Inteligentes com AI, C#, RAG, Devprime e Azure OpenAI](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306159218) - _São Paulo/SP_ ![híbrido]
-- 22: [BSidesRJ - 2025](https://bsidesrj.com.br/) - _Rio De Janeiro/RJ_ ![presencial]
-- 22: [KCD Rio de Janeiro 2025 (Cloud)](https://community.cncf.io/kcd-brasil/) - _Rio De Janeiro/RJ_ ![presencial]
-- 22: [Internacional Women’s Day Recife 2025](https://www.instagram.com/wtmrecife/) - _Recife/PE_ ![presencial]
-- 22: [International Women’s Day Curitiba 2025](https://www.meetup.com/pt-br/women-techmakers-curitiba/events/305753276/) - _Curitiba/PR_ ![presencial]
-- 24: [Microsoft Reactor: Descrever conceitos de segurança, conformidade e identidade](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306160766) ![online]
-- 25: [FIAP Masterclass - Next Level Innovation: o futuro tech e o impacto nos negócios](https://www.meetup.com/fiapmeetups/events/306461292) - _São Paulo/SP_ ![presencial]
-- 25: [Qlik Meetup Recife - Tudo o que você sempre quis saber sobre o AutoML](https://www.meetup.com/pt-br/qlik-meetup-recife/events/306683715/?eventorigin=group_upcoming_events) ![online]
-- 26: [Security Girls 2025: Função, os tipos de identidade e as capacidades de autenticação do Entra](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306239922) ![online]
-- 26: [Frontend Maringá na Accion](https://www.meetup.com/developerparana/events/306743613) - _Maringá/PR_ ![presencial]
-- 26: [Golang SP na SumUp - #94](https://www.meetup.com/golangbr/events/306322001) - _São Paulo/SP_ ![presencial]
-- 26 e 27: [TDC Summit SP](https://thedevconf.com/tdc/2025/summit-sao-paulo/) - _São Paulo/SP_ ![presencial]
-- 27: [Platforms Talks no BB - Banco do Brasil](https://events.teams.microsoft.com/event/6a68031a-d667-4160-82b1-c4a1f54b1f65@ea0c2907-38d2-4181-8750-b0b190b60443) ![online]
-- 27: [Leading Tech Sessions: Aplicando DORA Metrics e DevEx na gestão de times](https://lu.ma/m0d534ey) ![online]
-- 28: [Sem Servidor Conf 2025](https://semservidor.com.br/sem-servidor-conf/) - _Florianópolis/SC_ ![presencial]
-- 29: [1º Encontro de Mulheres em Tecnologia no Cerrado - Celebrando a diversidade fem](https://www.meetup.com/aws-user-group-brasilia/events/306265242/?slug=aws-user-group-brasilia&eventId=305233284&isFirstPublish=true) - _Brasília/DF_ ![presencial]
-<!-- MARÇO:END -->
 ### Abril
 <!-- ABRIL:START -->
 - 01: [Microsoft Reactor: Azure Web App](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306650979) ![online]

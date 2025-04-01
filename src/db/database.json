@@ -1828,7 +1828,7 @@
         },
         {
           "mes": "março",
-          "arquivado": false,
+          "arquivado": true,
           "eventos": [
             {
               "nome": "FIAP Meetup #140 - Tech-Driven Marketing: o novo jogo.",
@@ -2642,7 +2642,7 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
-             },
+            },
             {
               "nome": "Uber Tech Latam: Ride to Code - Backend: Last Call",
               "data": [
@@ -2652,7 +2652,6 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
-
             },
             {
               "nome": "IAM Tech Day São Paulo 2025",
