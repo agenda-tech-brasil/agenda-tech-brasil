@@ -55,6 +55,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 23: [DP-700: Prepare-se para o dia do exame e Q&A](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306397097) ![online]
 - 23, 24 e 25: [ERBD 2025](https://www.sbc.org.br/evento/xx-escola-regional-de-banco-de-dados-erbd-2025/) - _Florianópolis/SC_ ![presencial]
 - 24: [Golang SP e Firstbase no Reactor (inscrições a partir de 10/04)](https://www.meetup.com/golangbr/events/306916672) - _São Paulo/SP_ ![presencial]
+- 24: [FIAP + Alura + PM3: Carreiras em T no mercado de tecnologia](https://www.meetup.com/fiapmeetups/events/307085823) - _São Paulo/SP_ ![presencial]
 - 27, 28, 29 e 30: [Web Summit Rio 2025](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ ![presencial]
 <!-- ABRIL:END -->
 ### Maio
