@@ -46,6 +46,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 10: [FIAP Meetup #146: Tech Beauty: Inovação, tendências e estratégia](https://www.meetup.com/fiapmeetups/events/306897553) - _São Paulo/SP_ ![presencial]
 - 10: [Uber Tech Latam: Ride to Code - Backend: Last Call](https://www.meetup.com/uber-tech-latam/events/306920149) ![online]
 - 10: [2o Meetup DevParaná Cascavel](https://www.meetup.com/developerparana/events/307051115) - _São Paulo/SP_ ![presencial]
+- 10: [FIAP Meetup POA - Mulheres na Tecnologia: Conectando, Inspirando e Transformando](https://www.meetup.com/fiapmeetups/events/307072677) - _Porto Alegre/RS_ ![presencial]
 - 10 e 11: [IAM Tech Day São Paulo 2025](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial) - _São Paulo/SP_ ![presencial]
 - 11: [Microsoft Reactor: Back-End Development Night 2025](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306897959) - _São Paulo/SP_ ![híbrido]
 - 12: [Hacking Na Web Day - Recife - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Recife/PE_ ![presencial]
