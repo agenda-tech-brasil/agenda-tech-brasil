@@ -90,7 +90,7 @@ def get_event_from_env():
         "mes": os.getenv("event_month", "").strip().lower(),
         "evento": {
             "nome": os.getenv("event_name", "").strip(),
-            "data": os.getenv("event_day", "").strip().replace(" ", "").split(","),
+            "data": sorted(os.getenv("event_day", "").strip().replace(" ", "").split(",")),
             "url": os.getenv("event_url", "").strip(),
             "cidade": os.getenv("event_city", "").strip().title(),
             "uf": os.getenv("event_state", "").strip(),
