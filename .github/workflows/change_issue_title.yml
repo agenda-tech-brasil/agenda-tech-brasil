@@ -5,6 +5,7 @@ on:
 
 jobs:
   change-issue-name:
+    if: contains(github.event.issue.labels.*.name, 'template')
     runs-on: ubuntu-latest
     permissions:
       issues: write
