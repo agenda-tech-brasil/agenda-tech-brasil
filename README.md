@@ -47,15 +47,18 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 10: [Uber Tech Latam: Ride to Code - Backend: Last Call](https://www.meetup.com/uber-tech-latam/events/306920149) ![online]
 - 10: [2o Meetup DevParaná Cascavel](https://www.meetup.com/developerparana/events/307051115) - _São Paulo/SP_ ![presencial]
 - 10: [FIAP Meetup POA - Mulheres na Tecnologia: Conectando, Inspirando e Transformando](https://www.meetup.com/fiapmeetups/events/307072677) - _Porto Alegre/RS_ ![presencial]
+- 10: [Python: Pylestras de Abril das Pyladies + Grupy @ Núcleo de Tecnologia do MTST](https://www.meetup.com/grupy-sp/events/307053175/) - _São Paulo/SP_ ![presencial]
 - 10 e 11: [IAM Tech Day São Paulo 2025](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial) - _São Paulo/SP_ ![presencial]
 - 11: [Microsoft Reactor: Back-End Development Night 2025](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306897959) - _São Paulo/SP_ ![híbrido]
 - 12: [Hacking Na Web Day - Recife - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Recife/PE_ ![presencial]
 - 14: [DP-700: Data Warehousing no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306397019) ![online]
 - 16: [DP-700: Administração e governança do Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306397061) ![online]
 - 16: [Platform Days v2025.1](https://www.platform.rocks) - _São Paulo/SP_ ![presencial]
+- 18: [GitHub: Open Source Friday Brasil, com Bruno Rocha, mantenedor do Marmite](https://www.meetup.com/gittogether-brasil/events/307113298) ![online]
 - 23: [DP-700: Prepare-se para o dia do exame e Q&A](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306397097) ![online]
 - 23, 24 e 25: [ERBD 2025](https://www.sbc.org.br/evento/xx-escola-regional-de-banco-de-dados-erbd-2025/) - _Florianópolis/SC_ ![presencial]
 - 24: [Golang SP e Firstbase no Reactor (inscrições a partir de 10/04)](https://www.meetup.com/golangbr/events/306916672) - _São Paulo/SP_ ![presencial]
+- 24: [FIAP + Alura + PM3: Carreiras em T no mercado de tecnologia](https://www.meetup.com/fiapmeetups/events/307085823) - _São Paulo/SP_ ![presencial]
 - 27, 28, 29 e 30: [Web Summit Rio 2025](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ ![presencial]
 <!-- ABRIL:END -->
 ### Maio

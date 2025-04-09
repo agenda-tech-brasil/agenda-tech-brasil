@@ -4190,6 +4190,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Python: Pylestras de Abril das Pyladies + Grupy @ Núcleo de Tecnologia do MTST",
+              "data": [
+                "10"
+              ],
+              "url": "https://www.meetup.com/grupy-sp/events/307053175/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "IAM Tech Day São Paulo 2025",
               "data": [
                 "10",
@@ -4251,6 +4261,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "GitHub: Open Source Friday Brasil, com Bruno Rocha, mantenedor do Marmite",
+              "data": [
+                "18"
+              ],
+              "url": "https://www.meetup.com/gittogether-brasil/events/307113298",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "DP-700: Prepare-se para o dia do exame e Q&A",
               "data": [
                 "23"
@@ -4278,6 +4298,16 @@
                 "24"
               ],
               "url": "https://www.meetup.com/golangbr/events/306916672",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "FIAP + Alura + PM3: Carreiras em T no mercado de tecnologia",
+              "data": [
+                "24"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/307085823",
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
