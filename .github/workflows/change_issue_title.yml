@@ -18,7 +18,8 @@ jobs:
           # Extraindo o nome do evento do corpo da issue
           event_info="${{ github.event.issue.body }}"
 
-          LABELS="${{ toJson(github.event.issue.labels) }}"
+          # Get only the label names and join them
+          LABELS="${{ join(github.event.issue.labels.*.name, ',') }}"
 
           get_event_value() {
             local event_info="$1"
@@ -29,7 +30,7 @@ jobs:
           event_name=$(get_event_value "$event_info" 'Nome do(a) Evento/Agenda')
 
           if [ -z "$event_name" ]; then
-            if ! echo "$LABELS" | grep -q 'name: arquivar'; then
+            if ! echo "$LABELS" | grep -q 'arquivar'; then
               echo "Nome do evento não encontrado no corpo da issue."
               exit 1
             fi 
@@ -37,7 +38,7 @@ jobs:
           
           new_title="Agenda/Evento: $event_name"
 
-          if echo "$LABELS" | grep -q 'name: arquivar'; then
+          if echo "$LABELS" | grep -q 'arquivar'; then
               archive_month=$(get_event_value "$event_info" 'Mês para ser Arquivado')
               archive_year=$(get_event_value "$event_info" 'Ano do Mês a ser Arquivado ou Ano a ser arquivado')
 
