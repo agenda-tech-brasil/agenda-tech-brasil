@@ -1,7 +1,7 @@
 name: "📦 Arquivar Mês/Ano"
 description: Utilize essa opção para arquivar mês do evento
 title: "(Atenção: O Título da Issue é gerado automaticamente. Sendo assim, não precisa definir um título manualmente aqui.)"
-labels: ["arquivar"]
+labels: ["arquivar", "template"]
 body:
   - type: dropdown
     id: event_year

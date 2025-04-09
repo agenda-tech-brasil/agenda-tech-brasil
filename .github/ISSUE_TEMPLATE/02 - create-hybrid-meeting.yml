@@ -1,7 +1,7 @@
 name: "🧡 Criar Evento/Agenda - Híbrido"
 description: Utilize essa opção para adicionar um novo evento/agenda híbrido!
 title: "(Atenção: O Título da Issue é gerado automaticamente. Sendo assim, não precisa definir um título manualmente aqui.)"
-labels: ["cadastrar", "híbrido"]
+labels: ["cadastrar", "híbrido", "template"]
 body:
   - type: markdown
     attributes:

@@ -1,7 +1,7 @@
 name: "💜 Criar Evento/Agenda - Online"
 description: Utilize essa opção para adicionar um novo evento/agenda online!
 title: "(Atenção: O Título da Issue é gerado automaticamente. Sendo assim, não precisa definir um título manualmente aqui.)"
-labels: ["cadastrar", "online"]
+labels: ["cadastrar", "online", "template"]
 body:
   - type: markdown
     attributes:

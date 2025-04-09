@@ -1,7 +1,7 @@
 name: "💔 Cancelar Evento/Agenda"
 description: Utilize essa opção para remover um evento/agenda que foi cancelado!
 title: "(Atenção: O Título da Issue é gerado automaticamente. Sendo assim, não precisa definir um título manualmente aqui.)"
-labels: ["cancelar"]
+labels: ["cancelar", "template"]
 body:
   - type: markdown
     attributes:
