@@ -1501,6 +1501,2364 @@
       "arquivado": true,
       "meses": [
         {
+          "mes": "fevereiro",
+          "arquivado": true,
+          "eventos": [
+            {
+              "nome": "2º Meetup da PARAÍ - Comunidade Téc. de IA da Paraíba",
+              "data": [
+                "20"
+              ],
+              "url": "https://comunidadeparai.github.io/parai/",
+              "cidade": "Cabedelo",
+              "uf": "PB",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "KCD São Paulo - Brasil 2024",
+              "data": [
+                "23"
+              ],
+              "url": "https://community.cncf.io/kcd-brasil/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "KCD São Paulo - Brasil 2024",
+              "data": [
+                "24"
+              ],
+              "url": "https://community.cncf.io/kcd-brasil/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Meetup SouJava Campinas",
+              "data": [
+                "26"
+              ],
+              "url": "https://www.meetup.com/soujava/events/298981832/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=linkedin",
+              "cidade": "Campinas",
+              "uf": "SP",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "março",
+          "arquivado": true,
+          "eventos": [
+            {
+              "nome": "NodeBR 68 - IFood - Front-End Universe",
+              "data": [
+                "01"
+              ],
+              "url": "https://sessionize.com/nodebr-68-frontend-universe/",
+              "cidade": "Campinas",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Mulher Tech Sim Senhor - 9º Edição",
+              "data": [
+                "02"
+              ],
+              "url": "https://www.mulhertechsimsr.com.br/",
+              "cidade": "Cabedelo",
+              "uf": "PB",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "GitTogether São Paulo - Março/2024",
+              "data": [
+                "02"
+              ],
+              "url": "https://www.meetup.com/githubbrasil/events/299195273/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DEVPIRA .NET Wknd",
+              "data": [
+                "02"
+              ],
+              "url": "https://www.devpira.com.br/eventos/net-wknd",
+              "cidade": "Piracicaba",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Como integrar e-mail e Google Sheets na sua automação RPA",
+              "data": [
+                "04"
+              ],
+              "url": "https://www.linkedin.com/events/livecoding-comointegrare-maileg7168943418851708928",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Agile Trends",
+              "data": [
+                "04",
+                "05",
+                "06",
+                "07"
+              ],
+              "url": "https://agiletrendsbr.com/?ref=agendati.com.br",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Kubernetes descomplicado com Azure Container Apps e Container Jobs",
+              "data": [
+                "05"
+              ],
+              "url": "https://www.meetup.com/pt-BR/devops-professionals/events/299539345/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Data Festival Revolução da Informação",
+              "data": [
+                "07",
+                "11",
+                "12",
+                "14",
+                "18",
+                "19",
+                "20",
+                "21",
+                "25",
+                "27"
+              ],
+              "url": "https://lp.labdata.fia.com.br/festival-de-verao-2024#rd-section-joq3m2lv",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Live: Rails Girls",
+              "data": [
+                "07"
+              ],
+              "url": "https://www.meetup.com/pt-BR/arquitetura-e-design-de-aplicacoes-ruby/events/299534973/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "SecOps Summit",
+              "data": [
+                "07",
+                "08",
+                "09"
+              ],
+              "url": "https://www.secopssummit.com.br/?ref=agendati.com.br",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Algorithms & Data Structures - From Zero to Hero",
+              "data": [
+                "08",
+                "15",
+                "22",
+                "29"
+              ],
+              "url": "https://www.meetup.com/pt-BR/craft-code-club/events/299324770/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Soft Skills de Cria | Le Wagon & Tech In Rio",
+              "data": [
+                "08"
+              ],
+              "url": "https://www.meetup.com/pt-BR/le-wagon-rio-de-janeiro-coding-bootcamp/events/299356598/",
+              "cidade": "Rio de Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "AWSome Women Community Summit Brasil",
+              "data": [
+                "09"
+              ],
+              "url": "https://www.awswomencommunitybrasil.com/",
+              "cidade": "Belo Horizonte",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Mulheres na Tecnologia",
+              "data": [
+                "09"
+              ],
+              "url": "https://www.meetup.com/pt-BR/womakerscode/events/299378376/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Laboratório de Inteligência Artificial Generativa",
+              "data": [
+                "11"
+              ],
+              "url": "https://www.meetup.com/pt-BR/confrariaweb3/events/299504598/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Semana da Programação Shell Linux",
+              "data": [
+                "11",
+                "13",
+                "14"
+              ],
+              "url": "https://www.youtube.com/@progshelllinux/streams",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "DevOps Fest 2024",
+              "data": [
+                "11",
+                "12",
+                "13",
+                "14"
+              ],
+              "url": "https://conteudo.devopsbootcamp.net/devopsfest2024",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Golang SP na Neon - Golang like a neon!",
+              "data": [
+                "14"
+              ],
+              "url": "https://www.meetup.com/pt-BR/golangbr/events/299320970/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "PHPSP Pub",
+              "data": [
+                "14"
+              ],
+              "url": "https://www.meetup.com/pt-BR/php-sp/events/298950822/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Mapas de calor (Heatmaps) com R",
+              "data": [
+                "14"
+              ],
+              "url": "https://www.meetup.com/pt-BR/rladies-sao-paulo/events/298995636/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Recife Data Saturday - 2ª Edição",
+              "data": [
+                "16"
+              ],
+              "url": "https://www.sympla.com.br/evento/recife-data-saturday-2-edicao/2317071?referrer=github.com",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "FortalSec 2024",
+              "data": [
+                "16"
+              ],
+              "url": "https://www.fortalsec.com.br/",
+              "cidade": "Fortaleza",
+              "uf": "CE",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Microsoft AI Tour",
+              "data": [
+                "21"
+              ],
+              "url": "https://envision.microsoft.com/en-US/sao-paulo",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Observability Day: São Paulo",
+              "data": [
+                "21"
+              ],
+              "url": "https://newrelic.com/pt/events/2024-03-21/observability-day-sao-paulo",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Código Carioca - 3ª Edição",
+              "data": [
+                "23"
+              ],
+              "url": "https://www.meetup.com/pt-BR/codigo-carioca/events/298806257/",
+              "cidade": "Rio de Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Thasfin #15 | Novatec",
+              "data": [
+                "23"
+              ],
+              "url": "https://guild.host/events/thasfin-15-novatec-17csmd",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "TDC 2024 Summit - São Paulo",
+              "data": [
+                "26",
+                "27"
+              ],
+              "url": "https://thedevconf.com/tdc/2024/summit-sao-paulo/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Campus Party Brasília 2024",
+              "data": [
+                "27",
+                "28",
+                "29",
+                "30",
+                "31"
+              ],
+              "url": "https://brasil.campus-party.org/cpbsb6/",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "DevOps Experience - 28 de Março de 2024",
+              "data": [
+                "28"
+              ],
+              "url": "https://estabilis.zoom.us/webinar/register/7117091463013/WN_WmvhSiwkQ3-oD2KRlORVJw#/registration",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Rio Maker Space: Arduino Day 2024",
+              "data": [
+                "30"
+              ],
+              "url": "https://www.sympla.com.br/evento/rio-maker-space-arduino-day-2024/2368423",
+              "cidade": "Rio de Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "abril",
+          "arquivado": true,
+          "eventos": [
+            {
+              "nome": "TechVerso Fadergs & GDG",
+              "data": [
+                "02"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-techverso-fadergs-amp-gdg/",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Algorithms & Data Structures - From Zero to Hero",
+              "data": [
+                "05",
+                "12",
+                "19",
+                "26"
+              ],
+              "url": "https://www.meetup.com/pt-BR/craft-code-club/events/299324770/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "The Latin America Rails Conference",
+              "data": [
+                "04",
+                "05"
+              ],
+              "url": "https://www.tropicalrb.com/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Caravana Cloud and Data 2024",
+              "data": [
+                "06"
+              ],
+              "url": "https://www.even3.com.br/caravana-cloud-and-data-edicao-recife-2024-presencial/",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevOpsDays Goiânia 2024",
+              "data": [
+                "06"
+              ],
+              "url": "https://devopsdays.org/events/2024-goiania/welcome/",
+              "cidade": "Goiânia",
+              "uf": "GO",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "PHPSP Pub",
+              "data": [
+                "11"
+              ],
+              "url": "https://www.meetup.com/pt-BR/php-sp/events/298950822/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Hacking na Web Day Brasília",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.sympla.com.br/evento/hnwd-brasilia/2352518?referrer=linktr.ee",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "GitTogether São Paulo - Abril/2024",
+              "data": [
+                "13"
+              ],
+              "url": "https://docs.google.com/forms/d/e/1FAIpQLSc87PK6iL93gY0YcA8aYLs4bAhSD99jEOSatQ7BHZWutA21hA/viewform",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Thasfin #16 | Fcamara | Elastic | Orange Juice",
+              "data": [
+                "19"
+              ],
+              "url": "https://guild.host/events/thasfin-16-fcamara-elastic-0a90e4",
+              "cidade": "Santos",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevOpsDays Aracaju 2024",
+              "data": [
+                "20"
+              ],
+              "url": "https://devopsdays.org/events/2024-aracaju/welcome/",
+              "cidade": "Aracaju",
+              "uf": "SE",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "AWS Innovate Generative AI + Data",
+              "data": [
+                "23",
+                "24"
+              ],
+              "url": "https://aws.amazon.com/pt/events/innovate/?trk=81694524-99d2-49c4-9f2c-4f56015856f9&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGRR5BqBwQuNEr7ks4nHAQkz0ABlFlFsrLS4lowVn2T2yYeSq3vDfyURTkfgzSfuy2wsFJMiXlEkmvAK-qv2VLwIbYHP-s2n6SSyO6qjWj_-gBRWcBpYTtM",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "JSSP #21",
+              "data": [
+                "25"
+              ],
+              "url": "https://www.meetup.com/pt-BR/javascript-sp/events/300377304/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Brazil JS Conf 2024",
+              "data": [
+                "25",
+                "26"
+              ],
+              "url": "https://conf.braziljs.org/",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Bits&Bytes Unicarioca - Conceitos Básicos de Programação",
+              "data": [
+                "27"
+              ],
+              "url": "https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Festival Latino-americano de Instalação de Software Livre (FLISoL)",
+              "data": [
+                "27"
+              ],
+              "url": "https://flisol.info/FLISOL2024/Brasil",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "International Women's Day Cerrado 2024",
+              "data": [
+                "27"
+              ],
+              "url": "https://www.iwdcerrado.com.br/",
+              "cidade": "Goiânia",
+              "uf": "GO",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Brasil Imersão IA em Java!",
+              "data": [
+                "27"
+              ],
+              "url": "https://info.professorisidro.com.br/zl268boqn37b6/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "XIX Simpósio Brasileiro de Sistemas Colaborativos (SBSC 2024)",
+              "data": [
+                "29",
+                "30"
+              ],
+              "url": "https://sbsc.sbc.org.br/2024/",
+              "cidade": "Salvador",
+              "uf": "BA",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "maio",
+          "arquivado": true,
+          "eventos": [
+            {
+              "nome": "XIX Simpósio Brasileiro de Sistemas Colaborativos (SBSC 2024)",
+              "data": [
+                "01",
+                "02",
+                "03"
+              ],
+              "url": "https://sbsc.sbc.org.br/2024/",
+              "cidade": "Salvador",
+              "uf": "BA",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "GDG Build With AI - Jaraguá do Sul",
+              "data": [
+                "03"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-joinville-presents-build-with-ai-jaragua-do-sul/",
+              "cidade": "Jaraguá do Sul",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Algorithms & Data Structures - From Zero to Hero",
+              "data": [
+                "03",
+                "10"
+              ],
+              "url": "https://www.meetup.com/pt-BR/craft-code-club/events/299324770/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Hacking na Web Day Salvador",
+              "data": [
+                "04"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/",
+              "cidade": "Salvador",
+              "uf": "BA",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Brasil - Imersão IA em Java!",
+              "data": [
+                "04"
+              ],
+              "url": "https://info.professorisidro.com.br/zl268boqn37b6/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "GDG Build With AI - Joinville",
+              "data": [
+                "04"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-joinville-presents-build-with-ai-joinville/",
+              "cidade": "Joinville",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "GDG Build With AI - Edição em Sorocaba",
+              "data": [
+                "04"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-sorocaba-presents-build-with-ai-edicao-em-sorocaba/",
+              "cidade": "Sorocaba",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "GDG Build with AI Caraguatatuba",
+              "data": [
+                "04"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-caraguatatuba-presents-build-with-ai-caraguatatuba/",
+              "cidade": "Caraguatatuba",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "GDG Build with AI - GDG Vassouras & GDG Três Rios",
+              "data": [
+                "04"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-vassouras-presents-build-with-ai-gdg-vassouras-amp-gdg-tres-rios/",
+              "cidade": "Vassouras",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Bits&Bytes Unicarioca - Estrutura de Controle - Tipos de Dados - Operadores - Técnicas de Programação",
+              "data": [
+                "04",
+                "11",
+                "18"
+              ],
+              "url": "https://www.sympla.com.br/evento-online/letras-numeros-quimica-fisica-e-bits-bytes-on-line-2024-1/2365267",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "XXVII Ibero-American Conference on Software Engineering (CIbSE 2024)",
+              "data": [
+                "06",
+                "07",
+                "08",
+                "09",
+                "10"
+              ],
+              "url": "https://conf.researchr.org/home/cibse-2024",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "GDG SANTOS - Study Group & Networking",
+              "data": [
+                "07"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-santos-presents-study-group-amp-networking-2024-05-07/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Hack in Sul: Ajude as Vítimas das Chuvas no Sul do Brasil!",
+              "data": [
+                "08"
+              ],
+              "url": "https://www.sympla.com.br/evento-online/hack-in-sul-ajude-as-vitimas-das-chuvas-no-sul-do-brasil/2454858",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Devs Que Criaram Startups 🚀 - NodeBR",
+              "data": [
+                "08"
+              ],
+              "url": "https://guild.host/events/devs-que-criaram-startups-yam0rp",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "PHPSP Pub",
+              "data": [
+                "09"
+              ],
+              "url": "https://www.meetup.com/pt-BR/php-sp/events/298950822/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "AWS Cloud Experience 2024 Generative AI edition - Rio de Janeiro",
+              "data": [
+                "09"
+              ],
+              "url": "https://awscloudexperiencerj2024.splashthat.com/",
+              "cidade": "Rio de Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "GDG Build With AI Marília",
+              "data": [
+                "09"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-marilia-presents-build-with-ai-marilia/",
+              "cidade": "Marilia",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "GDG BH Build With AI",
+              "data": [
+                "09"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-belo-horizonte-presents-build-with-ai-online/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "CryptoRave 2024",
+              "data": [
+                "10",
+                "11"
+              ],
+              "url": "https://2024.cryptorave.org/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "GDG Build with AI SJC - Período da manhã",
+              "data": [
+                "11"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-sao-jose-dos-campos-presents-build-with-ai-sjc-periodo-da-manha/",
+              "cidade": "São José dos Campos",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "devTEC 2024",
+              "data": [
+                "14",
+                "15",
+                "16"
+              ],
+              "url": "https://devtec.com.br/",
+              "cidade": "Tubarão",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Cloud Summit Cerrado",
+              "data": [
+                "15",
+                "16"
+              ],
+              "url": "https://www.cloudsummitcerrado.com.br/",
+              "cidade": "Goiânia",
+              "uf": "GO",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "XV Escola Regional de Alto Desempenho de São Paulo (ERAD-SP 2024)",
+              "data": [
+                "16",
+                "17",
+                "18"
+              ],
+              "url": "https://erad-sp.github.io/",
+              "cidade": "Rio Claro",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevOpsDays São Paulo 2024",
+              "data": [
+                "18"
+              ],
+              "url": "https://devopsdays.org/events/2024-sao-paulo/welcome/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "BSides - Vitória",
+              "data": [
+                "18"
+              ],
+              "url": "https://bsides.vix.br/",
+              "cidade": "Vitória",
+              "uf": "ES",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "You Sh0t the Sheriff 16 - YSTS 16 2024",
+              "data": [
+                "20"
+              ],
+              "url": "https://www.ysts.org/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "XX Simpósio Brasileiro de Sistemas de Informação (SBSI 2024)",
+              "data": [
+                "20",
+                "21",
+                "22",
+                "23"
+              ],
+              "url": "https://sbsi2024.ufjf.br/",
+              "cidade": "Juiz de Fora",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "XLII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2024)",
+              "data": [
+                "20",
+                "21",
+                "22",
+                "23",
+                "24"
+              ],
+              "url": "https://sbrc.sbc.org.br/2024/",
+              "cidade": "Niterói",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "AWS Cloud Experience 2024 Generative AI edition - Curitiba",
+              "data": [
+                "22"
+              ],
+              "url": "https://awscloudexperiencecuritiba2024.splashthat.com/",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Frontin Campinas 2024",
+              "data": [
+                "22"
+              ],
+              "url": "https://www.frontincampinas.com.br/",
+              "cidade": "Campinas",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "ElixirDays",
+              "data": [
+                "25",
+                "26"
+              ],
+              "url": "https://www.ingresse.com/elixirdays/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "junho",
+          "arquivado": true,
+          "eventos": [
+            {
+              "nome": "XXXVI Congresso de Iniciação Científica do Inatel (INCITEL)",
+              "data": [
+                "05",
+                "06",
+                "07"
+              ],
+              "url": "https://sbsc.sbc.org.br/2024/",
+              "cidade": "Santa Rita do Sapucaí",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Kubernetes Birthday Brazil - 10 anos",
+              "data": [
+                "07"
+              ],
+              "url": "https://www.youtube.com/live/U7pNEmsjT40",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "XI Maratona Mineira de Programação (MMP 2024)",
+              "data": [
+                "07",
+                "08"
+              ],
+              "url": "https://mineira.sbc.org.br/",
+              "cidade": "Monte Carmelo",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "The Developer's Life Weekend - 2024",
+              "data": [
+                "08"
+              ],
+              "url": "https://weekend.developerslife.tech/inscricao",
+              "cidade": "Maringá",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Cisco ACLs na prática",
+              "data": [
+                "09"
+              ],
+              "url": "https://www.even3.com.br/aula-publica-abredes-acl-uma-abordagem-pratica-466174?even3_orig=events_eventlist",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "TDC Florianópolis",
+              "data": [
+                "12",
+                "13",
+                "14"
+              ],
+              "url": "https://thedevconf.com/tdc/2024/florianopolis/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Hacking na Web Day Rio de Janeiro",
+              "data": [
+                "15"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday/",
+              "cidade": "Rio de Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "PHPSP Pub",
+              "data": [
+                "19"
+              ],
+              "url": "https://www.meetup.com/pt-BR/php-sp/events/298950822/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "JSSP #22 - JS Possibilities",
+              "data": [
+                "20"
+              ],
+              "url": "https://www.meetup.com/javascript-sp/events/301427005/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Feministalk Presencial - Pessoas LGBTQIAP+ e o mercado de tecnologia",
+              "data": [
+                "22"
+              ],
+              "url": "https://www.sympla.com.br/evento/feministalk-presencial-pessoas-lgbtqiap-e-o-mercado-de-tecnologia/2484970",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "XXIV Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS 2024)",
+              "data": [
+                "25",
+                "26",
+                "27",
+                "28"
+              ],
+              "url": "https://www.sbcas2024.inf.ufg.br/",
+              "cidade": "Goiânia",
+              "uf": "GO",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Febraban Tech 2024",
+              "data": [
+                "25",
+                "26",
+                "27"
+              ],
+              "url": "https://febrabantech.febraban.org.br/evento/febrabantech2024/home",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Meetup Select SP",
+              "data": [
+                "26"
+              ],
+              "url": "https://eventos.codecon.dev/meetup-select-sp-01/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Pyladies SP - Desvendando automações RPA com o poder do Python",
+              "data": [
+                "27"
+              ],
+              "url": "https://www.sympla.com.br/evento-online/desvendando-automacoes-rpa-com-o-poder-do-python/2506759",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "GitTogether - Junho/São Paulo",
+              "data": [
+                "28"
+              ],
+              "url": "https://www.meetup.com/gittogether-brasil/events/301459494/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Tech Day Conference",
+              "data": [
+                "29"
+              ],
+              "url": "https://www.techdayconference.com.br/",
+              "cidade": "Potirendaba",
+              "uf": "SP",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "julho",
+          "arquivado": true,
+          "eventos": [
+            {
+              "nome": "DevOpsDays Juiz de Fora 2024",
+              "data": [
+                "05",
+                "06"
+              ],
+              "url": "https://devopsdays.org/events/2024-juiz-de-fora/welcome/",
+              "cidade": "Juiz de Fora",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Google i/O Extended - GDG Joinville",
+              "data": [
+                "06"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-joinville-presents-google-io-extended-gdg-joinville/",
+              "cidade": "Joinville",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "PyCaxias",
+              "data": [
+                "06"
+              ],
+              "url": "https://pycaxias.com.br/",
+              "cidade": "Caxias do Sul",
+              "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "CodeHERs - Desvendando a Engenharia Reversa",
+              "data": [
+                "06",
+                "07",
+                "13",
+                "14"
+              ],
+              "url": "http://menina-de-cybersec.anom.sh/WMNrevEng",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "25° Conferência Internacional sobre Inteligência Artifical na Educação (AIED 2024 | July 8-12)",
+              "data": [
+                "08",
+                "09",
+                "10",
+                "11",
+                "12"
+              ],
+              "url": "https://iaied.org/conferences",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Campus Party Brasil - CPBR16 - São Paulo",
+              "data": [
+                "09",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14"
+              ],
+              "url": "https://brasil.campus-party.org/cpbr16/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "PHPSP Pub",
+              "data": [
+                "11"
+              ],
+              "url": "https://www.meetup.com/pt-BR/php-sp/events/298950822/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "App Growth Summit São Paulo 2024",
+              "data": [
+                "11"
+              ],
+              "url": "https://appgrowthsummit.com/events/app-growth-summit-sao-paulo-2024",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Meetup Automação RPA - BotCity",
+              "data": [
+                "18"
+              ],
+              "url": "https://automation.botcity.dev/meetup-sp-18-07-24",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "RPA e AI CONGRESS BELO HORIZONTE 2024",
+              "data": [
+                "18"
+              ],
+              "url": "https://iimainfo.com.br/roadshow-rpa-ai-2024-belo-horizonte-mg/",
+              "cidade": "Belo Horizonte",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Caipira Ágil 2024",
+              "data": [
+                "20"
+              ],
+              "url": "https://caipiraagil.com/",
+              "cidade": "Piracicaba",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Caipira Ágil 2024",
+              "data": [
+                "20"
+              ],
+              "url": "https://caipiraagil.com/",
+              "cidade": "Piracicaba",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "XLIV Congresso da Sociedade Brasileira de Computação (CSBC 2024)",
+              "data": [
+                "21",
+                "22",
+                "23",
+                "24",
+                "25"
+              ],
+              "url": "https://csbc.sbc.org.br/2024/",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Julho das Pretas 2024 - Afroya Tech Hub",
+              "data": [
+                "24"
+              ],
+              "url": "https://www.sympla.com.br/evento/julho-das-pretas-afroya-liderancas-negras-em-tecnologia-e-inovacao/2500505",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Blockchain Rio Festival",
+              "data": [
+                "24"
+              ],
+              "url": "https://blockchainfestival.io/",
+              "cidade": "Rio de Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Guia Anonima Conference",
+              "data": [
+                "27"
+              ],
+              "url": "https://conference.guiaanonima.com",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "DevPR Conference 24",
+              "data": [
+                "27",
+                "28"
+              ],
+              "url": "https://devpr.org",
+              "cidade": "Maringá",
+              "uf": "PR",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "agosto",
+          "arquivado": true,
+          "eventos": [
+            {
+              "nome": "Maratona de Inovação - Games",
+              "data": [
+                "01",
+                "02",
+                "03"
+              ],
+              "url": "https://liincados.com.br/maratona-inovacao-games-2024/",
+              "cidade": "Maceió",
+              "uf": "AL",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Hacktown",
+              "data": [
+                "01",
+                "02",
+                "03",
+                "04"
+              ],
+              "url": "https://hacktown.com.br/",
+              "cidade": "Santa Rita do Sapucaí",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Esquenta TDC São Paulo - Observabilidade no frontend com Grafana Faro",
+              "data": [
+                "06"
+              ],
+              "url": "https://observabilidadecomgrafanafaro.eventize.com.br",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "TechWeek Senac Tech & GDG",
+              "data": [
+                "08"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-techweek-senac-tech-amp-gdg/",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "PHPSP Pub",
+              "data": [
+                "09"
+              ],
+              "url": "https://www.meetup.com/pt-BR/php-sp/events/298950822/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Python Nordeste 2024",
+              "data": [
+                "09",
+                "10",
+                "11"
+              ],
+              "url": "https://pythonnordeste.org",
+              "cidade": "Natal",
+              "uf": "RN",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "AWS Summit",
+              "data": [
+                "15"
+              ],
+              "url": "https://aws.amazon.com/pt/events/summits/sao-paulo/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "DevOpsDays Rio de Janeiro 2024",
+              "data": [
+                "17"
+              ],
+              "url": "https://devopsdays.org/events/2024-rio-de-janeiro/welcome/",
+              "cidade": "Rio de Janeiro",
+              "uf": "RJ",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Google I/O Extended Agreste 2024",
+              "data": [
+                "17"
+              ],
+              "url": "https://doity.com.br/google-io-extended-agreste-2024",
+              "cidade": "Arapiraca",
+              "uf": "AL",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "RPA e AI CONGRESS RJ 2024",
+              "data": [
+                "20",
+                "21"
+              ],
+              "url": "https://iimainfo.com.br/rpa-ai-congress-2024-rj/",
+              "cidade": "Rio de Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "IA Conference São Paulo 2024",
+              "data": [
+                "21"
+              ],
+              "url": "https://iaconferencebrasil.com.br/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "ConFLOSS 24 - Conferência De Free/Libre E Open Source Software",
+              "data": [
+                "22",
+                "23",
+                "24"
+              ],
+              "url": "https://confloss.com.br/inscricoes-confloss-2024/",
+              "cidade": "Rio de Janeiro",
+              "uf": "RJ",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "DevOpsDays Rio de Janeiro 2024",
+              "data": [
+                "24"
+              ],
+              "url": "https://devopsdays.org/events/2024-rio-de-janeiro/welcome/",
+              "cidade": "Rio de Janeiro",
+              "uf": "RJ",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "HackBahia 2024",
+              "data": [
+                "24"
+              ],
+              "url": "https://hackbahia.github.io/",
+              "cidade": "Salvador",
+              "uf": "BA",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "BxSec 2024",
+              "data": [
+                "24"
+              ],
+              "url": "https://bxsec.org/2024",
+              "cidade": "Santos",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Ingá.php",
+              "data": [
+                "29"
+              ],
+              "url": "https://meetup.com/developerparana",
+              "cidade": "Maringá",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "ROGADX",
+              "data": [
+                "30",
+                "31"
+              ],
+              "url": "https://rogadx.com/",
+              "cidade": "Maceió",
+              "uf": "AL",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Tech Woman 2024",
+              "data": [
+                "31"
+              ],
+              "url": "https://techwoman.rec.br/",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevOpsDays Curitiba 2024",
+              "data": [
+                "31"
+              ],
+              "url": "https://devopsdays.org/events/2024-curitiba/welcome/",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Java Day Rio Preto - Comunidade Java Noroeste",
+              "data": [
+                "31"
+              ],
+              "url": "https://javanoroeste.com.br/javanoroeste/javaday_riopreto/",
+              "cidade": "São José do Rio Preto",
+              "uf": "SP",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "setembro",
+          "arquivado": true,
+          "eventos": [
+            {
+              "nome": "Chip on the Cliffs: 37th Symposium on Integrated Circuits and Systems Design (SBCCI 2024)",
+              "data": [
+                "02",
+                "03",
+                "04",
+                "05",
+                "06"
+              ],
+              "url": "https://chiponthecliffs2024.cear.ufpb.br/",
+              "cidade": "João Pessoa",
+              "uf": "PB",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Campus Party Nordeste 2024",
+              "data": [
+                "04",
+                "05",
+                "06",
+                "07",
+                "08"
+              ],
+              "url": "https://brasil.campus-party.org/cpnordeste/ingressos/",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Codecon Summit 2024",
+              "data": [
+                "06",
+                "07"
+              ],
+              "url": "https://eventos.codecon.dev/codecon-summit-24/",
+              "cidade": "Joinville",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Meetup SouJava + Esquenta TDC Summit Brasília",
+              "data": [
+                "09"
+              ],
+              "url": "https://www.meetup.com/pt-BR/soujava-brasilia/events/303105127/",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Quality House",
+              "data": [
+                "09"
+              ],
+              "url": "https://www.sympla.com.br/quality-house-1__2614521",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "DevPR: Meetup Ruby on Rails",
+              "data": [
+                "10"
+              ],
+              "url": "https://meetup.com/developerparana",
+              "cidade": "Francisco Beltrão",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevPR: Meetup C#",
+              "data": [
+                "11"
+              ],
+              "url": "https://meetup.com/developerparana",
+              "cidade": "Maringá",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "XII Escola Regional de Computação do Ceará, Maranhão e Piauí (ERCEMAPI 2024)",
+              "data": [
+                "11",
+                "12",
+                "13"
+              ],
+              "url": "https://ercemapi2024.enucompi.com.br/",
+              "cidade": "Parnaíba",
+              "uf": "PI",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Python Sul - 2024",
+              "data": [
+                "13",
+                "14",
+                "15"
+              ],
+              "url": "https://sul.python.org.br/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevOpsDays Belo Horizonte 2024",
+              "data": [
+                "14"
+              ],
+              "url": "https://devopsdays.org/events/2024-belo-horizonte/welcome/",
+              "cidade": "Belo Horizonte",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "BSidesJP 2024",
+              "data": [
+                "14"
+              ],
+              "url": "https://www.bsidesjp.com.br/",
+              "cidade": "João Pessoa",
+              "uf": "PB",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "XXIV Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSEG 2024)",
+              "data": [
+                "16",
+                "17",
+                "18",
+                "19"
+              ],
+              "url": "https://sbseg2024.ita.br/",
+              "cidade": "São José dos Campos",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "TDC São Paulo",
+              "data": [
+                "18",
+                "19",
+                "20"
+              ],
+              "url": "https://thedevconf.com/tdc/2024/sao-paulo/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Mind The Sec",
+              "data": [
+                "17",
+                "19"
+              ],
+              "url": "https://mindthesec.com.br/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Encontro PyLadies e Grupy SP",
+              "data": [
+                "19"
+              ],
+              "url": "https://developer.microsoft.com/en-us/reactor/events/23425/?wt.mc_id=1reg_23425_webpage_reactor)",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevPR: Meetup sobre empregabilidade",
+              "data": [
+                "19"
+              ],
+              "url": "https://meetup.com/developerparana",
+              "cidade": "Maringá",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Meetup Thasfin #18 | Fcamara",
+              "data": [
+                "20"
+              ],
+              "url": "https://guild.host/events/thasfin-18-fcamara-6l5jtr",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "JoinCommunity",
+              "data": [
+                "20",
+                "21"
+              ],
+              "url": "https://joincommunity.com.br/",
+              "cidade": "Goiânia",
+              "uf": "GO",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "1º Desafio de Inovação – Unimed Metropolitana do Agreste",
+              "data": [
+                "20",
+                "21",
+                "22"
+              ],
+              "url": "https://liinc.com.br/inscricoes/i-desafio-inovacao-unimed-agreste",
+              "cidade": "Arapiraca",
+              "uf": "AL",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevOpsDays Fortaleza 2024",
+              "data": [
+                "21"
+              ],
+              "url": "https://devopsdays.org/events/2024-fortaleza/welcome/",
+              "cidade": "Fortaleza",
+              "uf": "CE",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Hacking na Web Day São Paulo",
+              "data": [
+                "21"
+              ],
+              "url": "https://www.instagram.com/hackingnawebday",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "22ª SBIB - Semana Brasileira de Informática Biomédica - USP",
+              "data": [
+                "23",
+                "24",
+                "25",
+                "26",
+                "27"
+              ],
+              "url": "https://www.instagram.com/semanadaibm/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "22ª SBIB - Semana Brasileira de Informática Biomédica - UFPR",
+              "data": [
+                "23",
+                "24",
+                "25",
+                "26",
+                "27"
+              ],
+              "url": "https://www.instagram.com/semanadaibm/",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "22ª SBIB - Semana Brasileira de Informática Biomédica - UFCSPA",
+              "data": [
+                "23",
+                "24",
+                "25",
+                "26",
+                "27"
+              ],
+              "url": "https://www.instagram.com/semanadaibm/",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Jornada CriaJogos Arapiraca",
+              "data": [
+                "23",
+                "24",
+                "25",
+                "26",
+                "27"
+              ],
+              "url": "https://doity.com.br/oficina-conteudo-visual-que-conquista-arapiraca",
+              "cidade": "Arapiraca",
+              "uf": "AL",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevConverge LATAM",
+              "data": [
+                "25"
+              ],
+              "url": "https://www.linkedin.com/company/java-dev-converge-latam/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "SeniorTec Experience 2024",
+              "data": [
+                "25"
+              ],
+              "url": "https://www.senior.com.br/lp/seniortec/",
+              "cidade": "Blumenau",
+              "uf": "SC",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Nubank DS & ML Meetup",
+              "data": [
+                "26"
+              ],
+              "url": "https://www.gem.com/form?formID=7d4304ba-bb99-4715-8211-ec0a4617a081",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "DevPR: Meetup Qualidade de software",
+              "data": [
+                "26"
+              ],
+              "url": "https://meetup.com/developerparana",
+              "cidade": "Maringá",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Feature Flags com GitLab",
+              "data": [
+                "26"
+              ],
+              "url": "https://featureflagscomgitlab.eventize.com.br/",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Python Norte 2024",
+              "data": [
+                "27",
+                "28"
+              ],
+              "url": "https://2024.pythonnorte.org/",
+              "cidade": "Itacoatiara",
+              "uf": "AM",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Ada Lovelace Day 2024",
+              "data": [
+                "28"
+              ],
+              "url": "https://wit.icmc.usp.br/events/info/4",
+              "cidade": "São Carlos",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Imersão Presencial em Análise de dados",
+              "data": [
+                "28",
+                "29"
+              ],
+              "url": "https://www.sympla.com.br/evento/imersao-presencial-em-analise-de-dados/2610156",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "SBGames 2024 - XXIII Simpósio Brasileiro de Jogos e Entretenimento Digital",
+              "data": [
+                "30"
+              ],
+              "url": "https://sbgames.org/sbgames2024/",
+              "cidade": "Manaus",
+              "uf": "AM",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "XXXVII Conference on Graphics, Patterns and Images (SIBGRAPI 2024)",
+              "data": [
+                "30"
+              ],
+              "url": "https://sibgrapi.sbc.org.br/",
+              "cidade": "Manaus",
+              "uf": "AM",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "XXVI Symposium on Virtual and Augmented Reality (SVR 2024)",
+              "data": [
+                "30"
+              ],
+              "url": "https://svr2024.uea.edu.br/",
+              "cidade": "Manaus",
+              "uf": "AM",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "XV Congresso Brasileiro de Software: Teoria e Prática (CBSoft 2024)",
+              "data": [
+                "30"
+              ],
+              "url": "https://cbsoft.sbc.org.br/2024/cbsoft/",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
+          "mes": "outubro",
+          "arquivado": true,
+          "eventos": [
+            {
+              "nome": "🛡️ OWASP BH apresenta: Transformando Sua Pipeline CI com Segurança Proativa",
+              "data": [
+                "01"
+              ],
+              "url": "https://www.meetup.com/owasp-belo-horizonte-chapter/events/303372739/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "SBGames 2024 - XXIII Simpósio Brasileiro de Jogos e Entretenimento Digital",
+              "data": [
+                "01",
+                "02",
+                "03"
+              ],
+              "url": "https://sbgames.org/sbgames2024/",
+              "cidade": "Manaus",
+              "uf": "AM",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "XXXVII Conference on Graphics, Patterns and Images (SIBGRAPI 2024)",
+              "data": [
+                "01",
+                "02",
+                "03"
+              ],
+              "url": "https://sibgrapi.sbc.org.br/",
+              "cidade": "Manaus",
+              "uf": "AM",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "XXVI Symposium on Virtual and Augmented Reality (SVR 2024)",
+              "data": [
+                "01",
+                "02",
+                "03"
+              ],
+              "url": "https://svr2024.uea.edu.br/",
+              "cidade": "Manaus",
+              "uf": "AM",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "XV Congresso Brasileiro de Software: Teoria e Prática (CBSoft 2024)",
+              "data": [
+                "01",
+                "02",
+                "03",
+                "04"
+              ],
+              "url": "https://cbsoft.sbc.org.br/2024/cbsoft/",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
+            }
+            {
+              "nome": "Staff+ Conference_BR",
+              "data": [
+                "03",
+                "04"
+              ],
+              "url": "https://staff.escolaforja.com.br/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Recruta Tech",
+              "data": [
+                "05"
+              ],
+              "url": "https://recrutatech.com.br/",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Futurecom",
+              "data": [
+                "08",
+                "09",
+                "10"
+              ],
+              "url": "https://www.futurecom.com.br/pt/home.html",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "CYBERLEGION - Gestão de Talentos de Cibersegurança na era da I.A.",
+              "data": [
+                "10"
+              ],
+              "url": "https://www.sympla.com.br/evento/cyberlegion-gestao-de-talentos-de-ciberseguranca-na-era-da-i-a/2658464",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "1º Workshop sobre Inteligência artificial do IFSul - 2024",
+              "data": [
+                "14",
+                "15"
+              ],
+              "url": "https://eventos.ifsul.edu.br/inteligencia_artificial_2024/",
+              "cidade": "Pelotas",
+              "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "XXXIX Simpósio Brasileiro de Banco de Dados (SBBD 2024)",
+              "data": [
+                "14",
+                "15",
+                "16",
+                "17"
+              ],
+              "url": "https://sbbd.org.br/2024/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "21° Semana Nacional de Ciência e Tecnologia (SNCT 2024)",
+              "data": [
+                "15",
+                "16",
+                "17"
+              ],
+              "url": "https://www.snctma2024.com/",
+              "cidade": "São Luís",
+              "uf": "MA",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "1ª Jornada Internacional de Tecnologia e Inovação da PGE/BA",
+              "data": [
+                "15",
+                "16",
+                "17",
+                "18"
+              ],
+              "url": "https://sistemas.pge.ba.gov.br/sgcea-inscricao-eletronica/evento/cadastrar-participante/NjU%3D",
+              "cidade": "Salvador",
+              "uf": "BA",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Python Brasil",
+              "data": [
+                "16",
+                "17",
+                "18",
+                "19",
+                "20",
+                "21"
+              ],
+              "url": "https://2024.pythonbrasil.org.br/",
+              "cidade": "Rio de Janeiro",
+              "uf": "RJ",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Inteligência Artificial na Gestão e Análise de Contratos e Processos",
+              "data": [
+                "17"
+              ],
+              "url": "https://www.sympla.com.br/evento-online/inteligencia-artificial-na-gestao-e-analise-de-contratos-e-processos/2645024?token=c4def0f9fc9070b6c59b52a70a383d7d",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "IX Escola Regional de Informática do Espírito Santo - ERI-ES 2024",
+              "data": [
+                "17",
+                "18",
+                "19"
+              ],
+              "url": "https://eries.sbc.org.br/",
+              "cidade": "Vitória",
+              "uf": "ES",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "UXConf BR 2024",
+              "data": [
+                "18",
+                "19"
+              ],
+              "url": "https://www.uxconf.com.br/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Front in Sampa",
+              "data": [
+                "19"
+              ],
+              "url": "https://evento.frontinsampa.com.br/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Portera Day",
+              "data": [
+                "19"
+              ],
+              "url": "https://www.sympla.com.br/evento/portera-day/2617101",
+              "cidade": "Goiânia",
+              "uf": "GO",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Meetup Golang Day na Tractian",
+              "data": [
+                "19"
+              ],
+              "url": "https://www.meetup.com/golangbr/events/303808246/?eventOrigin=group_upcoming_events",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Meetup Comunidade BotCity",
+              "data": [
+                "19"
+              ],
+              "url": "https://automation.botcity.dev/meetup-sp-19-10-24",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Esquenta CSBC 2025",
+              "data": [
+                "19"
+              ],
+              "url": "https://doity.com.br/esquenta-csbc-2025-maratona",
+              "cidade": "Maceió",
+              "uf": "AL",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Esquenta TDC & SouJava - Jornada do Dev Java na Era da IA",
+              "data": [
+                "22"
+              ],
+              "url": "https://bit.ly/soujava-22-out",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Elastic Meetup: Esquenta TDC AI Summit 2024",
+              "data": [
+                "22"
+              ],
+              "url": "https://www.meetup.com/pt-BR/brasilia-elastic-fantastics/events/303766472",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Webinar: Engenharia de Dados e Negócios",
+              "data": [
+                "23"
+              ],
+              "url": "https://www.even3.com.br/webinar-como-a-engenharia-de-dados-revoluciona-empresas-500768/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "TDC Summit IA Brasília",
+              "data": [
+                "23",
+                "24"
+              ],
+              "url": "https://thedevconf.com/tdc/2024/summit-brasilia/",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Siará Tech Summit",
+              "data": [
+                "23",
+                "24",
+                "25"
+              ],
+              "url": "https://stssebrae.com.br/",
+              "cidade": "Fortaleza",
+              "uf": "CE",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Sorocaba CSS",
+              "data": [
+                "26"
+              ],
+              "url": "https://sorocabacss.github.io/",
+              "cidade": "Sorocaba",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Cyber Security Summit 2024 Brasil",
+              "data": [
+                "28",
+                "29"
+              ],
+              "url": "https://www.cybersecuritysummit.com.br/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Digital Product Week 2024",
+              "data": [
+                "28",
+                "29",
+                "30"
+              ],
+              "url": "https://dpw.somostera.com/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Ciência de Dados Aplicada à Múltiplos Setores | Nubank DS & ML Meetup #93",
+              "data": [
+                "29"
+              ],
+              "url": "https://www.gem.com/form?formID=7ddb4f5d-362b-4f38-9d88-2ea132863029",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Transformando o Futuro: Desenvolvimento e Inovação com Inteligência Artificial",
+              "data": [
+                "29"
+              ],
+              "url": "https://desenvolvimentocomia.eventize.com.br/",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Meetup BotCity | Desenvolvendo automações inteligentes com visão computacional",
+              "data": [
+                "29"
+              ],
+              "url": "https://automation.botcity.dev/meetup-rj-29-10-24",
+              "cidade": "Rio de Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "LatAm Cyber Summit & CS4CA LATAM (Cyber Security for Critical Assets)",
+              "data": [
+                "29",
+                "30"
+              ],
+              "url": "https://latam.cs4ca.com/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "BBDW - Banco do Brasil Digital Week",
+              "data": [
+                "29",
+                "30",
+                "31"
+              ],
+              "url": "https://www.inscricaobbdw.com.br/",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "MongoDB.local São Paulo",
+              "data": [
+                "30"
+              ],
+              "url": "https://www.mongodb.com/pt-br/events/mongodb-local/sao-paulo#:~:text=local%3F-,MongoDB.,happy%20hour%20e%20muito%20mais",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Meetup Construindo para o Futuro: Desafios e Soluções na Escalabilidade c/Microserviços",
+              "data": [
+                "30"
+              ],
+              "url": "https://www.meetup.com/comunidade-de-software-craftsmanship-de-sao-paulo/events/304011468/?eventOrigin=group_upcoming_events",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "PrograMaria Summit 2024",
+              "data": [
+                "31"
+              ],
+              "url": "https://doity.com.br/programaria-summit-2024",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Estratégia de estudos para evoluir em Dev RPA",
+              "data": [
+                "31"
+              ],
+              "url": "https://www.linkedin.com/events/live-estrat-giasdeestudoparaevo7248035492192030721/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Meetup de Engenharia de Software do Nubank",
+              "data": [
+                "31"
+              ],
+              "url": "https://sou.nu/eng-meetup-br9",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            }
+          ]
+        },
+        {
           "mes": "novembro",
           "arquivado": true,
           "eventos": [
@@ -2153,7 +4511,7 @@
         },
         {
           "mes": "dezembro",
-          "arquivado": false,
+          "arquivado": true,
           "eventos": [
             {
               "nome": "BHack Conference 2024",
