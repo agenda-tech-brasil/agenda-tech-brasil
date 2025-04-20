@@ -7181,6 +7181,18 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "AI Summit 2025",
+              "data": [
+                "18",
+                "19",
+                "20"
+              ],
+              "url": "https://www.sympla.com.br/evento-online/ai-summit-2025/2905033?utm_source=github&utm_medium=link&utm_campaign=aisummit_2025",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Big Data Brazil Experience 2025",
               "data": [
                 "22"
