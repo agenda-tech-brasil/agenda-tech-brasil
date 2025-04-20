@@ -72,6 +72,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 17 e 18: [Formação AI Services, OpenAI e Data Science no Azure - Online](https://www.meetup.com/azureacademy/events/306774998) ![online]
 - 19: [Elas na IA: Live Inaugural - Apresentação do Programa - Painel sobre carreira em Data & AI](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307237715) ![online]
 - 19, 20, 21, 22 e 23: [XLIII Simpósio Brasileiro de Redes de Computadores - SBRC 2025](https://sbrc.sbc.org.br/2025) - _Natal/RN_ ![presencial]
+- 21: [Elas na IA: Aula 1: Conceitos de Computação em Nuvem com Microsoft Azure](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307238390) ![online]
 - 24: [PGDay Blumenau 2025](https://pgdayblumenau.com.br/) - _Blumenau/SC_ ![presencial]
 - 24 e 25: [Formação Azure Specialist AZ-900 AZ-104 AZ-305](https://www.meetup.com/azureacademy/events/306775008) ![online]
 - 26: [Elas na IA: Aula 2: Introdução ao Aprendizado de Máquina e Inteligência Artificial](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307306271) ![online]
