@@ -7023,6 +7023,22 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Semana de Dados",
+              "data": [
+                "11",
+                "12",
+                "13",
+                "14",
+                "15",
+                "16",
+                "17"
+              ],
+              "url": "https://www.sympla.com.br/evento-online/semana-de-dados-2025/2791872?utm_source=github&utm_medium=link&utm_campaign=semanadedados_2025",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Security Leaders Recife 2025",
               "data": [
                 "13"
