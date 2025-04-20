@@ -82,6 +82,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- MAIO:END -->
 ### Junho
 <!-- JUNHO:START -->
+- 03: [GitHub Actions: Automatizando IaC com Terraform](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307305412) ![online]
 - 07: [Hacking Na Web Day - Belo Horizonte - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Belo Horizonte/MG_ ![presencial]
 - 07: [Azure Synapse Analytics, Fabric e Data Factory Day - ETL e BIG Data](https://www.meetup.com/azureacademy/events/306775025) ![online]
 - 10: [GitHub Actions: Reusabilidade](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307305430) ![online]

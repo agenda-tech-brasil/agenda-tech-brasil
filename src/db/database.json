@@ -6869,6 +6869,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "GitHub Actions: Automatizando IaC com Terraform",
+              "data": [
+                "03"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/307305412",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Hacking Na Web Day - Belo Horizonte - 2025",
               "data": [
                 "07"
