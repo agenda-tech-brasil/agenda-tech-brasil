@@ -6801,6 +6801,16 @@
               "tipo": "online"
             },
             {
+              "nome": "[Clojure BR] 2o Encontro",
+              "data": [
+                "22"
+              ],
+              "url": "https://www.meetup.com/clojure-br/events/307457094/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "PGDay Blumenau 2025",
               "data": [
                 "24"
