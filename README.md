@@ -66,6 +66,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 01, 02, 03 e 04: [MiniDebConf Maceió 2025](https://maceio.mini.debconf.org/) - _Maceió/AL_ ![presencial]
 - 05 e 06: [GopherCon Brasil 2025](https://www.blueticket.com.br/evento/35079/gophercon-brasil-2025) - _Florianópolis/SC_ ![presencial]
 - 10: [Global Azure 2025 – Edição Azure Floripa](https://www.meetup.com/azure-floripa/events/306207034/?eventorigin=group_upcoming_events) - _Florianópolis/SC_ ![híbrido]
+- 12, 13, 14, 15 e 16: [QA Solidário: 4ª edição](https://linktr.ee/qasolidario) ![online]
 - 14: [FIAP Meetup #147: Cybersecurity Forecast 2025/2026: desafios e tendências](https://www.meetup.com/fiapmeetups/events/306921593) - _São Paulo/SP_ ![presencial]
 - 17: [Porteira 443](https://porteira443.com) - _Goiânia/GO_ ![presencial]
 - 17 e 18: [BSidesSP - 2025](https://securitybsides.com.br/) - _São Paulo/SP_ ![presencial]
@@ -129,6 +130,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 18, 19 e 20: [AI Summit 2025](https://www.sympla.com.br/evento-online/ai-summit-2025/2905033?utm_source=github&utm_medium=link&utm_campaign=aisummit_2025) ![online]
 - 22: [Big Data Brazil Experience 2025](https://www.sympla.com.br/evento/big-data-brazil-experience-2025/2571633) - _São Paulo/SP_ ![presencial]
 - 26 e 27: [TDC Summit Brasília](https://thedevconf.com/tdc/2025/summit-brasilia/) - _Brasília/DF_ ![híbrido]
+- 29 e 30: [GambiConf](https://gambiconf.dev/) - _São Paulo/SP_ ![híbrido]
 <!-- NOVEMBRO:END -->
 <!-- ANO2025:END -->
 
