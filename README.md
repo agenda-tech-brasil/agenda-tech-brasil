@@ -98,6 +98,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- JUNHO:END -->
 ### Julho
 <!-- JULHO:START -->
+- 04: [Python Norte 2025](https://2025.pythonnorte.org/pt) - _Belém/PA_ ![presencial]
 - 18 e 19: [Codecon Summit](https://codecon.dev/summit) - _Curitiba/PR_ ![presencial]
 - 18 e 19: [Codecon Summit 25](https://eventos.codecon.dev/codecon-summit-25/) - _Curitiba/PR_ ![presencial]
 - 19: [CajuSec](https://www.cajusec.com.br) - _Aracaju/SE_ ![presencial]
@@ -130,7 +131,6 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 18, 19 e 20: [AI Summit 2025](https://www.sympla.com.br/evento-online/ai-summit-2025/2905033?utm_source=github&utm_medium=link&utm_campaign=aisummit_2025) ![online]
 - 22: [Big Data Brazil Experience 2025](https://www.sympla.com.br/evento/big-data-brazil-experience-2025/2571633) - _São Paulo/SP_ ![presencial]
 - 26 e 27: [TDC Summit Brasília](https://thedevconf.com/tdc/2025/summit-brasilia/) - _Brasília/DF_ ![híbrido]
-- 29 e 30: [GambiConf](https://gambiconf.dev/) - _São Paulo/SP_ ![híbrido]
 <!-- NOVEMBRO:END -->
 <!-- ANO2025:END -->
 

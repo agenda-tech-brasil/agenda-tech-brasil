@@ -7015,6 +7015,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Python Norte 2025",
+              "data": [
+                "04"
+              ],
+              "url": "https://2025.pythonnorte.org/pt",
+              "cidade": "Belém",
+              "uf": "PA",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Codecon Summit",
               "data": [
                 "18",
