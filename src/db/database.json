@@ -7286,6 +7286,17 @@
               "cidade": "Brasília",
               "uf": "DF",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "GambiConf",
+              "data": [
+                "29",
+                "30"
+              ],
+              "url": "https://gambiconf.dev/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
             }
           ]
         }
