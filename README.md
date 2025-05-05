@@ -65,6 +65,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- MAIO:START -->
 - 01, 02, 03 e 04: [MiniDebConf Maceió 2025](https://maceio.mini.debconf.org/) - _Maceió/AL_ ![presencial]
 - 05 e 06: [GopherCon Brasil 2025](https://www.blueticket.com.br/evento/35079/gophercon-brasil-2025) - _Florianópolis/SC_ ![presencial]
+- 06: [Maratona de Certificações Microsoft- online gratuito + vouchers de certificações](https://www.meetup.com/azureacademy/events/307601273) ![online]
 - 10: [Global Azure 2025 – Edição Azure Floripa](https://www.meetup.com/azure-floripa/events/306207034/?eventorigin=group_upcoming_events) - _Florianópolis/SC_ ![híbrido]
 - 10: [Encontro de Mulheres na Tecnologia: Edição Sul](https://www.sympla.com.br/evento/encontro-de-mulheres-na-tecnologia-edicao-sul/2892542?referrer=www.google.com) - _Canoas/RS_ ![presencial]
 - 12, 13, 14, 15 e 16: [QA Solidário: 4ª edição](https://linktr.ee/qasolidario) ![online]
