@@ -82,6 +82,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 24: [Meetup de Devs do Vale do Paranhana](https://www.sympla.com.br/evento/meetup-de-devs-do-vale-do-paranhana-n-7/2897384?_gl=1*1wfipvs*_gcl_au*mtiwnzi1mjq4ny4xnzqzndywody4*_ga*mzc5nji2nzmzlje3ndm0nja4njg.*_ga_kxh10sqtzf*mtc0mzk2mdg2nc4yljeumtc0mzk2mdk5os41os4wlje5ntkxotyxoda) - _Taquara/RS_ ![presencial]
 - 24 e 25: [Formação Azure Specialist AZ-900 AZ-104 AZ-305](https://www.meetup.com/azureacademy/events/306775008) ![online]
 - 26: [Elas na IA: Aula 2: Introdução ao Aprendizado de Máquina e Inteligência Artificial](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307306271) ![online]
+- 28: [Microsoft Reactor - Obtenha a certificação: prepare-se para o seu exame de Fabric e Q&A](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307565106) ![online]
 - 29: [SIRENA Conference - 2025](https://www.instagram.com/sirena.conference/) - _São Paulo/SP_ ![presencial]
 - 30 e 31: [PHP Velho Oeste 2025](https://phpvelhoeste.com.br/) - _Chapecó/SC_ ![presencial]
 - 31: [Tech Hub Conf JF](https://techhubjf.org/conf) - _Juiz De Fora/MG_ ![presencial]
