@@ -12,7 +12,7 @@ _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontra
 
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
-<a href="#abril">Abril</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a>・<a href="#novembro">Novembro</a></p>
+<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a>・<a href="#novembro">Novembro</a></p>
 
 ## Contribuindo
 
@@ -22,45 +22,6 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 
 ## Eventos em 2025
 <!-- ANO2025:START -->
-### Abril
-<!-- ABRIL:START -->
-- 01: [Microsoft Reactor: Azure Web App](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306650979) ![online]
-- 01, 02, 03 e 04: [Semana da Computação UFRJ](https://www.instagram.com/semanadacomputacaoufrj/) - _Cidade Universitária/RJ_ ![presencial]
-- 02, 03, 04 e 05: [Computer on the beach](https://computeronthebeach.com.br/) - _Itajaí/SC_ ![presencial]
-- 03: [Meetup Dev Paraná – Guarapuava - 03/04/2025](https://devparana.mx/#/evento/67865b120854f1741d1423b8) - _Guarapuava/PR_ ![presencial]
-- 04: [Mulheres na Tecnologia - Comunidade Mana Jobs A.I](https://developer.microsoft.com/en-us/reactor/events/25519/?wt.mc_id=meetup_25519_webpage_reactor) - _São Paulo/SP_ ![híbrido]
-- 05: [SQL Saturday Joinville 2025](https://comunidado.com.br) - _Joinville/SC_ ![presencial]
-- 05: [Esquenta CSBC 2025](https://www.instagram.com/p/dglvicfx0wd/?utm_source=ig_web_copy_link&igsh=mzrlodbinwflza==) - _Arapiraca/AL_ ![presencial]
-- 05: [IWD Santos 2025](https://www.sympla.com.br/evento/iwd-santos-2025/2860201) - _Santos/SP_ ![presencial]
-- 05: [Confraria ZN - Business, Bitcoin & web3](https://www.meetup.com/confrariaweb3/events/307012917) - _São Paulo/SP_ ![presencial]
-- 07: [DP-700: Introdução à engenharia de dados no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396703) ![online]
-- 08: [DP-700: Ingestão e gerenciamento de dados no Fabric com Data Factory e Notebooks](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396836) ![online]
-- 08: [AWS Innovate América Latina](https://aws.amazon.com/pt/events/aws-innovate/latam/generative-ai-data/) ![online]
-- 08: [Microsoft Reactor: Construindo aplicativos com o modo de agente do GitHub Copilot](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306668977) ![online]
-- 08: [Microsoft Reactor: AI Agents Hackathon Kickoff](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306692200) ![online]
-- 08: [Clube do Livro R Ladies: Transformar - Vetores lógicos](https://www.meetup.com/rladies-sao-paulo/events/307024751) ![online]
-- 08: [Leading Tech Sessions: Como medir impacto de iniciativas de Produto e Tech](https://lu.ma/nlsf58mi) ![online]
-- 08, 09, 10 e 11: [Agile Trends 2025 - Inteligência Artificial: agilidade e transformação](https://agiletrendsbr.com/) - _São Paulo/SP_ ![presencial]
-- 09: [DP-700: Implementar inteligência em tempo real no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306396896) ![online]
-- 09, 10 e 11: [II Simpósio Brasileiro de Computação na Educação Básica (SBC-EB 2025)](https://www.educompbrasil.org/simposio/2025/sbc-eb) - _Juiz De Fora/MG_ ![presencial]
-- 10: [FIAP Meetup #146: Tech Beauty: Inovação, tendências e estratégia](https://www.meetup.com/fiapmeetups/events/306897553) - _São Paulo/SP_ ![presencial]
-- 10: [Uber Tech Latam: Ride to Code - Backend: Last Call](https://www.meetup.com/uber-tech-latam/events/306920149) ![online]
-- 10: [2o Meetup DevParaná Cascavel](https://www.meetup.com/developerparana/events/307051115) - _São Paulo/SP_ ![presencial]
-- 10: [FIAP Meetup POA - Mulheres na Tecnologia: Conectando, Inspirando e Transformando](https://www.meetup.com/fiapmeetups/events/307072677) - _Porto Alegre/RS_ ![presencial]
-- 10: [Python: Pylestras de Abril das Pyladies + Grupy @ Núcleo de Tecnologia do MTST](https://www.meetup.com/grupy-sp/events/307053175/) - _São Paulo/SP_ ![presencial]
-- 10 e 11: [IAM Tech Day São Paulo 2025](https://iamtechday.org/eventos/iam-tech-day-sao-paulo-abril-2025-presencial) - _São Paulo/SP_ ![presencial]
-- 11: [Microsoft Reactor: Back-End Development Night 2025](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306897959) - _São Paulo/SP_ ![híbrido]
-- 12: [Hacking Na Web Day - Recife - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Recife/PE_ ![presencial]
-- 14: [DP-700: Data Warehousing no Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306397019) ![online]
-- 16: [DP-700: Administração e governança do Microsoft Fabric](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306397061) ![online]
-- 16: [Platform Days v2025.1](https://www.platform.rocks) - _São Paulo/SP_ ![presencial]
-- 18: [GitHub: Open Source Friday Brasil, com Bruno Rocha, mantenedor do Marmite](https://www.meetup.com/gittogether-brasil/events/307113298) ![online]
-- 23: [DP-700: Prepare-se para o dia do exame e Q&A](https://www.meetup.com/microsoft-reactor-sao-paulo/events/306397097) ![online]
-- 23, 24 e 25: [ERBD 2025](https://www.sbc.org.br/evento/xx-escola-regional-de-banco-de-dados-erbd-2025/) - _Florianópolis/SC_ ![presencial]
-- 24: [Golang SP e Firstbase no Reactor (inscrições a partir de 10/04)](https://www.meetup.com/golangbr/events/306916672) - _São Paulo/SP_ ![presencial]
-- 24: [FIAP + Alura + PM3: Carreiras em T no mercado de tecnologia](https://www.meetup.com/fiapmeetups/events/307085823) - _São Paulo/SP_ ![presencial]
-- 27, 28, 29 e 30: [Web Summit Rio 2025](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ ![presencial]
-<!-- ABRIL:END -->
 ### Maio
 <!-- MAIO:START -->
 - 01, 02, 03 e 04: [MiniDebConf Maceió 2025](https://maceio.mini.debconf.org/) - _Maceió/AL_ ![presencial]
