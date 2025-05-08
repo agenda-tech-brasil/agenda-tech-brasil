@@ -85,6 +85,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 13: [Hacking Na Web Day - Rio de Janeiro - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Rio De Janeiro/RJ_ ![presencial]
 - 13: [XibéSec - 2025](https://www.instagram.com/xibesec/) - _Belém/PA_ ![presencial]
 - 17, 18 e 19: [TDC SP](https://thedevconf.com/tdc/2025/sao-paulo/) - _São Paulo/SP_ ![híbrido]
+- 20: [FrontEnd Day - Fortaleza 2025](https://frontendday.com.br/) - _Fortaleza/CE_ ![presencial]
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
