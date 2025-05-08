@@ -7244,6 +7244,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "FrontEnd Day - Fortaleza 2025",
+              "data": [
+                "20"
+              ],
+              "url": "https://frontendday.com.br/",
+              "cidade": "Fortaleza",
+              "uf": "CE",
+              "tipo": "presencial"
             }
           ]
         },
