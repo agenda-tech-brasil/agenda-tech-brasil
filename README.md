@@ -50,6 +50,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 29: [SIRENA Conference - 2025](https://www.instagram.com/sirena.conference/) - _São Paulo/SP_ ![presencial]
 - 30 e 31: [PHP Velho Oeste 2025](https://phpvelhoeste.com.br/) - _Chapecó/SC_ ![presencial]
 - 31: [Tech Hub Conf JF](https://techhubjf.org/conf) - _Juiz De Fora/MG_ ![presencial]
+- 31: [Cumbuca Dev Floripa](https://tech.floripa.br/eventos/cumbuca-dev-floripa/) - _Florianópolis/SC_ ![híbrido]
 <!-- MAIO:END -->
 ### Junho
 <!-- JUNHO:START -->
