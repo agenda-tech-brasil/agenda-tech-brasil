@@ -6965,6 +6965,16 @@
               "cidade": "Juiz De Fora",
               "uf": "MG",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Cumbuca Dev Floripa",
+              "data": [
+                "31"
+              ],
+              "url": "https://tech.floripa.br/eventos/cumbuca-dev-floripa/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "híbrido"
             }
           ]
         },
