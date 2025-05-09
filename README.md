@@ -33,6 +33,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 10: [Encontro de Mulheres na Tecnologia: Edição Sul](https://www.sympla.com.br/evento/encontro-de-mulheres-na-tecnologia-edicao-sul/2892542?referrer=www.google.com) - _Canoas/RS_ ![presencial]
 - 12, 13, 14, 15 e 16: [QA Solidário: 4ª edição](https://linktr.ee/qasolidario) ![online]
 - 14: [FIAP Meetup #147: Cybersecurity Forecast 2025/2026: desafios e tendências](https://www.meetup.com/fiapmeetups/events/306921593) - _São Paulo/SP_ ![presencial]
+- 14, 15, 16 e 19: [Impacta Tech Summit](https://digital.impacta.com.br/lp/aula-gratuita/aula-inscricao?utm_source=facebook&utm_medium=cpc&utm_campaign=FB_PRF_CONV-LEAD_IMPACTA_POS-GRADUACAO_CAPTACAO-LIVES_BASE-FRIA-v2_nova&utm_content=_01_LAL_LEADS-QUALIFICADOS_&utm_term=IMPACTA_CAPTACAO-LIVES_17-HOST_Group_1&utm_id=120224922114920220_v2_s01) ![online]
 - 17: [Porteira 443](https://porteira443.com) - _Goiânia/GO_ ![presencial]
 - 17 e 18: [BSidesSP - 2025](https://securitybsides.com.br/) - _São Paulo/SP_ ![presencial]
 - 17 e 18: [Codecon Universe](https://codecon.dev/universe) - _Joinville/SC_ ![presencial]
