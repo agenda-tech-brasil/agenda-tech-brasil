@@ -76,6 +76,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 11, 12, 13, 14, 15, 16 e 17: [Semana de Dados](https://www.sympla.com.br/evento-online/semana-de-dados-2025/2791872?utm_source=github&utm_medium=link&utm_campaign=semanadedados_2025) ![online]
 - 13: [Security Leaders Recife 2025](https://securityleaders.com.br/eventos/security-leaders-recife-2025/) - _Recife/PE_ ![presencial]
 - 16: [Hacking Na Web Day - Florianópolis - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Florianópolis/SC_ ![presencial]
+- 21: [CyberSecFest SP](https://www.devopsbootcamp.net/cybersecfest-saopaulo) - _São Paulo/SP_ ![presencial]
 - 23: [Bxsec Security Experience](https://www.instagram.com/bxsec/) - _Santos/SP_ ![presencial]
 <!-- AGOSTO:END -->
 ### Setembro

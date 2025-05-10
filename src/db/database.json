@@ -7173,6 +7173,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "CyberSecFest SP",
+              "data": [
+                "21"
+              ],
+              "url": "https://www.devopsbootcamp.net/cybersecfest-saopaulo",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Bxsec Security Experience",
               "data": [
                 "23"
