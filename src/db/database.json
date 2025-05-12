@@ -6798,6 +6798,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Azure Talks - Containers Weekend: Testcontainers, Hangfire, Azure...",
+              "data": [
+                "17"
+              ],
+              "url": "https://www.meetup.com/azure-talks/events/307723366",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "BSidesSP - 2025",
               "data": [
                 "17",
