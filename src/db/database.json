@@ -6798,6 +6798,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Quarkus Club - O Encontro",
+              "data": [
+                "17"
+              ],
+              "url": "https://forms.gle/vdh1fsgdbnh7jtjj8",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "BSidesSP - 2025",
               "data": [
                 "17",
