@@ -6788,6 +6788,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "3o Meetup DevParaná Cascavel",
+              "data": [
+                "15"
+              ],
+              "url": "https://www.meetup.com/developerparana/events/307718713",
+              "cidade": "Cascavel",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Porteira 443",
               "data": [
                 "17"
