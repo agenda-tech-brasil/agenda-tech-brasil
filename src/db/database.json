@@ -7057,6 +7057,16 @@
               "cidade": "Teresina",
               "uf": "PI",
               "tipo": "presencial"
+            },
+            {
+              "nome": "GitTogether São Paulo - JUNHO/2025",
+              "data": [
+                "27"
+              ],
+              "url": "https://www.meetup.com/gittogether-brasil/events/307760086",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             }
           ]
         },

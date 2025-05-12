@@ -61,6 +61,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 11, 12 e 13: [TDC Floripa](https://thedevconf.com/tdc/2025/florianopolis/) - _Florianópolis/SC_ ![híbrido]
 - 17 e 18: [UNIVERSO TOTVS 2025](https://eventos.totvs.com/event/universo-totvs-2025) - _São Paulo/SP_ ![presencial]
 - 20, 21 e 22: [Python Nordeste 2025](https://2025.pythonnordeste.org/) - _Teresina/PI_ ![presencial]
+- 27: [GitTogether São Paulo - JUNHO/2025](https://www.meetup.com/gittogether-brasil/events/307760086) - _São Paulo/SP_ ![presencial]
 <!-- JUNHO:END -->
 ### Julho
 <!-- JULHO:START -->
