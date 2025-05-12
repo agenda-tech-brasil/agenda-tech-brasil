@@ -32,6 +32,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 10: [Global Azure 2025 – Edição Azure Floripa](https://www.meetup.com/azure-floripa/events/306207034/?eventorigin=group_upcoming_events) - _Florianópolis/SC_ ![híbrido]
 - 10: [Encontro de Mulheres na Tecnologia: Edição Sul](https://www.sympla.com.br/evento/encontro-de-mulheres-na-tecnologia-edicao-sul/2892542?referrer=www.google.com) - _Canoas/RS_ ![presencial]
 - 12, 13, 14, 15 e 16: [QA Solidário: 4ª edição](https://linktr.ee/qasolidario) ![online]
+- 13: [Meetup de Comunidade: Do desenvolvimento à proteção, construindo aplicações PHP com consciência](https://www.sympla.com.br/evento/meetup-de-comunidade-do-desenvolvimento-a-protecao-construindo-aplicacoes-php-com-consciencia/2945333) - _São Paulo/SP_ ![presencial]
 - 14: [FIAP Meetup #147: Cybersecurity Forecast 2025/2026: desafios e tendências](https://www.meetup.com/fiapmeetups/events/306921593) - _São Paulo/SP_ ![presencial]
 - 17: [Porteira 443](https://porteira443.com) - _Goiânia/GO_ ![presencial]
 - 17 e 18: [BSidesSP - 2025](https://securitybsides.com.br/) - _São Paulo/SP_ ![presencial]

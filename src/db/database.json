@@ -6778,6 +6778,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Meetup de Comunidade: Do desenvolvimento à proteção, construindo aplicações PHP com consciência",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.sympla.com.br/evento/meetup-de-comunidade-do-desenvolvimento-a-protecao-construindo-aplicacoes-php-com-consciencia/2945333",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "FIAP Meetup #147: Cybersecurity Forecast 2025/2026: desafios e tendências",
               "data": [
                 "14"
