@@ -6865,6 +6865,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Meetup de Dia das Mães do SouJava",
+              "data": [
+                "21"
+              ],
+              "url": "https://www.meetup.com/soujava/events/307755108/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "[Clojure BR] 2o Encontro",
               "data": [
                 "22"
