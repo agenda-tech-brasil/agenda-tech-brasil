@@ -49,6 +49,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 20: [FIAP + Alura - Tecnologia Compartilhada: ecossistemas que impulsionam inovação](https://www.meetup.com/fiapmeetups/events/307700859) - _São Paulo/SP_ ![presencial]
 - 21: [Elas na IA: Aula 1: Conceitos de Computação em Nuvem com Microsoft Azure](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307238390) ![online]
 - 21: [Meetup de Dia das Mães do SouJava](https://www.meetup.com/soujava/events/307755108/) - _São Paulo/SP_ ![híbrido]
+- 21: [FIAP + Alura + PM3: Tecnologia para todas as carreiras - a revolução da IA](https://www.meetup.com/fiapmeetups/events/307802580) - _São Paulo/SP_ ![presencial]
 - 22: [[Clojure BR] 2o Encontro](https://www.meetup.com/clojure-br/events/307457094/) - _São Paulo/SP_ ![presencial]
 - 24: [PGDay Blumenau 2025](https://pgdayblumenau.com.br/) - _Blumenau/SC_ ![presencial]
 - 24: [Dados, o começo delas [Mulheres em Dados + Thoughtworks]](https://mulheresemdados.rds.land/evento-dados-o-comeco-delas) - _São Paulo/SP_ ![presencial]
