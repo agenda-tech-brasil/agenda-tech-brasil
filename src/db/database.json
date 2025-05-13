@@ -6778,6 +6778,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Meetup de Comunidade: Do desenvolvimento à proteção, construindo aplicações PHP com consciência",
+              "data": [
+                "13"
+              ],
+              "url": "https://www.sympla.com.br/evento/meetup-de-comunidade-do-desenvolvimento-a-protecao-construindo-aplicacoes-php-com-consciencia/2945333",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "FIAP Meetup #147: Cybersecurity Forecast 2025/2026: desafios e tendências",
               "data": [
                 "14"
@@ -6786,6 +6796,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "FIAP Meetup #148: Feature Engineering com Santander e Databricks.",
+              "data": [
+                "14"
+              ],
+              "url": "https://www.meetup.com/fiapmeetups/events/307737668",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
             },
             {
               "nome": "Porteira 443",
@@ -6805,6 +6825,16 @@
               "url": "https://www.meetup.com/azure-talks/events/307723366",
               "cidade": "São Paulo",
               "uf": "SP",
+           "tipo": "presencial"
+            },
+            {
+              "nome": "GitTogether Fortaleza",
+              "data": [
+                "17"
+              ],
+              "url": "https://www.meetup.com/gittogether-brasil/events/307759226",
+              "cidade": "Fortaleza",
+              "uf": "CE",
               "tipo": "presencial"
             },
             {
@@ -6873,6 +6903,16 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
+            },
+            {
+              "nome": "Meetup de Dia das Mães do SouJava",
+              "data": [
+                "21"
+              ],
+              "url": "https://www.meetup.com/soujava/events/307755108/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
             },
             {
               "nome": "[Clojure BR] 2o Encontro",
@@ -6975,6 +7015,16 @@
               "cidade": "Juiz De Fora",
               "uf": "MG",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Cumbuca Dev Floripa",
+              "data": [
+                "31"
+              ],
+              "url": "https://tech.floripa.br/eventos/cumbuca-dev-floripa/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "híbrido"
             }
           ]
         },
@@ -7066,6 +7116,16 @@
               "url": "https://2025.pythonnordeste.org/",
               "cidade": "Teresina",
               "uf": "PI",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "GitTogether São Paulo",
+              "data": [
+                "27"
+              ],
+              "url": "https://www.meetup.com/gittogether-brasil/events/307760086",
+              "cidade": "São Paulo",
+              "uf": "SP",
               "tipo": "presencial"
             }
           ]
@@ -7183,6 +7243,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "CyberSecFest SP",
+              "data": [
+                "21"
+              ],
+              "url": "https://www.devopsbootcamp.net/cybersecfest-saopaulo",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Bxsec Security Experience",
               "data": [
                 "23"
@@ -7254,6 +7324,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "FrontEnd Day - Fortaleza 2025",
+              "data": [
+                "20"
+              ],
+              "url": "https://frontendday.com.br/",
+              "cidade": "Fortaleza",
+              "uf": "CE",
+              "tipo": "presencial"
             }
           ]
         },
