@@ -34,7 +34,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 12, 13, 14, 15 e 16: [QA Solidário: 4ª edição](https://linktr.ee/qasolidario) ![online]
 - 14: [FIAP Meetup #147: Cybersecurity Forecast 2025/2026: desafios e tendências](https://www.meetup.com/fiapmeetups/events/306921593) - _São Paulo/SP_ ![presencial]
 - 17: [Porteira 443](https://porteira443.com) - _Goiânia/GO_ ![presencial]
-- 17: [GitTogether Fortaleza - Maio](https://www.meetup.com/gittogether-brasil/events/307759226) - _Fortaleza/CE_ ![presencial]
+- 17: [GitTogether Fortaleza](https://www.meetup.com/gittogether-brasil/events/307759226) - _Fortaleza/CE_ ![presencial]
 - 17 e 18: [BSidesSP - 2025](https://securitybsides.com.br/) - _São Paulo/SP_ ![presencial]
 - 17 e 18: [Codecon Universe](https://codecon.dev/universe) - _Joinville/SC_ ![presencial]
 - 17 e 18: [Formação AI Services, OpenAI e Data Science no Azure - Online](https://www.meetup.com/azureacademy/events/306774998) ![online]
