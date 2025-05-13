@@ -32,15 +32,20 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 10: [Global Azure 2025 – Edição Azure Floripa](https://www.meetup.com/azure-floripa/events/306207034/?eventorigin=group_upcoming_events) - _Florianópolis/SC_ ![híbrido]
 - 10: [Encontro de Mulheres na Tecnologia: Edição Sul](https://www.sympla.com.br/evento/encontro-de-mulheres-na-tecnologia-edicao-sul/2892542?referrer=www.google.com) - _Canoas/RS_ ![presencial]
 - 12, 13, 14, 15 e 16: [QA Solidário: 4ª edição](https://linktr.ee/qasolidario) ![online]
+- 13: [Meetup de Comunidade: Do desenvolvimento à proteção, construindo aplicações PHP com consciência](https://www.sympla.com.br/evento/meetup-de-comunidade-do-desenvolvimento-a-protecao-construindo-aplicacoes-php-com-consciencia/2945333) - _São Paulo/SP_ ![presencial]
 - 14: [FIAP Meetup #147: Cybersecurity Forecast 2025/2026: desafios e tendências](https://www.meetup.com/fiapmeetups/events/306921593) - _São Paulo/SP_ ![presencial]
+- 14: [FIAP Meetup #148: Feature Engineering com Santander e Databricks.](https://www.meetup.com/fiapmeetups/events/307737668) - _São Paulo/SP_ ![híbrido]
 - 15: [3o Meetup DevParaná Cascavel](https://www.meetup.com/developerparana/events/307718713) - _Cascavel/PR_ ![presencial]
 - 17: [Porteira 443](https://porteira443.com) - _Goiânia/GO_ ![presencial]
+- 17: [Azure Talks - Containers Weekend: Testcontainers, Hangfire, Azure...](https://www.meetup.com/azure-talks/events/307723366) - _São Paulo/SP_ ![presencial]
+- 17: [GitTogether Fortaleza](https://www.meetup.com/gittogether-brasil/events/307759226) - _Fortaleza/CE_ ![presencial]
 - 17 e 18: [BSidesSP - 2025](https://securitybsides.com.br/) - _São Paulo/SP_ ![presencial]
 - 17 e 18: [Codecon Universe](https://codecon.dev/universe) - _Joinville/SC_ ![presencial]
 - 17 e 18: [Formação AI Services, OpenAI e Data Science no Azure - Online](https://www.meetup.com/azureacademy/events/306774998) ![online]
 - 19: [Elas na IA: Live Inaugural - Apresentação do Programa - Painel sobre carreira em Data & AI](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307237715) ![online]
 - 19, 20, 21, 22 e 23: [XLIII Simpósio Brasileiro de Redes de Computadores - SBRC 2025](https://sbrc.sbc.org.br/2025) - _Natal/RN_ ![presencial]
 - 21: [Elas na IA: Aula 1: Conceitos de Computação em Nuvem com Microsoft Azure](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307238390) ![online]
+- 21: [Meetup de Dia das Mães do SouJava](https://www.meetup.com/soujava/events/307755108/) - _São Paulo/SP_ ![híbrido]
 - 22: [[Clojure BR] 2o Encontro](https://www.meetup.com/clojure-br/events/307457094/) - _São Paulo/SP_ ![presencial]
 - 24: [PGDay Blumenau 2025](https://pgdayblumenau.com.br/) - _Blumenau/SC_ ![presencial]
 - 24: [Dados, o começo delas [Mulheres em Dados + Thoughtworks]](https://mulheresemdados.rds.land/evento-dados-o-comeco-delas) - _São Paulo/SP_ ![presencial]
@@ -51,6 +56,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 29: [SIRENA Conference - 2025](https://www.instagram.com/sirena.conference/) - _São Paulo/SP_ ![presencial]
 - 30 e 31: [PHP Velho Oeste 2025](https://phpvelhoeste.com.br/) - _Chapecó/SC_ ![presencial]
 - 31: [Tech Hub Conf JF](https://techhubjf.org/conf) - _Juiz De Fora/MG_ ![presencial]
+- 31: [Cumbuca Dev Floripa](https://tech.floripa.br/eventos/cumbuca-dev-floripa/) - _Florianópolis/SC_ ![híbrido]
 <!-- MAIO:END -->
 ### Junho
 <!-- JUNHO:START -->
@@ -62,6 +68,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 11, 12 e 13: [TDC Floripa](https://thedevconf.com/tdc/2025/florianopolis/) - _Florianópolis/SC_ ![híbrido]
 - 17 e 18: [UNIVERSO TOTVS 2025](https://eventos.totvs.com/event/universo-totvs-2025) - _São Paulo/SP_ ![presencial]
 - 20, 21 e 22: [Python Nordeste 2025](https://2025.pythonnordeste.org/) - _Teresina/PI_ ![presencial]
+- 27: [GitTogether São Paulo](https://www.meetup.com/gittogether-brasil/events/307760086) - _São Paulo/SP_ ![presencial]
 <!-- JUNHO:END -->
 ### Julho
 <!-- JULHO:START -->
@@ -77,6 +84,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 11, 12, 13, 14, 15, 16 e 17: [Semana de Dados](https://www.sympla.com.br/evento-online/semana-de-dados-2025/2791872?utm_source=github&utm_medium=link&utm_campaign=semanadedados_2025) ![online]
 - 13: [Security Leaders Recife 2025](https://securityleaders.com.br/eventos/security-leaders-recife-2025/) - _Recife/PE_ ![presencial]
 - 16: [Hacking Na Web Day - Florianópolis - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Florianópolis/SC_ ![presencial]
+- 21: [CyberSecFest SP](https://www.devopsbootcamp.net/cybersecfest-saopaulo) - _São Paulo/SP_ ![presencial]
 - 23: [Bxsec Security Experience](https://www.instagram.com/bxsec/) - _Santos/SP_ ![presencial]
 <!-- AGOSTO:END -->
 ### Setembro
@@ -86,6 +94,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 13: [Hacking Na Web Day - Rio de Janeiro - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Rio De Janeiro/RJ_ ![presencial]
 - 13: [XibéSec - 2025](https://www.instagram.com/xibesec/) - _Belém/PA_ ![presencial]
 - 17, 18 e 19: [TDC SP](https://thedevconf.com/tdc/2025/sao-paulo/) - _São Paulo/SP_ ![híbrido]
+- 20: [FrontEnd Day - Fortaleza 2025](https://frontendday.com.br/) - _Fortaleza/CE_ ![presencial]
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
