@@ -6808,6 +6808,21 @@
               "tipo": "híbrido"
             },
             {
+              "nome": "Impacta Tech Summit",
+              "data": [
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "19"
+              ],
+              "url": "https://digital.impacta.com.br/lp/aula-gratuita/aula-inscricao?utm_source=facebook&utm_medium=cpc&utm_campaign=fb_prf_conv-lead_impacta_pos-graduacao_captacao-lives_base-fria-v2_nova&utm_content=_01_lal_leads-qualificados_&utm_term=impacta_captacao-lives_17-host_group_1&utm_id=120224922114920220_v2_s01",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "3o Meetup DevParaná Cascavel",
               "data": [
                 "15"
@@ -6845,7 +6860,7 @@
               "url": "https://www.meetup.com/azure-talks/events/307723366",
               "cidade": "São Paulo",
               "uf": "SP",
-           "tipo": "presencial"
+              "tipo": "presencial"
             },
             {
               "nome": "GitTogether Fortaleza",
