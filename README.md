@@ -51,6 +51,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 21: [Meetup de Dia das Mães do SouJava](https://www.meetup.com/soujava/events/307755108/) - _São Paulo/SP_ ![híbrido]
 - 21: [FIAP + Alura + PM3: Tecnologia para todas as carreiras - a revolução da IA](https://www.meetup.com/fiapmeetups/events/307802580) - _São Paulo/SP_ ![presencial]
 - 22: [[Clojure BR] 2o Encontro](https://www.meetup.com/clojure-br/events/307457094/) - _São Paulo/SP_ ![presencial]
+- 23: [Meetup DevOpsDays São Paulo 2025](https://www.linkedin.com/posts/devopsdayssp_devops-devopsdayssp-meetup-activity-7328388684762779648-rsj0?utm_source=share&utm_medium=member_desktop&rcm=acoaaamqvx4bx8xpzbizazcxzurthtvagmoo8dc) - _São Paulo/SP_ ![presencial]
 - 24: [PGDay Blumenau 2025](https://pgdayblumenau.com.br/) - _Blumenau/SC_ ![presencial]
 - 24: [Dados, o começo delas [Mulheres em Dados + Thoughtworks]](https://mulheresemdados.rds.land/evento-dados-o-comeco-delas) - _São Paulo/SP_ ![presencial]
 - 24: [Meetup de Devs do Vale do Paranhana](https://www.sympla.com.br/evento/meetup-de-devs-do-vale-do-paranhana-n-7/2897384?_gl=1*1wfipvs*_gcl_au*mtiwnzi1mjq4ny4xnzqzndywody4*_ga*mzc5nji2nzmzlje3ndm0nja4njg.*_ga_kxh10sqtzf*mtc0mzk2mdg2nc4yljeumtc0mzk2mdk5os41os4wlje5ntkxotyxoda) - _Taquara/RS_ ![presencial]
