@@ -7472,6 +7472,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "DevOpsDays São Paulo",
+              "data": [
+                "22"
+              ],
+              "url": "https://devopsdays.org/events/2025-sao-paulo/welcome/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC Summit Brasília",
               "data": [
                 "26",
