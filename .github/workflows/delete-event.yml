@@ -79,11 +79,6 @@ jobs:
           pip3 install -r src/requirements.txt
           python3 src/remove_event.py
 
-      - name: Gera o markdown baseado no database.json
-        run: |
-          pip3 install -r src/requirements.txt
-          python3 src/generate_page.py
-
       - name: Set up Git
         run: |
           git config --global user.name "${{ github.event.issue.user.login }}"
@@ -93,7 +88,7 @@ jobs:
         run: |
           branch_name="feature/add-event-issue-${{ github.event.issue.number }}"
           git checkout -b $branch_name
-          git add README.md src/db/database.json
+          git add src/db/database.json
           git commit -m "Cancelando evento: ${{ env.event_name }}"
           git push origin $branch_name
 
