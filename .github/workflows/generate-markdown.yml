@@ -1,0 +1,37 @@
+name: Gerar Markdown após Push
+on:
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write
+
+jobs:
+  generate-markdown:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checar o repositório
+        uses: actions/checkout@v4
+
+      - name: Instalar dependências Python
+        run: |
+          python3 -m pip install --upgrade pip
+          pip3 install -r src/requirements.txt
+
+      - name: Gera o markdown baseado no database.json
+        run: python3 src/generate_page.py
+
+      - name: Configurar Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit e push do markdown quando há alteração
+        run: |
+          git add README.md
+          git diff --cached --quiet || git commit -m "Atualizando README.md"
+          git push
+
+          echo "Worflow de geração de Markdown rodou com sucesso!"
+          
