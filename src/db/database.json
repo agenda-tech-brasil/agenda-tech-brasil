@@ -7194,6 +7194,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "cTENcf Santa Catarina: 10 Anos de Cloud Native",
+              "data": [
+                "25"
+              ],
+              "url": "https://community.cncf.io/events/details/cncf-cloud-native-santa-catarina-presents-ctencf-santa-catarina-10-anos-de-cloud-native/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
               "nome": "GitTogether São Paulo",
               "data": [
                 "27"
