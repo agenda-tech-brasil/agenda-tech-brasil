@@ -110,6 +110,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- OUTUBRO:END -->
 ### Novembro
 <!-- NOVEMBRO:START -->
+- 15: [Front in Floripa 2025](https://frontin.floripa.br) - _Florianópolis/SC_ ![presencial]
 - 18, 19 e 20: [AI Summit 2025](https://www.sympla.com.br/evento-online/ai-summit-2025/2905033?utm_source=github&utm_medium=link&utm_campaign=aisummit_2025) ![online]
 - 22: [Big Data Brazil Experience 2025](https://www.sympla.com.br/evento/big-data-brazil-experience-2025/2571633) - _São Paulo/SP_ ![presencial]
 - 22: [DevOpsDays São Paulo](https://devopsdays.org/events/2025-sao-paulo/welcome/) - _São Paulo/SP_ ![presencial]
