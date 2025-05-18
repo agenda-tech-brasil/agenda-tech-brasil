@@ -58,6 +58,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 26: [Elas na IA: Aula 2: Introdução ao Aprendizado de Máquina e Inteligência Artificial](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307306271) ![online]
 - 28: [Microsoft Reactor - Obtenha a certificação: prepare-se para o seu exame de Fabric e Q&A](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307565106) ![online]
 - 29: [SIRENA Conference - 2025](https://www.instagram.com/sirena.conference/) - _São Paulo/SP_ ![presencial]
+- 29: [Meetup de Comunidade: Do Código à Startup, explorando o potencial da IA](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-meetup-de-comunidade-do-codigo-a-startup-explorando-o-potencial-da-ia/) - _Porto Alegre/RS_ ![presencial]
 - 30 e 31: [PHP Velho Oeste 2025](https://phpvelhoeste.com.br/) - _Chapecó/SC_ ![presencial]
 - 31: [Tech Hub Conf JF](https://techhubjf.org/conf) - _Juiz De Fora/MG_ ![presencial]
 - 31: [Cumbuca Dev Floripa](https://tech.floripa.br/eventos/cumbuca-dev-floripa/) - _Florianópolis/SC_ ![híbrido]
@@ -111,6 +112,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- NOVEMBRO:START -->
 - 18, 19 e 20: [AI Summit 2025](https://www.sympla.com.br/evento-online/ai-summit-2025/2905033?utm_source=github&utm_medium=link&utm_campaign=aisummit_2025) ![online]
 - 22: [Big Data Brazil Experience 2025](https://www.sympla.com.br/evento/big-data-brazil-experience-2025/2571633) - _São Paulo/SP_ ![presencial]
+- 22: [DevOpsDays São Paulo](https://devopsdays.org/events/2025-sao-paulo/welcome/) - _São Paulo/SP_ ![presencial]
 - 26 e 27: [TDC Summit Brasília](https://thedevconf.com/tdc/2025/summit-brasilia/) - _Brasília/DF_ ![híbrido]
 - 29 e 30: [GambiConf](https://gambiconf.dev/) - _São Paulo/SP_ ![híbrido]
 <!-- NOVEMBRO:END -->

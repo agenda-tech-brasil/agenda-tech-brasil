@@ -7051,6 +7051,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Meetup de Comunidade: Do Código à Startup, explorando o potencial da IA",
+              "data": [
+                "29"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-meetup-de-comunidade-do-codigo-a-startup-explorando-o-potencial-da-ia/",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
               "nome": "PHP Velho Oeste 2025",
               "data": [
                 "30",
@@ -7467,6 +7477,16 @@
                 "22"
               ],
               "url": "https://www.sympla.com.br/evento/big-data-brazil-experience-2025/2571633",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DevOpsDays São Paulo",
+              "data": [
+                "22"
+              ],
+              "url": "https://devopsdays.org/events/2025-sao-paulo/welcome/",
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
