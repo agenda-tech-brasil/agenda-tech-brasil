@@ -7286,6 +7286,18 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Expotec 2025",
+              "data": [
+                "23",
+                "24",
+                "25"
+              ],
+              "url": "https://www.expotec.org.br/2025/m-index.php",
+              "cidade": "João Pessoa",
+              "uf": "PB",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Tech Woman",
               "data": [
                 "26"
