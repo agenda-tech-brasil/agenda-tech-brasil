@@ -7090,6 +7090,16 @@
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "Meetup LINUXtips.local São Paulo",
+              "data": [
+                "31"
+              ],
+              "url": "https://linuxtips.io/local-meetup/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             }
           ]
         },

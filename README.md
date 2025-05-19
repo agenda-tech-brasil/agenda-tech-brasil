@@ -62,6 +62,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 30 e 31: [PHP Velho Oeste 2025](https://phpvelhoeste.com.br/) - _Chapecó/SC_ ![presencial]
 - 31: [Tech Hub Conf JF](https://techhubjf.org/conf) - _Juiz De Fora/MG_ ![presencial]
 - 31: [Cumbuca Dev Floripa](https://tech.floripa.br/eventos/cumbuca-dev-floripa/) - _Florianópolis/SC_ ![híbrido]
+- 31: [Meetup LINUXtips.local São Paulo](https://linuxtips.io/local-meetup/) - _São Paulo/SP_ ![presencial]
 <!-- MAIO:END -->
 ### Junho
 <!-- JUNHO:START -->
