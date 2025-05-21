@@ -7148,6 +7148,20 @@
               "tipo": "online"
             },
             {
+              "nome": "Semana Carreira Tech FIAP + Alura",
+              "data": [
+                "09",
+                "10",
+                "11",
+                "12",
+                "13"
+              ],
+              "url": "https://carreiratech.fiap.com.br/?utm_source=meetup&utm_medium=ativacao_meetup&utm_campaign=semana_carreira_tech_2025",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "GitHub Actions: Reusabilidade",
               "data": [
                 "10"
