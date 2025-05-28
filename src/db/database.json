@@ -7505,6 +7505,16 @@
               "cidade": "Fortaleza",
               "uf": "CE",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Esquenta MVPConf - Curitiba",
+              "data": [
+                "27"
+              ],
+              "url": "https://www.hubingressos.com.br/evento/esquentamvpconfcuritiba",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
             }
           ]
         },
