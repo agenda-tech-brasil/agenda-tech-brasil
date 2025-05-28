@@ -7378,6 +7378,21 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "SouDevCon 2025",
+              "data": [
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09"
+              ],
+              "url": "https://soudevcon.com.br/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Semana de Dados",
               "data": [
                 "11",
