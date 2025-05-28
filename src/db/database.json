@@ -7286,6 +7286,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "NodeBR #74 - Redescobrindo o Open Source",
+              "data": [
+                "27"
+              ],
+              "url": "https://developer.microsoft.com/en-us/reactor/events/25935/?wt.mc_id=1reg_25935_webpage_reactor",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             }
           ]
         },
