@@ -7414,6 +7414,21 @@
               "tipo": "presencial"
             },
             {
+              "nome": "CONFLOSS 2025",
+              "data": [
+                "18",
+                "19",
+                "20",
+                "21",
+                "22",
+                "23"
+              ],
+              "url": "https://confloss.com.br/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "CyberSecFest SP",
               "data": [
                 "21"
