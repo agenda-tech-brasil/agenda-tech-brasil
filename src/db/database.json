@@ -7286,6 +7286,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "IA Generativa e Agents com Azure",
+              "data": [
+                "28"
+              ],
+              "url": "https://developer.microsoft.com/pt-br/reactor/events/26013/?wt.mc_id=1reg_26013_webpage_reactor",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             }
           ]
         },
