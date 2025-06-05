@@ -7010,6 +7010,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Segurança em aplicações + Dataviz / Power BI",
+              "data": [
+                "24"
+              ],
+              "url": "https://www.meetup.com/azure-talks/events/307913638",
+              "cidade": "Campinas",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Formação Azure Specialist AZ-900 AZ-104 AZ-305",
               "data": [
                 "24",
@@ -7118,6 +7128,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Summit de IA",
+              "data": [
+                "05"
+              ],
+              "url": "https://www.summitdeinteligenciaartificial.com/informa-es-do-evento-e-registro/summit-de-ia-2025",
+              "cidade": "Joinvile",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Hacking Na Web Day - Belo Horizonte - 2025",
               "data": [
                 "07"
@@ -7143,6 +7163,20 @@
                 "09"
               ],
               "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/307788495",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
+              "nome": "Semana Carreira Tech FIAP + Alura",
+              "data": [
+                "09",
+                "10",
+                "11",
+                "12",
+                "13"
+              ],
+              "url": "https://carreiratech.fiap.com.br/?utm_source=meetup&utm_medium=ativacao_meetup&utm_campaign=semana_carreira_tech_2025",
               "cidade": "",
               "uf": "",
               "tipo": "online"
@@ -7181,11 +7215,21 @@
               "tipo": "híbrido"
             },
             {
+
               "nome": "Escola Livre de IA​: IA Generativa e Agentes de IA Generativa​",
               "data": [
                 "12"
               ],
               "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/307862978",
+            },
+            {
+
+              "nome": "O Melhor do Microsoft Build",
+              "data": [
+                "17"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/307803937",
+
               "cidade": "",
               "uf": "",
               "tipo": "online"
@@ -7214,6 +7258,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Boas práticas para dominar o GitHub Copilot Chat com Cyynthia Zanoni",
+              "data": [
+                "24"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/307865224",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "cTENcf Santa Catarina: 10 Anos de Cloud Native",
               "data": [
                 "25"
@@ -7222,6 +7276,16 @@
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Integrações Práticas com MCP Servers no VS Code e GitHub Copilot com Cynthia Zanoni",
+              "data": [
+                "26"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/307865251",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             },
             {
               "nome": "GitTogether São Paulo",
@@ -7293,6 +7357,18 @@
               "url": "https://csbc.sbc.org.br/2025/",
               "cidade": "Maceió",
               "uf": "AL",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Expotec 2025",
+              "data": [
+                "23",
+                "24",
+                "25"
+              ],
+              "url": "https://www.expotec.org.br/2025/m-index.php",
+              "cidade": "João Pessoa",
+              "uf": "PB",
               "tipo": "presencial"
             },
             {
