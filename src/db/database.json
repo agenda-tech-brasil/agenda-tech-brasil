@@ -7071,6 +7071,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Dev Paraná: Frontend Maringá na One Portaria",
+              "data": [
+                "29"
+              ],
+              "url": "https://www.meetup.com/developerparana/events/307923515",
+              "cidade": "Maringá",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "PHP Velho Oeste 2025",
               "data": [
                 "30",
@@ -7128,6 +7138,16 @@
               "tipo": "online"
             },
             {
+
+              "nome": "Pyladies e Grupy-SP no Microsoft Reactor",
+              "data": [
+                "06"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/307942759",
+              "cidade": "São Paulo",
+              "uf": "SP"
+            },
+            {
               "nome": "Summit de IA",
               "data": [
                 "05"
@@ -7135,6 +7155,16 @@
               "url": "https://www.summitdeinteligenciaartificial.com/informa-es-do-evento-e-registro/summit-de-ia-2025",
               "cidade": "Joinvile",
               "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Pylestras de Junho das Pyladies + Grupy @ Microsoft Reactor",
+              "data": [
+                "06"
+              ],
+              "url": "https://developer.microsoft.com/en-us/reactor/events/25949/",
+              "cidade": "São Paulo",
+              "uf": "SP",
               "tipo": "presencial"
             },
             {
@@ -7203,6 +7233,17 @@
               "tipo": "online"
             },
             {
+              "nome": "Microsoft Dev & AI discoveryy",
+              "data": [
+                "11",
+                "12"
+              ],
+              "url": "https://aidiscovery.com.br/index.html",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "TDC Floripa",
               "data": [
                 "11",
@@ -7215,11 +7256,21 @@
               "tipo": "híbrido"
             },
             {
+
+              "nome": "Escola Livre de IA​: IA Generativa e Agentes de IA Generativa​",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/307862978",
+            },
+            {
+
               "nome": "O Melhor do Microsoft Build",
               "data": [
                 "17"
               ],
               "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/307803937",
+
               "cidade": "",
               "uf": "",
               "tipo": "online"
@@ -7278,6 +7329,16 @@
               "tipo": "online"
             },
             {
+              "nome": "[Meetup Clojure BR] Aplicação de Técnicas de IA para Testes Unitários em Clojure",
+              "data": [
+                "26"
+              ],
+              "url": "https://www.meetup.com/clojure-br/events/308109054",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "GitTogether São Paulo",
               "data": [
                 "27"
@@ -7293,6 +7354,13 @@
                 "28"
               ],
               "url": "https://developer.microsoft.com/pt-br/reactor/events/26013/?wt.mc_id=1reg_26013_webpage_reactor",
+            },
+            {
+              "nome": "NodeBR #74 - Redescobrindo o Open Source",
+              "data": [
+                "27"
+              ],
+              "url": "https://developer.microsoft.com/en-us/reactor/events/25935/?wt.mc_id=1reg_25935_webpage_reactor",
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
@@ -7388,6 +7456,21 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "SouDevCon 2025",
+              "data": [
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09"
+              ],
+              "url": "https://soudevcon.com.br/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Semana de Dados",
               "data": [
                 "11",
@@ -7422,6 +7505,21 @@
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "presencial"
+            },
+            {
+              "nome": "CONFLOSS 2025",
+              "data": [
+                "18",
+                "19",
+                "20",
+                "21",
+                "22",
+                "23"
+              ],
+              "url": "https://confloss.com.br/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             },
             {
               "nome": "CyberSecFest SP",
@@ -7514,6 +7612,16 @@
               "url": "https://frontendday.com.br/",
               "cidade": "Fortaleza",
               "uf": "CE",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Esquenta MVPConf - Curitiba",
+              "data": [
+                "27"
+              ],
+              "url": "https://www.hubingressos.com.br/evento/esquentamvpconfcuritiba",
+              "cidade": "Curitiba",
+              "uf": "PR",
               "tipo": "presencial"
             }
           ]
