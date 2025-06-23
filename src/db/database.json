@@ -7138,7 +7138,6 @@
               "tipo": "online"
             },
             {
-
               "nome": "Pyladies e Grupy-SP no Microsoft Reactor",
               "data": [
                 "06"
@@ -7394,6 +7393,16 @@
           "mes": "julho",
           "arquivado": false,
           "eventos": [
+            {
+              "nome": "AWS UG MOC - Aumentando a Produtividade em Iac com IA",
+              "data": [
+                "01"
+              ],
+              "url": "https://www.meetup.com/pt-br/aws-user-group-montes-claros/events/308582004/?recid=41967b63-0b77-4530-bfb3-99c093c06256&recsource=event-search&searchid=ec38aaf6-1878-4331-82b5-feef6c9acb3e&eventorigin=find_page%24all",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
             {
               "nome": "Python Norte 2025",
               "data": [
