@@ -7747,6 +7747,19 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "ENMC 2025",
+              "data": [
+                "21",
+                "22",
+                "23",
+                "24"
+              ],
+              "url": "https://2025.enmc.com.br/programacao",
+              "cidade": "Montes Claros",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Python Brasil 2025",
               "data": [
                 "21",
