@@ -7659,6 +7659,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Datacon 2025",
+              "data": [
+                "06"
+              ],
+              "url": "https://codecon.dev/datacon",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Hacking Na Web Day - Rio de Janeiro - 2025",
               "data": [
                 "13"
