@@ -7295,6 +7295,20 @@
               "tipo": "híbrido"
             },
             {
+              "nome": "CelebrationWeek for 30y of Java",
+              "data": [
+                "16",
+                "17",
+                "18",
+                "19",
+                "20"
+              ],
+              "url": "https://soujava.dev/celebration-week",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "O Melhor do Microsoft Build",
               "data": [
                 "17"
