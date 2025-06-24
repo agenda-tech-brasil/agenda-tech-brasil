@@ -6687,7 +6687,7 @@
         },
         {
           "mes": "maio",
-          "arquivado": false,
+          "arquivado": true,
           "eventos": [
             {
               "nome": "MiniDebConf Maceió 2025",
