@@ -7770,6 +7770,17 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "The Developers Life Weekend 2025",
+              "data": [
+                "07",
+                "08"
+              ],
+              "url": "https://weekend.developerslife.tech/evento/6/the-developers-life-weekend-2025-campo-mourao-pr",
+              "cidade": "Campo Mourão",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "AI Summit 2025",
               "data": [
                 "18",
