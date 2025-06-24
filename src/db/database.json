@@ -7573,6 +7573,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "DevopsDays Rio de Janeiro",
+              "data": [
+                "16"
+              ],
+              "url": "https://devopsdays.org/events/2025-rio-de-janeiro/welcome/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
               "nome": "CONFLOSS 2025",
               "data": [
                 "18",
