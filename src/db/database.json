@@ -7679,6 +7679,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "DevPR Conf - Especial 10 anos",
+              "data": [
+                "13"
+              ],
+              "url": "https://devpr.org/",
+              "cidade": "Maringá",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC SP",
               "data": [
                 "17",
