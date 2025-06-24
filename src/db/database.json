@@ -7606,6 +7606,16 @@
               "cidade": "Santos",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "DevopsDays Curitiba",
+              "data": [
+                "30"
+              ],
+              "url": "https://devopsdays.org/events/2025-curitiba/welcome/",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
             }
           ]
         },
