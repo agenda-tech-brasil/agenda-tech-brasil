@@ -7285,6 +7285,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Meetup SouJava de Junho",
+              "data": [
+                "16"
+              ],
+              "url": "https://souj.org/junho25",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "O Melhor do Microsoft Build",
               "data": [
                 "17"
