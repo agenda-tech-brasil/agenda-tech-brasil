@@ -7514,6 +7514,16 @@
               "cidade": "Recife",
               "uf": "PE",
               "tipo": "presencial"
+            },
+            {
+              "nome": "HackTown",
+              "data": [
+                "31"
+              ],
+              "url": "https://hacktown.com.br/",
+              "cidade": "Santa Rita Do Sapucaí",
+              "uf": "MG",
+              "tipo": "presencial"
             }
           ]
         },
