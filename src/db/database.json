@@ -7761,6 +7761,16 @@
               "cidade": "Curitiba",
               "uf": "PR",
               "tipo": "presencial"
+            },
+            {
+              "nome": "MVP CONF - Curitiba",
+              "data": [
+                "27"
+              ],
+              "url": "https://www.hubingressos.com.br/evento/mvpconfcuritiba",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
             }
           ]
         },
