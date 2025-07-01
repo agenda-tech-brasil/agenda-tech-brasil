@@ -7552,6 +7552,17 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Python Cerrado 2025",
+              "data": [
+                "01",
+                "02"
+              ],
+              "url": "https://2025.pythoncerrado.org",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "presencial"
+            },
+            {
               "nome": "SouDevCon 2025",
               "data": [
                 "04",
