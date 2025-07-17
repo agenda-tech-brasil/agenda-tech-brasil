@@ -7820,6 +7820,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "MySQL BR Conf 2025",
+              "data": [
+                "04"
+              ],
+              "url": "https://mysqlbr.com.br/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "ENMC 2025",
               "data": [
                 "21",
