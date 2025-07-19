@@ -7794,6 +7794,17 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Congresso da Cidadania Digital 2025",
+              "data": [
+                "24",
+                "25"
+              ],
+              "url": "https://congressodacidadaniadigital.iti.gov.br/2025/",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Esquenta MVPConf - Curitiba",
               "data": [
                 "27"
