@@ -103,6 +103,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 13: [XibéSec - 2025](https://www.instagram.com/xibesec/) - _Belém/PA_ ![presencial]
 - 17, 18 e 19: [TDC SP](https://thedevconf.com/tdc/2025/sao-paulo/) - _São Paulo/SP_ ![híbrido]
 - 20: [FrontEnd Day - Fortaleza 2025](https://frontendday.com.br/) - _Fortaleza/CE_ ![presencial]
+- 22, 23, 24, 25 e 26: [23º Semana Brasileira de Informática Biomédica](https://www.instagram.com/semanadaibm/) - _Paraná (UFPR), Rio Grande do Sul (UFCSPA), São Paulo (USP)_ ![híbrido]
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
