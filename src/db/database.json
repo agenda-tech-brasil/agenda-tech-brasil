@@ -7859,6 +7859,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Brazil JS 2025",
+              "data": [
+                "24"
+              ],
+              "url": "https://conf.braziljs.org/",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Hacking Na Web Day - São Paulo - 2025",
               "data": [
                 "25"
