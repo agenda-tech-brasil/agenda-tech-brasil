@@ -7784,6 +7784,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "RecrutaTech | Evento de Tecnologia e Carreira",
+              "data": [
+                "20"
+              ],
+              "url": "https://www.recrutatech.com.br",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "Security BSides João Pessoa 2025",
               "data": [
                 "21"
