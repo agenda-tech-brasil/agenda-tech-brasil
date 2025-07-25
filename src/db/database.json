@@ -7820,6 +7820,17 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "PHPeste 2025",
+              "data": [
+                "03",
+                "04"
+              ],
+              "url": "https://phppiaui.com.br/",
+              "cidade": "Parnaíba",
+              "uf": "PI",
+              "tipo": "presencial"
+            },
+            {
               "nome": "MySQL BR Conf 2025",
               "data": [
                 "04"
