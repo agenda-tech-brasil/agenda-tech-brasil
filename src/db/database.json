@@ -7940,6 +7940,19 @@
               "tipo": "híbrido"
             },
             {
+              "nome": "Latinoware 2025",
+              "data": [
+                "27",
+                "28",
+                "29",
+                "30"
+              ],
+              "url": "https://latinoware.org/",
+              "cidade": "Foz Do Iguaçu",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "GambiConf",
               "data": [
                 "29",
