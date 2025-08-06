@@ -7552,6 +7552,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Leading Tech Sessions: Como Criar e Gerir uma Estratégia de Produto na Prática",
+              "data": [
+                "01"
+              ],
+              "url": "https://hubs.li/q03y16p20",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "Python Cerrado 2025",
               "data": [
                 "01",
@@ -7560,6 +7570,16 @@
               "url": "https://2025.pythoncerrado.org",
               "cidade": "Brasília",
               "uf": "DF",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "OKRs e Topologia de Times de Produto e Tecnologia na Prática",
+              "data": [
+                "04"
+              ],
+              "url": "https://hubs.li/q03y14gd0",
+              "cidade": "São Paulo",
+              "uf": "SP",
               "tipo": "presencial"
             },
             {
@@ -7576,6 +7596,16 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
+            },
+            {
+              "nome": "Construindo produtos com IA Generativa",
+              "data": [
+                "06"
+              ],
+              "url": "https://www.sympla.com.br/evento/construindo-produtos-com-ia-generativa/3056023",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "presencial"
             },
             {
               "nome": "Semana de Dados",
@@ -7671,11 +7701,19 @@
               "tipo": "presencial"
             },
             {
+
               "nome": "Microsoft Reactor - Escola Livre de IA: Machine Learning na era da IA",
               "data": [
                 "27"
               ],
               "url": "https://www.meetup.com/pt-br/microsoft-reactor-sao-paulo/events/310354984",
+            },
+            {
+              "nome": "FIAP Meetup #158 - Visão de Futuro: produtos inteligentes com IA",
+              "data": [
+                "26"
+              ],
+              "url": "https://www.meetup.com/pt-br/fiapmeetups/events/310372037",
               "cidade": "",
               "uf": "",
               "tipo": "online"
@@ -7804,6 +7842,31 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Congresso Brasileiro de Software: Teoria e Prática (CBSoft)",
+              "data": [
+                "22",
+                "23",
+                "24",
+                "25",
+                "26"
+              ],
+              "url": "https://cbsoft.sbc.org.br/2025/cbsoft/",
+              "cidade": "Recife",
+              "uf": "PE",
+               },
+            {
+              
+              "nome": "Congresso da Cidadania Digital 2025",
+              "data": [
+                "24",
+                "25"
+              ],
+              "url": "https://congressodacidadaniadigital.iti.gov.br/2025/",
+              "cidade": "Brasília",
+              "uf": "DF",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Esquenta MVPConf - Curitiba",
               "data": [
                 "27"
@@ -7866,6 +7929,16 @@
               "url": "https://2025.pythonbrasil.org.br/",
               "cidade": "São Paulo",
               "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Brazil JS 2025",
+              "data": [
+                "24"
+              ],
+              "url": "https://conf.braziljs.org/",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
               "tipo": "presencial"
             },
             {
@@ -7948,6 +8021,19 @@
               "cidade": "Brasília",
               "uf": "DF",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "Latinoware 2025",
+              "data": [
+                "27",
+                "28",
+                "29",
+                "30"
+              ],
+              "url": "https://latinoware.org/",
+              "cidade": "Foz Do Iguaçu",
+              "uf": "PR",
+              "tipo": "presencial"
             },
             {
               "nome": "GambiConf",
