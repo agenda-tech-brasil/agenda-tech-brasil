@@ -156,13 +156,13 @@ jobs:
           event_state=$(extract_abbreviation "${event_state}")
 
 
-          echo "event_name=${event_name}" >> $GITHUB_ENV
-          echo "event_url=${event_url}" >> $GITHUB_ENV
-          echo "event_city=${event_city}" >> $GITHUB_ENV
-          echo "event_state=${event_state}" >> $GITHUB_ENV
-          echo "event_year=${event_year}" >> $GITHUB_ENV
-          echo "event_month=${event_month}" >> $GITHUB_ENV
-          echo "event_day=${event_day}" >> $GITHUB_ENV
+          echo "event_name=$(echo "${event_name}" | tr -d '\n\r')" >> $GITHUB_ENV
+          echo "event_url=$(echo "${event_url}" | tr -d '\n\r')" >> $GITHUB_ENV
+          echo "event_city=$(echo "${event_city}" | tr -d '\n\r')" >> $GITHUB_ENV
+          echo "event_state=$(echo "${event_state}" | tr -d '\n\r')" >> $GITHUB_ENV
+          echo "event_year=$(echo "${event_year}" | tr -d '\n\r')" >> $GITHUB_ENV
+          echo "event_month=$(echo "${event_month}" | tr -d '\n\r')" >> $GITHUB_ENV
+          echo "event_day=$(echo "${event_day}" | tr -d '\n\r')" >> $GITHUB_ENV
 
       - name: Definir tipo de Evento como Híbrido
         run: |
