@@ -116,9 +116,9 @@ jobs:
 
       - name: Obter detalhes do evento da issue
         id: event_details
+        env:
+          EVENT_INFO: ${{ github.event.issue.body }}
         run: |
-
-          event_info="${{ github.event.issue.body }}"
 
           get_event_values() {
             local event_info="$1"
@@ -136,13 +136,13 @@ jobs:
             echo "$1" | awk '{ for(i=1;i<=NF;i++) $i=toupper(substr($i,1,1)) substr($i,2); }1'
           }
 
-          event_name=$(get_event_values "$event_info" 'Nome do(a) Evento/Agenda')
-          event_url=$(get_event_values "$event_info" 'Site do(a) Evento/Agenda')
-          event_city=$(get_event_values "$event_info" 'Cidade do(a) Evento/Agenda')
-          event_state=$(get_event_values "$event_info" 'Estado Federativo do(a) Evento/Agenda')
-          event_year=$(get_event_values "$event_info" 'Ano do(a) Evento/Agenda')
-          event_month=$(get_event_values "$event_info" 'Mês do(a) Evento/Agenda')
-          event_day=$(get_event_values "$event_info" 'Dia do(a) Evento/Agenda')
+          event_name=$(get_event_values "$EVENT_INFO" 'Nome do(a) Evento/Agenda')
+          event_url=$(get_event_values "$EVENT_INFO" 'Site do(a) Evento/Agenda')
+          event_city=$(get_event_values "$EVENT_INFO" 'Cidade do(a) Evento/Agenda')
+          event_state=$(get_event_values "$EVENT_INFO" 'Estado Federativo do(a) Evento/Agenda')
+          event_year=$(get_event_values "$EVENT_INFO" 'Ano do(a) Evento/Agenda')
+          event_month=$(get_event_values "$EVENT_INFO" 'Mês do(a) Evento/Agenda')
+          event_day=$(get_event_values "$EVENT_INFO" 'Dia do(a) Evento/Agenda')
 
           if [[ $event_day == "_No response_" ]]; then
             event_month=TBA
