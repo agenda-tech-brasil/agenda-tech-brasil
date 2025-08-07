@@ -215,7 +215,7 @@ jobs:
           EVENT_INFO: ${{ github.event.issue.body }}
         run: |
 
-          event_info="$EVENT_INFO"
+          event_info="$(printf '%s' "$EVENT_INFO")"
 
           get_event_values() {
             local event_info="$1"
