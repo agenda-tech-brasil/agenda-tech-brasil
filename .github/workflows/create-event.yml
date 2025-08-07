@@ -156,13 +156,13 @@ jobs:
           event_state=$(extract_abbreviation "${event_state}")
 
 
-          echo "event_name=$(echo "${event_name}" | tr -d '\n\r')" >> $GITHUB_ENV
-          echo "event_url=$(echo "${event_url}" | tr -d '\n\r')" >> $GITHUB_ENV
-          echo "event_city=$(echo "${event_city}" | tr -d '\n\r')" >> $GITHUB_ENV
-          echo "event_state=$(echo "${event_state}" | tr -d '\n\r')" >> $GITHUB_ENV
-          echo "event_year=$(echo "${event_year}" | tr -d '\n\r')" >> $GITHUB_ENV
-          echo "event_month=$(echo "${event_month}" | tr -d '\n\r')" >> $GITHUB_ENV
-          echo "event_day=$(echo "${event_day}" | tr -d '\n\r')" >> $GITHUB_ENV
+          echo "event_name=$(sanitize_env_value "${event_name}")" >> $GITHUB_ENV
+          echo "event_url=$(sanitize_env_value "${event_url}")" >> $GITHUB_ENV
+          echo "event_city=$(sanitize_env_value "${event_city}")" >> $GITHUB_ENV
+          echo "event_state=$(sanitize_env_value "${event_state}")" >> $GITHUB_ENV
+          echo "event_year=$(sanitize_env_value "${event_year}")" >> $GITHUB_ENV
+          echo "event_month=$(sanitize_env_value "${event_month}")" >> $GITHUB_ENV
+          echo "event_day=$(sanitize_env_value "${event_day}")" >> $GITHUB_ENV
 
       - name: Definir tipo de Evento como Híbrido
         run: |
