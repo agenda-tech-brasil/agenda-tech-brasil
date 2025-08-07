@@ -194,13 +194,14 @@ jobs:
           gh pr create \
           -B main \
           -H ${{ env.branch_name }} \
-          --title "Agenda/Evento: ${{ env.event_name }}" \
+          --title "Agenda/Evento: $event_name" \
           --body "Closes #${{ github.event.issue.number }}" \
           --label cadastrar \
           --label híbrido \
           --reviewer "${{ env.reviewers }}"
         env:
           GH_TOKEN: ${{ github.token }}
+          event_name: ${{ env.event_name }}
 
   create-online-event:
     if: contains(github.event.issue.labels.*.name, 'cadastrar') && contains(github.event.issue.labels.*.name, 'online')
