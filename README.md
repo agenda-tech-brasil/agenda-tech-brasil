@@ -31,24 +31,27 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 21: [CyberSecFest SP](https://www.devopsbootcamp.net/cybersecfest-saopaulo) - _São Paulo/SP_ ![presencial]
 - 23: [Bxsec Security Experience](https://www.instagram.com/bxsec/) - _Santos/SP_ ![presencial]
 <!-- AGOSTO:END -->
+
 ### Setembro
 <!-- SETEMBRO:START -->
-- 01, 02, 03 e 04: [Simpósio Brasileiro de Cibersegurança - SBSeg 2025](https://sbseg2025.ppgia.pucpr.br/) - _Foz do Iguaçu/PR_ ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=blue)
-- 03, 04 e 05: [PGConf Brasil 2025](https://2025.pgconf.com.br/) - _João Pessoa/PB_ ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=blue)
-- 13: [Hacking Na Web Day - Rio de Janeiro - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Rio De Janeiro/RJ_ ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=blue)
-- 13: [XibéSec - 2025](https://www.instagram.com/xibesec/) - _Belém/PA_ ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=blue)
-- 17, 18 e 19: [TDC SP](https://thedevconf.com/tdc/2025/sao-paulo/) - _São Paulo/SP_ ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=red)
-- 20: [FrontEnd Day - Fortaleza 2025](https://frontendday.com.br/) - _Fortaleza/CE_ ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=blue)
-- 20: [RecrutaTech](https://www.recrutatech.com.br/) - _Curitiba/PA_ ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=blue)
-- 22, 23, 24, 25 e 26: [23º Semana Brasileira de Informática Biomédica](https://www.instagram.com/semanadaibm/) - _Paraná (UFPR), Rio Grande do Sul (UFCSPA), São Paulo (USP)_ ![híbrido](https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=red)
+- 01, 02, 03 e 04: [Simpósio Brasileiro de Cibersegurança - SBSeg 2025](https://sbseg2025.ppgia.pucpr.br/) - _Foz do Iguaçu/PR_ ![presencial]
+- 03, 04 e 05: [PGConf Brasil 2025](https://2025.pgconf.com.br/) - _João Pessoa/PB_ ![presencial]
+- 13: [Hacking Na Web Day - Rio de Janeiro - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Rio De Janeiro/RJ_ ![presencial]
+- 13: [XibéSec - 2025](https://www.instagram.com/xibesec/) - _Belém/PA_ ![presencial]
+- 17, 18 e 19: [TDC SP](https://thedevconf.com/tdc/2025/sao-paulo/) - _São Paulo/SP_ ![híbrido]
+- 20: [FrontEnd Day - Fortaleza 2025](https://frontendday.com.br/) - _Fortaleza/CE_ ![presencial]
+- 20: [RecrutaTech](https://www.recrutatech.com.br/) - _Curitiba/PA_ ![presencial]
+- 22, 23, 24, 25 e 26: [23º Semana Brasileira de Informática Biomédica](https://www.instagram.com/semanadaibm/) - _Paraná (UFPR), Rio Grande do Sul (UFCSPA), São Paulo (USP)_ ![híbrido]
 <!-- SETEMBRO:END -->
+
 ### Outubro
 <!-- OUTUBRO:START -->
-- 3 e 4: [PHPeste 2025](https://latam.cs4ca.com/) - _Parnaíba/PI_ ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=blue)
-- 21, 22, 23, 24, 25, 26 e 27: [Python Brasil 2025](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=blue)
-- 25: [Hacking Na Web Day - São Paulo - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _São Paulo/SP_ ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=blue)
-- 28 e 29: [CS4CA LatAm Summit](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial](https://img.shields.io/static/v1?label=&message=presencial&color=blue)
+- 3 e 4: [PHPeste 2025](https://latam.cs4ca.com/) - _Parnaíba/PI_ ![presencial]
+- 21, 22, 23, 24, 25, 26 e 27: [Python Brasil 2025](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
+- 25: [Hacking Na Web Day - São Paulo - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _São Paulo/SP_ ![presencial]
+- 28 e 29: [CS4CA LatAm Summit](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
 <!-- OUTUBRO:END -->
+
 ### Novembro
 <!-- NOVEMBRO:START -->
 - 15: [Front in Floripa 2025](https://frontin.floripa.br) - _Florianópolis/SC_ ![presencial]
@@ -58,6 +61,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 26 e 27: [TDC Summit Brasília](https://thedevconf.com/tdc/2025/summit-brasilia/) - _Brasília/DF_ ![híbrido]
 - 29 e 30: [GambiConf](https://gambiconf.dev/) - _São Paulo/SP_ ![híbrido]
 <!-- NOVEMBRO:END -->
+
 <!-- ANO2025:END -->
 
 ## TBA: To Be Announced
