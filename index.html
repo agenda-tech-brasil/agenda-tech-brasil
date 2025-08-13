@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agenda Tech Brasil</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="assets/agenda-tech.png" alt="Logo Agenda Tech Brasil" class="logo">
+            <h1>Agenda Tech Brasil</h1>
+            <p>Encontre os melhores eventos de tecnologia do Brasil em um só lugar!</p>
+        </div>
+
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" class="search-input" placeholder="🔍 Buscar eventos por nome, cidade ou tecnologia..." id="searchInput">
+                <div class="filter-buttons">
+                    <button class="filter-btn active" data-type="all">Todos</button>
+                    <button class="filter-btn" data-type="presencial">Presencial</button>
+                    <button class="filter-btn" data-type="online">Online</button>
+                    <button class="filter-btn" data-type="híbrido">Híbrido</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="events-container" id="eventsContainer">
+            <div class="loading">Carregando eventos...</div>
+        </div>
+    </div>
+
+    <script>
+        class AgendaTech {
+            constructor() {
+                this.events = [];
+                this.filteredEvents = [];
+                this.currentFilter = 'all';
+                this.searchTerm = '';
+                this.init();
+            }
+
+            async init() {
+                await this.loadEvents();
+                this.setupEventListeners();
+                this.renderEvents();
+            }
+
+            async loadEvents() {
+                try {
+                    const response = await fetch('src/db/database.json');
+                    const data = await response.json();
+                    
+                    // Processar eventos ativos do ano atual
+                    const currentYear = new Date().getFullYear();
+                    const currentYearEvents = data.eventos.find(y => y.ano === currentYear);
+                    
+                    if (currentYearEvents && !currentYearEvents.arquivado) {
+                        this.events = currentYearEvents.meses
+                            .filter(m => !m.arquivado)
+                            .flatMap(m => m.eventos.map(e => ({
+                                ...e,
+                                mes: m.mes,
+                                ano: currentYearEvents.ano
+                            })));
+                    }
+
+                    // Adicionar eventos TBA
+                    if (data.tba) {
+                        this.events.push(...data.tba.map(e => ({ ...e, mes: 'TBA', ano: 'TBA' })));
+                    }
+
+                } catch (error) {
+                    console.error('Erro ao carregar eventos:', error);
+                    this.showError();
+                }
+            }
+
+            setupEventListeners() {
+                // Busca
+                document.getElementById('searchInput').addEventListener('input', (e) => {
+                    this.searchTerm = e.target.value.toLowerCase();
+                    this.filterEvents();
+                });
+
+                // Filtros
+                document.querySelectorAll('.filter-btn').forEach(btn => {
+                    btn.addEventListener('click', (e) => {
+                        document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+                        e.target.classList.add('active');
+                        this.currentFilter = e.target.dataset.type;
+                        this.filterEvents();
+                    });
+                });
+            }
+
+            filterEvents() {
+                this.filteredEvents = this.events.filter(event => {
+                    const matchesSearch = !this.searchTerm || 
+                        event.nome.toLowerCase().includes(this.searchTerm) ||
+                        (event.cidade && event.cidade.toLowerCase().includes(this.searchTerm)) ||
+                        (event.uf && event.uf.toLowerCase().includes(this.searchTerm));
+
+                    const matchesFilter = this.currentFilter === 'all' || event.tipo === this.currentFilter;
+
+                    return matchesSearch && matchesFilter;
+                });
+
+                this.renderEvents();
+            }
+
+            renderEvents() {
+                const container = document.getElementById('eventsContainer');
+                
+                if (this.filteredEvents.length === 0) {
+                    container.innerHTML = `
+                        <div class="no-events">
+                            <h3>Nenhum evento encontrado</h3>
+                            <p>Tente ajustar os filtros ou a busca</p>
+                        </div>
+                    `;
+                    return;
+                }
+
+                // Agrupar por mês
+                const eventsByMonth = {};
+                this.filteredEvents.forEach(event => {
+                    const month = event.mes;
+                    if (!eventsByMonth[month]) {
+                        eventsByMonth[month] = [];
+                    }
+                    eventsByMonth[month].push(event);
+                });
+
+                // Ordem dos meses
+                const monthOrder = [
+                    'janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho',
+                    'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro', 'TBA'
+                ];
+
+                const sortedMonths = Object.keys(eventsByMonth).sort((a, b) => {
+                    if (a === 'TBA') return 1;
+                    if (b === 'TBA') return -1;
+                    return monthOrder.indexOf(a) - monthOrder.indexOf(b);
+                });
+
+                let html = '';
+                sortedMonths.forEach(month => {
+                    const monthEvents = eventsByMonth[month];
+                    html += `
+                        <div class="month-section">
+                            <h2 class="month-title">${month === 'TBA' ? 'TBA - To Be Announced' : month.charAt(0).toUpperCase() + month.slice(1)}</h2>
+                            <div class="events-grid">
+                                ${monthEvents.map(event => this.renderEventCard(event)).join('')}
+                            </div>
+                        </div>
+                    `;
+                });
+
+                container.innerHTML = html;
+            }
+
+            renderEventCard(event) {
+                const dateText = event.mes === 'TBA' ? 'TBA' : 
+                    Array.isArray(event.data) ? event.data.join(', ') : event.data;
+                
+                const locationText = event.tipo === 'online' ? 'Online' : 
+                    `${event.cidade || ''}${event.cidade && event.uf ? '/' : ''}${event.uf || ''}`;
+
+                return `
+                    <div class="event-card">
+                        <div class="event-date">${dateText}</div>
+                        <h3 class="event-name">${event.nome}</h3>
+                        <div class="event-location">📍 ${locationText}</div>
+                        <span class="event-type type-${event.tipo}">${event.tipo}</span>
+                        <a href="${event.url}" target="_blank" class="event-link">Ver Evento</a>
+                    </div>
+                `;
+            }
+
+            showError() {
+                document.getElementById('eventsContainer').innerHTML = `
+                    <div class="no-events">
+                        <h3>Erro ao carregar eventos</h3>
+                        <p>Não foi possível carregar os eventos. Tente recarregar a página.</p>
+                    </div>
+                `;
+            }
+        }
+
+        // Inicializar quando a página carregar
+        document.addEventListener('DOMContentLoaded', () => {
+            new AgendaTech();
+        });
+    </script>
+</body>
+</html>
+

@@ -29,7 +29,7 @@ for event in json_data["eventos"]:
 
 env = Environment(loader=FileSystemLoader(template_path), trim_blocks=True, lstrip_blocks=True)
 env.filters['format_date_list'] = format_date_list
-template = env.get_template('events.md.j2')
+template = env.get_template('events_improved.md.j2')
 
 output = template.render(data=json_data, link_meses=available_months)
 
