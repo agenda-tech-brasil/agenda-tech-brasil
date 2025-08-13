@@ -12,6 +12,8 @@ base_dir = os.path.dirname(os.path.abspath(__file__))
 template_path = os.path.join(base_dir, 'templates')
 db_path = os.path.join(base_dir, 'db', 'database.json')
 
+# Caminho para a pasta raiz do projeto
+project_root = os.path.dirname(base_dir)
 
 with open(db_path, "r", encoding="utf-8") as f:
     json_data = json.load(f)
@@ -33,7 +35,9 @@ template = env.get_template('events_improved.md.j2')
 
 output = template.render(data=json_data, link_meses=available_months)
 
-with open("README.md", "w", encoding="utf-8") as f:
+# Escrever na pasta raiz do projeto
+readme_path = os.path.join(project_root, 'README.md')
+with open(readme_path, "w", encoding="utf-8") as f:
     f.write(output)
 
-print("Markdown gerado com sucesso!")
+print(f"Markdown gerado com sucesso em: {readme_path}")
