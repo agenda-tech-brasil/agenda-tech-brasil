@@ -1,0 +1,20 @@
+{
+    "issue": {
+        "number": 12345,
+        "user": {
+            "login": "seu-usuario-do-github"
+        },
+        "labels": [
+            {
+                "name": "cadastrar"
+            },
+            {
+                "name": "presencial"
+            },
+            {
+                "name": "template"
+            }
+        ],
+        "body": "### Nome do(a) Evento/Agenda\nEvento de Teste Local\n\n### Site do(a) Evento/Agenda\nhttps://example.com\n\n### Cidade do(a) Evento/Agenda\nSão Paulo\n\n### Estado Federativo do(a) Evento/Agenda\nSão Paulo (SP)\n\n### Ano do(a) Evento/Agenda\n2025\n\n### Mês do(a) Evento/Agenda\nDezembro\n\n### Dia do(a) Evento/Agenda\n25"
+    }
+}
