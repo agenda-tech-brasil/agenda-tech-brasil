@@ -33,7 +33,11 @@ template = env.get_template('events.md.j2')
 
 output = template.render(data=json_data, link_meses=available_months)
 
-with open("README.md", "w", encoding="utf-8") as f:
+# Constrói o caminho absoluto para o README.md na raiz do projeto
+project_root = os.path.dirname(base_dir)
+output_path = os.path.join(project_root, "README.md")
+
+with open(output_path, "w", encoding="utf-8") as f:
     f.write(output)
 
 print("Markdown gerado com sucesso!")
