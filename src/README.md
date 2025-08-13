@@ -38,7 +38,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- JUNHO:START -->
 - 03: [GitHub Actions: Automatizando IaC com Terraform](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307305412) ![online]
 - 05: [Summit de IA](https://www.summitdeinteligenciaartificial.com/informa-es-do-evento-e-registro/summit-de-ia-2025) - _Joinvile/SC_ ![presencial]
-- 06: [Pyladies e Grupy-SP no Microsoft Reactor](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307942759) - _São Paulo/SP_ ![]
+- 06: [Pyladies e Grupy-SP no Microsoft Reactor](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307942759) - _São Paulo/SP_ ![online]
 - 06: [Pylestras de Junho das Pyladies + Grupy @ Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/events/25949/) - _São Paulo/SP_ ![presencial]
 - 07: [Hacking Na Web Day - Belo Horizonte - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Belo Horizonte/MG_ ![presencial]
 - 07: [Azure Synapse Analytics, Fabric e Data Factory Day - ETL e BIG Data](https://www.meetup.com/azureacademy/events/306775025) ![online]
@@ -94,7 +94,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 18, 19, 20, 21, 22 e 23: [CONFLOSS 2025](https://confloss.com.br/) ![online]
 - 21: [CyberSecFest SP](https://www.devopsbootcamp.net/cybersecfest-saopaulo) - _São Paulo/SP_ ![presencial]
 - 23: [Bxsec Security Experience](https://www.instagram.com/bxsec/) - _Santos/SP_ ![presencial]
-- 27: [Microsoft Reactor - Escola Livre de IA: Machine Learning na era da IA](https://www.meetup.com/pt-br/microsoft-reactor-sao-paulo/events/310354984) - _/_ ![]
+- 27: [Microsoft Reactor - Escola Livre de IA: Machine Learning na era da IA](https://www.meetup.com/pt-br/microsoft-reactor-sao-paulo/events/310354984) - _São Paulo/SP_ ![]
 - 26: [FIAP Meetup #158 - Visão de Futuro: produtos inteligentes com IA](https://www.meetup.com/pt-br/fiapmeetups/events/310372037) ![online]
 - 30: [DevopsDays Curitiba](https://devopsdays.org/events/2025-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
 <!-- AGOSTO:END -->
