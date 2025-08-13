@@ -17,6 +17,10 @@ jobs:
     steps:
       - name: Checar o repositório
         uses: actions/checkout@v4
+        with:
+          # Utiliza um PAT para poder fazer push na branch protegida.
+          # O PAT deve ser de um usuário com permissão de push na main.
+          token: ${{ secrets.AGENDA_TECH_BOT_PAT }}
 
       - name: Instalar dependências Python
         run: |
@@ -34,8 +38,6 @@ jobs:
       - name: Commit e push do markdown quando há alteração
         run: |
           git add README.md
-          git diff --cached --quiet || git commit -m "Atualizando README.md"
-          git push
+          git diff --cached --quiet || (git commit -m "Atualizando README.md" && git push)
 
           echo "Worflow de geração de Markdown rodou com sucesso!"
-          
