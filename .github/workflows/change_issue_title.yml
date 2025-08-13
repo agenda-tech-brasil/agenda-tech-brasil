@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Atualizar título da issue
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          AGENDA_TECH_BOT_PAT: ${{ secrets.AGENDA_TECH_BOT_PAT }}
         run: |
           # Extraindo o nome do evento do corpo da issue
           event_info="${{ github.event.issue.body }}"
@@ -57,7 +57,7 @@ jobs:
           repo_name="${{ github.repository }}"
 
           curl -X PATCH \
-            -H "Authorization: token $GITHUB_TOKEN" \
+            -H "Authorization: token $AGENDA_TECH_BOT_PAT" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/repos/$repo_name/issues/$issue_number \
             -d "{\"title\":\"$new_title\"}"
