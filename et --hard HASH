@@ -1,0 +1,1340 @@
+[33m9a98db9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mminha-melhoria[m[33m, [m[1;31morigin/minha-melhoria[m[33m)[m Resolve conflitos
+[33mba695a6[m Atualizacao corrigida
+[33mb76a4f6[m Update README.md
+[33mfcc76ce[m Update README.md
+[33m7078e35[m Atualiza lista de eventos 2025 com correções e badges
+[33ma507ebd[m Corrige caminho de saída do README e ajusta template para validação
+[33maffc9b7[m Corrige formato dos badges no README para passar no linter
+[33m6841fee[m Corrige links e badges no README para passar no md-lint
+[33mf96b7f0[m Melhorias no projeto
+[33m148311f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Update README.md
+[33ma839dcc[m Update README.md
+[33md15b5ca[m Update 2025.md (#1168)
+[33mb7310b6[m Update README.md
+[33mb824ac8[m Agenda/Evento: Microsoft Reactor - Escola Livre de IA: Machine Learning na era da IA (#1167)
+[33m7feca21[m add sbib (#1155)
+[33m3b77269[m Agenda/Evento: Congresso Brasileiro de Software: Teoria e Prática (CBSoft) (#1149)
+[33m48a2284[m Agenda/Evento: Latinoware 2025 (#1163)
+[33mfbf7eb1[m Agenda/Evento: FIAP Meetup #158 - Visão de Futuro: produtos inteligentes com IA (#1165)
+[33m13426c3[m Agenda/Evento: Construindo produtos com IA Generativa (#1161)
+[33m07bdbf1[m Agenda/Evento: Brazil JS 2025 (#1157)
+[33m8827ffd[m Agenda/Evento: Leading Tech Sessions: Como Criar e Gerir uma Estratégia de Produto na Prática (#1153)
+[33md2e1bc6[m Agenda/Evento: OKRs e Topologia de Times de Produto e Tecnologia na Prática (#1151)
+[33m8ea3abb[m Agenda/Evento: Congresso da Cidadania Digital 2025 (#1147)
+[33mb04d206[m Create SECURITY.md (#1145)
+[33m684f445[m Agenda/Evento: MySQL BR Conf 2025 (#1144)
+[33m24e6ad3[m Agenda/Evento:  Security BSides João Pessoa 2025 (#1142)
+[33md578be5[m Agenda/Evento: Python Cerrado 2025 (#1140)
+[33m1f108fc[m Agenda/Evento: Licenciamento, Arquitetura e IA com Go - #97 (#1138)
+[33m27e9437[m Agenda/Evento: Meetup: Egde Computing no frontend: Construindo aplicações web ultra rápidas e escaláveis (#1136)
+[33ma799bdc[m Agenda/Evento: MVP CONF - Curitiba (#1134)
+[33maa22bd8[m Agenda/Evento: RogaDX (#1132)
+[33me23eeff[m Arquivar: Maio/2025 (#1130)
+[33me36a087[m Agenda/Evento: II Modelagem Computacional Sertão Mineiro (#1128)
+[33m77d360f[m Agenda/Evento: ENMC 2025 (#1126)
+[33m381f853[m Agenda/Evento: Datacon 2025 (#1124)
+[33m8d7177e[m Agenda/Evento: HackTown (#1122)
+[33mb0be2b5[m Agenda/Evento: The Developers Life Weekend 2025 (#1120)
+[33m8cad774[m Agenda/Evento: DevPR Conf - Especial 10 anos (#1118)
+[33m2b42086[m Agenda/Evento: DevopsDays Rio de Janeiro (#1116)
+[33m4c57d8b[m Agenda/Evento: RecrutaTech 9ª edição (#1114)
+[33m967621d[m Agenda/Evento: DevopsDays Curitiba (#1112)
+[33m68bae1c[m Agenda/Evento: CelebrationWeek for 30y of Java (#1110)
+[33md591004[m Agenda/Evento: Meetup SouJava de Junho (#1108)
+[33m4e48ea3[m Agenda/Evento: BSidesVix 2025 (#1106)
+[33m2f524b9[m Agenda/Evento: AWS UG MOC - Aumentando a Produtividade em Iac com IA (#1104)
+[33m538fd7b[m Hotfix: Desabilitar Temporariamente Geração de MD após Merge (#1102)
+[33m9d89ec5[m Hotfix: Corrigir Database (#1101)
+[33md9f0edf[m Agenda/Evento: Leading Tech Sessions: Framework de Estratégia de Produtos (#1086)
+[33m9e87a46[m Agenda/Evento: Boas práticas para dominar o GitHub Copilot Chat (#1084)
+[33me08b2f6[m Agenda/Evento: IA Generativa e Agents com Azure (#1082)
+[33m4f47e7d[m Agenda/Evento: Pylestras de Junho das Pyladies + Grupy @ Microsoft Reactor (#1080)
+[33m8b988bd[m Agenda/Evento: [Meetup Clojure BR] Aplicação de Técnicas de IA para Testes Unitários em Clojure (#1078)
+[33m9a18a4c[m Agenda/Evento: SouDevCon 2025 (#1076)
+[33mfcbead2[m Agenda/Evento: CONFLOSS 2025 (#1074)
+[33md486a32[m Agenda/Evento: NodeBR #74 - Redescobrindo o Open Source (#1072)
+[33m8ce3fc1[m Agenda/Evento: Esquenta MVPConf - Curitiba (#1070)
+[33m656c09e[m Agenda/Evento: Dev Paraná: Frontend Maringá na One Portaria (#1068)
+[33m8fd32d5[m Agenda/Evento: Microsoft Dev & AI discoveryy  (#1064)
+[33m2b753f4[m Agenda/Evento: Pyladies e Grupy-SP no Microsoft Reactor (#1062)
+[33m7c8071a[m Agenda/Evento: Escola Livre de IA​: IA Generativa e Agentes de IA Generativa​ (#1054)
+[33m26e18e6[m Agenda/Evento: Semana Carreira Tech FIAP + Alura (#1060)
+[33md8ecde8[m Agenda/Evento: Summit de IA (#1058)
+[33md762760[m Agenda/Evento: Expotec 2025 (#1056)
+[33m49a4aa9[m Agenda/Evento: Boas práticas para dominar o GitHub Copilot Chat com Cyynthia Zanoni (#1052)
+[33m9787a84[m Agenda/Evento: Integrações Práticas com MCP Servers no VS Code e GitHub Copilot com Cynthia Zanoni (#1050)
+[33mc959fdb[m Agenda/Evento: O Melhor do Microsoft Build (#1048)
+[33m5fdd9c1[m Agenda/Evento: Segurança em aplicações + Dataviz / Power BI (#1046)
+[33m1896cd6[m Feature/Geração de Markdown após Push (#1036)
+[33m0ad9dd2[m Adicionando novo evento: Meetup LINUXtips.local São Paulo (#1044)
+[33m952e149[m Adicionando novo evento: cTENcf Santa Catarina: 10 Anos de Cloud Native (#1042)
+[33md3af3bb[m Agenda/Evento: Front in Floripa 2025 (#1040)
+[33m34beacc[m Adicionando novo evento: Meetup de Comunidade: Do Código à Startup, explorando o potencial da IA (#1038)
+[33m0280c8e[m Adicionando novo evento: DevOpsDays São Paulo (#1035)
+[33mbd9336e[m Adicionando novo evento: Criando aplicações com o Azure AI Agent Service (#1029)
+[33ma2b62ea[m Adicionando novo evento: FIAP + Alura + PM3: Tecnologia para todas as carreiras - a revolução da IA (#1031)
+[33mb027616[m Adicionando novo evento: Impacta Tech Summit (#1027)
+[33m218c3c5[m Adicionando novo evento: Golang SP na Sigma Software - #96 (#1023)
+[33m2001ef1[m Adicionando novo evento: FIAP + Alura - Tecnologia Compartilhada: ecossistemas que impulsionam inovação (#1025)
+[33ma9151d2[m Adicionando novo evento: 3o Meetup DevParaná Cascavel (#1021)
+[33m2b60aa2[m Adicionando novo evento: Azure Talks - Containers Weekend: Testcontainers, Hangfire, Azure... (#1019)
+[33mf94e814[m Adicionando novo evento: FIAP Meetup #148: Feature Engineering com Santander e Databricks. (#1017)
+[33m798d207[m Agenda/Evento: GitTogether Fortaleza - Maio (#1015)
+[33m9dbeca0[m Agenda/Evento: GitTogether São Paulo - JUNHO/2025 (#1013)
+[33madc2898[m Adicionando novo evento: Meetup de Comunidade: Do desenvolvimento à proteção, construindo aplicações PHP com consciência (#1011)
+[33m7c084d1[m Adicionando novo evento: Meetup de Dia das Mães do SouJava (#1005)
+[33m18a78d0[m Adicionando novo evento: CyberSecFest SP (#1003)
+[33m4fceea0[m Adicionando novo evento: Cumbuca Dev Floripa (#999)
+[33me387f65[m Adicionando novo evento: FrontEnd Day - Fortaleza 2025 (#996)
+[33m4ec303a[m Adicionando novo evento: (#994)
+[33mcc8e8fe[m Adicionando novo evento: Conheça Seus Dados: Da Modelagem à Visualização Eficaz (#990)
+[33m792ce7d[m Adicionando novo evento: Microsoft Reactor - Obtenha a certificação: prepare-se para o seu exame de Fabric e Q&A (#992)
+[33md96fcdb[m Adicionando novo evento: Maratona de Certificações Microsoft- online gratuito + vouchers de certificações (#988)
+[33m7d459c4[m Adicionando novo evento: GitHub Brasil - Live Especial: Bate Papo com Téo Calvo (#986)
+[33m96acee9[m Adicionando novo evento: GambiConf (#984)
+[33m6047d3f[m Adicionando novo evento: Encontro de Mulheres na Tecnologia: Edição Sul (#982)
+[33mde12936[m Adicionando novo evento: Python Norte 2025 (#980)
+[33m72e76ae[m Adicionando novo evento: Global Azure 2025 – Edição Azure Floripa (#976)
+[33m74e6346[m Merge pull request #977 from macabeus/patch-1
+[33m9139f5c[m Merge pull request #974 from agenda-tech-brasil/feature/add-event-issue-973
+[33m07e190c[m add gambiconf
+[33m791f83b[m Adicionando novo evento: QA Solidário: 4ª edição
+[33m6eb894d[m Adicionando novo evento: Meetup de Devs do Vale do Paranhana (#972)
+[33m0a85d9f[m Adicionando novo evento: [Clojure BR] 2o Encontro (#970)
+[33m626383a[m Merge pull request #968 from agenda-tech-brasil/feature/add-event-issue-967
+[33m9345fed[m Adicionando novo evento: Dados, o começo delas [Mulheres em Dados + Thoughtworks]
+[33me1ff51e[m Adicionando novo evento: AI Summit 2025 (#966)
+[33m4208a08[m Adicionando novo evento: Semana de Dados (#964)
+[33m04fea73[m Adicionando novo evento: Jornada de Engenharia de Dados (#962)
+[33m8b37c53[m Adicionando novo evento: GitHub Actions: Automatizando IaC com Terraform (#960)
+[33ma55bc9c[m Adicionando novo evento: GitHub Actions: Reusabilidade (#958)
+[33m13c4c2d[m Adicionando novo evento: Elas na IA: Aula 1: Conceitos de Computação em Nuvem com Microsoft Azure (#956)
+[33m74c1d5a[m Adicionando novo evento: Elas na IA: Live Inaugural - Apresentação do Programa - Painel sobre carreira em Data & AI (#954)
+[33mf585953[m Adicionando novo evento: Elas na IA: Aula 2: Introdução ao Aprendizado de Máquina e Inteligência Artificial (#952)
+[33m2fb01bc[m Merge pull request #950 from stephan-lopes/bugfix/database
+[33m747e304[m fix(database): adicionar virgula faltante
+[33ma060697[m Merge pull request #939 from agenda-tech-brasil/feature/adicionar-eventos-2024
+[33m306985c[m fix(db): adicionar eventos faltantes em 2024
+[33m06e5474[m Muda o nome de issues apenas criadas de um template (#938)
+[33m059282a[m Fixes bug of unsorted days in when getting event from env (#937)
+[33mad111e0[m Adicionando novo evento: FIAP Meetup POA - Mulheres na Tecnologia: Conectando, Inspirando e Transformando (#936)
+[33mbf0964c[m Adicionando novo evento: FIAP + Alura + PM3: Carreiras em T no mercado de tecnologia (#934)
+[33mb70005f[m Adicionando novo evento: Python: Pylestras de Abril das Pyladies + Grupy @ Núcleo de Tecnologia do MTST (#932)
+[33m9ea6223[m Adicionando novo evento: GitHub: Open Source Friday Brasil, com Bruno Rocha, mantenedor do Marmite (#930)
+[33mcb7c256[m Merge pull request #928 from agenda-tech-brasil/feature/add-event-issue-927
+[33m05fac2d[m Merge pull request #926 from stephan-lopes/feature/adicionar-eventos-2023
+[33m6e23a69[m Adicionando novo evento: Meetup Dev Paraná – Guarapuava - 03/04/2025
+[33m2bb417c[m feat: adicionar eventos de 2023 no database
+[33m9c55c3e[m Merge pull request #925 from agenda-tech-brasil/feature/add-event-issue-924
+[33m258ff42[m Merge pull request #921 from stephan-lopes/feature/adiciona-eventos-2022
+[33m06397fa[m Merge pull request #923 from agenda-tech-brasil/feature/add-event-issue-922
+[33md7e83c6[m Adicionando novo evento: 2o Meetup DevParaná Cascavel
+[33m4fe6b97[m Adicionando novo evento: Leading Tech Sessions: Como medir impacto de iniciativas de Produto e Tech
+[33m97a0dce[m feat(db): adicionar eventos de 2022
+[33m8b3d275[m Adicionando novo evento: (#920)
+[33ma80621e[m Merge pull request #918 from agenda-tech-brasil/feature/add-event-issue-917
+[33m38bc72c[m Merge pull request #916 from agenda-tech-brasil/feature/add-event-issue-915
+[33mbbddb70[m Merge branch 'main' into feature/add-event-issue-915
+[33m166eafd[m Merge pull request #914 from agenda-tech-brasil/feature/add-event-issue-913
+[33m78740b0[m Merge pull request #912 from agenda-tech-brasil/feature/add-event-issue-911
+[33m45660a9[m Merge pull request #910 from agenda-tech-brasil/feature/add-event-issue-909
+[33me389880[m Merge pull request #908 from agenda-tech-brasil/feature/add-event-issue-907
+[33m3c5df0c[m Merge pull request #906 from agenda-tech-brasil/feature/add-event-issue-905
+[33mff37728[m Adicionando novo evento: FIAP Meetup #147: Cybersecurity Forecast 2025/2026: desafios e tendências
+[33m0305f0d[m Adicionando novo evento: FIAP Meetup #146: Tech Beauty: Inovação, tendências e estratégia
+[33m63a58eb[m Adicionando novo evento: Golang SP e Firstbase no Reactor (inscrições a partir de 10/04)
+[33m945cd8c[m Adicionando novo evento: Uber Tech Latam: Ride to Code - Backend: Last Call
+[33mbe7b11f[m Adicionando novo evento: Clube do Livro R Ladies: Transformar - Vetores lógicos
+[33m1757a5c[m Adicionando novo evento: Confraria ZN - Business, Bitcoin & web3
+[33m8b20519[m Adicionando novo evento: UNIVERSO TOTVS 2025
+[33m8d6493d[m Adicionando novo evento: IWD Santos 2025 (#904)
+[33mcfbc3cb[m Merge pull request #902 from agenda-tech-brasil/feature/add-event-issue-901
+[33m6c501f7[m Merge pull request #900 from agenda-tech-brasil/feature/add-event-issue-899
+[33m776acd3[m Adicionando novo evento: Porteira 443
+[33m7734852[m Adicionando novo evento: Leading Tech Sessions: Aplicando DORA Metrics e DevEx na gestão de times
+[33mf19a753[m Agenda/Evento: Semana da Computação UFRJ (#890)
+[33m564d871[m Adicionando novo evento: Mulheres na Tecnologia - Comunidade Mana Jobs A.I (#888)
+[33m459a953[m Adicionando novo evento: Microsoft Reactor: Back-End Development Night 2025 (#886)
+[33m1b4d8cd[m Adicionando novo evento: Microsoft Reactor: Construindo aplicativos com o modo de agente do GitHub Copilot (#882)
+[33m75bb8aa[m Adicionando novo evento: Microsoft Reactor: Azure Web App (#884)
+[33m8208d4a[m Adicionando novo evento: Golang SP na SumUp - #94 (#880)
+[33m9899c7f[m Adicionando novo evento: Formação AI Services, OpenAI e Data Science no Azure - Online (#878)
+[33mad0f477[m Adicionando novo evento: Formação Azure Specialist AZ-900 AZ-104 AZ-305 (#876)
+[33m70f15b6[m Adicionando novo evento: Azure Synapse Analytics, Fabric e Data Factory Day - ETL e BIG Data (#874)
+[33m9e5ab88[m Adicionando novo evento: ERBD 2025 (#870)
+[33md5ff1f3[m Adicionando novo evento: Microsoft Reactor: AI Agents Hackathon Kickoff (#868)
+[33m1287266[m Adicionando novo evento: Frontend Maringá na Accion (#864)
+[33m78d0916[m Adicionando novo evento: Esquenta CSBC 2025 (#859)
+[33m351e708[m Adicionando novo evento: (#857)
+[33mb3cad8c[m Update Esquenta CSBC Arapiraca/AL (#852)
+[33ma77867e[m Adicionando novo evento: AWS Innovate América Latina (#851)
+[33mda64df8[m Adicionando novo evento: Meetup SouJava Brasília - Edição Especial (2 dias de evento) (#832)
+[33m2f3103a[m Adicionando novo evento: Meetup SouJava (#849)
+[33md32a658[m Merge pull request #804 from stephan-lopes/feature/archive-events
+[33m09bc13a[m Adicionando novo evento: Qlik Meetup Recife - Tudo o que você sempre quis saber sobre o AutoML (#847)
+[33m5935c93[m Adicionando novo evento: Platform Days v2025.1 (#845)
+[33m32b043b[m Adicionando novo evento: Platforms Talks no BB - Banco do Brasil (#843)
+[33m7cea54f[m Adicionando novo evento: Café Quântico: Introdução às Tecnologias Quânticas - O Futuro está chegando - Quantum Brasil (#841)
+[33m2df43cf[m Adicionando novo evento: Trinca & GDG (#834)
+[33m811db85[m Adicionando novo evento: [Clojure BR] Como eu me preparei para chegar bem no Nubank com Alberto Souza (#830)
+[33mb04781e[m Adicionando novo evento: Growth Hacking e Destaque para a sua Startup (#828)
+[33m75a2a22[m Cancelando evento: Tech Woman 2025 (#826)
+[33m020cb4c[m Adicionando novo evento: Tech Woman (#824)
+[33ma1872c9[m Adicionando novo evento: International Women’s Day Curitiba 2025 (#822)
+[33mbc1e8c6[m Adicionando novo evento: Semana da Liderança em Tecnologia (#820)
+[33md582631[m Adicionando novo evento: DevOps Saturday: GitHub, Containers, Carreira, Certificações (#818)
+[33m9ee6348[m Adicionando novo evento: O Movimento das Mulheres em Tech - comunidades (#814)
+[33m4de3441[m Adicionando novo evento: EBAC TALKS: Da tecnologia ao comportamento: tendências e inovações para 2025 (#812)
+[33mbd3cb53[m Adicionando novo evento: Visualização de dados - Análise Exploratória (Parte 2) - Clube do livro (#810)
+[33ma590788[m Agenda/Evento: Como conquistar minha independência financeira como Analista de Dados? (#808)
+[33m13db28b[m Adicionando novo evento: FIAP Masterclass - Next Level Innovation: o futuro tech e o impacto nos negócios (#806)
+[33mf59f3c7[m fix: corrigir erros de codigo
+[33mbaea1eb[m Adicionando novo evento: Pylestras de Março das Pyladies + Grupy @ Obramax (#803)
+[33mc2fc697[m fix(workflow): corrigir o nome da variável
+[33m63d37df[m fix(workflow): corrigir formato errado de chamado da variável de ambiente
+[33md6752e2[m fix(archive): remover o valor padrão da issue
+[33m63b09bf[m feat: adicionar script para arquivar meses e anos
+[33mee87bab[m feat: adicionar passos faltantes
+[33m38554d3[m Adicionando novo evento: DP-700: Prepare-se para o dia do exame e Q&A (#801)
+[33m78857ac[m Adicionando novo evento: DP-700: Administração e governança do Microsoft Fabric (#799)
+[33m57ab1c2[m Adicionando novo evento: Security Girls 2025: Função, os tipos de identidade e as capacidades de autenticação do Entra (#797)
+[33m756a9d5[m Adicionando novo evento: Tech Hub Conf JF (#793)
+[33mee94905[m Adicionando novo evento: DP-700: Data Warehousing no Microsoft Fabric (#791)
+[33m3c81bf6[m Adicionando novo evento: DP-700: Implementar inteligência em tempo real no Microsoft Fabric (#789)
+[33m2ba260c[m Adicionando novo evento: Azure Talks - Back-End - APIs, Serverless, dicas, problemas comuns (#787)
+[33m7f85224[m Adicionando novo evento: FinOps Foundation (#785)
+[33mc10b5fa[m Agenda/Evento: DP-700: Ingestão e gerenciamento de dados no Fabric com Data Factory e Notebooks (#783)
+[33mb34e02a[m Merge pull request #781 from agenda-tech-brasil/feature/add-event-issue-780
+[33m1019963[m Merge pull request #779 from agenda-tech-brasil/feature/add-event-issue-778
+[33mf225742[m Adicionando novo evento: DP-700: Introdução à engenharia de dados no Microsoft Fabric
+[33m9608aec[m Adicionando novo evento: Flutter + Test: Como grandes empresas testam seus apps
+[33md9621fc[m Merge pull request #777 from agenda-tech-brasil/feature/add-event-issue-776
+[33m904c81d[m Adicionando novo evento: International Women's Day Belo Horizonte
+[33mf2c8259[m Merge pull request #775 from agenda-tech-brasil/feature/add-event-issue-774
+[33mee0ed3f[m Adicionando novo evento: Pré Carnaval SouJava Campinas + Bosch!
+[33m9b9f7e7[m Merge pull request #773 from agenda-tech-brasil/feature/add-event-issue-772
+[33mfbd7f2a[m Merge pull request #770 from agenda-tech-brasil/feature/add-event-issue-769
+[33mb2957ce[m Merge pull request #771 from viniciusvts/feature/add-event-issue-695
+[33m5ea3ed1[m Adicionando novo evento: Carnaval do SouJava na Oracle
+[33m5bd2f36[m Adicionando novo evento: 1º Encontro de Mulheres em Tecnologia no Cerrado
+[33medc63fc[m Adicionando novo evento: FIAP Meetup #140 - Tech-Driven Marketing: o novo jogo.
+[33maa4c75e[m Merge pull request #768 from agenda-tech-brasil/feature/add-event-issue-767
+[33m314743a[m Adicionando novo evento: CajuSec
+[33m0e43653[m Merge pull request #766 from agenda-tech-brasil/feature/add-event-issue-765
+[33m48fb062[m Merge pull request #764 from agenda-tech-brasil/feature/add-event-issue-763
+[33m77b0418[m Merge branch 'main' into feature/add-event-issue-763
+[33m936f10d[m Merge pull request #762 from agenda-tech-brasil/feature/add-event-issue-761
+[33ma3890c6[m Merge branch 'main' into feature/add-event-issue-761
+[33mdda3b54[m Merge pull request #760 from agenda-tech-brasil/feature/add-event-issue-759
+[33m4db752e[m Merge branch 'main' into feature/add-event-issue-759
+[33m951794d[m Merge pull request #758 from agenda-tech-brasil/feature/add-event-issue-757
+[33mf8f363a[m Merge branch 'main' into feature/add-event-issue-757
+[33mb17dfa6[m Merge pull request #756 from agenda-tech-brasil/feature/add-event-issue-755
+[33mc63867f[m Merge branch 'main' into feature/add-event-issue-755
+[33m74ee1a2[m Merge pull request #754 from agenda-tech-brasil/feature/add-event-issue-753
+[33m51747f5[m Merge branch 'main' into feature/add-event-issue-753
+[33m65f7fc1[m Merge pull request #752 from agenda-tech-brasil/feature/add-event-issue-751
+[33m26768f0[m Merge branch 'main' into feature/add-event-issue-751
+[33m0430a1c[m Adicionando novo evento: DevPR na Estrada: Campo Mourão
+[33mb60dc2d[m Merge pull request #750 from agenda-tech-brasil/feature/add-event-issue-749
+[33m1b089b6[m Adicionando novo evento: DevPR na Estrada: Londrina
+[33m6d3ae15[m Merge pull request #748 from agenda-tech-brasil/feature/add-event-issue-747
+[33m3d6de83[m Adicionando novo evento: DevPR na Estrada: Umuarama
+[33mc2d82fe[m Update database.json
+[33m63b1757[m Adicionando novo evento: DevPR na Estrada: Ponta Grossa
+[33m691b0a3[m Adicionando novo evento: DevPR na Estrada: Francisco Beltrão
+[33m01fd229[m Merge branch 'main' into feature/add-event-issue-747
+[33m3319285[m Adicionando novo evento: DevPR na Estrada: Toledo
+[33me2cd8e8[m Merge pull request #746 from agenda-tech-brasil/feature/add-event-issue-745
+[33m5b35917[m Merge branch 'main' into feature/add-event-issue-745
+[33m30d7a98[m Adicionando novo evento: DevPR na Estrada: Curitiba
+[33m27ccd6e[m Merge pull request #744 from agenda-tech-brasil/feature/add-event-issue-743
+[33m7450e58[m Adicionando novo evento: DevPR na Estrada: Maringá
+[33m408d4c9[m Merge branch 'main' into feature/add-event-issue-743
+[33mffa9ceb[m Adicionando novo evento: DevPR na Estrada: Cianorte
+[33m5d14511[m Merge pull request #742 from agenda-tech-brasil/feature/add-event-issue-741
+[33mf8ff852[m Merge branch 'main' into feature/add-event-issue-741
+[33m8ee680c[m Adicionando novo evento: DevPR na Estrada: Ivaiporã
+[33m5166013[m Merge pull request #740 from agenda-tech-brasil/feature/add-event-issue-739
+[33mea1950e[m Adicionando novo evento: DevPR na Estrada: Foz do Iguaçu
+[33me078f37[m Merge branch 'main' into feature/add-event-issue-739
+[33mf901547[m Adicionando novo evento: DevPR na Estrada: Guarapuava
+[33m3e9b867[m Merge pull request #738 from agenda-tech-brasil/feature/add-event-issue-737
+[33m44478db[m Adicionando novo evento: DevPR na Estrada: Dois Vizinhos
+[33m3e08a69[m Merge pull request #736 from agenda-tech-brasil/feature/add-event-issue-735
+[33ma4c4775[m Adicionando novo evento: DevPR na Estrada: Pato Branco
+[33m19d9b7c[m Adicionando novo evento: DevPR na Estrada: Cascavel
+[33m41d03ba[m Adicionando novo evento: Python Nordeste 2025
+[33me1542c9[m Merge pull request #734 from agenda-tech-brasil/feature/add-event-issue-733
+[33m7144c98[m Adicionando novo evento: FIAP #140 - XP Inc: a importância dos profissionais tech no mercado financeiro
+[33m791cc53[m Merge pull request #732 from agenda-tech-brasil/stephan-lopes-patch-1
+[33m4a96011[m fix: corrigir erro no database.json
+[33m5d288b9[m Merge pull request #725 from d4nielantoni/main
+[33m9d723c1[m Merge pull request #724 from agenda-tech-brasil/feature/add-event-issue-723
+[33ma51f4be[m Merge branch 'main' into feature/add-event-issue-723
+[33mf8968fb[m Merge pull request #727 from agenda-tech-brasil/feature/add-event-issue-726
+[33m1c98d41[m Adicionando novo evento: Mulheres em IA no Microsoft Reactor
+[33m436d534[m Update README.md
+[33m521abd9[m Update README.md
+[33m734adf6[m Adicionando novo evento: [Ingá.php] O poder das métricas para times de engenharia
+[33m5b07e68[m Merge pull request #721 from agenda-tech-brasil/feature/add-event-issue-720
+[33meac2c96[m Merge pull request #719 from agenda-tech-brasil/feature/add-event-issue-718
+[33m6c6163b[m Merge pull request #717 from agenda-tech-brasil/feature/add-event-issue-716
+[33m80c7e4e[m Merge pull request #711 from agenda-tech-brasil/feature/add-event-issue-710
+[33m42b36a1[m Merge pull request #707 from agenda-tech-brasil/feature/add-event-issue-706
+[33m466b8b6[m Merge pull request #703 from agenda-tech-brasil/feature/add-event-issue-702
+[33m55db0e3[m Adicionando novo evento: PGDay Blumenau 2025
+[33m6b74833[m Adicionando novo evento: PGConf Brasil 2025
+[33m0d6d3c4[m Adicionando novo evento: Microsoft Reactor: Descrever conceitos de segurança, conformidade e identidade
+[33m742a8c2[m Adicionando novo evento: Receitas de arquitetura para aplicativos alimentados por IA
+[33md2737b3[m Adicionando novo evento: Global AI Bootcamp 2025
+[33m7f2a086[m Adicionando novo evento: Global Power Platform Bootcamp 2025
+[33m5526692[m Merge pull request #698 from agenda-tech-brasil/feature/add-event-issue-697
+[33mbe8cb77[m Merge pull request #694 from agenda-tech-brasil/feature/add-event-issue-693
+[33mb1811a1[m Merge pull request #692 from agenda-tech-brasil/feature/add-event-issue-691
+[33m4efaa4f[m Merge pull request #690 from agenda-tech-brasil/feature/add-event-issue-689
+[33mc2fc4da[m Adicionando novo evento: Encontro #7 WTM - IWD'25 / Dia Internacional da Mulher
+[33me8b5cda[m Adicionando novo evento: Mulheres e Inteligência Artificial
+[33ma046ad2[m Adicionando novo evento: Guia prático para mudar de carreira e ingressar na área de dados
+[33mb28589f[m Adicionando novo evento: FIAP - Masterclass Tech Forward 2025: inovações que estão moldando o mundo
+[33mf907eac[m Merge pull request #685 from agenda-tech-brasil/feature/add-event-issue-684
+[33mffdc92f[m Merge pull request #683 from agenda-tech-brasil/feature/add-event-issue-682
+[33m802e453[m Merge pull request #681 from agenda-tech-brasil/feature/add-event-issue-680
+[33m4804c05[m Adicionando novo evento: Muito Além do SaaS: Arquiteturas Multi-Agentes e o Futuro do Agent-as-a-Service
+[33mbe6d2b7[m Adicionando novo evento: Desenvolvimento de Agentes Inteligentes com AI, C#, RAG, Devprime e Azure OpenAI
+[33ma7b3eab[m Adicionando novo evento: São Paulo | Global AI Bootcamp 2025
+[33mf1d0508[m Merge pull request #678 from agenda-tech-brasil/feature/add-event-issue-677
+[33ma0e202d[m Adicionando novo evento: Internacional Women’s Day Recife 2025
+[33md1b1d24[m Merge pull request #676 from agenda-tech-brasil/feature/add-event-issue-675
+[33mba57d71[m Cancelando evento: TDC Summit Brasília
+[33me447a42[m Merge pull request #674 from agenda-tech-brasil/feature/add-event-issue-673
+[33md43342d[m Cancelando evento: Hacking na Web Day - Florianópolis
+[33mdcc0a15[m Merge pull request #671 from agenda-tech-brasil/feature/add-event-issue-670
+[33me9f4fa7[m Merge branch 'main' into feature/add-event-issue-670
+[33m55dcaaf[m Merge pull request #669 from agenda-tech-brasil/feature/add-event-issue-668
+[33m94de26c[m Merge pull request #667 from agenda-tech-brasil/feature/add-event-issue-666
+[33m23df4b5[m Merge pull request #665 from agenda-tech-brasil/feature/add-event-issue-664
+[33ma6874c9[m Adicionando novo evento: Meetup DevParaná Cascavel
+[33m86194af[m Adicionando novo evento: FIAP & PM3 - IA e Dados: estratégias para antecipar clientes e gerar produção
+[33m1dbb5a9[m Adicionando novo evento: FIAP & PM3 - Dados e Gamificação: estratégias para gerar valor nos negócios
+[33m78fceca[m Adicionando novo evento: FIAP & PM3 - Liderança e Tecnologia: habilidades estratégicas para 2025
+[33m6bbaf33[m Merge pull request #663 from agenda-tech-brasil/feature/add-event-issue-662
+[33md884f0b[m Adicionando novo evento: Elastic & Apache Kafka® no Brasil
+[33mc0c141d[m Merge pull request #661 from agenda-tech-brasil/feature/add-event-issue-660
+[33m0c4d650[m Merge pull request #659 from agenda-tech-brasil/feature/add-event-issue-658
+[33m8eeaed7[m Merge pull request #657 from agenda-tech-brasil/feature/add-event-issue-656
+[33m1ef6ac2[m Merge pull request #655 from agenda-tech-brasil/feature/add-event-issue-654
+[33ma1c6c11[m Merge pull request #653 from agenda-tech-brasil/feature/add-event-issue-652
+[33mb74684a[m Merge pull request #650 from stephan-lopes/feature/mudar-titulo-readme
+[33md0aca3e[m Merge pull request #649 from stephan-lopes/feature/upgrade-workflow
+[33mb57f586[m Merge pull request #648 from stephan-lopes/feature/adicionar-site
+[33m7be614a[m Adicionando novo evento: FIAP Meetup #140: Estratégias de negócios e IA para as transformações do mercado
+[33m7aee8fb[m Adicionando novo evento: Rcoketseat NLW Connect
+[33mc39c891[m Adicionando novo evento: SQL Saturday Joinville 2025
+[33m9c1d75e[m Adicionando novo evento: Escola de Verão 2025 - Unimontes/IFNMG
+[33m601f460[m Adicionando novo evento: GitTogether Fortaleza - Fevereiro
+[33m964f83e[m Merge pull request #91 from stephan-lopes/feature/adicionar-automacao
+[33m49a33b7[m feat: adicionar issue e CI de teste para arquivamento de eventos
+[33m49bbe77[m feat: modificar titulo no README
+[33m72d8149[m feat(workflow): atualizar versão das actions
+[33m88dff02[m feat: adicionar informação do novo site
+[33m9b2be16[m Merge pull request #631 from haaveeni/patch-2
+[33mccc7c63[m feat: marcando mês de janeiro como arquivado no arquivo de db
+[33mecba7da[m Merge pull request #647 from agenda-tech-brasil/feature/add-event-issue-646
+[33m1dd6aa2[m Adicionando novo evento: Bxsec Security Experience
+[33m4584575[m Merge pull request #645 from agenda-tech-brasil/feature/add-event-issue-644
+[33m2a90411[m Adicionando novo evento: Confraria ZN - Bitcoin & web3
+[33mcb949b6[m Merge pull request #643 from agenda-tech-brasil/feature/add-event-issue-630
+[33mf0b7f70[m Merge branch 'main' into feature/add-event-issue-630
+[33mea5baf4[m Merge pull request #641 from agenda-tech-brasil/feature/add-event-issue-628
+[33mdc1094f[m Merge pull request #642 from agenda-tech-brasil/feature/add-event-issue-629
+[33m10cc9fe[m Adicionando novo evento: AI-Driven Pipeline: Construindo uma Solução de Dados com Databricks, GenAI e RAG
+[33m30bf561[m Adicionando novo evento: AGI Club #1 - Ifood Lab
+[33m4530ba9[m Adicionando novo evento: Encontro de Fevereiro no Núcleo de Tecnologia do MTST
+[33me730757[m Merge pull request #640 from agenda-tech-brasil/feature/add-event-issue-639
+[33m52ae4b2[m Merge pull request #638 from agenda-tech-brasil/feature/add-event-issue-637
+[33mab3a4cb[m Merge pull request #636 from agenda-tech-brasil/feature/add-event-issue-635
+[33m8216ae4[m Merge pull request #634 from agenda-tech-brasil/feature/add-event-issue-633
+[33m114dcde[m Adicionando novo evento: AI Cybersecurity Night 2025
+[33m17ef289[m Adicionando novo evento: GitTogether São Paulo
+[33maa4026b[m Adicionando novo evento: Big Data Brazil Experience 2025
+[33ma7db360[m Adicionando novo evento: FIAP Meetup #136 - Além do código: IA e as escolhas de carreiras
+[33m2aa4d85[m Update README.md
+[33m4a03b30[m Merge pull request #627 from haaveeni/patch-1
+[33m79bbc29[m Create 2025.md
+[33m2dbf7eb[m Merge pull request #625 from Abacatinhos/feature/add-event-issue-624
+[33m760f046[m Adicionando novo evento: Codecon Universe
+[33med421a6[m Merge pull request #623 from Abacatinhos/feature/add-event-issue-622
+[33m096efd5[m Cancelando evento: Codecon Universe
+[33m958fb34[m Merge pull request #621 from Abacatinhos/feature/add-event-issue-620
+[33m1e68ca1[m Merge pull request #619 from Abacatinhos/feature/add-event-issue-618
+[33m766fdbf[m Merge pull request #616 from Abacatinhos/feature/add-event-issue-615
+[33m621855d[m Adicionando novo evento: PHP Velho Oeste 2025
+[33m6d8a8a2[m Adicionando novo evento: Global Power Platform Bootcamp 2025
+[33m4670ff3[m Adicionando novo evento: RocketSeat Start 2025 - O guia para o seu novo ano na programação
+[33m7c05668[m Merge pull request #614 from Abacatinhos/feature/add-event-issue-613
+[33md6fb482[m Merge pull request #612 from Abacatinhos/feature/add-event-issue-611
+[33m73e43ef[m Merge branch 'main' into feature/add-event-issue-611
+[33mf904838[m Merge pull request #610 from Abacatinhos/feature/add-event-issue-609
+[33m57baf3e[m Merge branch 'main' into feature/add-event-issue-609
+[33m8ca2195[m Merge pull request #608 from Abacatinhos/feature/add-event-issue-607
+[33mac1ad9d[m Merge pull request #606 from Abacatinhos/feature/add-event-issue-605
+[33m0ded0a3[m Adicionando novo evento: DP-700: Prepare-se para o dia do exame e Q&A
+[33mf41f284[m Adicionando novo evento: DP-700: Monitore e Otimize suas Soluções no Microsoft Fabric
+[33me0a32ed[m Adicionando novo evento: DP-700: Ingestão e Transformação de Dados no Microsoft Fabric
+[33mf6fb0c2[m Adicionando novo evento: DP-700: Implementar e gerenciar soluções analíticas no Microsoft Fabric
+[33m5eb5bb7[m Adicionando novo evento: Tech Woman 2025
+[33m61ed824[m Merge pull request #604 from Abacatinhos/feature/add-event-issue-603
+[33mffd1733[m fix: corrigir nome de evento para evitar problemas de Markdown
+[33ma7eb5db[m Adicionando novo evento: Golang SP na Uber
+[33m133bff4[m Merge pull request #602 from Abacatinhos/feature/add-event-issue-601
+[33m6bf3cea[m Merge pull request #600 from haaveeni/main
+[33m5158fb0[m fix: modificar o evento VII Meetup PyData Manaus e 112 Meetup AWS
+[33m980af31[m Merge pull request #598 from Abacatinhos/feature/add-event-issue-597
+[33mb665b35[m Merge pull request #596 from Abacatinhos/feature/add-event-issue-595
+[33m54a0171[m Merge pull request #594 from Abacatinhos/feature/add-event-issue-593
+[33m6bb56f9[m Adicionando novo evento: FIAP Meetup #135 - Da IA generativa aos agentes na Google Cloud
+[33m873d368[m Adicionando novo evento: Boa semana web 3 Meetup Online de Segunda-feira
+[33m6d10f32[m Adicionando novo evento: Vamos Programar Juntos a Web3 com a Confraria.
+[33mf113c86[m Adicionando novo evento: 112º Meetup AWS UG SP [PRESENCIAL] - O Jogo da Inspeção na AWS
+[33me2267ff[m Merge pull request #590 from Abacatinhos/feature/add-event-issue-589
+[33mcbca754[m Adicionando novo evento: Codecon Summit 25
+[33m9eeee1a[m Merge pull request #588 from Abacatinhos/feature/add-event-issue-587
+[33m965b3b5[m Merge pull request #586 from Abacatinhos/feature/add-event-issue-585
+[33me1911bb[m Merge pull request #584 from Abacatinhos/feature/add-event-issue-583
+[33mde47498[m Merge pull request #580 from Abacatinhos/feature/add-event-issue-579
+[33mf4e223c[m Adicionando novo evento: II Simpósio Brasileiro de Computação na Educação Básica (SBC-EB 2025)
+[33mae30ed9[m Adicionando novo evento: Computer on the beach
+[33m44b0cf5[m Adicionando novo evento: Segurança em Ambientes Híbridos com Azure Arc e Copilot for Security
+[33m6edc861[m Adicionando novo evento: Meetup Codecon - #12 - Joinville
+[33mebfaa21[m Merge pull request #578 from Abacatinhos/feature/add-event-issue-577
+[33m492f5b6[m Adicionando novo evento: Meetup Codecon - #09 Florianópolis
+[33mf56e02d[m Merge pull request #576 from Abacatinhos/feature/add-event-issue-575
+[33mbf50d69[m Merge pull request #574 from Abacatinhos/feature/add-event-issue-573
+[33m731ea2c[m Merge pull request #572 from Abacatinhos/feature/add-event-issue-571
+[33m1bf31b5[m Merge pull request #570 from Abacatinhos/feature/add-event-issue-569
+[33m68c2471[m Merge pull request #568 from Abacatinhos/feature/add-event-issue-567
+[33mf469c44[m Merge pull request #566 from Abacatinhos/feature/add-event-issue-565
+[33m239333f[m Merge pull request #564 from Abacatinhos/feature/add-event-issue-563
+[33m1a56403[m Merge pull request #562 from Abacatinhos/feature/add-event-issue-561
+[33m80ab01a[m Merge pull request #560 from Abacatinhos/feature/add-event-issue-559
+[33maae2189[m Adicionando novo evento: Ano Novo do SouJava na Oracle
+[33med9dc88[m Adicionando novo evento: TDC Summit Brasília
+[33m1657e3b[m Adicionando novo evento: TDC SP
+[33m11a93da[m Adicionando novo evento: TDC Floripa
+[33mf680baa[m Adicionando novo evento: TDC Summit SP
+[33m698f5cc[m Adicionando novo evento: FIAP Meetup #133 - IA no futuro: desenvolvimento ético e responsável
+[33m7cb8af2[m Adicionando novo evento: [Front @ Uber] Simulando a entrevista de Design & Architecture de front-end
+[33m9101d9d[m Adicionando novo evento: [Front @ Uber] Simulando a entrevista de Depth in Specialization de front-end
+[33md897c13[m Adicionando novo evento: FIAP Meetup #135 - Mulheres no mercado tech: trajetórias de inclusão e equidade
+[33m273b266[m Merge pull request #558 from Abacatinhos/feature/add-event-issue-557
+[33m9f3664f[m Adicionando novo evento: Sem Servidor Conf 2025
+[33m8431665[m Merge pull request #556 from Abacatinhos/feature/add-event-issue-555
+[33m3ff8589[m Adicionando novo evento: DevOps Days Goiânia 2025
+[33md4f9dd3[m Merge pull request #554 from Abacatinhos/feature/add-event-issue-553
+[33m742c8ab[m Cancelando evento: MiniDebConf Maceió 2025
+[33m0f4beba[m Merge pull request #552 from Abacatinhos/feature/add-event-issue-551
+[33mb610d93[m Adicionando novo evento: MiniDebConf Maceió 2025
+[33m9e9645e[m Merge pull request #550 from Abacatinhos/feature/add-event-issue-549
+[33meb53732[m Adicionando novo evento: Web Summit Rio 2025
+[33m226d780[m Merge pull request #548 from Abacatinhos/feature/add-event-issue-547
+[33m6931a9e[m Cancelando evento: Web Summit Rio 2025
+[33m7e92dfd[m Merge pull request #546 from Abacatinhos/feature/add-event-issue-545
+[33m94d5d5c[m Adicionando novo evento: SecOps Summit 2025
+[33m2f42217[m Merge pull request #544 from Abacatinhos/feature/add-event-issue-543
+[33m9b01fd3[m Cancelando evento: SecOps Summit 2025
+[33m90c74be[m Merge pull request #542 from Abacatinhos/feature/add-event-issue-541
+[33m514bd54[m Adicionando novo evento: Select Experience
+[33mf11ce30[m Merge pull request #540 from Abacatinhos/feature/add-event-issue-539
+[33mea0031b[m Adicionando novo evento: Datacon
+[33md887d23[m Merge pull request #538 from Abacatinhos/feature/add-event-issue-537
+[33m553c853[m fix: ordem do evento do codecon summit no README.md
+[33m52a26ef[m fix: ordem do evento do codecon summit no database.json
+[33m7833a07[m Adicionando novo evento: Codecon Universe
+[33m17ce092[m Merge pull request #534 from gabrnunes/patch-1
+[33m2928f1d[m feat: adição no database.json de eventos, e remoção de TBA
+[33maa5ac62[m Merge pull request #536 from Abacatinhos/feature/add-event-issue-535
+[33m8d9795a[m Adicionando novo evento: Roda de Conversa Pyladies Manaus
+[33md422a29[m Update README.md
+[33m9c8824f[m Merge pull request #533 from Abacatinhos/feature/add-event-issue-532
+[33mb513e6f[m Adicionando novo evento: Agile Trends 2025 - Inteligência Artificial: agilidade e transformação
+[33mbce783d[m Merge pull request #527 from asacxyz/patch-1
+[33md173092[m fix(template): corrigir de erro de ortografia no template
+[33mdd44f5e[m Merge pull request #531 from Abacatinhos/feature/add-event-issue-530
+[33mfeadcd0[m Merge pull request #529 from Abacatinhos/feature/add-event-issue-528
+[33m14ea8b6[m Adicionando novo evento: KCD Rio de Janeiro 2025 (Cloud)
+[33m225997c[m Adicionando novo evento: Beer for Devs - De volta para 2025: o futuro chegou!
+[33ma857630[m docs: typo
+[33m84a35e0[m Merge pull request #524 from haaveeni/adiciona-2024-aos-anos-anteriores
+[33m940333b[m feat: adicionar na geração do template a string de 2024
+[33m4010eeb[m Merge pull request #526 from Abacatinhos/feature/add-event-issue-525
+[33ma1543e5[m Adicionando novo evento: Thasfin #20 | Orange Juice | Fcamara
+[33m94ad760[m Adiciona 2024 aos anos anteriores
+[33m3db314d[m Merge pull request #523 from haaveeni/atualizando-ano
+[33m42d6b6e[m Atualizando para 2025
+[33mf005471[m Merge pull request #522 from Abacatinhos/feature/add-event-issue-521
+[33ma9eb823[m Merge branch 'main' into feature/add-event-issue-521
+[33m2b3860b[m Merge pull request #520 from Abacatinhos/feature/add-event-issue-519
+[33md4f6bb1[m Merge pull request #518 from Abacatinhos/feature/add-event-issue-517
+[33m6e31ae0[m Merge branch 'main' into feature/add-event-issue-517
+[33m138ff32[m Merge pull request #516 from Abacatinhos/feature/add-event-issue-515
+[33m759ce29[m Adicionando novo evento: Colaboração e implantação com o GitHub Copilot
+[33mab902d9[m Adicionando novo evento: Crie Testes Unitários e Documentação com GitHub Copilot
+[33m229d945[m Adicionando novo evento: Construindo uma Aplicação Web de IA com Python e Flask
+[33md069d84[m Adicionando novo evento: Engenharia de prompt com o GitHub Copilot
+[33m882de81[m Merge pull request #512 from Abacatinhos/feature/add-event-issue-511
+[33m3ee0512[m Cancelando evento: Live: Dicas de carreira para pessoas desenvolvedoras de RPA
+[33m0006984[m Merge pull request #509 from Abacatinhos/feature/add-event-issue-508
+[33m27c97a0[m Adicionando novo evento: Excel Weekend 10
+[33m67ebe4e[m Merge pull request #505 from Abacatinhos/feature/add-event-issue-504
+[33m8a64d62[m Merge branch 'main' into feature/add-event-issue-504
+[33m5ae05c8[m Merge pull request #503 from Abacatinhos/feature/add-event-issue-502
+[33me867072[m Adjust incorrect items
+[33mb01bd44[m Merge branch 'main' into feature/add-event-issue-502
+[33mca61379[m Merge pull request #501 from Abacatinhos/feature/add-event-issue-500
+[33mcb6a7d9[m Merge branch 'main' into feature/add-event-issue-500
+[33m9ab3758[m Merge pull request #499 from Abacatinhos/feature/add-event-issue-498
+[33m9dbd49d[m Merge branch 'main' into feature/add-event-issue-498
+[33ma4a0643[m Merge pull request #497 from Abacatinhos/feature/add-event-issue-496
+[33m51349b5[m Adicionando novo evento: Live: Dicas de carreira para pessoas desenvolvedoras de RPA
+[33m409c002[m Merge pull request #495 from Abacatinhos/feature/add-event-issue-494
+[33ma1768ca[m Merge branch 'main' into feature/add-event-issue-494
+[33m806f43d[m Merge pull request #493 from Abacatinhos/feature/add-event-issue-492
+[33m6283d92[m Merge pull request #491 from Abacatinhos/feature/add-event-issue-490
+[33m5ba9a85[m Merge branch 'main' into feature/add-event-issue-490
+[33m9c5e620[m Merge pull request #489 from Abacatinhos/feature/add-event-issue-488
+[33m2b364a6[m Merge pull request #487 from Abacatinhos/feature/add-event-issue-486
+[33mc268a8f[m Merge pull request #485 from Abacatinhos/feature/add-event-issue-484
+[33mc8908d3[m Merge branch 'main' into feature/add-event-issue-484
+[33m98f81d3[m Merge pull request #471 from Abacatinhos/feature/add-event-issue-470
+[33m1ee848f[m Merge branch 'main' into feature/add-event-issue-470
+[33m3990ed0[m Merge pull request #483 from Abacatinhos/feature/add-event-issue-482
+[33m73e21c8[m Merge branch 'main' into feature/add-event-issue-482
+[33m231d7d2[m Merge pull request #469 from Abacatinhos/feature/add-event-issue-468
+[33m12adca4[m Merge branch 'main' into feature/add-event-issue-468
+[33m1fbcb01[m Merge pull request #467 from Abacatinhos/feature/add-event-issue-466
+[33md94618e[m Merge branch 'main' into feature/add-event-issue-466
+[33m1115dda[m Merge pull request #459 from Abacatinhos/feature/add-event-issue-458
+[33m12da5da[m Update database.json
+[33m2d68ce8[m Update README.md
+[33md886554[m Merge pull request #465 from Abacatinhos/feature/add-event-issue-464
+[33m4d42b10[m Merge branch 'main' into feature/add-event-issue-464
+[33m79f5fb6[m Merge pull request #463 from Abacatinhos/feature/add-event-issue-462
+[33m198a9c6[m Merge branch 'main' into feature/add-event-issue-462
+[33mfd00dc0[m Merge pull request #461 from Abacatinhos/feature/add-event-issue-460
+[33m5ab80e9[m Merge branch 'main' into feature/add-event-issue-460
+[33mb949f6c[m Merge branch 'main' into feature/add-event-issue-458
+[33m569de68[m Merge pull request #457 from Abacatinhos/feature/add-event-issue-456
+[33m03ef33a[m Update database.json
+[33m5ab642c[m Merge branch 'main' into feature/add-event-issue-456
+[33mda32460[m Merge pull request #454 from Abacatinhos/feature/add-event-issue-453
+[33m8395dc5[m Merge branch 'main' into feature/add-event-issue-453
+[33m9a16810[m Merge pull request #452 from Abacatinhos/feature/add-event-issue-451
+[33m3c2c4d1[m Merge branch 'main' into feature/add-event-issue-451
+[33m97a565f[m Merge pull request #450 from Abacatinhos/feature/add-event-issue-449
+[33m6913f85[m Merge branch 'main' into feature/add-event-issue-449
+[33md3a6115[m Merge pull request #446 from Abacatinhos/feature/add-event-issue-445
+[33m0c0b450[m Merge branch 'main' into feature/add-event-issue-445
+[33m6938323[m Merge pull request #444 from Abacatinhos/feature/add-event-issue-443
+[33mdf1bff4[m Merge branch 'main' into feature/add-event-issue-443
+[33mda2e550[m Merge pull request #442 from Abacatinhos/feature/add-event-issue-441
+[33mb245f23[m Merge branch 'main' into feature/add-event-issue-441
+[33m451dce8[m Adicionando novo evento: Data World Xperience 2025 - Explore o futuro dos dados além da IA
+[33mb3831e0[m Adicionando novo evento: Mulher Tech Sim Senhor
+[33m51483cc[m Adicionando novo evento: Introdução ao Azure IoT Operations
+[33m7b122bb[m Adicionando novo evento: Construindo agents autônomos inteligentes com Copilot Studio e AI Builder
+[33m12aac74[m Update 2024.md
+[33m426ea36[m Update README.md
+[33m34f1751[m Adicionando novo evento: SecOps Summit 2025
+[33m8c5d10f[m Adicionando novo evento: CS4CA LatAm Summit
+[33m7aef5f5[m Adicionando novo evento: Web Summit Rio 2025
+[33m923a9be[m Adicionando novo evento: Security Leaders Recife 2025
+[33m40f7830[m Adicionando novo evento: MiniDebConf Maceió 2025
+[33me943c24[m Adicionando novo evento: VII Meetup PyData Manaus
+[33mb6edf6b[m Merge pull request #473 from Abacatinhos/feature/add-event-issue-472
+[33m2d59410[m Merge branch 'main' into feature/add-event-issue-472
+[33mb70166d[m Merge pull request #475 from Abacatinhos/feature/add-event-issue-474
+[33mbfc77bb[m Merge branch 'main' into feature/add-event-issue-474
+[33maf10a9f[m Merge pull request #477 from Abacatinhos/feature/add-event-issue-476
+[33m5f010d8[m Merge branch 'main' into feature/add-event-issue-476
+[33m681f04f[m Merge pull request #479 from Abacatinhos/feature/add-event-issue-478
+[33m6cf6c4e[m Merge branch 'main' into feature/add-event-issue-478
+[33mecb3823[m Merge pull request #481 from Abacatinhos/feature/add-event-issue-480
+[33md254606[m Adicionando novo evento: XibéSec - 2025
+[33m698b291[m Adicionando novo evento: SIRENA Conference - 2025
+[33m8aa699d[m Adicionando novo evento: Hacking Na Web Day - Florianópolis - 2025
+[33mb982996[m Adicionando novo evento: Hacking Na Web Day - São Paulo - 2025
+[33mb375d1f[m Adicionando novo evento: Hacking Na Web Day - Rio de Janeiro - 2025
+[33m6c64129[m Adicionando novo evento: Hacking Na Web Day - Belo Horizonte - 2025
+[33mcbb0d23[m Adicionando novo evento: Hacking Na Web Day - Recife - 2025
+[33m1dce7b7[m Adicionando novo evento: Hacking Na Web Day - Brasília - 2025
+[33m9aecb0a[m Adicionando novo evento: FortalSec - 2025
+[33m9d8c4fb[m Adicionando novo evento: Hack In Cariri - 2025
+[33ma246f76[m Adicionando novo evento: BSidesSP - 2025
+[33m247db20[m Adicionando novo evento: BSidesRJ - 2025
+[33mf89a6c9[m Cancelando evento: TDC 2025 SÃO PAULO
+[33m4a49788[m Adicionando novo evento: TDC 2025 SÃO PAULO
+[33m5714fe6[m Merge pull request #440 from Abacatinhos/feature/add-event-issue-439
+[33mc0e2726[m Adicionando novo evento: Princípios básicos e conceitos de nuvem
+[33mcc1d9a5[m Merge pull request #436 from Abacatinhos/feature/add-event-issue-435
+[33m1866797[m Adicionando novo evento: PHPSP Pub
+[33m0ae039f[m Merge pull request #438 from Abacatinhos/feature/add-event-issue-437
+[33med69ba1[m Adicionando novo evento: Desenvolvendo Functions App Seguros com Identidade Gerenciada e Service Connecto
+[33m9ac0216[m Merge pull request #434 from Abacatinhos/feature/add-event-issue-433
+[33maff3cd9[m Adicionando novo evento: Novidades do SQL Server, Fabric, AI e IoT anunciadas no Ignite 2024
+[33m2fa5868[m Merge pull request #432 from Abacatinhos/feature/add-event-issue-431
+[33mcfccc04[m Adicionando novo evento: Confraria Web3 - São Paulo
+[33m29c322c[m Merge pull request #430 from Abacatinhos/feature/add-event-issue-429
+[33mdc2aff7[m Adicionando novo evento: Clube do Livro Java Efetivo
+[33mc615f6c[m Merge pull request #428 from Abacatinhos/feature/add-event-issue-427
+[33m79fb2bf[m Merge pull request #425 from Abacatinhos/feature/add-event-issue-424
+[33m7298285[m feat: modificar template de geração do readme.md
+[33mdc4c433[m Adicionando novo evento: FIAP Meetup - IA E Gestão de projetos: o mercado para todos os profissionais
+[33mb2a9302[m Adicionando novo evento: FIAP Meetup - IA na Hiperautomação: fundamentos, estratégias e aplicações
+[33m826099c[m Adicionando novo evento: Microsoft 365 Para Elas: próximos passos em seu plano de estudos!
+[33me6e6780[m Adicionando novo evento: Descrever as capacidades de segurança e conformidade do Microsoft 365
+[33mf073369[m Adicionando novo evento: Agentes Autônomos, Copilot e IA: o que vem de novo e como me preparar?
+[33mf06a2e0[m Adicionando novo evento: Descrever aplicações e serviços do Microsoft 365
+[33m68c0c9d[m Adicionando novo evento: Caminhos para uma Carreira em Cloud para Mulheres
+[33m5de49b1[m Merge pull request #426 from dudanogueira/tdc-2025
+[33mf61ae68[m Fix TBA/2025 -> TBA
+[33mcee0587[m adiciona datas TDC
+[33m487544a[m Adicionando novo evento: Natal do SouJava na Oracle
+[33m0d2ee67[m Update README.md
+[33m118385f[m Update 2024.md
+[33mc41f4dd[m Update README.md
+[33m4bda8cf[m Merge pull request #420 from Abacatinhos/feature/add-event-issue-419
+[33m0a650b9[m Merge pull request #418 from Abacatinhos/feature/add-event-issue-417
+[33mafcccb4[m Merge branch 'main' into feature/add-event-issue-417
+[33m1b60409[m Merge pull request #416 from Abacatinhos/feature/add-event-issue-415
+[33m5e0db6d[m Merge pull request #414 from Abacatinhos/feature/add-event-issue-413
+[33m913a1d6[m Merge branch 'main' into feature/add-event-issue-413
+[33mff11c8e[m Merge pull request #412 from Abacatinhos/feature/add-event-issue-411
+[33m89b6f51[m Adicionando novo evento: SQLTuesday
+[33m2556d89[m Adicionando novo evento: Encontro de final de ano Java Girls JUG - SP
+[33m2eb4c31[m Adicionando novo evento: Meetup WoMakersCode
+[33mcec8cbd[m Adicionando novo evento: .NET Conf 2024 - Edição de Final de Ano - São Paulo-SP
+[33mf0f0001[m Adicionando novo evento: DEMO DAY: Web Development & AI - Batch #1850
+[33m805cbcc[m Merge pull request #398 from Abacatinhos/feature/add-event-issue-397
+[33ma7ee8c6[m Merge pull request #410 from Abacatinhos/feature/add-event-issue-409
+[33m8b876d2[m Merge branch 'main' into feature/add-event-issue-409
+[33m2dc831b[m Merge pull request #408 from Abacatinhos/feature/add-event-issue-407
+[33m6a7b110[m Merge branch 'main' into feature/add-event-issue-407
+[33m8950def[m Merge pull request #406 from Abacatinhos/feature/add-event-issue-405
+[33m14f0b53[m Merge branch 'main' into feature/add-event-issue-405
+[33mce2bc12[m Merge pull request #404 from Abacatinhos/feature/add-event-issue-403
+[33mc23e1ef[m Merge branch 'main' into feature/add-event-issue-403
+[33m0c5b888[m Merge pull request #402 from Abacatinhos/feature/add-event-issue-401
+[33mf99b07d[m Merge pull request #400 from Abacatinhos/feature/add-event-issue-399
+[33me42b4d7[m Merge pull request #396 from Abacatinhos/feature/add-event-issue-395
+[33m2c6280a[m Adicionando novo evento: #1 Encontro Clojure BR - Nubank/SP
+[33m11a788a[m Adicionando novo evento: PHPSP Pub
+[33mfec9894[m Adicionando novo evento: Workshop de Ruby e LLMs
+[33mdfd6428[m Adicionando novo evento: AZ-204: Azure Developer Associate
+[33m9d537fa[m Adicionando novo evento: Tudo que Preciso para Iniciar com Kubernetes e AKS
+[33m865f962[m Adicionando novo evento: Conexão Global: Roda de Conversa com Especialistas em Tecnologia Photo of Stefany Fernandes
+[33me2c8073[m Adicionando novo evento: Dojo de Código
+[33mf0665f9[m Adicionando novo evento: GitTogether Fortaleza - Dezembro
+[33m5e8f363[m Merge pull request #394 from Abacatinhos/feature/add-event-issue-393
+[33mdf59716[m Merge pull request #392 from Abacatinhos/feature/add-event-issue-391
+[33m8b8393b[m Adicionando novo evento: Técnicas de criação rápida para GitHub Copilot que todo dev deve conhecer
+[33m829b838[m Adicionando novo evento: Meetup Red Hat São Paulo e comunidade ElasticSearch
+[33m91c42d6[m Merge pull request #390 from Abacatinhos/feature/add-event-issue-389
+[33m71a10d7[m Adicionando novo evento: LINUXtips.local - Fortaleza
+[33mdc07360[m Merge pull request #386 from Abacatinhos/feature/add-event-issue-385
+[33m4cd8161[m Merge pull request #382 from Abacatinhos/feature/add-event-issue-381
+[33m0bd438a[m Adicionando novo evento: LINUXtips.local - Curitiba
+[33mb5f8a4b[m Adicionando novo evento: LINUXtips.local - São Paulo
+[33m1084978[m Merge pull request #380 from Abacatinhos/feature/add-event-issue-379
+[33mc468e2d[m Merge pull request #378 from Abacatinhos/feature/add-event-issue-377
+[33mdf35c1e[m Adicionando novo evento: LINUXtips.local - Brasília
+[33m116fc3e[m Adicionando novo evento: LINUXtips.local - Belém
+[33m10eca84[m Merge pull request #376 from Abacatinhos/feature/add-event-issue-375
+[33me7c5ec6[m Adicionando novo evento: CT Tech Talks: Mercado de Trabalho - Desenvolvimento, IA, Cloud e Dados
+[33m7e73eda[m Merge pull request #374 from Abacatinhos/feature/add-event-issue-373
+[33m3eb0385[m Adicionando novo evento: FIAP Meetup - AI in Healthcare: maximizar eficiência e inovação na saúde com IA
+[33m94e8a52[m Merge pull request #372 from Abacatinhos/feature/add-event-issue-371
+[33m1671305[m Cancelando evento: Mercado de Trabalho - Desenvolvimento, IA, Cloud e Dados
+[33mf07fd27[m Merge pull request #370 from Abacatinhos/feature/add-event-issue-369
+[33mfbb1292[m Cancelando evento: maximizar eficiência e inovação na saúde com IA
+[33m885f617[m Merge pull request #368 from Abacatinhos/feature/add-event-issue-367
+[33m8b4f428[m fix: event_type Online
+[33mce3d12b[m fix: database.json
+[33md11cc46[m Adicionando novo evento: FIAP Meetup - UX e produto na era da IA: expandindo possibilidades
+[33m5feb402[m chore(ci): remove github context
+[33m3a3ce28[m fix: change issue title
+[33m9d1352c[m Adicionando novo evento: Hacking na Web Day - Florianópolis
+[33m4efe63d[m Merge pull request #363 from Abacatinhos/revert-360-feature/add-event-issue-359
+[33mf572a10[m Revert "Adicionando novo evento: Hacking na Web Day - Florianópolis"
+[33md35d4b9[m Revert "fix: change quotes"
+[33m9d8509e[m fix: change quotes
+[33mbeaf38d[m Adicionando novo evento: Hacking na Web Day - Florianópolis
+[33me44b310[m Merge pull request #357 from Abacatinhos/feature/add-event-issue-356
+[33m2ad7731[m Adicionando novo evento: expandindo possibilidades
+[33ma1ec870[m Merge pull request #355 from Abacatinhos/feature/add-event-issue-354
+[33ma539968[m Adicionando novo evento: Black in Tech Experience no Insper!
+[33mf3e0ce9[m Merge pull request #353 from Abacatinhos/feature/add-event-issue-352
+[33mc94ecf8[m Cancelando evento: Black in Tech Experience no Insper!
+[33ma49c6ae[m Merge pull request #351 from Abacatinhos/feature/add-event-issue-350
+[33mc5795aa[m Adicionando novo evento: Mercado de Trabalho - Desenvolvimento, IA, Cloud e Dados
+[33m99462cf[m Merge pull request #349 from Abacatinhos/feature/add-event-issue-348
+[33med8ad2b[m Merge branch 'main' into feature/add-event-issue-348
+[33m6abffd3[m Merge pull request #347 from Abacatinhos/feature/add-event-issue-346
+[33m67acfa7[m Merge branch 'main' into feature/add-event-issue-346
+[33m60c6efe[m Merge pull request #345 from Abacatinhos/feature/add-event-issue-344
+[33mc75cb44[m Merge branch 'main' into feature/add-event-issue-344
+[33m5d0859b[m Merge pull request #343 from Abacatinhos/feature/add-event-issue-342
+[33m8589cbd[m Adicionando novo evento: maximizar eficiência e inovação na saúde com IA
+[33m6e981ac[m Adicionando novo evento: FIAP MEETUP - Game Dev & Inteligência Artificial
+[33mc41ebe5[m Adicionando novo evento: Webinar Oracle - GenAI com HeatWave MySQL sem usar GPU!
+[33md0013be[m Adicionando novo evento: PHP Conference Brasil 2024
+[33mfcc7aec[m Merge pull request #338 from stephan-lopes/hotfix/wrong-branch-name
+[33m6b31e0a[m fix: change branch from master to main
+[33m945f672[m Merge pull request #333 from lucassabreu/patch-1
+[33mda2733f[m Merge pull request #332 from stephan-lopes/feature/update-database
+[33m97c3556[m fix: markdown lint
+[33mabdd1ac[m feat: add new events to database
+[33me48735c[m Merge pull request #330 from AndrePaulino/soujava-bsb-dezembro
+[33m7454a0c[m fix: change url
+[33m783cf7b[m Update README.md
+[33mdac2ed1[m add meetup soujava 03 dezembro
+[33m2d946a7[m Merge pull request #328 from stephan-lopes/feature/event-by-issue
+[33mc91d9bb[m fix(doc/contributing): corrigir identação do arquivo
+[33m8cbca13[m feat: adição de arquivos para criar eventos através de issues
+[33m080ee97[m Merge pull request #327 from haaveeni/main
+[33m5e880bb[m Adiciona eventos 27/11, 03/11, 09/12, 11/12
+[33m4c9ce9b[m Update README.md
+[33mb3f81e6[m Update README.md
+[33m647d8c1[m Merge pull request #326 from Abacatinhos/pachicodes-patch-5
+[33mb763a66[m Update README.md
+[33m0d940c2[m Merge pull request #324 from stephan-lopes/stephan-lopes-patch-1
+[33ma8b2a95[m fix: corrigir formatação de url no md
+[33m44df9df[m Merge pull request #323 from alvesmariadefatima/alvesmariadefatima-patch-5
+[33m3db893a[m fix: correção para o md lint
+[33m9632b92[m doc: Adicionar o local onde será transmitido o evento
+[33m1372e63[m doc: Adicionar evento Wireframes e Fluxos de Navegação - Menina de UX 👩🏻‍💻
+[33m056c8aa[m Merge pull request #322 from alvesmariadefatima/alvesmariadefatima-patch-5
+[33mf5b1da6[m doc: Adicionar evento PHPeste 2024 🐘
+[33m5bab072[m Merge pull request #321 from stephan-lopes/feature/add-event
+[33mf58b819[m Merge pull request #311 from Abacatinhos/pachicodes-patch-4
+[33m0693d78[m Update 2024.md
+[33m8e1bbd8[m feat: add DevOpsDays Natal 11/2024
+[33mc49bd65[m Merge pull request #318 from JohKemPo/patch-1
+[33me6c3cd0[m fix(style): custom md lint
+[33mfdec432[m Feat | Adicionando evento de IA Niterói/RJ
+[33m233da78[m Merge pull request #317 from LaazV/main
+[33m0c1d8da[m add: Eventos Oracle e Beer4Devs
+[33mb69776d[m Merge pull request #316 from gui23dib/main
+[33m96e9b6d[m fix: remove referrer paramter in DevFest Santos
+[33mc8eb629[m Resolve conflitos mdLint githuba ctions
+[33m45bee1b[m Add devfest santos
+[33m78cac6b[m Add 4Dev Connect RS 2024 - Issue #315
+[33m1590b5d[m Add TRINCA TALKS - Issue #305
+[33m5a48391[m Merge pull request #313 from AlexsandroSA/patch-1
+[33md954cdd[m fix: change style for lint
+[33m8309287[m Merge pull request #314 from thauska/patch-1
+[33me019343[m Update README.md
+[33m494c9c1[m add: XConf América Latina 2024
+[33m4f7b7b5[m Merge pull request #312 from Abacatinhos/pachicodes-patch-5
+[33m5887742[m Update README.md
+[33me9f04b4[m Update README.md
+[33m53fe34b[m Update README.md
+[33m06fa413[m Update README.md
+[33m9f27af8[m Merge pull request #310 from wendelmax/patch-1
+[33mca9e43f[m Update README.md
+[33m39bdacb[m Merge pull request #308 from henriqueferro/patch-3
+[33m5b1d5e5[m Update README.md
+[33maadee40[m Merge pull request #304 from LaazV/main
+[33m43a40b1[m Add: BBDW Brasilia
+[33m5d85112[m Merge pull request #303 from voigvie/patch-5
+[33mdd69c02[m fix: remover parêntese adicional
+[33m7dbdaa5[m Update README.md
+[33m0f18f61[m Merge pull request #302 from Engcompaulo/novoseventos
+[33m1b57290[m fix: corrigir link do evento DevOpsDays Maceio
+[33ma0bced8[m update: Novos eventos para DevOpsDays em Novembro e Dezembro de 2024.
+[33m5981d33[m Merge pull request #301 from stephan-lopes/feature/fix-wrong-styles
+[33md61c598[m fix(style): change events style and 'tags' for ci
+[33m38d2836[m Merge pull request #298 from Abacatinhos/pachicodes-patch-3
+[33mad34db1[m Merge pull request #300 from paulpessoa/patch-1
+[33mcc1e5c4[m Merge pull request #299 from lgsreal/main
+[33md0020f4[m TDC e RECNPLAY
+[33m8c781e9[m Update README.md
+[33m62bb311[m Update README.md
+[33m19b8148[m Update README.md
+[33m299d513[m Update README.md
+[33m62eb9d3[m Merge pull request #297 from F-K-C/patch-1
+[33m78d6ff3[m Merge pull request #296 from bugelseif/main
+[33mfa887e6[m Update README.md
+[33m15c595e[m add Python Brasil
+[33m9d3c6f1[m Add meetup BotCity
+[33mdab19d4[m Update README.md
+[33mcd3dadf[m Update README.md
+[33md6488d6[m Merge pull request #295 from voigvie/patch-4
+[33mf553158[m Update README.md
+[33m2be064a[m Update README.md
+[33m15441a6[m Merge pull request #294 from thiagoeh/main
+[33mc380f3a[m Merge pull request #1 from thiagoeh/thiagoeh-iam-tech-day-2025-04-11e12
+[33mfc6d8e4[m 2025-04-10 e 11 IAM Tech Day SP
+[33m5ccc93a[m Merge pull request #293 from regisnew/main
+[33ma88ecb4[m :sparkles: ADD Encontro de Gerenciamento de Projetos
+[33m6316e7a[m Merge pull request #290 from rafaelsmaria/main
+[33m9220b26[m Merge branch 'main' into main
+[33m9a8066a[m Merge pull request #289 from WilliandosSantos89/willlian-eventos-Fortaleza
+[33m20bb0bf[m Merge pull request #287 from Hei-Lima/main
+[33m4852f5f[m Merge pull request #292 from regisnew/main
+[33m5aa972c[m :bug: Fix Meetup de Engenharia de Software do Nubank
+[33m5b4f98f[m Merge pull request #291 from regisnew/main
+[33m396a20c[m :sparkles: Add JoomlaDay Brasil 2024
+[33m7d81bb7[m add evento front in floripa
+[33m7c82d1d[m Digital Product Week 2024
+[33mc0e5d1e[m Merge pull request #288 from WilliandosSantos89/main
+[33m5b4800c[m ElaTech - Correção do mês
+[33m6a239d7[m ElaTech - Descubra seu lugar
+[33mc574baf[m Adiciona BSB 2024 e SBMF 2024
+[33m45fa835[m Update README.md
+[33m95f7d44[m Merge pull request #286 from haaveeni/main
+[33m9caf9f7[m Adicionei Golang day, craftmans ship e nubank meetup9
+[33mcc864bd[m Merge pull request #285 from AndrePaulino/soujava-bsb-meetup-out
+[33ma1b0383[m add meetup soujava 22 out
+[33m1086e7b[m Merge pull request #284 from regisnew/main
+[33m6c7dc59[m Update README.md
+[33m04eec4b[m :sparkles: Add Elastic Meetup
+[33mff6c414[m Merge pull request #283 from NeiltonSeguins/snct-slz
+[33m26fc8fa[m Update README.md
+[33mead2544[m Adiciona o evento da semana de ciência e tecnologia (SNCT) que acontece em São Luís/MA
+[33mda3ee2e[m Merge pull request #282 from rpaivabr/main
+[33mb984069[m adicionado evento Devfest 2024 em Americana/SP dia 23/11
+[33md52aa4d[m Merge pull request #281 from OliverLidi/main
+[33m204c5b2[m Merge pull request #280 from marcosschlick/patch-1
+[33macb6979[m fix: change hybrid to presential
+[33mb7a33a2[m Adicionado evento tecnologia dia 31
+[33m1c56265[m add 1º Workshop sobre IA do IFSul
+[33mcd342d5[m Merge pull request #279 from AlexandreCaribe/patch-1
+[33m8414f8f[m Add PGEdge/BA
+[33m0602d54[m Merge pull request #278 from MatthewAraujo/patch-1
+[33m2e7e726[m Adicionando ObservabilitCon Grafana
+[33mc5b2095[m Merge pull request #277 from stephan-lopes/feature/ia-innovation
+[33md7e09e9[m feat: add event Desenvolvimento e Inovação com Inteligência Artificial
+[33m3d7a7c7[m Merge pull request #276 from bugelseif/main
+[33mad6406d[m Merge pull request #275 from regisnew/main
+[33md944aa9[m add BotCity meetup
+[33mb05993a[m Add CYBERLEGION-DF
+[33mcd404a8[m Update README.md
+[33m12f7362[m Merge pull request #273 from Abacatinhos/pachicodes-patch-3
+[33m621368c[m Update 2024.md
+[33mfe175dd[m Merge pull request #272 from RenanElid/patch-1
+[33m8702c53[m Update README.md
+[33m068fa4a[m Merge pull request #271 from chriscorrales/main
+[33mef201c5[m Adiciona Sorocaba CSS
+[33mf87dc9c[m Merge pull request #270 from regisnew/main
+[33m9b84edc[m :bug: lint
+[33m1e6d359[m Merge branch 'Abacatinhos:main' into main
+[33m6a5b54f[m :sparkles: Add IA na Gestão e Análise de Contratos e Processos
+[33m047792f[m Merge pull request #269 from stephan-lopes/feature/add-flutterando-connect
+[33m4962c4f[m feat(readme): add event Flutterando Connect
+[33m034af39[m Merge pull request #268 from kassiaoliveiraa/patch-1
+[33m6894630[m Merge pull request #267 from meiazero/main
+[33m69dae77[m Merge pull request #265 from dcalliari/main
+[33m57e3be5[m Add Webinar: Engenharia de Dados e Negócios
+[33m0fa2f40[m feat: add `SBSeg 2025` event
+[33mddf5854[m add `SBRC 2025` event
+[33md128a28[m feat: remove
+[33mc36f028[m Merge pull request #262 from dcalliari/patch-1
+[33mc7ac93e[m Merge pull request #261 from matheusbanhos/patch-1
+[33m4d20547[m Merge pull request #263 from costamarcelo/evento-bh
+[33m70915da[m Merge branch 'main' into evento-bh
+[33m3177d72[m Merge pull request #264 from regisnew/main
+[33md19004f[m Merge pull request #1 from regisnew/DevOpsDaysBrasilia
+[33ma40ca4d[m :sparkles: Add devopsdays Brasília 2024
+[33ma346191[m Added - Data Saturday BH
+[33me9e52a2[m feat: add TDC Summit IA Brasília
+[33m43d03a6[m Adiciona eventos da OWASP e BHack ao calendário
+[33m2ffdb47[m add staff + conf
+[33mceaf6bf[m Merge pull request #260 from stephan-lopes/feature/devops-events-fln
+[33m2f26547[m feat: add event DevOpsDays Florianópolis
+[33m0ee58eb[m feat: add event KCD Floripa 2024
+[33ma08c037[m Merge pull request #258 from stephan-lopes/feature/patch
+[33m2f8cc8b[m fix: update to align with project patterns
+[33m2eba588[m feat: add event Ada Lovelace 2024
+[33m93a299c[m Merge pull request #256 from voigvie/patch-3
+[33mf18ae92[m fix: correct markdown file
+[33m7617e40[m Update adding Jornada CriaJogos Arapiraca
+[33m7ec0771[m Merge pull request #255 from voigvie/patch-2
+[33m59d4d67[m Update README.md
+[33m608ab76[m Merge pull request #254 from Abacatinhos/pachicodes-patch-3
+[33m7f23022[m Update README.md
+[33mc5add29[m Merge pull request #253 from Abacatinhos/pachicodes-patch-3
+[33m05bf29f[m Update README.md
+[33m5da764f[m Merge pull request #252 from Abacatinhos/pachicodes-patch-3
+[33m66f17b5[m Update README.md
+[33m0c9da2d[m Update README.md
+[33m1c65462[m Merge pull request #251 from Abacatinhos/pachicodes-patch-2
+[33m244a59a[m Update README.md
+[33m83907db[m Create 2024.md
+[33m88e599f[m Merge pull request #250 from Abacatinhos/pachicodes-patch-2
+[33m3490464[m Update README.md
+[33m0a8b9c1[m Update README.md
+[33m194366f[m Merge pull request #248 from voigvie/patch-1
+[33m0d2577d[m Update README.md
+[33mdd518b1[m Merge pull request #245 from Abacatinhos/pachicodes-patch-2
+[33m29db4ec[m Update README.md
+[33mada10f1[m Merge pull request #244 from MichelleMello/main
+[33med251f5[m Merge pull request #1 from MichelleMello/add-event-seniortec
+[33m7ac7a32[m add: seniortec experience
+[33m04f28ce[m Merge pull request #243 from LombardiDaniel/patch-2
+[33m004d826[m fix(ci): DevPR event wrong style
+[33me9e49ac[m fix presecial -> prese*n*cial
+[33m1406206[m Merge pull request #242 from LombardiDaniel/patch-1
+[33m9cad516[m add: mongodb.local
+[33m1a8e25d[m Merge pull request #241 from Abacatinhos/pachicodes-patch-2
+[33m6d698d4[m Update README.md
+[33m4586e80[m Merge pull request #238 from AndrePaulino/soujava-bsb-esquenta-tdc
+[33mb617d8f[m Merge branch 'main' into soujava-bsb-esquenta-tdc
+[33m12f7799[m Merge pull request #236 from ByIvo/main
+[33m947f0a2[m Merge branch 'main' into main
+[33m1427d56[m Merge pull request #239 from Abacatinhos/giselepassuti-patch-1
+[33mb8d7b62[m Update README.md
+[33m2a2f07d[m Merge pull request #237 from dudanogueira/patch-1
+[33mbe03f66[m adiciona meetup soujava brasilia
+[33m6e3918c[m Update README.md
+[33m1ef3f66[m Adiciona eventos do DevPR
+[33m390dd1a[m Merge pull request #235 from EduardoJM/main
+[33mf3758d0[m feat: add events in Goiânia/GO
+[33m84bc2d9[m Merge pull request #234 from stephan-lopes/feature/add-new-events
+[33maa93387[m add event Semana Brasileira de Informática Biomédica
+[33m2dca775[m feat: add event TechWeek Senac Tech & GDG
+[33m3eec83a[m feat: add event HackBahia 2024
+[33mad601cf[m feat: add event PGConf.Brasil 2024
+[33m6f90fb5[m feat: add event PrograMaria Summit 2024
+[33ma63f099[m fix: wrong style
+[33md91cdcc[m Merge pull request #232 from Ranieeery/devconverge-latam
+[33maad9256[m Merge pull request #233 from BrunoCiccarino/main
+[33m68d6556[m Feat: Adicionando evento de T.I RecrutaTech na lista
+[33m5dda5fd[m feat(readme): Add DevConverge LATAM event on september 25th
+[33m6d6e69d[m Merge pull request #228 from jocarsbarsa/javaday
+[33mcb7e945[m Merge branch 'main' into javaday
+[33mafd8086[m Evento Java Day
+[33m669cf1b[m Merge pull request #223 from actiago/devopsdays-curitiba
+[33mcc99814[m fix: change wrong format
+[33mc228a7a[m DevOps Days Curitiba
+[33m6922eda[m Merge pull request #221 from stephan-lopes/patch-1
+[33m823bae8[m Merge pull request #222 from luan-u/patch-1
+[33m13ff6ab[m Adicionando Python Norte 2024
+[33m5da4261[m feat: remove tba's
+[33m6790b20[m feat: add event guia anonima conference
+[33m58ba91a[m feat: add event esquenta tdc
+[33mbb2ac7a[m Merge pull request #219 from Abacatinhos/pachicodes-patch-1
+[33m187810c[m Create index.md
+[33m7bc7611[m Merge pull request #218 from morgannadev/main
+[33m32cf01f[m adiciona evento Julho das Pretas do Afroya Tech Hub
+[33m3292eb6[m Merge pull request #217 from stephan-lopes/feature/aws-summit
+[33m84f0b0a[m feat(event): add AWS Summit
+[33m0b53ead[m Merge pull request #216 from abpaula77/main
+[33mfdb44fc[m Adicionando Caipira Ágil 2024
+[33m907f570[m Merge pull request #214 from rgsilva/main
+[33mdbdfa10[m Adicionando datas para H2HC
+[33m85e2583[m Merge pull request #213 from morgannadev/main
+[33ma616af0[m tentando ajustar lint md
+[33mfca581b[m ajusta lint md
+[33mfd0b8cb[m Merge branch 'Abacatinhos:main' into main
+[33m08dacdf[m adiciona meetups junho e julho
+[33m2b79763[m Merge pull request #212 from george-gca/patch-1
+[33m4d63afd[m BRACIS movido pra novembro e atualizada a URL
+[33m7f7b44e[m Merge pull request #211 from morgannadev/main
+[33m54eb5e0[m Merge pull request #209 from stephan-lopes/feature/jssp
+[33m2f3de31[m ajuste markdown
+[33mfce2670[m adiciona meetup codecon select
+[33md3bb759[m Merge branch 'Abacatinhos:main' into main
+[33m8d42478[m Add RPA Events (#210)
+[33m523ce96[m adiciona dois eventos de RPA - jul e ago 2024
+[33mcef38c3[m feat(readme): add event JSSP
+[33m0e34c78[m Merge pull request #208 from morgannadev/main
+[33m0efa332[m adiciona meetup Feministech em junho
+[33m5b0987f[m Merge pull request #206 from Engcompaulo/novoseventos
+[33mbdb159b[m Adicionando novos eventos
+[33me1257d8[m Update PyCaxias (#204)
+[33m973b82c[m Add BSidesJP, Frebaban Tech and BxSec (#202)
+[33m4b0e5bb[m Merge pull request #201 from jocarsbarsa/june-event
+[33m201911f[m Add June Event
+[33m1253a3a[m Merge pull request #200 from lucassabreu/patch-1
+[33m35d6023[m feat: gophercon2025
+[33m9a898d0[m Merge pull request #199 from stephan-lopes/feature/codehers
+[33mbd3b9a8[m Merge branch 'main' into feature/codehers
+[33m1c766ff[m Merge pull request #197 from stephan-lopes/fix/aied-2024
+[33meef62ed[m fix(readme.md): spread out dates in AIED event
+[33mdc827da[m feat(readme.md): add codeHERs event
+[33m30c7b38[m fix(readme.md): change híbrido tag to lowercase
+[33m4aec272[m Merge pull request #196 from Carlos-Levi/AIED-Recife
+[33m056a40d[m Merge branch 'Abacatinhos:main' into main
+[33mc44288d[m Add IA Conference Sao Paulo (#194)
+[33m5b5fab7[m Update README.md
+[33ma8bfc88[m Update README.md
+[33mef8b19c[m adicionado o evento AIED, o maior evento internacional de IA aplicado a educação
+[33mb78fc79[m Merge pull request #192 from stephan-lopes/feature/custom-md
+[33m481cdc1[m fix(script/lint): fix wrong relative path
+[33me6f5e9a[m fix(gh-actions): fix action name in markdown-lint.yml
+[33m7d98713[m fix(readme.md): fix lint in file
+[33me9adafc[m feat(gh-actions): add custom md lint
+[33mff42492[m Add DevOpsDays Fortaleza and João Pessoa (#191)
+[33m08a9b9a[m Merge pull request #187 from stephan-lopes/fix-md
+[33mca59277[m Merge pull request #190 from macabeus/patch-1
+[33mb1ce8c7[m adding GambiConf 2024
+[33mf800519[m feat(readme): add event Hack in Sul
+[33m1f4f936[m Merge branch 'Abacatinhos:main' into fix-md
+[33m001b9da[m Adicionando Dia Do ACBr em Novembro. (#188)
+[33m9e4284d[m Merge pull request #189 from Amad3eu/patch-2
+[33m9fe90ec[m fix(readme)!: Correction of link for the GDG event in Jaraguá do Sul
+[33m3f24322[m style(readme): fix wrong italic formatting
+[33mb2cfb57[m Adicionando eventos do GDG em Maio (#186)
+[33me4f9991[m Merge pull request #185 from Amad3eu/main
+[33m09d527c[m feat(readme)!: Adding events organized by GDG :: Build With AI
+[33ma73d02c[m Merge pull request #184 from Amad3eu/main
+[33mf34a954[m feat(readme)!: Adding GDG Joinville and region events for May and July
+[33mcbc6476[m fix(readme)!: Updating codecon select experience event date
+[33m309f85e[m Merge pull request #1 from Amad3eu/codecon-select-experience
+[33m7bbd885[m feat(readme)!: update events 11/2024: codecon - select experience
+[33mee60076[m Merge pull request #182 from luisleao/main
+[33mdb71d04[m adding RogaDX and hacking na web RJ and SP
+[33m3a7f1e3[m Adicionados eventos da SBC (#181)
+[33m3501373[m Inclusão do evento SBGames 2024 (#179)
+[33m58f7844[m Merge pull request #178 from edupopov/patch-1
+[33m1e62c75[m Update README.md
+[33m1474d82[m Merge pull request #177 from phillipecardenuto/patch-1
+[33m772ac7a[m Add CryptoRave 2024
+[33m2db30d5[m Merge pull request #176 from marcelobaptista/main
+[33m42abba5[m add FLISoL 2024, etc
+[33m1653010[m add hacktown
+[33m46d5ffa[m Inclusão do evento XXVII Ibero-American Conference on Software Engineering (CIbSE 2024) (#174)
+[33mcae2888[m Inclusão do evento Front in Sampa (#173)
+[33m2b4e61a[m Inclusão do evento ElixirDays (#172)
+[33md45dd3d[m Merge pull request #171 from marcelobaptista/main
+[33mda480ba[m eventos adicionados
+[33mec8583b[m feat: add the event `JSSP #21` (#170)
+[33m60f0a8a[m Merge pull request #169 from diname/main
+[33m2cf7418[m chore(readme): change event name
+[33me69fb0f[m feat: add the event `Devs Que Criaram Startups` by `NodeBR`
+[33m9f18b3f[m feat: add the event
+[33m2c5064b[m Merge pull request #168 from stephan-lopes/feature/add-event
+[33m59b5c39[m feat(readme.md): adição de evento Null Byte Security Conference
+[33mdd1f915[m feat(readme.md): adição de dia do evento Hacking na Web Day Salvador
+[33m12a96ff[m Merge pull request #165 from stephan-lopes/feature/add-event
+[33mce5611f[m feat(readme.md): adição de evento TechVerso Fadergs & GDG
+[33m9bc31e6[m Merge pull request #163 from diname/main
+[33m7e27377[m feat: add GitTogether São Paulo
+[33meb613c4[m Merge pull request #162 from diname/main
+[33m4424747[m feat: add 15th edition of the
+[33mc4a7e86[m Merge pull request #161 from EduardoJM/main
+[33m94ca56a[m feat: adicionar IWD Cerrado 2024
+[33m369d36e[m Merge pull request #160 from Abacatinhos/style-patch-1
+[33m7e215e5[m style(readme.md): corrigir padrões de estilo
+[33m84cf568[m Merge pull request #158 from Perceu/main
+[33m357b518[m refactor(readme.md): adicionar datas Python Cerrado
+[33m7f52f69[m refactor(readme.md): mudar data do PyCaxias
+[33m06fb805[m Merge pull request #159 from morgannadev/main
+[33m080b79d[m adicionando campus party brasil 16 - SP
+[33mb411b9b[m Add python events
+[33m7889119[m Merge pull request #157 from Engcompaulo/novoseventos
+[33me903d5a[m Add evento Rio Maker Space: Arduino Day 2024
+[33m881de9a[m Merge pull request #156 from Engcompaulo/novoseventos
+[33m2665e16[m Adicionando o evento Bits&Bytes da Unicarioca
+[33m7600c52[m Merge pull request #154 from stephan-lopes/hotfix/issue-152
+[33mb5843a0[m fix(event): change date of the FrontConf Experience 2024 event
+[33m0ad2927[m Merge pull request #155 from Engcompaulo/main
+[33mace7a9c[m Adicionando novos eventos em lote
+[33mdb9572a[m Merge pull request #153 from morgannadev/main
+[33m09cf31a[m Merge pull request #151 from tk-notes/update-hacking-na-web
+[33m786b4af[m adicionando evento de live coding março
+[33mdfbade4[m Update Hacking na Web
+[33m9d212d0[m Merge pull request #150 from stephan-lopes/feature/issue-149
+[33m8a845de[m feat(event): add DEVPIRA .NET Wknd
+[33m5f0b86e[m Merge pull request #148 from stephan-lopes/feature/add-events
+[33m5c26b26[m feat(event): edit TBA events
+[33mac45664[m feat(event): add Blockchain Rio Festival
+[33mf1b7df5[m feat(event): add Hacking na Web Day Brasília
+[33m1cfafd9[m feat(event): add FortalSec 2024
+[33m99c3baf[m Merge pull request #147 from stephan-lopes/feature/add-events
+[33m8897441[m feat(event): add Microsoft AI Tour A new event, "Microsoft AI Tour", has been added to the event list, scheduled for March 21, 2024.
+[33ma19d285[m feat(event): add Recife Data Saturday A new event, "Recife Data Saturday - 2ª Edição", has been added to the event list, scheduled for March 16, 2024.
+[33mb9f3b48[m Merge pull request #146 from kevinuehara/docs/kevin-uehara
+[33mb5ed215[m docs(Campinas): Adding events of Campinas/SP
+[33mc868173[m Merge pull request #140 from stephan-lopes/feature/add-events
+[33m5f35cf2[m Merge branch 'Abacatinhos:main' into feature/add-events
+[33m18dc4dc[m Merge pull request #143 from leticiotte/patch-2
+[33mde14633[m Update README.md
+[33mdd55282[m Merge branch 'main' into feature/add-events
+[33m4370624[m Merge pull request #141 from morgannadev/main
+[33m04dbb8f[m adicionando evento da comunidade github em sp
+[33mb2c4eae[m feat(event): add Guia Anônima Conference to TBA section
+[33m7211975[m feat(event): add Mulher Tech Sim Senhor - 9th Edition event
+[33m58b87f2[m feat(event): add 2º Meetup da PARAÍ event
+[33m78f7be6[m fix(event-date): update Caravana Cloud and Data event date
+[33m03afeb3[m Merge pull request #139 from carloosf/patch-1
+[33mb63e590[m Update README.md
+[33mc89ffa7[m Merge pull request #135 from leticiotte/patch-1
+[33m41534c2[m Merge pull request #136 from ranierisantos-dev/patch-1
+[33m7e4eaf0[m feat: add AWS Innovate Generative AI + Data event
+[33m6370df1[m Adicionando o devTEC 2024
+[33mdb2a429[m Merge pull request #134 from stephan-lopes/feature/2024-events-readme
+[33maaf57ba[m style: replace asterisks with underscores for emphasis in Markdown
+[33m665f799[m feat(readme)!: update tech events for 2024 and enchance visuals
+[33m0bfb608[m Merge pull request #130 from morgannadev/main
+[33mcd17934[m adicionando eventos em outubro 2023
+[33mfb16b05[m Merge pull request #121 from Engcompaulo/main
+[33m2bca985[m Merge pull request #120 from Krydelmany/main
+[33macce701[m Merge pull request #119 from celenny/patch-1
+[33m2a9aeac[m Inclusão do evento "Hacktudo - RJ"
+[33m55f4731[m Dia atualizado
+[33mdb02c62[m OktoberTech 2023
+[33ma22fbe2[m Add Django Girls Parnaiba
+[33m25a20f9[m Merge pull request #116 from alissonsilvas/main
+[33m261da5f[m Merge branch 'main' into main
+[33m039622f[m Merge pull request #115 from Luiz-H3nrique/patch-2
+[33mbe835c8[m Merge pull request #118 from josecarlosj/new-mobile-event
+[33mac931ae[m adiciona ecossistema mobile
+[33mc6024ee[m Update README.md
+[33mc56061b[m Update README.md
+[33mdb6ff77[m Merge pull request #110 from vcampitelli/main
+[33ma5a9604[m Merge pull request #113 from jeanlivino/main
+[33m0186d80[m feat: Add FrontEnd CE events
+[33mcf5e681[m Merge pull request #112 from gefymarcos/main
+[33mb2ae40d[m adicionando frontinfloripa
+[33mabded5f[m Merge pull request #111 from Camilotk/main
+[33mc66719d[m Update README.md
+[33md0ec223[m :elephant: Adicionando PHP Community Summit
+[33md36b6df[m Merge pull request #109 from morgannadev/main
+[33m7053f90[m adicionando GitTogether de Julho
+[33m0ab1814[m Merge pull request #98 from stephan-lopes/main
+[33m615a4d8[m Merge pull request #97 from GuyBarros/main
+[33m0bf5fcf[m Merge pull request #94 from pedroamaralm/patch-1
+[33m6c01c5d[m Merge pull request #104 from Abacatinhos/pachicodes-patch-2
+[33m35893bc[m Update README.md
+[33m64db1dd[m Merge pull request #103 from Camilotk/main
+[33me2abb9f[m Update README.md
+[33m6ee20d1[m Update README.md
+[33mdfe4a40[m Merge pull request #102 from marckson/addmet
+[33m6bc8877[m Update README.md
+[33m67b2c40[m Merge pull request #101 from the-developers-life/dev-weekend
+[33mcab8dc7[m Adiciona Developers Life Weekend
+[33m4d94c35[m Merge pull request #100 from dgalhardi/patch-1
+[33mbf8cba0[m Update README.md
+[33mb1d9ddf[m Merge pull request #99 from exageraldo/main
+[33m9007b55[m Adiciona o evento do GitTogether de Junho
+[33m3c217cf[m Update README.md
+[33m70f96e3[m adicionando Hashitalks Brasil
+[33m4692d5a[m Merge pull request #96 from Abacatinhos/pachicodes-patch-2
+[33mead1716[m Update README.md
+[33m3f944f6[m Merge pull request #95 from Abacatinhos/pachicodes-patch-1
+[33ma598f5f[m Update README.md
+[33m21d2a8d[m Add DoD RJ e Fortaleza
+[33m5832c83[m Merge pull request #93 from Luiz-H3nrique/patch-1
+[33m2603311[m Merge branch 'main' into patch-1
+[33m2b71fd2[m Merge pull request #92 from FranciscoWallison/eventos/fronend_ce
+[33m68a791b[m Merge pull request #91 from daniellyfrancis/test
+[33m99fc330[m Update README.md
+[33mdf67e82[m add eventos do dia 24/07
+[33mca2401c[m Added events
+[33mf8e0e51[m Merge pull request #90 from dieguesmosken/main
+[33mb07c0a0[m Update README.md
+[33ma28ff9d[m Update README.md
+[33md6dc173[m Merge pull request #89 from amaurybsouza/main
+[33m5a8d5e1[m Update README.md
+[33m8b013e7[m Merge pull request #88 from ViLourenco/main
+[33mbc345c6[m Adicionando DevConf 2023, em São Carlos / SP
+[33mb411e80[m Update README.md
+[33m3fc2a1f[m Merge pull request #86 from IgorVinoski/patch-1
+[33me5d28ab[m Merge branch 'main' into patch-1
+[33ma2efdbd[m Merge pull request #84 from julioarruda/main
+[33mfbb1dcb[m Merge branch 'main' into main
+[33md7132d2[m Merge pull request #87 from morgannadev/main
+[33ma3bce27[m adicionando GitTogether e Frontin Elas Programam
+[33m0110a19[m add https://congressoti.passofundo.ifsul.edu.br/
+[33m98743f2[m Merge pull request #85 from cirqueira-labs/patch-1
+[33m1bbad13[m Update README.md
+[33m7bc993a[m removendo evento de teste
+[33mc263154[m Atualizando README.md
+[33m6e00f76[m incluindo automaçao
+[33me254fa1[m Merge pull request #83 from Camilotk/python-brasil
+[33m519c2b7[m Update README.md
+[33m1a492ad[m Update README.md
+[33md037b88[m Merge pull request #82 from TonhaoSemAcento/main
+[33ma38159c[m add Caravana cloud and data
+[33m52fdf28[m Merge pull request #81 from ranierialvesdossantos/main
+[33md58b866[m Update README.md
+[33mb6fd3d8[m Update README.md
+[33m6dffad3[m Update README.md
+[33mb005147[m Merge pull request #80 from amaurybsouza/main
+[33m07ee992[m adding more events
+[33m7ecf375[m Merge pull request #79 from Rapha-Borges/patch-1
+[33m5e01d40[m Merge pull request #78 from dimitriaugusto/patch-1
+[33m1d0a106[m Merge pull request #77 from amaurybsouza/main
+[33mc368e5d[m Update README.md
+[33mbbfbd4c[m creating more events
+[33m088e386[m Update README.md
+[33mc517bd6[m adding more events
+[33m9bfd8aa[m Merge pull request #76 from Giovannapls/patch-1
+[33m474d7e3[m Update README.md
+[33mcbc298b[m Merge pull request #75 from Abacatinhos/pachicodes-patch-1
+[33m8fd7271[m Update 2022.md
+[33m57bb4cb[m Create markdown-lint.yml
+[33m76c4559[m Delete markdown-lint.yml
+[33m5f91fbc[m Delete assign_me.yml
+[33mc1b6ae2[m Create assign_me.yml
+[33mc454681[m Delete auto_assign.yml
+[33m16a1551[m Create some_name_for_configs.yml
+[33m47e2b7e[m Update auto_assign.yml
+[33mab79ebe[m Create auto_assign.yml
+[33m859e420[m Delete tag-pachi.yml
+[33me51710a[m Create greetings.yml
+[33mdf2e10f[m Update and rename welcome.yml to tag-pachi.yml
+[33m9dc8523[m Create markdown-lint.yml
+[33m77af2d8[m Merge pull request #68 from tiagotnx/patch-1
+[33m06907d4[m Update README.md
+[33mea2e0e8[m Update README.md
+[33m75b7eec[m Update README.md
+[33mf81073c[m Update README.md
+[33m43105d7[m Update README.md
+[33mb9cbf58[m Merge pull request #67 from marcelloale/wenixp
+[33m38ab4a8[m Adiciona evento WeniXP
+[33m9be873f[m Merge pull request #65 from Abacatinhos/teste
+[33mf378166[m Update README.md
+[33m92dd83f[m Merge pull request #59 from leticialevleitao/patch-2
+[33mc73c983[m Merge branch 'main' into patch-2
+[33m553bf47[m Update README.md
+[33mee79753[m Create welcome.yml
+[33m538e3fe[m Update README.md
+[33m9f8a3dd[m Create 2022.md
+[33mda59ab0[m Merge pull request #64 from amaurybsouza/main
+[33m134249b[m Update README.md
+[33m2f1ec59[m Update README.md
+[33m5f4a194[m Merge pull request #63 from Antonio21machado/patch-6
+[33mb48f026[m Update README.md
+[33m1727d1f[m Merge pull request #62 from lgolin/main
+[33m319b2a9[m Add Innovators Hive no Google Cloud Next
+[33m035c03c[m Merge pull request #61 from amaurybsouza/main
+[33ma4c63f8[m Update README.md
+[33md45a9b5[m Merge pull request #60 from amaurybsouza/main
+[33mf7707d0[m Update README.md
+[33ma053715[m Update README.md
+[33mf085495[m Update README.md
+[33m461b527[m Merge pull request #58 from levasl/patch-1
+[33ma845054[m Update README.md
+[33ma883d58[m Merge pull request #57 from danieleolivs/main
+[33m72d8337[m Evento - AWS Community Day in Brasil
+[33m44167fa[m Merge pull request #56 from proxygo/main
+[33m17357e0[m Acrescentei o evento Conferência CSS Brasil 2023 + Code In The Dark
+[33mf2bc9f8[m Merge pull request #55 from leticiavargas/leticia-add-new-events
+[33m94efec9[m Add Scrum Gathering Rio
+[33mda133d2[m Merge pull request #54 from kleidimilson/main
+[33m5456e1a[m Adiciona o x sulcomp 2022
+[33mc25755e[m Merge pull request #53 from leticiavargas/leticia-add-new-events
+[33mfc76a96[m Add SWP Talks and React Conf
+[33m53f7c97[m Merge pull request #52 from marcelloale/devsummitv
+[33mac0bd74[m Adiciona Xp Educação Dev Summit V
+[33mee33136[m Merge pull request #48 from Antonio21machado/patch-5
+[33m8f472be[m Merge pull request #49 from Giovannacm/main
+[33m442889d[m Update README.md
+[33m71fd542[m ADD evento Rocketseat
+[33m74f9a36[m Merge pull request #42 from nwrn/patch-3
+[33m342c1e4[m Merge branch 'main' into patch-3
+[33m3c2a599[m Merge pull request #45 from iagatha/patch-1
+[33ma14ecd0[m Merge pull request #46 from nwrn/patch-4
+[33mee1adf2[m Merge pull request #47 from Brunalu28/main
+[33mcedef4d[m Update README.md
+[33m952fdd5[m Merge branch 'main' into patch-3
+[33m0af6114[m Imersão React - Alura
+[33mdfa53e1[m Update README.md
+[33mef3466b[m Merge pull request #43 from spao234/patch-1
+[33m3345478[m Merge branch 'main' into patch-1
+[33m4028d8a[m Merge pull request #44 from spao234/patch-2
+[33mecb3497[m Update README.md
+[33m991410c[m Update README.md
+[33m2d16701[m Colocado o estado no evento Github Field day
+[33m009fdfc[m Merge pull request #40 from Antonio21machado/patch-4
+[33m4473505[m ADD evento Alura
+[33mef55e95[m Merge pull request #39 from nwrn/patch-2
+[33m979c33d[m Merge pull request #38 from nwrn/patch-1
+[33mf114edc[m Merge pull request #37 from KastroWalker/main
+[33m826ec1d[m Merge pull request #36 from Fuerback/docs/gophercon-2023
+[33mf3571c1[m Correção no Link da DevParaná 2023
+[33m2a528d3[m Corrigido cidade do evento FrontIn Comunidades
+[33m85246bf[m Adicionando devfest cerrado
+[33m725bdd3[m Add GopherCon 2023
+[33mcaad3d0[m Merge pull request #35 from Antonio21machado/patch-3
+[33m27b069b[m ADD Evento Rocketseat
+[33mf2d5b84[m Merge pull request #34 from iang12/add_new_event
+[33m0f60ee8[m added new event
+[33m8ad8376[m Merge pull request #33 from morgannadev/main
+[33m8a41314[m adicionar maratona feministech, meetup kotlinautas
+[33m457a12a[m Merge pull request #32 from Antonio21machado/patch-2
+[33m763b2e5[m ADD Android Mobile Week
+[33m10fa5ad[m Merge pull request #31 from GiovannyCordeiro/main
+[33meb5ec2f[m Event-EXPOTEC
+[33m84c310a[m Merge pull request #25 from Antonio21machado/patch-1
+[33m4e398e1[m Merge pull request #30 from lfp2/hack-grrrl
+[33mdc41f0a[m Merge pull request #29 from DiegoAscanio/patch-1
+[33m6d38735[m Add Hack GRRRL!
+[33m9a43ee3[m Update README.md
+[33m052c593[m Merge pull request #28 from Abacatinhos/addmet
+[33m7338e46[m add meetup
+[33m9594f10[m Merge branch 'main' into patch-1
+[33m88cff58[m Merge pull request #26 from Grubba27/patch-1
+[33m6883cb5[m Merge pull request #27 from amaurybsouza/main
+[33mfd6ed35[m adding some devops events
+[33m90c321e[m Update README.md
+[33m4eeb7a5[m Add MeteorJS Meetup Brasil
+[33m55e86a3[m ADD eventos
+[33m04bd8b2[m Merge pull request #24 from levxyca/main
+[33m7be1aec[m :memo: Feministalk Ada Lovelace
+[33mfe0d020[m Merge pull request #23 from GiovanaNp1/main
+[33mbb03525[m Update README.md
+[33m14a3692[m Merge pull request #22 from celenny/patch-1
+[33mb7fa2cc[m Add Django Girls Parnaíba e Teresina
+[33mcb64868[m Merge pull request #21 from bpires/add-event-patch
+[33mb8443ef[m markdown lint
+[33mf875d34[m add event
+[33m83bdc7b[m Fix typos
+[33md94cd8e[m Merge pull request #20 from Abacatinhos/adding
+[33m9c599f0[m add eventos outubro
+[33m513cdfb[m Merge pull request #19 from ialexanderbrito/ignite-lab
+[33md204a48[m feat: add event
+[33maa9fff7[m Merge pull request #18 from flavia-dantas/main
+[33me1d9bd1[m add evento Meetup Cloud Girls
+[33ma9aae83[m Merge pull request #17 from Abacatinhos/pachi
+[33m27b384e[m Update README.md
+[33m705db54[m add PHP summit
+[33maf66faf[m Merge pull request #16 from bpires/update-readme-and-add-events
+[33mb2f1073[m Merge branch 'main' into update-readme-and-add-events
+[33m921979e[m Merge pull request #15 from levxyca/main
+[33m9649c36[m Merge pull request #14 from Amad3eu/patch-1
+[33m18c11fd[m Add event
+[33mcc4d990[m Add Afroya Tech Conf 22
+[33m344e28c[m Move TBA to a proper section on the bottom
+[33m311b0a7[m Proofread and markdown linting
+[33mc88d801[m :memo: add programaria summit
+[33mb98a661[m [NEW]: Eventos e conferencias google brasil
+[33m31cb3ff[m Merge pull request #12 from hugolima03/fix-unused-links
+[33mdc9fa23[m Merge branch 'main' into fix-unused-links
+[33m4e7603b[m Merge pull request #13 from annezao/main
+[33m9dc484b[m Merge pull request #11 from lenalightning/main
+[33m17cafe5[m refact visualização de eventos
+[33m14f054e[m Removing Direito Digital unused symple link
+[33m7565e77[m Update README.md
+[33me7d1284[m Merge pull request #10 from Nogueira-lucas/main
+[33m1df2556[m Merge branch 'main' into main
+[33m1c10358[m Merge pull request #9 from birobirobiro/add-new-event
+[33m373f76e[m Update README.md
+[33ma5eaacc[m Merge branch 'main' into add-new-event
+[33m1ceb501[m chore: adicionado novo evento e lista ordenada em ordem alfabetica
+[33md03dfa5[m Merge pull request #8 from helloLari/larisse_rodrigues
+[33m344c5e3[m Correcão e inclusão de endereços e palavras
+[33m1db7ffa[m inserindo DevParanáConf
+[33md4133ed[m Merge pull request #6 from roberson-miguel/patch-1
+[33m2877d5b[m Eventos importantes para o Roberson
+[33m9fba088[m Merge pull request #4 from simaraconceicao/main
+[33mb3d04d8[m insere cpbr e elas por elas
+[33m5b27f82[m Delete 2022 directory
+[33mb1558f9[m Merge pull request #3 from Camilotk/main
+[33m94a3e93[m + Gambiconf
+[33mcafe044[m Create lista.md
+[33ma28a392[m Update README.md
+[33m1b5928e[m Initial commit
