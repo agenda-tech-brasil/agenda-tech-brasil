@@ -14,6 +14,6 @@ jobs:
     steps:
       - uses: actions/first-interaction@v1
         with:
-          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          repo-token: ${{ secrets.AGENDA_TECH_BOT_PAT }}
           issue-message: "Boas vindas e obrigada pela sua contribuição!' first issue"
           pr-message: "Boas vindas e obrigada pela sua contribuição!' first pull request"
