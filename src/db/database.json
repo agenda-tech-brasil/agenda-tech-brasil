@@ -7706,7 +7706,7 @@
               "data": [
                 "27"
               ],
-              "url": "https://www.meetup.com/pt-br/microsoft-reactor-sao-paulo/events/310354984",
+              "url": "https://www.meetup.com/pt-br/microsoft-reactor-sao-paulo/events/310354984"
             },
             {
               "nome": "FIAP Meetup #158 - Visão de Futuro: produtos inteligentes com IA",
@@ -7853,7 +7853,8 @@
               "url": "https://cbsoft.sbc.org.br/2025/cbsoft/",
               "cidade": "Recife",
               "uf": "PE",
-               },
+              "tipo": "presencial"
+            },
             {
               
               "nome": "Congresso da Cidadania Digital 2025",
