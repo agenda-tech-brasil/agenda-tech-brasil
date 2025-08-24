@@ -7907,6 +7907,16 @@
               "cidade": "Curitiba",
               "uf": "PR",
               "tipo": "presencial"
+            },
+            {
+              "nome": "AWS Community Day 2025",
+              "data": [
+                "27"
+              ],
+              "url": "https://www.awscommunityday.com.br/",
+              "cidade": "Campinas",
+              "uf": "SP",
+              "tipo": "presencial"
             }
           ]
         },
