@@ -43,7 +43,6 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
-- 3 e 4: [PHPeste 2025](https://latam.cs4ca.com/](http://phppiaui.com.br/) - _Parnaíba/PI_ ![presencial]
 - 21, 22, 23, 24, 25, 26 e 27: [Python Brasil 2025](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
 - 25: [Hacking Na Web Day - São Paulo - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _São Paulo/SP_ ![presencial]
 - 28 e 29: [CS4CA LatAm Summit](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
