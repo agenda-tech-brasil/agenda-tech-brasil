@@ -7832,6 +7832,17 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Expoinovação",
+              "data": [
+                "17",
+                "18"
+              ],
+              "url": "https://expoinovacao.com.br/",
+              "cidade": "Joinville",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC SP",
               "data": [
                 "17",
