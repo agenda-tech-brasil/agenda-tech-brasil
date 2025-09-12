@@ -7957,6 +7957,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "HackBahia",
+              "data": [
+                "04"
+              ],
+              "url": "https://hackbahia.github.io/",
+              "cidade": "Salvador",
+              "uf": "BA",
+              "tipo": "presencial"
+            },
+            {
               "nome": "ENMC 2025",
               "data": [
                 "21",
