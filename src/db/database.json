@@ -8023,6 +8023,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "8.8 Conference Brasil",
+              "data": [
+                "01"
+              ],
+              "url": "https://8dot8.org/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "The Developers Life Weekend 2025",
               "data": [
                 "07",
