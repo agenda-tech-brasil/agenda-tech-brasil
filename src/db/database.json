@@ -8009,6 +8009,18 @@
               "tipo": "online"
             },
             {
+              "nome": "Bahia Tech Experience - BTX25",
+              "data": [
+                "02",
+                "03",
+                "04"
+              ],
+              "url": "https://www.bahiatechexperience.com.br",
+              "cidade": "Salvador",
+              "uf": "BA",
+              "tipo": "presencial"
+            },
+            {
               "nome": "PHPeste 2025",
               "data": [
                 "03",
@@ -8028,6 +8040,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Jornada do Emprego: como conquistar sua melhor vaga na área de TI",
+              "data": [
+                "04"
+              ],
+              "url": "https://experience.cursoemvideo.com/#vaga",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             },
             {
               "nome": "Front Feelings: Acessibilidade & IA no Front",
@@ -8113,11 +8135,32 @@
               "tipo": "presencial"
             },
             {
+              "nome": "MVP Conf 2025 Brasil",
+              "data": [
+                "24",
+                "25"
+              ],
+              "url": "https://mvpconf.com.br/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Hacking Na Web Day - São Paulo - 2025",
               "data": [
                 "25"
               ],
               "url": "https://www.instagram.com/hackingnawebday/p/dayipmguorj/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Cloud Native Day - São Paulo 2025",
+              "data": [
+                "25"
+              ],
+              "url": "https://sessionize.com/cloud-native-day-sp-2025/",
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
@@ -8173,6 +8216,17 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Dia do ACBr",
+              "data": [
+                "06",
+                "07"
+              ],
+              "url": "https://www.diadoacbr.com.br/",
+              "cidade": "São Paula",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "The Developers Life Weekend 2025",
               "data": [
                 "07",
@@ -8201,6 +8255,16 @@
               "url": "https://www.nullbyte-con.org/",
               "cidade": "Salvador",
               "uf": "BA",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "ServerlessDays São Paulo 2025",
+              "data": [
+                "08"
+              ],
+              "url": "https://sdsp.io",
+              "cidade": "São Paulo",
+              "uf": "SP",
               "tipo": "presencial"
             },
             {
@@ -8304,6 +8368,16 @@
               "url": "https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-dev-fest-porto-alegre-2025-1/cohost-gdg-caxias-do-sul",
               "cidade": "Porto Alegre",
               "uf": "RS",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "DEVPIRA Festival 2025",
+              "data": [
+                "06"
+              ],
+              "url": "https://www.devpira.com.br/eventos/festival2025",
+              "cidade": "Piracicaba",
+              "uf": "SP",
               "tipo": "presencial"
             },
             {

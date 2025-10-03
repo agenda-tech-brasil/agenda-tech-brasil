@@ -52,6 +52,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 16 e 17: [DevOps Summit 2025](https://blueprintt.co/eventos) - _São Paulo/SP_ ![presencial]
 - 09, 16, 17 e 18: [PrograMaria Summit 2025](https://www.programaria.org/programaria-summit-2025/) - _São Paulo/SP_ ![híbrido]
 - 21, 22, 23, 24, 25, 26 e 27: [Python Brasil 2025](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
+- 25: [Cloud Native Day - São Paulo 2025](https://sessionize.com/cloud-native-day-sp-2025/) - _São Paulo/SP_ ![presencial]
 - 25: [Hacking Na Web Day - São Paulo - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _São Paulo/SP_ ![presencial]
 - 28 e 29: [CS4CA LatAm Summit](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
 <!-- OUTUBRO:END -->
@@ -63,8 +64,8 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 22: [Big Data Brazil Experience 2025](https://www.sympla.com.br/evento/big-data-brazil-experience-2025/2571633) - _São Paulo/SP_ ![presencial]
 - 22: [DevOpsDays São Paulo](https://devopsdays.org/events/2025-sao-paulo/welcome/) - _São Paulo/SP_ ![presencial]
 - 26 e 27: [TDC Summit Brasília](https://thedevconf.com/tdc/2025/summit-brasilia/) - _Brasília/DF_ ![híbrido]
+- 27, 29 e 30: [GambiConf](https://gambiconf.dev/) - _São Paulo/SP_ ![híbrido]
 - 29: [DevFest Agreste 2025](https://doity.com.br/devfest25-build-a-new-era-of-innovation) - _Arapiraca/AL_ ![presencial]
-- 29 e 30: [GambiConf](https://gambiconf.dev/) - _São Paulo/SP_ ![híbrido]
 <!-- NOVEMBRO:END -->
 <!-- ANO2025:END -->
 
