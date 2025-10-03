@@ -8291,6 +8291,20 @@
               "tipo": "online"
             },
             {
+              "nome": "CPGoiás5 - Campus Party Goiás 2025",
+              "data": [
+                "19",
+                "20",
+                "21",
+                "22",
+                "23"
+              ],
+              "url": "https://brasil.campus-party.org/",
+              "cidade": "Goiânia",
+              "uf": "GO",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Python Sul 2025 - Porto Alegre",
               "data": [
                 "21",
