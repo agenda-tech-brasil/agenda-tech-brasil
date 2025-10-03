@@ -48,10 +48,13 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
+- 04: [Jornada do Emprego](https://experience.cursoemvideo.com/) ![online]
 - 16 e 17: [DevOps Summit 2025](https://blueprintt.co/eventos) - _São Paulo/SP_ ![presencial]
+- 09, 16, 17 e 18: [PrograMaria Summit 2025](https://www.programaria.org/programaria-summit-2025/) - _São Paulo/SP_ ![híbrido]
 - 21, 22, 23, 24, 25, 26 e 27: [Python Brasil 2025](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
 - 25: [Cloud Native Day - São Paulo 2025](https://sessionize.com/cloud-native-day-sp-2025/) - _São Paulo/SP_ ![presencial]
 - 25: [Hacking Na Web Day - São Paulo - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _São Paulo/SP_ ![presencial]
+- 28: [FIAP Meetup - Do local ao Global ESG: Amazônia e tecnologia](https://www.meetup.com/pt-BR/fiapmeetups/events/311344773/?eventOrigin=group_upcoming_events) - _São Paulo/SP_ ![presencial]
 - 28 e 29: [CS4CA LatAm Summit](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
 <!-- OUTUBRO:END -->
 ### Novembro
@@ -59,6 +62,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 10, 11, 12, 13, 14 e 15: [31° Simpósio Brasileiro de Sistemas Multimídia e Web](https://webmedia.org.br/2025/) - _Rio de Janeiro/RJ_ ![presencial]
 - 15: [Front in Floripa 2025](https://frontin.floripa.br) - _Florianópolis/SC_ ![presencial]
 - 18, 19 e 20: [AI Summit 2025](https://www.sympla.com.br/evento-online/ai-summit-2025/2905033?utm_source=github&utm_medium=link&utm_campaign=aisummit_2025) ![online]
+- 19 a 23: [CPGoiás5 - Campus Party Goiás 2025](https://brasil.campus-party.org/) - _Goiânia/GO_ ![presencial]
 - 22: [Big Data Brazil Experience 2025](https://www.sympla.com.br/evento/big-data-brazil-experience-2025/2571633) - _São Paulo/SP_ ![presencial]
 - 22: [DevOpsDays São Paulo](https://devopsdays.org/events/2025-sao-paulo/welcome/) - _São Paulo/SP_ ![presencial]
 - 26 e 27: [TDC Summit Brasília](https://thedevconf.com/tdc/2025/summit-brasilia/) - _Brasília/DF_ ![híbrido]
