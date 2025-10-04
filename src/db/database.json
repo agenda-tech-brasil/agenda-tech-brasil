@@ -8062,6 +8062,18 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Campus Party Weekend Piauí",
+              "data": [
+                "10",
+                "11",
+                "12"
+              ],
+              "url": "https://brasil.campus-party.org/cpweekend/piaui2/",
+              "cidade": "Teresina",
+              "uf": "PI",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Red Hat Summit: Connect 2025 São Paulo",
               "data": [
                 "21"
