@@ -8062,6 +8062,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Hacktoberfest - UESPI Parnaíba",
+              "data": [
+                "18"
+              ],
+              "url": "https://www.sympla.com.br/evento/hacktoberfest-phb-edition/3150069",
+              "cidade": "Parnaíba",
+              "uf": "PI",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Red Hat Summit: Connect 2025 São Paulo",
               "data": [
                 "21"
