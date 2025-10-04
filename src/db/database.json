@@ -8062,6 +8062,17 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Aracomp 2025",
+              "data": [
+                "16",
+                "17"
+              ],
+              "url": "https://evento.ufal.br/aracomp2025/",
+              "cidade": "Arapiraca",
+              "uf": "AL",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Red Hat Summit: Connect 2025 São Paulo",
               "data": [
                 "21"
