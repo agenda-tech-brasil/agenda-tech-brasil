@@ -12,7 +12,7 @@ _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontra
 
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
-<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a>・<a href="#novembro">Novembro</a></p>
+<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a>・<a href="#novembro">Novembro</a>・<a href="#dezembro">Dezembro</a></p>
 
 ## Contribuindo
 
@@ -22,57 +22,149 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 
 ## Eventos em 2025
 <!-- ANO2025:START -->
-
+### Junho
+<!-- JUNHO:START -->
+- 03: [GitHub Actions: Automatizando IaC com Terraform](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307305412) ![online]
+- 05: [Summit de IA](https://www.summitdeinteligenciaartificial.com/informa-es-do-evento-e-registro/summit-de-ia-2025) - _Joinvile/SC_ ![presencial]
+- 06: [Pyladies e Grupy-SP no Microsoft Reactor](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307942759) - _São Paulo/SP_ ![]
+- 06: [Pylestras de Junho das Pyladies + Grupy @ Microsoft Reactor](https://developer.microsoft.com/en-us/reactor/events/25949/) - _São Paulo/SP_ ![presencial]
+- 07: [Hacking Na Web Day - Belo Horizonte - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Belo Horizonte/MG_ ![presencial]
+- 07: [Azure Synapse Analytics, Fabric e Data Factory Day - ETL e BIG Data](https://www.meetup.com/azureacademy/events/306775025) ![online]
+- 09: [Criando aplicações com o Azure AI Agent Service](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307788495) ![online]
+- 09, 10, 11, 12 e 13: [Semana Carreira Tech FIAP + Alura](https://carreiratech.fiap.com.br/?utm_source=meetup&utm_medium=ativacao_meetup&utm_campaign=semana_carreira_tech_2025) ![online]
+- 10: [GitHub Actions: Reusabilidade](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307305430) ![online]
+- 10 e 11: [Jornada de Engenharia de Dados](https://www.sympla.com.br/evento-online/jornada-de-engenharia-de-dados-2025/2897548?utm_source=github&utm_medium=link&utm_campaign=jornadadeengenhariadedados_2025) ![online]
+- 11 e 12: [Microsoft Dev & AI discoveryy](https://aidiscovery.com.br/index.html) ![online]
+- 11, 12 e 13: [TDC Floripa](https://thedevconf.com/tdc/2025/florianopolis/) - _Florianópolis/SC_ ![híbrido]
+- 12: [Escola Livre de IA​: IA Generativa e Agentes de IA Generativa​](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307862978) ![online]
+- 13: [Leading Tech Sessions: Framework de Estratégia de Produtos](https://lu.ma/3u8vbbua) ![online]
+- 14: [BSidesVix 2025](https://bsides.vix.br/) - _Vitória/ES_ ![presencial]
+- 16: [Meetup SouJava de Junho](https://souj.org/junho25) - _São Paulo/SP_ ![híbrido]
+- 16, 17, 18, 19 e 20: [CelebrationWeek for 30y of Java](https://soujava.dev/celebration-week) ![online]
+- 17: [O Melhor do Microsoft Build](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307803937) ![online]
+- 17 e 18: [UNIVERSO TOTVS 2025](https://eventos.totvs.com/event/universo-totvs-2025) - _São Paulo/SP_ ![presencial]
+- 20, 21 e 22: [Python Nordeste 2025](https://2025.pythonnordeste.org/) - _Teresina/PI_ ![presencial]
+- 24: [Boas práticas para dominar o GitHub Copilot Chat com Cyynthia Zanoni](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307865224) ![online]
+- 24: [Boas práticas para dominar o GitHub Copilot Chat](http://developer.microsoft.com/pt-br/reactor/events/25931/) ![online]
+- 25: [cTENcf Santa Catarina: 10 Anos de Cloud Native](https://community.cncf.io/events/details/cncf-cloud-native-santa-catarina-presents-ctencf-santa-catarina-10-anos-de-cloud-native/) - _Florianópolis/SC_ ![presencial]
+- 26: [Integrações Práticas com MCP Servers no VS Code e GitHub Copilot com Cynthia Zanoni](https://www.meetup.com/microsoft-reactor-sao-paulo/events/307865251) ![online]
+- 26: [[Meetup Clojure BR] Aplicação de Técnicas de IA para Testes Unitários em Clojure](https://www.meetup.com/clojure-br/events/308109054) ![online]
+- 27: [GitTogether São Paulo](https://www.meetup.com/gittogether-brasil/events/307760086) - _São Paulo/SP_ ![presencial]
+- 27: [NodeBR #74 - Redescobrindo o Open Source](https://developer.microsoft.com/en-us/reactor/events/25935/?wt.mc_id=1reg_25935_webpage_reactor) - _São Paulo/SP_ ![presencial]
+- 28: [IA Generativa e Agents com Azure](https://developer.microsoft.com/pt-br/reactor/events/26013/?wt.mc_id=1reg_26013_webpage_reactor) - _São Paulo/SP_ ![presencial]
+<!-- JUNHO:END -->
+### Julho
+<!-- JULHO:START -->
+- 01: [AWS UG MOC - Aumentando a Produtividade em Iac com IA](https://www.meetup.com/pt-br/aws-user-group-montes-claros/events/308582004/?recid=41967b63-0b77-4530-bfb3-99c093c06256&recsource=event-search&searchid=ec38aaf6-1878-4331-82b5-feef6c9acb3e&eventorigin=find_page%24all) ![online]
+- 04: [Python Norte 2025](https://2025.pythonnorte.org/pt) - _Belém/PA_ ![presencial]
+- 10: [Licenciamento, Arquitetura e IA com Go - #97](https://www.meetup.com/golangbr/events/308672602/) - _São Paulo/SP_ ![presencial]
+- 15: [Meetup: Egde Computing no frontend: Construindo aplicações web ultra rápidas e escaláveis](https://egdecomputingnofrontend.eventize.com.br/) - _Porto Alegre/RS_ ![presencial]
+- 18 e 19: [Codecon Summit](https://codecon.dev/summit) - _Curitiba/PR_ ![presencial]
+- 18 e 19: [Codecon Summit 25](https://eventos.codecon.dev/codecon-summit-25/) - _Curitiba/PR_ ![presencial]
+- 19: [CajuSec](https://www.cajusec.com.br) - _Aracaju/SE_ ![presencial]
+- 20, 21, 22, 23 e 24: [XLV Congresso da Sociedade Brasileira de Computação - CSBC 2025](https://csbc.sbc.org.br/2025/) - _Maceió/AL_ ![presencial]
+- 23, 24 e 25: [Expotec 2025](https://www.expotec.org.br/2025/m-index.php) - _João Pessoa/PB_ ![presencial]
+- 26: [Tech Woman](https://www.instagram.com/techwoman.rec/) - _Recife/PE_ ![presencial]
+- 31: [HackTown](https://hacktown.com.br/) - _Santa Rita Do Sapucaí/MG_ ![presencial]
+<!-- JULHO:END -->
 ### Agosto
 <!-- AGOSTO:START -->
+- 01: [Leading Tech Sessions: Como Criar e Gerir uma Estratégia de Produto na Prática](https://hubs.li/q03y16p20) ![online]
+- 01 e 02: [Python Cerrado 2025](https://2025.pythoncerrado.org) - _Brasília/DF_ ![presencial]
+- 04: [OKRs e Topologia de Times de Produto e Tecnologia na Prática](https://hubs.li/q03y14gd0) - _São Paulo/SP_ ![presencial]
+- 04, 05, 06, 07, 08 e 09: [SouDevCon 2025](https://soudevcon.com.br/) ![online]
+- 06: [Construindo produtos com IA Generativa](https://www.sympla.com.br/evento/construindo-produtos-com-ia-generativa/3056023) - _Brasília/DF_ ![presencial]
 - 11, 12, 13, 14, 15, 16 e 17: [Semana de Dados](https://www.sympla.com.br/evento-online/semana-de-dados-2025/2791872?utm_source=github&utm_medium=link&utm_campaign=semanadedados_2025) ![online]
 - 13: [Security Leaders Recife 2025](https://securityleaders.com.br/eventos/security-leaders-recife-2025/) - _Recife/PE_ ![presencial]
+- 13: [AWS Summit São Paulo](https://aws.amazon.com/pt/events/summits/sao-paulo/) - _São Paulo/SP_ ![presencial]
+- 13: [IA Conference Brasil 2025](https://www.iaconferencebrasil.com.br/) - _São Paulo/SP_ ![presencial]
+- 14, 15 e 16: [II Modelagem Computacional Sertão Mineiro](https://ppgmcs.com.br/mcsm/) - _Montes Claros/MG_ ![presencial]
 - 16: [Hacking Na Web Day - Florianópolis - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Florianópolis/SC_ ![presencial]
+- 16: [DevopsDays Rio de Janeiro](https://devopsdays.org/events/2025-rio-de-janeiro/welcome/) - _Rio De Janeiro/RJ_ ![presencial]
+- 18, 19, 20, 21, 22 e 23: [CONFLOSS 2025](https://confloss.com.br/) ![online]
 - 21: [CyberSecFest SP](https://www.devopsbootcamp.net/cybersecfest-saopaulo) - _São Paulo/SP_ ![presencial]
 - 23: [Bxsec Security Experience](https://www.instagram.com/bxsec/) - _Santos/SP_ ![presencial]
+- 26: [FIAP Meetup #158 - Visão de Futuro: produtos inteligentes com IA](https://www.meetup.com/pt-br/fiapmeetups/events/310372037) ![online]
+- 27: [Microsoft Reactor - Escola Livre de IA: Machine Learning na era da IA](https://www.meetup.com/pt-br/microsoft-reactor-sao-paulo/events/310354984) ![online]
+- 30: [DevopsDays Curitiba](https://devopsdays.org/events/2025-curitiba/welcome/) - _Curitiba/PR_ ![presencial]
 <!-- AGOSTO:END -->
 ### Setembro
 <!-- SETEMBRO:START -->
 - 01, 02, 03 e 04: [Simpósio Brasileiro de Cibersegurança - SBSeg 2025](https://sbseg2025.ppgia.pucpr.br/) - _Foz do Iguaçu/PR_ ![presencial]
+- 02: [GDGirls talks #1 (GDG POA)](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-gdgirls-talks-1/cohost-gdg-porto-alegre) ![online]
 - 03, 04 e 05: [PGConf Brasil 2025](https://2025.pgconf.com.br/) - _João Pessoa/PB_ ![presencial]
-- 06: [Datacon](https://codecon.dev/datacon) - _São Paulo/SP_ ![presencial]
-- 08, 09 e 10: [XXIV Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais](https://ihc.sbc.org.br/2025/) - _Belo Horizonte/MG_ ![presencial]
-- 10: [Google Cloud Summit 2025](https://cloudonair.withgoogle.com/events/google-cloud-summit-brasil-2025) - _São Paulo/SP_ ![presencial]
-- 12 e 13: [Roga DX 2025](https://rogadx.com/) - _Maceió/AL_ ![presencial]
+- 06: [Datacon 2025](https://codecon.dev/datacon) - _São Paulo/SP_ ![presencial]
+- 10: [Google Cloud Summit Brasil 2025](https://cloudonair.withgoogle.com/events/google-cloud-summit-brasil-2025) - _São Paulo/SP_ ![presencial]
+- 12: [RogaDX](https://www.instagram.com/rogadx/) - _Maceió- Alagoas/AL_ ![presencial]
+- 12 e 13: [RogaDX](https://rogadx.com/) - _Maceió/AL_ ![presencial]
 - 13: [Hacking Na Web Day - Rio de Janeiro - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _Rio De Janeiro/RJ_ ![presencial]
 - 13: [XibéSec - 2025](https://www.instagram.com/xibesec/) - _Belém/PA_ ![presencial]
+- 13: [DevPR Conf - Especial 10 anos](https://devpr.org/) - _Maringá/PR_ ![presencial]
+- 16, 17 e 18: [Mind The Sec](https://www.mindthesec.com.br/) - _São Paulo/SP_ ![presencial]
+- 17 e 18: [Expoinovação](https://expoinovacao.com.br/) - _Joinville/SC_ ![presencial]
 - 17, 18 e 19: [TDC SP](https://thedevconf.com/tdc/2025/sao-paulo/) - _São Paulo/SP_ ![híbrido]
 - 20: [FrontEnd Day - Fortaleza 2025](https://frontendday.com.br/) - _Fortaleza/CE_ ![presencial]
-- 20: [RecrutaTech](https://www.recrutatech.com.br/) - _Curitiba/PR_ ![presencial]
+- 21: [Security BSides João Pessoa 2025](https://www.bsidesjp.com.br/?fbclid=pazxh0bgnhzw0cmteaaaccvfc5hztjidmedsok2azs09k9jb9_naf5v2-dbp1qii7p7vp9eqwepoczzq_aem_pjbv8kzj7h0iioppaykejw) - _João Pessoa - Pb/PB_ ![presencial]
+- 22, 23, 24, 25 e 26: [Congresso Brasileiro de Software: Teoria e Prática (CBSoft)](https://cbsoft.sbc.org.br/2025/cbsoft/) - _Recife/PE_ ![presencial]
+- 24 e 25: [Congresso da Cidadania Digital 2025](https://congressodacidadaniadigital.iti.gov.br/2025/) - _Brasília/DF_ ![presencial]
 - 25: [Belém Global Elixir Meetup](https://globalelixirmeetups.com/event/belem) - _Belém/PA_ ![presencial]
-- 27: [Meetup LinuxTips.Local com Will Bank](https://linuxtips.io/local-meetup/) - _São Paulo/SP_ ![híbrido]
+- 27: [Esquenta MVPConf - Curitiba](https://www.hubingressos.com.br/evento/esquentamvpconfcuritiba) - _Curitiba/PR_ ![presencial]
+- 27: [MVP CONF - Curitiba](https://www.hubingressos.com.br/evento/mvpconfcuritiba) - _Curitiba/PR_ ![presencial]
+- 27: [AWS Community Day 2025](https://www.awscommunityday.com.br/) - _Campinas/SP_ ![presencial]
+- 30: [SouJava Brasília meetup setembro 2025](https://www.meetup.com/pt-br/soujavabrasilia/events/311113030) - _Brasília/DF_ ![presencial]
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
-- 08: [Devfest Pelotas 2025](https://gdg.community.dev/events/details/google-gdg-pelotas-presents-devfest-pelotas-2025/) - _Pelotas/RS_ ![presencial]
-- 16 e 17: [DevOps Summit 2025](https://blueprintt.co/eventos) - _São Paulo/SP_ ![presencial]
-- 16, 17 e 18: [Programaria Summit 2025](https://www.programaria.org/programaria-summit-2025/) - _São Paulo/SP_ ![híbrido]
+- 01: [Workshop: Criando Operadores Kubernetes em GoLang com Otávio Celestino](https://gdg.community.dev/events/details/google-gdg-caxias-do-sul-presents-workshop-criando-operadores-kubernetes-em-golang-com-otavio-celestino/) ![online]
+- 02, 03 e 04: [Bahia Tech Experience - BTX25](https://www.bahiatechexperience.com.br) - _Salvador/BA_ ![presencial]
+- 03 e 04: [PHPeste 2025](http://phppiaui.com.br/) - _Parnaíba/PI_ ![presencial]
+- 04: [MySQL BR Conf 2025](https://mysqlbr.com.br/) - _São Paulo/SP_ ![presencial]
+- 04: [Jornada do Emprego: como conquistar sua melhor vaga na área de TI](https://experience.cursoemvideo.com/#vaga) ![online]
+- 09: [Front Feelings: Acessibilidade & IA no Front](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-gdg-poa-amp-gufers-front-feelings-1/) - _Porto Alegre/RS_ ![presencial]
+- 09: [PrograMaria Summit 2025](https://www.programaria.org/programaria-summit-2025/) - _São Paulo/SP_ ![presencial]
+- 15, 16, 17 e 18: [REC'n Play 2025](https://app.jalanlive.com/recnplay2025/home) - _Recife/PE_ ![presencial]
+- 16 e 17: [Aracomp 2025](https://evento.ufal.br/aracomp2025/) - _Arapiraca/AL_ ![presencial]
+- 21: [Red Hat Summit: Connect 2025 São Paulo](https://www.redhat.com/es/summit/connect/latam/sao-paulo-2025) - _São Paulo/SP_ ![presencial]
+- 21, 22, 23 e 24: [ENMC 2025](https://2025.enmc.com.br/programacao) - _Montes Claros/MG_ ![presencial]
 - 21, 22, 23, 24, 25, 26 e 27: [Python Brasil 2025](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
-- 23: [NodeBR [São Paulo] #75 - Node.js Beyond the Basics](https://guild.host/events/nodebr-so-paulo-75-nodejs-bg41te) - _São Paulo/SP_ ![presencial]
+- 22 e 23: [Security Leaders Nacional](https://securityleaders.com.br/security-leaders-nacional-2025/) - _São Paulo/SP_ ![presencial]
+- 22, 23, 24 e 25: [Latinoware](https://latinoware.org/) - _Foz Do Iguaçu/PR_ ![presencial]
+- 24: [Brazil JS 2025](https://conf.braziljs.org/) - _Porto Alegre/RS_ ![presencial]
+- 24 e 25: [MVP Conf 2025 Brasil](https://mvpconf.com.br/) - _São Paulo/SP_ ![presencial]
 - 24 e 25: [MVP Conf](https://mvpconf.com.br/) - _São Paulo/SP_ ![presencial]
-- 25: [Cloud Native Day - São Paulo 2025](https://sessionize.com/cloud-native-day-sp-2025/) - _São Paulo/SP_ ![presencial]
 - 25: [Hacking Na Web Day - São Paulo - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _São Paulo/SP_ ![presencial]
+- 25: [Cloud Native Day - São Paulo 2025](https://sessionize.com/cloud-native-day-sp-2025/) - _São Paulo/SP_ ![presencial]
+- 28: [FIAP Meetup - Do local ao Global ESG: Amazônia e tecnologia](https://www.meetup.com/pt-br/fiapmeetups/events/311344773/?eventorigin=group_upcoming_events) - _São Paulo/SP_ ![presencial]
 - 28 e 29: [CS4CA LatAm Summit](https://latam.cs4ca.com/) - _São Paulo/SP_ ![presencial]
+- 28, 29, 30 e 31: [Data Science Summit 2025](https://dssbr.com.br/) - _Curitiba/PR_ ![presencial]
 <!-- OUTUBRO:END -->
 ### Novembro
 <!-- NOVEMBRO:START -->
-- 10, 11, 12, 13, 14 e 15: [31° Simpósio Brasileiro de Sistemas Multimídia e Web](https://webmedia.org.br/2025/) - _Rio de Janeiro/RJ_ ![presencial]
-- 15: [Front in Floripa 2025](https://frontin.floripa.br) - _Florianópolis/SC_ ![presencial]
+- 01: [BSides Brasília 2025](https://bsidesbsb.com/) - _Brasília/DF_ ![presencial]
+- 01: [CodeCon Select Experience 2025](https://codecon.dev/select) - _São Paulo/SP_ ![presencial]
+- 06 e 07: [Dia do ACBr](https://www.diadoacbr.com.br/) - _São Paula/SP_ ![presencial]
+- 07 e 08: [The Developers Life Weekend 2025](https://weekend.developerslife.tech/evento/6/the-developers-life-weekend-2025-campo-mourao-pr) - _Campo Mourão/PR_ ![presencial]
+- 08: [Elixir Curitiba 2025](https://elixircuritiba.github.io/) - _Curitiba/PR_ ![presencial]
+- 08: [NullByte Conference 2025](https://www.nullbyte-con.org/) - _Salvador/BA_ ![presencial]
+- 08: [ServerlessDays São Paulo 2025](https://sdsp.io) - _São Paulo/SP_ ![presencial]
+- 08 e 09: [ETH Latam São Paulo 2025](https://ethlatam.org/pt) - _São Paulo/SP_ ![presencial]
 - 18, 19 e 20: [AI Summit 2025](https://www.sympla.com.br/evento-online/ai-summit-2025/2905033?utm_source=github&utm_medium=link&utm_campaign=aisummit_2025) ![online]
-- 19: [NodeBR [Curitiba] #001 - Primeira Edição de Curitiba](https://guild.host/events/nodebr-curitiba-001-d64cku) - _Curitiba/PR_ ![presencial]
+- 19, 20, 21, 22 e 23: [CPGoiás5 - Campus Party Goiás 2025](https://brasil.campus-party.org/) - _Goiânia/GO_ ![presencial]
+- 21, 22 e 23: [Python Sul 2025 - Porto Alegre](https://sul.python.org.br/) - _Porto Alegre/RS_ ![presencial]
 - 21, 22 e 23: [Python Sul 2025](https://sul.python.org.br/) - _Porto Alegre/RS_ ![presencial]
 - 22: [Big Data Brazil Experience 2025](https://www.sympla.com.br/evento/big-data-brazil-experience-2025/2571633) - _São Paulo/SP_ ![presencial]
 - 22: [DevOpsDays São Paulo](https://devopsdays.org/events/2025-sao-paulo/welcome/) - _São Paulo/SP_ ![presencial]
 - 26 e 27: [TDC Summit Brasília](https://thedevconf.com/tdc/2025/summit-brasilia/) - _Brasília/DF_ ![híbrido]
-- 27, 29 e 30: [GambiConf](https://gambiconf.dev/) - _São Paulo/SP_ ![híbrido]
-- 29: [DevFest Agreste 2025](https://doity.com.br/devfest25-build-a-new-era-of-innovation) - _Arapiraca/AL_ ![presencial]
-- 29: [Meetup LinuxTips.Local](https://linuxtips.io/local-meetup/) - _São Paulo/SP_ ![híbrido]
+- 29: [DevOpsDays Porto Alegre 2025](https://www.sympla.com.br/evento/devopsdays-porto-alegre-2025/3047392?referrer=devopsdays.org) - _Porto Alegre/RS_ ![presencial]
+- 29 e 30: [GambiConf](https://gambiconf.dev/) - _São Paulo/SP_ ![híbrido]
 <!-- NOVEMBRO:END -->
+### Dezembro
+<!-- DEZEMBRO:START -->
+- 06: [DevFest Porto Alegre 2025](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-dev-fest-porto-alegre-2025-1/cohost-gdg-caxias-do-sul) - _Porto Alegre/RS_ ![presencial]
+- 06: [DEVPIRA Festival 2025](https://www.devpira.com.br/eventos/festival2025) - _Piracicaba/SP_ ![presencial]
+- 06 e 07: [BHack Conference 2025](https://bhack.com.br/) - _Belo Horizonte/MG_ ![presencial]
+- 15 e 16: [GTS e GTER](https://gtergts.nic.br/) - _São Paulo/SP_ ![presencial]
+<!-- DEZEMBRO:END -->
 <!-- ANO2025:END -->
 
 ## TBA: To Be Announced
@@ -80,8 +172,14 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- TBA:START -->
 - TBA: [TDC Summit Recife](https://thedevconf.com/tdc/2024/summit-recife/) - _Recife/PE_ ![híbrido]
 - TBA: [TDC Summit Porto Alegre](https://thedevconf.com/tdc/2024/summit-porto-alegre/) - _Porto Alegre/RS_ ![híbrido]
+- TBA: [XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/657/xxiii-simposio-brasileiro-sobre-fatores-humanos-em-sistemas-computacionais-ihc) - _Brasília/DF_ ![presencial]
+- TBA: [XXX Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia 2024)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/669/xxx-simposio-brasileiro-de-sistemas-multimidia-e-web-webmedia-2024) - _Juiz de Fora/MG_ ![presencial]
+- TBA: [Esquenta CSBC 2025](https://csbc.sbc.org.br/2025/) - _Arapiraca/AL_ ![presencial]
+- TBA: [Datacon](https://codecon.dev/datacon) - _São Paulo/SP_ ![presencial]
 - TBA: [Select Experience](https://codecon.dev/select) - _São Paulo/SP_ ![presencial]
 - TBA: [Encontro #7 WTM - IWD'25 / Dia Internacional da Mulher](https://www.meetup.com/women-techmakers-curitiba/events/305753276) - _Curitiba/PR_ ![presencial]
+- TBA: [RecrutaTech 9ª edição](https://recrutatech.com.br/) - _Curitiba/PR_ ![presencial]
+- TBA: [HackBahia](https://hackbahia.github.io/) - _Salvador/BA_ ![presencial]
 <!-- TBA:END -->
 
 ## Eventos dos anos anteriores
