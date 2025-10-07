@@ -123,6 +123,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 09: [Front Feelings: Acessibilidade & IA no Front](https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-gdg-poa-amp-gufers-front-feelings-1/) - _Porto Alegre/RS_ ![presencial]
 - 15, 16, 17 e 18: [REC'n Play 2025](https://app.jalanlive.com/recnplay2025/home) - _Recife/PE_ ![presencial]
 - 16 e 17: [Aracomp 2025](https://evento.ufal.br/aracomp2025/) - _Arapiraca/AL_ ![presencial]
+- 18: [Hacktoberfest - UESPI Parnaíba](https://www.sympla.com.br/evento/hacktoberfest-phb-edition/3150069) - _Parnaíba/PI_ ![presencial]
 - 21: [Red Hat Summit: Connect 2025 São Paulo](https://www.redhat.com/es/summit/connect/latam/sao-paulo-2025) - _São Paulo/SP_ ![presencial]
 - 21, 22, 23 e 24: [ENMC 2025](https://2025.enmc.com.br/programacao) - _Montes Claros/MG_ ![presencial]
 - 21, 22, 23, 24, 25, 26 e 27: [Python Brasil 2025](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
