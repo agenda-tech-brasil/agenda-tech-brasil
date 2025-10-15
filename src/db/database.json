@@ -8323,6 +8323,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "DevFest Rio de Janeiro 2025",
+              "data": [
+                "08"
+              ],
+              "url": "https://gdg.community.dev/events/details/google-gdg-rio-de-janeiro-presents-devfest-rio-de-janeiro-2025/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
               "nome": "ETH Latam São Paulo 2025",
               "data": [
                 "08",
