@@ -8546,6 +8546,21 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "PHP Conference Brasil 2025",
+              "data": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06"
+              ],
+              "url": "https://phpconference.com.br/",
+              "cidade": "Maringá",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "DevFest Porto Alegre 2025",
               "data": [
                 "06"
