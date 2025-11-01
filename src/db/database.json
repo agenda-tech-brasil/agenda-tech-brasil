@@ -8597,6 +8597,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "DevOpsDays Recife 2025",
+              "data": [
+                "13"
+              ],
+              "url": "https://devopsdays.org/events/2025-recife/welcome/",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial"
+            },
+            {
               "nome": "GTS e GTER",
               "data": [
                 "15",
