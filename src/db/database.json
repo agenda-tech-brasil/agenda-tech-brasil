@@ -7549,7 +7549,7 @@
         },
         {
           "mes": "agosto",
-          "arquivado": false,
+          "arquivado": true,
           "eventos": [
             {
               "nome": "Leading Tech Sessions: Como Criar e Gerir uma Estratégia de Produto na Prática",
