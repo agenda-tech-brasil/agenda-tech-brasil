@@ -4997,6 +4997,16 @@
           "arquivado": true,
           "eventos": [
             {
+              "nome": "Conecta Tech (Comunidade Nortejs) - Introdução a Next. js",
+              "data": [
+                "05"
+              ],
+              "url": "https://www.even3.com.br/conecta-tech-introducao-a-next-js-674436/",
+              "cidade": "Manaus",
+              "uf": "AM",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Confraria Web3 - São Paulo",
               "data": [
                 "07"
