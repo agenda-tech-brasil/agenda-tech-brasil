@@ -8766,6 +8766,28 @@
           ]
         }
       ]
+    },
+    {
+      "ano": 2026,
+      "arquivado": false,
+      "meses": [
+        {
+          "mes": "janeiro",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Conecta Tech/Nortejs - WebSocket: Comunicação em Tempo Real",
+              "data": [
+                "19"
+              ],
+              "url": "https://www.even3.com.br/conecta-tech-websocket-comunicacao-em-tempo-real-674439/",
+              "cidade": "Manaus",
+              "uf": "AM",
+              "tipo": "presencial"
+            }
+          ]
+        }
+      ]
     }
   ],
   "tba": [
