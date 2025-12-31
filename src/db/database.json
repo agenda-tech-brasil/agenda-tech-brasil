@@ -8766,6 +8766,28 @@
           ]
         }
       ]
+    },
+    {
+      "ano": 2026,
+      "arquivado": false,
+      "meses": [
+        {
+          "mes": "janeiro",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Conecta Tech - JavaScript + IA: Como o Dev Moderno Está Mudando Sua Rotina e Suas Entregas",
+              "data": [
+                "26"
+              ],
+              "url": "https://www.even3.com.br/conecta-tech-javascript-ia-como-o-dev-moderno-esta-mudando-sua-rotina-e-suas-entregas-674440/",
+              "cidade": "Manaus",
+              "uf": "AM",
+              "tipo": "presencial"
+            }
+          ]
+        }
+      ]
     }
   ],
   "tba": [
