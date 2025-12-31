@@ -8766,6 +8766,28 @@
           ]
         }
       ]
+    },
+    {
+      "ano": 2026,
+      "arquivado": false,
+      "meses": [
+        {
+          "mes": "janeiro",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Conecta Tech/Nortejs - Web Dev Essencial: Da Requisição ao Resultado",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.even3.com.br/conecta-tech-web-dev-essencial-da-requisicao-ao-resultado-674438/",
+              "cidade": "Manaus",
+              "uf": "AM",
+              "tipo": "presencial"
+            }
+          ]
+        }
+      ]
     }
   ],
   "tba": [
