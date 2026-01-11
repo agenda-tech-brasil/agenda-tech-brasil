@@ -8756,6 +8756,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "0b11 Maratona de Programação Layers",
+              "data": [
+                "17"
+              ],
+              "url": "https://maratona.layers.education/?ref=gh-at",
+              "cidade": "Grande São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Conecta Tech/Nortejs - WebSocket: Comunicação em Tempo Real",
               "data": [
                 "19"
