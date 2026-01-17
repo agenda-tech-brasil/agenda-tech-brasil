@@ -8776,6 +8776,22 @@
               "tipo": "presencial"
             }
           ]
+        },
+        {
+          "mes": "março",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "AWSome Women Community Summit Brasil 2026",
+              "data": [
+                "14"
+              ],
+              "url": "https://www.sympla.com.br/evento/awsome-women-community-summit-brasil-2026/3158951?referrer=www.google.com&referrer=www.google.com",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial"
+            }
+          ]
         }
       ]
     }
