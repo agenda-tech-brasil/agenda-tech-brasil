@@ -8776,6 +8776,22 @@
               "tipo": "presencial"
             }
           ]
+        },
+        {
+          "mes": "agosto",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Tech Woman Rec 2026",
+              "data": [
+                "29"
+              ],
+              "url": "https://app.jalanlive.com/tw2025/home",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial"
+            }
+          ]
         }
       ]
     }
