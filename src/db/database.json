@@ -8798,6 +8798,23 @@
           ]
         },
         {
+          "mes": "fevereiro",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Digital Investigation Conference Brazil 2026",
+              "data": [
+                "26",
+                "27"
+              ],
+              "url": "https://wbeducacional.ac-page.com/dicb-2026",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
           "mes": "março",
           "arquivado": false,
           "eventos": [
