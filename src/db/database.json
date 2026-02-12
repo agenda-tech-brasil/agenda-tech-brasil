@@ -8845,9 +8845,10 @@
           "arquivado": false,
           "eventos": [
             {
-              "nome": "Codecon Summit 2026",
+              "nome": "Codecon Summit 26",
               "data": [
-                "14"
+                "14",
+                "15"
               ],
               "url": "https://codecon.dev/",
               "cidade": "Pinhais",
