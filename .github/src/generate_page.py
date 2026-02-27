@@ -51,7 +51,8 @@ def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     template_path = os.path.join(base_dir, "templates")
     db_path = os.path.join(base_dir, "db", "database.json")
-    output_path = os.path.join(os.path.dirname(base_dir), "README.md")
+    repo_root = os.path.abspath(os.path.join(base_dir, os.pardir, os.pardir))
+    output_path = os.path.join(repo_root, "README.md")
 
     generate_readme(db_path, template_path, output_path)
     print("Markdown gerado com sucesso!")
