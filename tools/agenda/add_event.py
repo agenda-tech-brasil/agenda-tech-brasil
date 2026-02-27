@@ -1,6 +1,8 @@
 import json
 import os
 
+from tools.agenda._paths import database_path
+
 CALENDAR_ORDER = [
     "janeiro",
     "fevereiro",
@@ -99,13 +101,15 @@ def get_event_from_env():
     }
 
 
-if __name__ == "__main__":
-
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-    db_path = os.path.join(base_dir, 'db', 'database.json')
+def main() -> None:
+    db_path = str(database_path())
 
     new_event = get_event_from_env()
     if new_event["mes"] == "tba":
         add_tba_to_json(db_path, new_event)
     else:
         add_event_to_json(db_path, new_event)
+
+
+if __name__ == "__main__":
+    main()

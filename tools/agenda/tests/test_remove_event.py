@@ -1,6 +1,7 @@
 import json
 
-from remove_event import remove_event_from_json, remove_tba_from_json, get_event_from_env
+from tools.agenda import remove_event as remove_event_module
+from tools.agenda.remove_event import remove_event_from_json, remove_tba_from_json, get_event_from_env
 
 
 def write_db(path, payload):
@@ -188,3 +189,22 @@ def test_get_event_from_env_normalizes_fields(monkeypatch):
     assert event["evento"]["data"] == ["15", "16"]
     assert event["evento"]["cidade"] == "Belo Horizonte"
     assert event["evento"]["tipo"] == "online"
+
+
+def test_main_uses_overridden_db_path(tmp_path, monkeypatch):
+    db_path = tmp_path / "db.json"
+    write_db(db_path, base_payload())
+
+    monkeypatch.setenv("AGENDA_DB_PATH", str(db_path))
+    monkeypatch.setenv("event_year", "2026")
+    monkeypatch.setenv("event_month", "junho")
+    monkeypatch.setenv("event_name", "Evento X")
+    monkeypatch.setenv("event_day", "10")
+    monkeypatch.setenv("event_url", "https://x")
+    monkeypatch.setenv("event_city", "Recife")
+    monkeypatch.setenv("event_state", "PE")
+    monkeypatch.setenv("event_type", "presencial")
+
+    remove_event_module.main()
+
+    assert read_db(db_path)["eventos"] == []

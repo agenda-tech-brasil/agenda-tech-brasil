@@ -4,6 +4,8 @@ import os
 
 from jinja2 import Environment, FileSystemLoader
 
+from tools.agenda._paths import database_path, readme_path
+
 
 def format_date_list(dates):
     if len(dates) > 1:
@@ -50,9 +52,8 @@ def generate_readme(db_path, template_path, output_path, now=None):
 def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     template_path = os.path.join(base_dir, "templates")
-    db_path = os.path.join(base_dir, "db", "database.json")
-    repo_root = os.path.abspath(os.path.join(base_dir, os.pardir, os.pardir))
-    output_path = os.path.join(repo_root, "README.md")
+    db_path = str(database_path())
+    output_path = str(readme_path())
 
     generate_readme(db_path, template_path, output_path)
     print("Markdown gerado com sucesso!")

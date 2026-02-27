@@ -76,8 +76,8 @@ jobs:
 
       - name: Adiciona o Evento/Agenda no database.json
         run: |
-          pip3 install -r .github/src/requirements.txt
-          python3 .github/src/add_event.py
+          pip3 install -r tools/agenda/requirements.txt
+          python3 tools/agenda/add_event.py
 
       - name: Set up Git
         run: |
@@ -88,7 +88,7 @@ jobs:
         run: |
           branch_name="feature/add-event-issue-${{ github.event.issue.number }}"
           git checkout -b $branch_name
-          git add .github/src/db/database.json
+          git add data/database.json
           git commit -m "Adicionando novo evento: ${{ env.event_name }}"
           git push origin $branch_name
 
@@ -173,8 +173,8 @@ jobs:
 
       - name: Adiciona o Evento/Agenda no database.json
         run: |
-          pip3 install -r .github/src/requirements.txt
-          python3 .github/src/add_event.py
+          pip3 install -r tools/agenda/requirements.txt
+          python3 tools/agenda/add_event.py
 
       - name: Set up Git
         run: |
@@ -185,7 +185,7 @@ jobs:
         run: |
           branch_name="feature/add-event-issue-${{ github.event.issue.number }}"
           git checkout -b $branch_name
-          git add .github/src/db/database.json
+          git add data/database.json
           git commit -m "Adicionando novo evento: ${{ env.event_name }}"
           git push origin $branch_name
 
@@ -270,8 +270,8 @@ jobs:
 
       - name: Adiciona o Evento/Agenda no database.json
         run: |
-          pip3 install -r .github/src/requirements.txt
-          python3 .github/src/add_event.py
+          pip3 install -r tools/agenda/requirements.txt
+          python3 tools/agenda/add_event.py
 
       - name: Set up Git
         run: |
@@ -282,7 +282,7 @@ jobs:
         run: |
           branch_name="feature/add-event-issue-${{ github.event.issue.number }}"
           git checkout -b $branch_name
-          git add .github/src/db/database.json
+          git add data/database.json
           git commit -m "Adicionando novo evento: ${{ env.event_name }}"
           git push origin $branch_name
 

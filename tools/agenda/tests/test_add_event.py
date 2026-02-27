@@ -1,6 +1,7 @@
 import json
 
-from add_event import add_event_to_json, add_tba_to_json, get_event_from_env
+from tools.agenda import add_event as add_event_module
+from tools.agenda.add_event import add_event_to_json, add_tba_to_json, get_event_from_env
 
 
 def write_db(path, payload):
@@ -187,3 +188,29 @@ def test_get_event_from_env_normalizes_fields(monkeypatch):
     assert event["evento"]["cidade"] == "São Paulo"
     assert event["evento"]["uf"] == "SP"
     assert event["evento"]["tipo"] == "online"
+
+
+def test_main_writes_to_overridden_db_path(tmp_path, monkeypatch):
+    db_path = tmp_path / "db.json"
+    write_db(
+        db_path,
+        {
+            "eventos": [],
+            "tba": [],
+        },
+    )
+
+    monkeypatch.setenv("AGENDA_DB_PATH", str(db_path))
+    monkeypatch.setenv("event_year", "2027")
+    monkeypatch.setenv("event_month", "janeiro")
+    monkeypatch.setenv("event_name", "Evento Teste")
+    monkeypatch.setenv("event_day", "01")
+    monkeypatch.setenv("event_url", "https://exemplo")
+    monkeypatch.setenv("event_city", "Recife")
+    monkeypatch.setenv("event_state", "PE")
+    monkeypatch.setenv("event_type", "presencial")
+
+    add_event_module.main()
+
+    db = read_db(db_path)
+    assert db["eventos"][0]["ano"] == 2027

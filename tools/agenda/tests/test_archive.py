@@ -1,6 +1,7 @@
 import json
 
-from archive import archive_month, archive_year, open_database_file
+from tools.agenda import archive as archive_module
+from tools.agenda.archive import archive_month, archive_year, open_database_file
 
 
 def write_db(path, payload):
@@ -96,3 +97,18 @@ def test_archive_year_year_not_found_keeps_data(tmp_path):
     archive_year(str(db_path), {"ano": 1999})
 
     assert read_db(db_path) == original
+
+
+def test_main_archives_month_using_overridden_db_path(tmp_path, monkeypatch):
+    db_path = tmp_path / "db.json"
+    write_db(db_path, payload())
+
+    monkeypatch.setenv("AGENDA_DB_PATH", str(db_path))
+    monkeypatch.setenv("archive_year", "2026")
+    monkeypatch.setenv("archive_month", "fevereiro")
+
+    archive_module.main()
+
+    db = read_db(db_path)
+    feb = db["eventos"][0]["meses"][1]
+    assert feb["arquivado"] is True

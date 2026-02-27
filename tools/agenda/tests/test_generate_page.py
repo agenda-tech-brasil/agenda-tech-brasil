@@ -1,7 +1,8 @@
 import json
 from datetime import datetime
 
-from generate_page import format_date_list, generate_readme, get_available_months
+from tools.agenda import generate_page as generate_page_module
+from tools.agenda.generate_page import format_date_list, generate_readme, get_available_months
 
 
 def test_format_date_list_multiple_dates():
@@ -146,3 +147,22 @@ def test_generate_readme_renders_two_events(tmp_path):
     assert "Meses: janeiro" in output
     assert "10 e 11 - Evento A" in output
     assert "20 - Evento B" in output
+
+
+def test_main_writes_readme_using_overrides(tmp_path, monkeypatch):
+    db_path = tmp_path / "database.json"
+    output_path = tmp_path / "OUT.md"
+
+    db_data = {
+        "eventos": [],
+        "tba": [],
+    }
+    db_path.write_text(json.dumps(db_data, ensure_ascii=False), encoding="utf-8")
+
+    monkeypatch.setenv("AGENDA_DB_PATH", str(db_path))
+    monkeypatch.setenv("AGENDA_README_PATH", str(output_path))
+
+    generate_page_module.main()
+
+    assert output_path.exists()
+    assert "Agenda Tech Brasil" in output_path.read_text(encoding="utf-8")
