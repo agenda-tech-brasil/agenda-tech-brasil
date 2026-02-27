@@ -1,9 +1,9 @@
 [tool.pytest.ini_options]
-testpaths = ["src/tests"]
-addopts = "-q --cov=src --cov-report=term-missing --cov-report=xml --cov-fail-under=85"
+testpaths = [".github/src/tests"]
+addopts = "-q --cov=.github/src --cov-report=term-missing --cov-report=xml --cov-fail-under=85"
 
 [tool.coverage.run]
 omit = [
-  "src/tests/*",
+  ".github/src/tests/*",
   "tests/*",
 ]
