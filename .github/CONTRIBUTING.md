@@ -17,7 +17,7 @@ Para adicionar um novo evento ou agenda, siga os passos abaixo:
 
 2. **Crie uma Nova Issue**: Utilize o template escolhido para criar uma nova issue. Preencha todos os campos necessários como data, nome do evento, local (se aplicável), e descrição.
 
-3. **Automatização**: Após a issue ser submetida, uma automação via GitHub Actions será acionada. Esta automação adiciona o evento ao arquivo `src/db/database.json` e gera um novo markdown com as informações do evento.
+3. **Automatização**: Após a issue ser submetida, uma automação via GitHub Actions será acionada. Esta automação adiciona o evento ao arquivo `.github/src/db/database.json` e gera um novo markdown com as informações do evento.
 
 4. **Abertura de Pull Request**: Uma vez que a automação processa as alterações, um Pull Request será aberto automaticamente para a aprovação das mudanças. A equipe de mantenedores irá revisar o PR e, se tudo estiver conforme esperado, aprovará a adição.
 
@@ -30,7 +30,7 @@ Para cancelar um(a) evento/agenda existente:
 
 2. **Crie uma Nova Issue**: Preencha o template com as informações necessárias para identificar claramente o evento que precisa ser removido.
 
-3. **Processamento Automático**: Assim como na adição de eventos, o cancelamento deles também é automatizado. Uma vez que a issue é submetida, o GitHub Actions irá atualizar o arquivo `src/db/database.json` para remover o evento e ajustar o markdown gerado.
+3. **Processamento Automático**: Assim como na adição de eventos, o cancelamento deles também é automatizado. Uma vez que a issue é submetida, o GitHub Actions irá atualizar o arquivo `.github/src/db/database.json` para remover o evento e ajustar o markdown gerado.
 
 4. **Pull Request para Remoção**: Um Pull Request será aberto automaticamente para que a remoção seja aprovada pelos mantenedores.
 
