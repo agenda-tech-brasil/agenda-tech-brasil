@@ -1,10 +1,28 @@
+"""CLI para cancelar/remover evento/agenda do database.
+
+Este script é chamado pelos workflows do GitHub Actions. Ele lê os dados do
+evento a remover através de variáveis de ambiente e atualiza `data/database.json`.
+
+Regras importantes:
+- Se `event_month` for `tba`, remove da lista `tba`.
+- Caso contrário, remove de `eventos[ano].meses[mes].eventos`.
+"""
+
 import json
 import os
 
 from tools.agenda._paths import database_path
 
-def remove_event_from_json(file_path, event_to_remove):
 
+def remove_event_from_json(file_path, event_to_remove):
+    """Remove um evento com data definida (ano/mês/dia) do database.
+
+    Estratégia:
+    - carrega o JSON inteiro
+    - remove apenas o evento que casa todos os campos (nome/data/cidade/uf/tipo)
+    - remove mês/ano caso fiquem vazios após a remoção
+    - escreve o JSON de volta no mesmo arquivo
+    """
     with open(file_path, "r") as f:
         data = json.load(f)
 
@@ -53,6 +71,7 @@ def remove_event_from_json(file_path, event_to_remove):
 
 
 def remove_tba_from_json(file_path, event_to_remove):
+    """Remove um evento da lista `tba` (sem data definida)."""
 
     with open(file_path, "r") as f:
         data = json.load(f)
@@ -81,6 +100,11 @@ def remove_tba_from_json(file_path, event_to_remove):
 def get_event_from_env():
     """
     Recebe informações do evento de variáveis de ambiente configuradas no GitHub Actions.
+
+    Campos esperados (definidos nos workflows):
+    - event_year, event_month
+    - event_name, event_day (pode ser vazio para TBA), event_url
+    - event_city, event_state, event_type
     """
     return {
         "ano": int(os.getenv("event_year", 0)),
@@ -97,6 +121,11 @@ def get_event_from_env():
 
 
 def main() -> None:
+    """Entry-point do CLI.
+
+    Resolve o caminho do database via `tools.agenda._paths.database_path()` e
+    executa a operação de remoção conforme `event_month`.
+    """
     db_path = str(database_path())
 
     event = get_event_from_env()

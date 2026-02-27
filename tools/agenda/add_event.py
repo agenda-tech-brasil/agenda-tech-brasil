@@ -1,3 +1,17 @@
+"""CLI para cadastrar evento/agenda no database.
+
+Este script é chamado pelos workflows do GitHub Actions. Ele lê os dados do
+evento a partir de variáveis de ambiente (ex.: `event_name`, `event_year`, ...)
+e atualiza o arquivo JSON do database.
+
+Regras importantes:
+- Se `event_month` for `tba`, o evento é adicionado na seção `tba`.
+- Caso contrário, o evento entra em `eventos[ano].meses[mes].eventos`.
+
+Fonte de verdade:
+- data/database.json (pode ser sobrescrito por AGENDA_DB_PATH)
+"""
+
 import json
 import os
 
@@ -18,8 +32,18 @@ CALENDAR_ORDER = [
     "dezembro",
 ]
 
-def add_event_to_json(file_path, new_event):
 
+def add_event_to_json(file_path, new_event):
+    """Adiciona um evento com data definida na árvore ano → mês → eventos.
+
+    Estrutura esperada do database (resumo):
+    - `eventos`: lista de anos, cada ano contém `meses`, e cada mês contém `eventos`
+    - `tba`: lista de eventos sem mês/dia definido
+
+    Ordenação aplicada:
+    - meses: pela ordem do calendário (e não ordem alfabética)
+    - eventos: pelo menor dia e depois pela duração (quantidade de dias)
+    """
     with open(file_path, "r") as f:
         data = json.load(f)
 
@@ -60,6 +84,11 @@ def add_event_to_json(file_path, new_event):
 
 
 def add_tba_to_json(file_path, new_event):
+    """Adiciona um evento na lista `tba` (sem mês/dia definido).
+
+    A lista `tba` é tratada como uma lista "deduplicada"; se um evento com os
+    mesmos campos (nome/url/cidade/uf/tipo) já existir, a adição é ignorada.
+    """
 
     with open(file_path, "r") as f:
         data = json.load(f)
@@ -86,6 +115,11 @@ def add_tba_to_json(file_path, new_event):
 def get_event_from_env():
     """
     Recebe informações do evento de variáveis de ambiente configuradas no GitHub Actions.
+
+    Campos esperados (definidos nos workflows):
+    - event_year, event_month
+    - event_name, event_day, event_url
+    - event_city, event_state, event_type
     """
     return {
         "ano": int(os.getenv("event_year", 0)),
@@ -102,6 +136,11 @@ def get_event_from_env():
 
 
 def main() -> None:
+    """Entry-point do CLI.
+
+    Resolve o caminho do database via `tools.agenda._paths.database_path()` e
+    executa a operação de adição conforme `event_month`.
+    """
     db_path = str(database_path())
 
     new_event = get_event_from_env()
