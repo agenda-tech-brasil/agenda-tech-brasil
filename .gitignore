@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+**/.venv/
+**/venv/
+
+.coverage
+coverage.xml
+htmlcov/
