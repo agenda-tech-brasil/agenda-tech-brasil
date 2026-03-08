@@ -23,8 +23,10 @@ jobs:
           python3 -m pip install --upgrade pip
           pip3 install -r src/requirements.txt
 
-      - name: Gera o markdown baseado no database.json
-        run: python3 src/generate_page.py
+      - name: Gera o markdown e o calendário ICS baseado no database.json
+        run: |
+          python3 src/generate_page.py
+          python3 src/generate_ics.py
 
       - name: Configurar Git
         run: |
@@ -33,8 +35,8 @@ jobs:
 
       - name: Commit e push do markdown quando há alteração
         run: |
-          git add README.md
-          git diff --cached --quiet || git commit -m "Atualizando README.md"
+          git add README.md agenda.ics
+          git diff --cached --quiet || git commit -m "Atualizando README e Agenda ICS"
           git push
 
           echo "Worflow de geração de Markdown rodou com sucesso!"
