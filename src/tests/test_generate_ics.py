@@ -1,4 +1,10 @@
 import os
+import sys
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+import json
+import pytest
+from unittest.mock import patch, mock_open
+from generate_ics import generate_ics
 import json
 import pytest
 from unittest.mock import patch, mock_open
