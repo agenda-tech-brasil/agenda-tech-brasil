@@ -13,8 +13,6 @@ def generate_ics():
     with open(db_path, 'r', encoding='utf-8') as f:
         content = json.load(f)
 
-    # CORREÇÃO AQUI: Se o JSON for um dicionário, pegamos a lista de eventos
-    # Ajuste 'events' para o nome da chave que está no seu database.json (ex: 'eventos')
     if isinstance(content, dict):
         eventos = content.get('events') or content.get('eventos') or []
     else:
@@ -25,7 +23,6 @@ def generate_ics():
     cal.add('version', '2.0')
 
     for item in eventos:
-        # Verifica se o item é realmente um dicionário antes de usar .get()
         if not isinstance(item, dict):
             continue
             
