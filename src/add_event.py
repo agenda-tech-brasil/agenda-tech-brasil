@@ -108,5 +108,5 @@ def main():
     else:
         add_event_to_json(db_path, new_event)
 
-if __name__ == "__main__": # pragma: no cover
+if __name__ == "__main__":  # pragma: no cover
     main()

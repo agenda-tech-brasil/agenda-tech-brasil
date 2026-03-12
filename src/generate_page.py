@@ -57,5 +57,5 @@ def main():
     print("Markdown gerado com sucesso!")
 
 
-if __name__ == "__main__": # pragma: no cover
+if __name__ == "__main__":  # pragma: no cover
     main()

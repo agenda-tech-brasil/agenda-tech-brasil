@@ -80,5 +80,5 @@ def main():
         archive_month(db_path, event)
 
 
-if __name__ == "__main__": # pragma: no cover
+if __name__ == "__main__":  # pragma: no cover
     main()
