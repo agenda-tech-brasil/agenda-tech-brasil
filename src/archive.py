@@ -69,7 +69,7 @@ def get_event_from_env():
         "mes": os.getenv("archive_month", "").strip().lower(),
     }
 
-if __name__ == "__main__":
+def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     db_path = os.path.join(base_dir, 'db', 'database.json')
 
@@ -78,3 +78,7 @@ if __name__ == "__main__":
         archive_year(db_path, event)
     else:
         archive_month(db_path, event)
+
+
+if __name__ == "__main__":  # pragma: no cover
+    main()

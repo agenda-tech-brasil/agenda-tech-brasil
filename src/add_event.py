@@ -18,7 +18,7 @@ CALENDAR_ORDER = [
 
 def add_event_to_json(file_path, new_event):
 
-    with open(file_path, "r") as f:
+    with open(file_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     year = new_event["ano"]
@@ -51,7 +51,7 @@ def add_event_to_json(file_path, new_event):
 
     data["eventos"] = sorted(data["eventos"], key=lambda y: y["ano"])
 
-    with open(file_path, "w") as f:
+    with open(file_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
         print(f"Evento adicionado e arquivo {file_path} atualizado com sucesso!")
@@ -59,7 +59,7 @@ def add_event_to_json(file_path, new_event):
 
 def add_tba_to_json(file_path, new_event):
 
-    with open(file_path, "r") as f:
+    with open(file_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     for event in data["tba"]:
@@ -76,7 +76,7 @@ def add_tba_to_json(file_path, new_event):
     }
 
     data["tba"].append(event_tba)
-    with open(file_path, "w") as f:
+    with open(file_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
         print(f"Evento adicionado e arquivo {file_path} atualizado com sucesso!")
 
@@ -98,9 +98,7 @@ def get_event_from_env():
         },
     }
 
-
-if __name__ == "__main__":
-
+def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     db_path = os.path.join(base_dir, 'db', 'database.json')
 
@@ -109,3 +107,6 @@ if __name__ == "__main__":
         add_tba_to_json(db_path, new_event)
     else:
         add_event_to_json(db_path, new_event)
+
+if __name__ == "__main__":  # pragma: no cover
+    main()

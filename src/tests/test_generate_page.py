@@ -1,7 +1,9 @@
 import json
+import os
 from datetime import datetime
+from unittest.mock import patch
 
-from generate_page import format_date_list, generate_readme, get_available_months
+from generate_page import format_date_list, generate_readme, get_available_months, main
 
 
 def test_format_date_list_multiple_dates():
@@ -146,3 +148,18 @@ def test_generate_readme_renders_two_events(tmp_path):
     assert "Meses: janeiro" in output
     assert "10 e 11 - Evento A" in output
     assert "20 - Evento B" in output
+
+
+def test_main_calls_generate_readme_with_expected_paths():
+    with patch("generate_page.generate_readme") as mocked_generate_readme, patch(
+        "builtins.print"
+    ) as mocked_print:
+        main()
+
+    mocked_generate_readme.assert_called_once()
+    db_path, template_path, output_path = mocked_generate_readme.call_args.args
+
+    assert db_path.endswith(os.path.join("src", "db", "database.json"))
+    assert template_path.endswith(os.path.join("src", "templates"))
+    assert output_path.endswith("README.md")
+    mocked_print.assert_called_once()

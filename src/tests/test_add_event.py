@@ -1,6 +1,8 @@
 import json
 
-from add_event import add_event_to_json, add_tba_to_json, get_event_from_env
+from unittest.mock import patch
+
+from add_event import add_event_to_json, add_tba_to_json, get_event_from_env, main
 
 
 def write_db(path, payload):
@@ -187,3 +189,15 @@ def test_get_event_from_env_normalizes_fields(monkeypatch):
     assert event["evento"]["cidade"] == "São Paulo"
     assert event["evento"]["uf"] == "SP"
     assert event["evento"]["tipo"] == "online"
+
+
+def test_main_calls_add_event_when_month_not_tba():
+    fake_event = {"ano": 2026, "mes": "janeiro", "evento": {"nome": "X", "data": ["01"]}}
+
+    with patch("add_event.get_event_from_env", return_value=fake_event), patch(
+        "add_event.add_event_to_json"
+    ) as mocked_add_event, patch("add_event.add_tba_to_json") as mocked_add_tba:
+        main()
+
+    mocked_add_event.assert_called_once()
+    mocked_add_tba.assert_not_called()
