@@ -21,7 +21,7 @@ def open_database_file(file_path):
 
 
 def archive_month(file_path, month_to_archive):        
-    db = open_database_file(file_path=file_path)
+    db = open_database_file(file_path=file_path, encoding="utf-8")
     year = month_to_archive["ano"]
     month = month_to_archive["mes"]
 

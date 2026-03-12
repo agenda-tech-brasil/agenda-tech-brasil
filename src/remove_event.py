@@ -3,7 +3,7 @@ import os
 
 def remove_event_from_json(file_path, event_to_remove):
 
-    with open(file_path, "r") as f:
+    with open(file_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     year = event_to_remove["ano"]
@@ -44,7 +44,7 @@ def remove_event_from_json(file_path, event_to_remove):
         data["eventos"] = [y for y in data["eventos"] if y["ano"] != year]
         print(f"Ano {year} removido porque ficou vazio.")
 
-    with open(file_path, "w") as f:
+    with open(file_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
     print(f"Arquivo '{file_path}' atualizado com sucesso!")
@@ -52,7 +52,7 @@ def remove_event_from_json(file_path, event_to_remove):
 
 def remove_tba_from_json(file_path, event_to_remove):
 
-    with open(file_path, "r") as f:
+    with open(file_path, "r", encoding="utf-8") as f:
         data = json.load(f)
     
     events_before = len(data["tba"])
@@ -71,7 +71,7 @@ def remove_tba_from_json(file_path, event_to_remove):
     else:
         print(f"Evento '{event_to_remove['evento']['nome']}' removido com sucesso.")
 
-    with open(file_path, "w") as f:
+    with open(file_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
     print(f"Arquivo '{file_path}' atualizado com sucesso!")
