@@ -98,9 +98,7 @@ def get_event_from_env():
         },
     }
 
-
-if __name__ == "__main__":
-
+def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     db_path = os.path.join(base_dir, 'db', 'database.json')
 
@@ -109,3 +107,6 @@ if __name__ == "__main__":
         add_tba_to_json(db_path, new_event)
     else:
         add_event_to_json(db_path, new_event)
+
+if __name__ == "__main__": # pragma: no cover
+    main()

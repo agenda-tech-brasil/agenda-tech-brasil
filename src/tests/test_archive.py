@@ -1,6 +1,8 @@
 import json
 
-from archive import archive_month, archive_year, open_database_file
+from unittest.mock import patch
+
+from archive import archive_month, archive_year, open_database_file, main
 
 
 def write_db(path, payload):
@@ -96,3 +98,13 @@ def test_archive_year_year_not_found_keeps_data(tmp_path):
     archive_year(str(db_path), {"ano": 1999})
 
     assert read_db(db_path) == original
+
+
+def test_main_calls_archive_year_when_month_empty():
+    with patch("archive.get_event_from_env", return_value={"ano": 2026, "mes": ""}), patch(
+        "archive.archive_year"
+    ) as mocked_archive_year, patch("archive.archive_month") as mocked_archive_month:
+        main()
+
+    mocked_archive_year.assert_called_once()
+    mocked_archive_month.assert_not_called()

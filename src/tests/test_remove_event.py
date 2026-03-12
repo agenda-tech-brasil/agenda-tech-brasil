@@ -1,6 +1,8 @@
 import json
 
-from remove_event import remove_event_from_json, remove_tba_from_json, get_event_from_env
+from unittest.mock import patch
+
+from remove_event import remove_event_from_json, remove_tba_from_json, get_event_from_env, main
 
 
 def write_db(path, payload):
@@ -188,3 +190,15 @@ def test_get_event_from_env_normalizes_fields(monkeypatch):
     assert event["evento"]["data"] == ["15", "16"]
     assert event["evento"]["cidade"] == "Belo Horizonte"
     assert event["evento"]["tipo"] == "online"
+
+
+def test_main_calls_remove_tba_when_month_is_tba():
+    fake_event = {"ano": 2026, "mes": "tba", "evento": {"nome": "X"}}
+
+    with patch("remove_event.get_event_from_env", return_value=fake_event), patch(
+        "remove_event.remove_tba_from_json"
+    ) as mocked_remove_tba, patch("remove_event.remove_event_from_json") as mocked_remove_event:
+        main()
+
+    mocked_remove_tba.assert_called_once()
+    mocked_remove_event.assert_not_called()
