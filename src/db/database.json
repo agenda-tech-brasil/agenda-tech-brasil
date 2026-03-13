@@ -8954,7 +8954,7 @@
                 "13",
                 "14"
               ],
-              "url": "https://pages.startse.com/ai-festival-ingressos?hsctaattrib=208130425944",
+              "url": "https://pages.startse.com/ai-festival-ingressos",
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
@@ -9027,6 +9027,19 @@
               "url": "https://doity.com.br/agile-trends-2026",
               "cidade": "São Paulo",
               "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Web Summit Rio - SaaS Summit",
+              "data": [
+                "08",
+                "09",
+                "10",
+                "11"
+              ],
+              "url": "https://rio.websummit.com/pt-br/tracks/saas-summit/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
               "tipo": "presencial"
             }
           ]
@@ -9106,6 +9119,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "RecrutaTech 9ª edição",
+              "data": [
+              	"20"
+              ],
+              "url": "https://recrutatech.com.br/",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
             }
           ]
         },
@@ -9164,48 +9187,6 @@
   ],
   "tba": [
     {
-      "nome": "TDC Summit Recife",
-      "url": "https://thedevconf.com/tdc/2024/summit-recife/",
-      "cidade": "Recife",
-      "uf": "PE",
-      "tipo": "híbrido"
-    },
-    {
-      "nome": "TDC Summit Porto Alegre",
-      "url": "https://thedevconf.com/tdc/2024/summit-porto-alegre/",
-      "cidade": "Porto Alegre",
-      "uf": "RS",
-      "tipo": "híbrido"
-    },
-    {
-      "nome": "XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)",
-      "url": "https://www.sbc.org.br/eventos/calendario-de-eventos/evento/657/xxiii-simposio-brasileiro-sobre-fatores-humanos-em-sistemas-computacionais-ihc",
-      "cidade": "Brasília",
-      "uf": "DF",
-      "tipo": "presencial"
-    },
-    {
-      "nome": "XXX Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia 2024)",
-      "url": "https://www.sbc.org.br/eventos/calendario-de-eventos/evento/669/xxx-simposio-brasileiro-de-sistemas-multimidia-e-web-webmedia-2024",
-      "cidade": "Juiz de Fora",
-      "uf": "MG",
-      "tipo": "presencial"
-    },
-    {
-      "nome": "Esquenta CSBC 2025",
-      "url": "https://csbc.sbc.org.br/2025/",
-      "cidade": "Arapiraca",
-      "uf": "AL",
-      "tipo": "presencial"
-    },
-    {
-      "nome": "Datacon",
-      "url": "https://codecon.dev/datacon",
-      "cidade": "São Paulo",
-      "uf": "SP",
-      "tipo": "presencial"
-    },
-    {
       "nome": "Select Experience",
       "url": "https://codecon.dev/select",
       "cidade": "São Paulo",
@@ -9213,28 +9194,7 @@
       "tipo": "presencial"
     },
     {
-      "nome": "Encontro #7 WTM - IWD'25 / Dia Internacional da Mulher",
-      "url": "https://www.meetup.com/women-techmakers-curitiba/events/305753276",
-      "cidade": "Curitiba",
-      "uf": "PR",
-      "tipo": "presencial"
-    },
-    {
-      "nome": "RecrutaTech 9ª edição",
-      "url": "https://recrutatech.com.br/",
-      "cidade": "Curitiba",
-      "uf": "PR",
-      "tipo": "presencial"
-    },
-    {
-      "nome": "HackBahia",
-      "url": "https://hackbahia.github.io/",
-      "cidade": "Salvador",
-      "uf": "BA",
-      "tipo": "presencial"
-    },
-    {
-      "nome": "Latinoware",
+      "nome": "Latinoware 2026",
       "url": "https://latinoware.org/",
       "cidade": "Foz Do Iguaçu",
       "uf": "PR",
