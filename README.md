@@ -84,6 +84,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ### Novembro
 <!-- NOVEMBRO:START -->
 - 11 e 12: [TDC Experience Recife | Rec'n'Play](https://thedevconf.com/tdc/2026/index.html) - _Recife/PE_ ![híbrido]
+- 28: [Front in Floripa 2026](https://frontin.floripa.br) - _Florianópolis/SC_ ![presencial]
 <!-- NOVEMBRO:END -->
 ### Dezembro
 <!-- DEZEMBRO:START -->
