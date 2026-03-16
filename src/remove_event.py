@@ -1,20 +1,21 @@
-import json
 import os
+
+from utils import find_month, find_year, get_db_path, load_database, save_database
+
 
 def remove_event_from_json(file_path, event_to_remove):
 
-    with open(file_path, "r", encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_database(file_path)
 
     year = event_to_remove["ano"]
     month = event_to_remove["mes"].lower()
 
-    year_exist = next((y for y in data["eventos"] if y["ano"] == year), None)
+    year_exist = find_year(data, year)
     if not year_exist:
         print(f"Ano {year} não encontrado no arquivo.")
         return
 
-    month_exist = next((m for m in year_exist["meses"] if m["mes"] == month), None)
+    month_exist = find_month(year_exist, month)
     if not month_exist:
         print(f"Mês {month} não encontrado no ano {year}.")
         return
@@ -44,16 +45,13 @@ def remove_event_from_json(file_path, event_to_remove):
         data["eventos"] = [y for y in data["eventos"] if y["ano"] != year]
         print(f"Ano {year} removido porque ficou vazio.")
 
-    with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-
+    save_database(file_path, data)
     print(f"Arquivo '{file_path}' atualizado com sucesso!")
 
 
 def remove_tba_from_json(file_path, event_to_remove):
 
-    with open(file_path, "r", encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_database(file_path)
     
     events_before = len(data["tba"])
     data["tba"] = [
@@ -71,10 +69,9 @@ def remove_tba_from_json(file_path, event_to_remove):
     else:
         print(f"Evento '{event_to_remove['evento']['nome']}' removido com sucesso.")
 
-    with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-
+    save_database(file_path, data)
     print(f"Arquivo '{file_path}' atualizado com sucesso!")
+
 
 def get_event_from_env():
     """
@@ -94,8 +91,7 @@ def get_event_from_env():
     }
 
 def main():
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-    db_path = os.path.join(base_dir, 'db', 'database.json')
+    db_path = get_db_path(__file__)
 
     event = get_event_from_env()
     if event["mes"] == "tba":

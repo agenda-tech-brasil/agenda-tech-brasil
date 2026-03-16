@@ -1,36 +1,19 @@
-import json
 import os
 
-def open_database_file(file_path):
-    """
-    Abre um arquivo JSON para leitura e escrita de forma segura.
-    Se o arquivo não existir, cria um novo com um dicionário vazio.
-    """
-    if not os.path.exists(file_path):
-        with open(file_path, "w", encoding="utf-8") as f:
-            json.dump({}, f, indent=4)
-
-    # Abre o arquivo em modo leitura e escrita
-    with open(file_path, "r", encoding="utf-8") as f:
-        try:
-            data = json.load(f)  # Lê o conteúdo do arquivo JSON
-        except json.JSONDecodeError:
-            data = {}  # Se o JSON estiver corrompido, usa um dicionário vazio
-
-    return data
+from utils import find_month, find_year, get_db_path, load_database, save_database
 
 
-def archive_month(file_path, month_to_archive):        
-    db = open_database_file(file_path=file_path)
+def archive_month(file_path, month_to_archive):
+    db = load_database(file_path)
     year = month_to_archive["ano"]
     month = month_to_archive["mes"]
 
-    year_exist = next((y for y in db["eventos"] if y["ano"] == year), None)
+    year_exist = find_year(db, year)
     if not year_exist:
         print(f"Ano {year} não encontrado no arquivo.")
         return
-    
-    month_exist = next((m for m in year_exist["meses"] if m["mes"] == month), None)
+
+    month_exist = find_month(year_exist, month)
     if not month_exist:
         print(f"Mês {month} não encontrado no ano {year}.")
         return
@@ -40,15 +23,14 @@ def archive_month(file_path, month_to_archive):
             for meses in eventos["meses"]:
                 if meses["mes"] == month:
                     meses["arquivado"] = True
-    
-    with open(file_path, "w", encoding="utf-8") as f:
-      json.dump(db, f, indent=2, ensure_ascii=False)
 
-def archive_year(file_path, year_to_archive):        
-    db = open_database_file(file_path=file_path)
+    save_database(file_path, db)
+
+def archive_year(file_path, year_to_archive):
+    db = load_database(file_path)
     year = year_to_archive["ano"]
 
-    year_exist = next((y for y in db["eventos"] if y["ano"] == year), None)
+    year_exist = find_year(db, year)
     if not year_exist:
         print(f"Ano {year} não encontrado no arquivo.")
         return
@@ -57,8 +39,7 @@ def archive_year(file_path, year_to_archive):
         if eventos["ano"] == year:
             eventos["arquivado"] = True
 
-    with open(file_path, "w", encoding="utf-8") as f:
-      json.dump(db, f, indent=2, ensure_ascii=False)
+    save_database(file_path, db)
     
 def get_event_from_env():
     """
@@ -70,8 +51,7 @@ def get_event_from_env():
     }
 
 def main():
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-    db_path = os.path.join(base_dir, 'db', 'database.json')
+    db_path = get_db_path(__file__)
 
     event = get_event_from_env()
     if event["mes"] == "":
