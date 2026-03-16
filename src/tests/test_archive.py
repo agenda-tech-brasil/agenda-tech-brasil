@@ -36,7 +36,7 @@ def test_load_database_creates_nonexistent_file(tmp_path):
     data = load_database(str(db_path))
 
     assert db_path.exists()
-    assert data == {}
+    assert data == {"eventos": [], "tba": []}
 
 
 def test_load_database_handles_invalid_json(tmp_path):
@@ -45,7 +45,7 @@ def test_load_database_handles_invalid_json(tmp_path):
 
     data = load_database(str(db_path))
 
-    assert data == {}
+    assert data == {"eventos": [], "tba": []}
 
 
 def test_archive_month_marks_only_target_month(tmp_path):

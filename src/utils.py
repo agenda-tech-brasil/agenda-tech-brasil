@@ -11,18 +11,35 @@ def get_db_path(src_file):
 def load_database(file_path):
     """
     Carrega e retorna os dados de um arquivo JSON.
-    Se o arquivo não existir, cria um novo com dicionário vazio.
-    Se o JSON estiver corrompido, retorna dicionário vazio.
+    Se o arquivo não existir, cria um novo com o schema mínimo esperado.
+    Se o JSON estiver corrompido ou em formato inesperado, retorna o schema mínimo.
+    O schema mínimo é {"eventos": [], "tba": []}.
     """
+    default_data = {"eventos": [], "tba": []}
+
+    # Se o arquivo não existir, cria com o schema mínimo usando o mesmo formato de save_database().
     if not os.path.exists(file_path):
         with open(file_path, "w", encoding="utf-8") as f:
-            json.dump({}, f, indent=4)
+            json.dump(default_data, f, indent=2, ensure_ascii=False)
+        # Retorna um novo dicionário para evitar compartilhamento acidental de referências mutáveis.
+        return {"eventos": [], "tba": []}
 
     with open(file_path, "r", encoding="utf-8") as f:
         try:
-            return json.load(f)
+            data = json.load(f)
         except json.JSONDecodeError:
-            return {}
+            # JSON inválido: retorna sempre o schema mínimo esperado.
+            return {"eventos": [], "tba": []}
+
+    # Se o conteúdo não for um dicionário, normaliza para o schema mínimo.
+    if not isinstance(data, dict):
+        return {"eventos": [], "tba": []}
+
+    # Garante que as chaves mínimas existam para evitar KeyError em outros pontos do código.
+    data.setdefault("eventos", [])
+    data.setdefault("tba", [])
+
+    return data
 
 
 def save_database(file_path, data):
