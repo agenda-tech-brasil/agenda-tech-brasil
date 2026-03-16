@@ -1,0 +1,4 @@
+**/venv/*
+coverage.xml
+.coverage
+**/.pytest_cache/
