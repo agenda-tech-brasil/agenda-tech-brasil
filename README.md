@@ -18,7 +18,7 @@ _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontra
 
 **Não encontrou o evento, palestra ou iniciativa que estava procurando?**
 
-Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se você conhece algum evento que acredita ser relevante para estar aqui, convidamos você a adicioná-lo. Está interessado(a) em nos ajudar nisso? [Clique aqui para aprender como incluir novos eventos e ajudar o repositório a crescer!](https://github.com/agenda-tech-brasil/agenda-tech-brasil/blob/main/CONTRIBUTING.md)
+Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se você conhece algum evento que acredita ser relevante para estar aqui, convidamos você a adicioná-lo. Está interessado(a) em nos ajudar nisso? [Clique aqui para aprender como incluir novos eventos e ajudar o repositório a crescer!](.github/CONTRIBUTING.md)
 
 ## Eventos em 2026
 <!-- ANO2026:START -->
