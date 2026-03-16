@@ -8970,6 +8970,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "APIX - API Experience",
+              "data": [
+                "21"
+              ],
+              "url": "https://www.sensedia.com.br/apix",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             }
           ]
         },
