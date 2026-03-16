@@ -19,6 +19,10 @@ def load_database(file_path):
 
     # Se o arquivo não existir, cria com o schema mínimo usando o mesmo formato de save_database().
     if not os.path.exists(file_path):
+        # Garante que o diretório pai exista antes de criar o arquivo.
+        dir_path = os.path.dirname(file_path)
+        if dir_path:
+            os.makedirs(dir_path, exist_ok=True)
         with open(file_path, "w", encoding="utf-8") as f:
             json.dump(default_data, f, indent=2, ensure_ascii=False)
         # Retorna um novo dicionário para evitar compartilhamento acidental de referências mutáveis.
@@ -39,11 +43,21 @@ def load_database(file_path):
     data.setdefault("eventos", [])
     data.setdefault("tba", [])
 
+    # Normaliza tipos inesperados: se "eventos" ou "tba" não forem listas, zera para [].
+    if not isinstance(data.get("eventos"), list):
+        data["eventos"] = []
+    if not isinstance(data.get("tba"), list):
+        data["tba"] = []
+
     return data
 
 
 def save_database(file_path, data):
     """Salva data em um arquivo JSON com formatação padrão do projeto."""
+    # Garante que o diretório pai exista antes de tentar salvar o arquivo.
+    dir_name = os.path.dirname(file_path)
+    if dir_name:
+        os.makedirs(dir_name, exist_ok=True)
     with open(file_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
