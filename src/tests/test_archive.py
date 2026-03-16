@@ -2,7 +2,8 @@ import json
 
 from unittest.mock import patch
 
-from archive import archive_month, archive_year, open_database_file, main
+from archive import archive_month, archive_year, main
+from utils import load_database
 
 
 def write_db(path, payload):
@@ -29,22 +30,22 @@ def payload():
     }
 
 
-def test_open_database_file_creates_nonexistent_file(tmp_path):
+def test_load_database_creates_nonexistent_file(tmp_path):
     db_path = tmp_path / "new.json"
 
-    data = open_database_file(str(db_path))
+    data = load_database(str(db_path))
 
     assert db_path.exists()
-    assert data == {}
+    assert data == {"eventos": [], "tba": []}
 
 
-def test_open_database_file_handles_invalid_json(tmp_path):
+def test_load_database_handles_invalid_json(tmp_path):
     db_path = tmp_path / "broken.json"
     db_path.write_text("{invalid", encoding="utf-8")
 
-    data = open_database_file(str(db_path))
+    data = load_database(str(db_path))
 
-    assert data == {}
+    assert data == {"eventos": [], "tba": []}
 
 
 def test_archive_month_marks_only_target_month(tmp_path):

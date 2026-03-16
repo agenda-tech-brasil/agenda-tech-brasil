@@ -1,5 +1,6 @@
-import json
 import os
+
+from utils import find_month, find_year, get_db_path, load_database, save_database
 
 CALENDAR_ORDER = [
     "janeiro",
@@ -18,18 +19,17 @@ CALENDAR_ORDER = [
 
 def add_event_to_json(file_path, new_event):
 
-    with open(file_path, "r", encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_database(file_path)
 
     year = new_event["ano"]
     month = new_event["mes"]
 
-    year_exist = next((y for y in data["eventos"] if y["ano"] == year), None)
+    year_exist = find_year(data, year)
     if not year_exist:
         year_exist = {"ano": year, "arquivado": False, "meses": []}
         data["eventos"].append(year_exist)
 
-    month_exist = next((m for m in year_exist["meses"] if m["mes"] == month), None)
+    month_exist = find_month(year_exist, month)
     if not month_exist:
         month_exist = {"mes": month, "arquivado": False, "eventos": []}
         year_exist["meses"].append(month_exist)
@@ -51,16 +51,13 @@ def add_event_to_json(file_path, new_event):
 
     data["eventos"] = sorted(data["eventos"], key=lambda y: y["ano"])
 
-    with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-
-        print(f"Evento adicionado e arquivo {file_path} atualizado com sucesso!")
+    save_database(file_path, data)
+    print(f"Evento adicionado e arquivo {file_path} atualizado com sucesso!")
 
 
 def add_tba_to_json(file_path, new_event):
 
-    with open(file_path, "r", encoding="utf-8") as f:
-        data = json.load(f)
+    data = load_database(file_path)
 
     for event in data["tba"]:
         if event["nome"] == new_event["evento"]["nome"] and event["url"] == new_event["evento"]["url"] and event["cidade"] == new_event["evento"]["cidade"] and event["uf"] == new_event["evento"]["uf"] and event["tipo"] == new_event["evento"]["tipo"]:
@@ -76,9 +73,8 @@ def add_tba_to_json(file_path, new_event):
     }
 
     data["tba"].append(event_tba)
-    with open(file_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-        print(f"Evento adicionado e arquivo {file_path} atualizado com sucesso!")
+    save_database(file_path, data)
+    print(f"Evento adicionado e arquivo {file_path} atualizado com sucesso!")
 
 
 def get_event_from_env():
@@ -99,8 +95,7 @@ def get_event_from_env():
     }
 
 def main():
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-    db_path = os.path.join(base_dir, 'db', 'database.json')
+    db_path = get_db_path(__file__)
 
     new_event = get_event_from_env()
     if new_event["mes"] == "tba":

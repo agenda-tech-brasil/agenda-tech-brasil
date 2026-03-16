@@ -1,8 +1,9 @@
 from datetime import datetime
-import json
 import os
 
 from jinja2 import Environment, FileSystemLoader
+
+from utils import get_db_path, load_database
 
 
 def format_date_list(dates):
@@ -37,8 +38,7 @@ def render_markdown(json_data, template_path, current_year):
 
 
 def generate_readme(db_path, template_path, output_path, now=None):
-    with open(db_path, "r", encoding="utf-8") as f:
-        json_data = json.load(f)
+    json_data = load_database(db_path)
 
     current_year = (now or datetime.now()).year
     output = render_markdown(json_data, template_path, current_year)
@@ -50,7 +50,7 @@ def generate_readme(db_path, template_path, output_path, now=None):
 def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     template_path = os.path.join(base_dir, "templates")
-    db_path = os.path.join(base_dir, "db", "database.json")
+    db_path = get_db_path(__file__)
     output_path = os.path.join(os.path.dirname(base_dir), "README.md")
 
     generate_readme(db_path, template_path, output_path)
