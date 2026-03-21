@@ -8980,6 +8980,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
+            },
+            {
+              "nome": "DunaSec 2026",
+              "data": [
+                "30"
+              ],
+              "url": "https://dunasec.com.br",
+              "cidade": "Natal",
+              "uf": "RN",
+              "tipo": "presencial"
             }
           ]
         },
