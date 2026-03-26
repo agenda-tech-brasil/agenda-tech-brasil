@@ -2,7 +2,7 @@ import json
 import os
 from unittest.mock import patch
 
-from export_archive import get_archived_years, render_archive
+from export_archive import get_archived_years, render_archive, export_archives
 
 
 def write_db(path, payload):
@@ -98,3 +98,96 @@ def test_render_archive_produces_markdown(tmp_path):
     assert "10 e 11: [Evento A](https://a) - _São Paulo/SP_ ![presencial]" in result
     assert "### Fevereiro" in result
     assert "05: [Evento B](https://b) ![online]" in result
+
+
+def test_export_archives_creates_year_files(tmp_path):
+    db_path = tmp_path / "db.json"
+    template_dir = tmp_path / "templates"
+    output_dir = tmp_path / "arquivo"
+    template_dir.mkdir()
+
+    template_content = (
+        "{% for mes in ano.meses %}"
+        "### {{ mes.mes | capitalize }}\n"
+        "{% for evento in mes.eventos %}"
+        "- {{ evento.data | format_date_list }}: [{{ evento.nome }}]({{ evento.url }})"
+        "{% if evento.tipo != 'online' %} - _{{ evento.cidade }}/{{ evento.uf }}_{% endif %}"
+        " ![{{ evento.tipo }}]\n"
+        "{% endfor %}"
+        "{% endfor %}"
+    )
+    (template_dir / "archive.md.j2").write_text(template_content, encoding="utf-8")
+
+    db_data = {
+        "eventos": [
+            {
+                "ano": 2024,
+                "arquivado": True,
+                "meses": [
+                    {
+                        "mes": "março",
+                        "eventos": [
+                            {
+                                "nome": "Conf X",
+                                "data": ["15"],
+                                "url": "https://x",
+                                "cidade": "Recife",
+                                "uf": "PE",
+                                "tipo": "presencial",
+                            }
+                        ],
+                    }
+                ],
+            },
+            {
+                "ano": 2026,
+                "arquivado": False,
+                "meses": [
+                    {
+                        "mes": "janeiro",
+                        "eventos": [
+                            {
+                                "nome": "Evento Y",
+                                "data": ["01"],
+                                "url": "https://y",
+                                "cidade": "",
+                                "uf": "",
+                                "tipo": "online",
+                            }
+                        ],
+                    }
+                ],
+            },
+        ],
+        "tba": [],
+    }
+    write_db(db_path, db_data)
+
+    export_archives(str(db_path), str(template_dir), str(output_dir))
+
+    assert (output_dir / "2024.md").exists()
+    content = (output_dir / "2024.md").read_text(encoding="utf-8")
+    assert "### Março" in content
+    assert "Conf X" in content
+    assert not (output_dir / "2026.md").exists()
+
+
+def test_export_archives_skips_archived_year_without_meses(tmp_path):
+    db_path = tmp_path / "db.json"
+    template_dir = tmp_path / "templates"
+    output_dir = tmp_path / "arquivo"
+    template_dir.mkdir()
+
+    (template_dir / "archive.md.j2").write_text("{{ ano.ano }}", encoding="utf-8")
+
+    db_data = {
+        "eventos": [
+            {"ano": 2022, "arquivado": True, "meses": []},
+        ],
+        "tba": [],
+    }
+    write_db(db_path, db_data)
+
+    export_archives(str(db_path), str(template_dir), str(output_dir))
+
+    assert not (output_dir / "2022.md").exists()
