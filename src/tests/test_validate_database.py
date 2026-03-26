@@ -72,6 +72,13 @@ def test_validate_event_data_out_of_range():
     assert any("data" in e for e in errors)
 
 
+def test_validate_event_data_without_zero_pad():
+    event = valid_presencial_event()
+    event["data"] = ["5"]
+    errors = validate_event(event, "test")
+    assert any("data" in e for e in errors)
+
+
 def test_validate_event_invalid_url():
     event = valid_presencial_event()
     event["url"] = "ftp://bad"
@@ -295,6 +302,56 @@ def test_validate_database_catches_nested_errors(tmp_path):
 
     assert len(errors) > 0
     assert any("nome" in e for e in errors)
+
+
+def test_validate_database_years_out_of_order(tmp_path):
+    db_path = tmp_path / "db.json"
+    db_data = {
+        "eventos": [
+            {
+                "ano": 2026,
+                "meses": [
+                    {"mes": "janeiro", "eventos": [valid_presencial_event()]},
+                ],
+            },
+            {
+                "ano": 2025,
+                "meses": [
+                    {"mes": "janeiro", "eventos": [valid_presencial_event()]},
+                ],
+            },
+        ],
+        "tba": [],
+    }
+    write_db(db_path, db_data)
+
+    errors = validate_database(str(db_path))
+    assert any("ordem" in e for e in errors)
+
+
+def test_validate_database_duplicate_years(tmp_path):
+    db_path = tmp_path / "db.json"
+    db_data = {
+        "eventos": [
+            {
+                "ano": 2026,
+                "meses": [
+                    {"mes": "janeiro", "eventos": [valid_presencial_event()]},
+                ],
+            },
+            {
+                "ano": 2026,
+                "meses": [
+                    {"mes": "fevereiro", "eventos": [valid_presencial_event()]},
+                ],
+            },
+        ],
+        "tba": [],
+    }
+    write_db(db_path, db_data)
+
+    errors = validate_database(str(db_path))
+    assert any("duplicados" in e for e in errors)
 
 
 def test_main_returns_zero_on_valid_db(tmp_path):

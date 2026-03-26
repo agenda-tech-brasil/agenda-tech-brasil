@@ -1,4 +1,3 @@
-import os
 import sys
 
 from utils import get_db_path, load_database
@@ -31,8 +30,8 @@ def validate_event(event, path, skip_data=False):
             errors.append(f"{path}.data: deve ser uma lista não vazia")
         else:
             for d in data:
-                if not isinstance(d, str) or not d.isdigit() or not (1 <= int(d) <= 31):
-                    errors.append(f"{path}.data: valor inválido '{d}', esperado string numérica de 01 a 31")
+                if not isinstance(d, str) or len(d) != 2 or not d.isdigit() or not (1 <= int(d) <= 31):
+                    errors.append(f"{path}.data: valor inválido '{d}', esperado string de dois dígitos de 01 a 31")
 
     url = event.get("url", "")
     if not isinstance(url, str) or not url.startswith("http"):
@@ -127,6 +126,12 @@ def validate_tba(tba_list):
 def validate_database(file_path):
     data = load_database(file_path)
     errors = []
+
+    anos = [y.get("ano", 0) for y in data.get("eventos", [])]
+    if anos != sorted(anos):
+        errors.append("eventos: anos fora de ordem crescente")
+    if len(anos) != len(set(anos)):
+        errors.append("eventos: anos duplicados encontrados")
 
     for i, year in enumerate(data.get("eventos", [])):
         errors.extend(validate_year(year, f"eventos[{i}]"))
