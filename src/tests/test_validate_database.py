@@ -1,6 +1,6 @@
 import json
 
-from validate_database import validate_event
+from validate_database import validate_event, validate_month, validate_year
 
 
 def write_db(path, payload):
@@ -97,3 +97,93 @@ def test_validate_event_invalid_uf():
     event["uf"] = "XX"
     errors = validate_event(event, "test")
     assert any("uf" in e for e in errors)
+
+
+def test_validate_month_valid_returns_no_errors():
+    month = {
+        "mes": "janeiro",
+        "eventos": [valid_presencial_event()],
+    }
+    errors = validate_month(month, "test")
+    assert errors == []
+
+
+def test_validate_month_invalid_name():
+    month = {
+        "mes": "janero",
+        "eventos": [valid_presencial_event()],
+    }
+    errors = validate_month(month, "test")
+    assert any("mes" in e for e in errors)
+
+
+def test_validate_month_empty_eventos():
+    month = {
+        "mes": "janeiro",
+        "eventos": [],
+    }
+    errors = validate_month(month, "test")
+    assert any("eventos" in e for e in errors)
+
+
+def test_validate_year_valid_returns_no_errors():
+    year = {
+        "ano": 2026,
+        "meses": [
+            {"mes": "janeiro", "eventos": [valid_presencial_event()]},
+            {"mes": "março", "eventos": [valid_online_event()]},
+        ],
+    }
+    errors = validate_year(year, "test")
+    assert errors == []
+
+
+def test_validate_year_invalid_ano():
+    year = {
+        "ano": -1,
+        "meses": [{"mes": "janeiro", "eventos": [valid_presencial_event()]}],
+    }
+    errors = validate_year(year, "test")
+    assert any("ano" in e for e in errors)
+
+
+def test_validate_event_empty_data():
+    event = valid_presencial_event()
+    event["data"] = []
+    errors = validate_event(event, "test")
+    assert any("data" in e for e in errors)
+
+
+def test_validate_event_online_with_uf():
+    event = valid_online_event()
+    event["uf"] = "SP"
+    errors = validate_event(event, "test")
+    assert any("uf" in e for e in errors)
+
+
+def test_validate_event_presencial_without_uf():
+    event = valid_presencial_event()
+    event["uf"] = ""
+    errors = validate_event(event, "test")
+    assert any("uf" in e for e in errors)
+
+
+def test_validate_year_empty_meses():
+    year = {
+        "ano": 2026,
+        "meses": [],
+    }
+    errors = validate_year(year, "test")
+    assert any("meses" in e for e in errors)
+
+
+def test_validate_year_months_out_of_order():
+    year = {
+        "ano": 2026,
+        "meses": [
+            {"mes": "março", "eventos": [valid_presencial_event()]},
+            {"mes": "janeiro", "eventos": [valid_online_event()]},
+        ],
+    }
+    errors = validate_year(year, "test")
+    assert any("ordem" in e for e in errors)
