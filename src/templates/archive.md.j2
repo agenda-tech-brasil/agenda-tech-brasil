@@ -1,0 +1,22 @@
+{% for mes in ano.meses %}
+### {{ mes.mes | capitalize }}
+
+<!-- {{ mes.mes | upper }}:START -->
+
+{% for evento in mes.eventos %}
+{% if evento.tipo == "online" %}
+- {{ evento.data | format_date_list }}: [{{ evento.nome }}]({{ evento.url }}) ![{{ evento.tipo }}]
+{% else %}
+- {{ evento.data | format_date_list }}: [{{ evento.nome }}]({{ evento.url }}) - _{{ evento.cidade }}/{{ evento.uf }}_ ![{{ evento.tipo }}]
+{% endif %}
+{% endfor %}
+<!-- {{ mes.mes | upper }}:END -->
+
+{% endfor %}
+<!--LINK DAS BADGES:START-->
+
+[presencial]: https://img.shields.io/static/v1?label=&message=presencial&color=blue
+[híbrido]: https://img.shields.io/static/v1?label=&message=h%C3%ADbrido&color=red
+[online]: https://img.shields.io/static/v1?label=&message=online&color=purple
+
+<!--LINK DAS BADGES:END-->

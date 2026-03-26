@@ -2,7 +2,7 @@ import json
 import os
 from unittest.mock import patch
 
-from export_archive import get_archived_years
+from export_archive import get_archived_years, render_archive
 
 
 def write_db(path, payload):
@@ -41,3 +41,60 @@ def test_get_archived_years_returns_empty_when_none_archived():
     result = get_archived_years(data)
 
     assert result == []
+
+
+def test_render_archive_produces_markdown(tmp_path):
+    template_dir = tmp_path / "templates"
+    template_dir.mkdir()
+
+    template_content = (
+        "{% for mes in ano.meses %}"
+        "### {{ mes.mes | capitalize }}\n"
+        "{% for evento in mes.eventos %}"
+        "- {{ evento.data | format_date_list }}: [{{ evento.nome }}]({{ evento.url }})"
+        "{% if evento.tipo != 'online' %} - _{{ evento.cidade }}/{{ evento.uf }}_{% endif %}"
+        " ![{{ evento.tipo }}]\n"
+        "{% endfor %}"
+        "{% endfor %}"
+    )
+    (template_dir / "archive.md.j2").write_text(template_content, encoding="utf-8")
+
+    year_data = {
+        "ano": 2024,
+        "arquivado": True,
+        "meses": [
+            {
+                "mes": "janeiro",
+                "eventos": [
+                    {
+                        "nome": "Evento A",
+                        "data": ["10", "11"],
+                        "url": "https://a",
+                        "cidade": "São Paulo",
+                        "uf": "SP",
+                        "tipo": "presencial",
+                    }
+                ],
+            },
+            {
+                "mes": "fevereiro",
+                "eventos": [
+                    {
+                        "nome": "Evento B",
+                        "data": ["05"],
+                        "url": "https://b",
+                        "cidade": "",
+                        "uf": "",
+                        "tipo": "online",
+                    }
+                ],
+            },
+        ],
+    }
+
+    result = render_archive(year_data, str(template_dir))
+
+    assert "### Janeiro" in result
+    assert "10 e 11: [Evento A](https://a) - _São Paulo/SP_ ![presencial]" in result
+    assert "### Fevereiro" in result
+    assert "05: [Evento B](https://b) ![online]" in result
