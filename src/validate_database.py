@@ -134,3 +134,21 @@ def validate_database(file_path):
     errors.extend(validate_tba(data.get("tba", [])))
 
     return errors
+
+
+def main():
+    db_path = get_db_path(__file__)
+    errors = validate_database(db_path)
+
+    if errors:
+        print(f"Encontrados {len(errors)} erro(s) no banco de dados:")
+        for error in errors:
+            print(f"  - {error}")
+        return 1
+
+    print("Banco de dados válido!")
+    return 0
+
+
+if __name__ == "__main__":  # pragma: no cover
+    sys.exit(main())

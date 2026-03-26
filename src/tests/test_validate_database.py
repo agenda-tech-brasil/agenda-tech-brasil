@@ -1,4 +1,5 @@
 import json
+from unittest.mock import patch
 
 from validate_database import (
     validate_event,
@@ -6,6 +7,7 @@ from validate_database import (
     validate_year,
     validate_tba,
     validate_database,
+    main,
 )
 
 
@@ -293,3 +295,69 @@ def test_validate_database_catches_nested_errors(tmp_path):
 
     assert len(errors) > 0
     assert any("nome" in e for e in errors)
+
+
+def test_main_returns_zero_on_valid_db(tmp_path):
+    db_path = tmp_path / "db.json"
+    db_data = {
+        "eventos": [
+            {
+                "ano": 2026,
+                "meses": [
+                    {
+                        "mes": "janeiro",
+                        "eventos": [
+                            {
+                                "nome": "Evento",
+                                "data": ["01"],
+                                "url": "https://e.com",
+                                "cidade": "São Paulo",
+                                "uf": "SP",
+                                "tipo": "presencial",
+                            }
+                        ],
+                    }
+                ],
+            }
+        ],
+        "tba": [],
+    }
+    write_db(db_path, db_data)
+
+    with patch("validate_database.get_db_path", return_value=str(db_path)):
+        exit_code = main()
+
+    assert exit_code == 0
+
+
+def test_main_returns_one_on_invalid_db(tmp_path):
+    db_path = tmp_path / "db.json"
+    db_data = {
+        "eventos": [
+            {
+                "ano": 2026,
+                "meses": [
+                    {
+                        "mes": "janeiro",
+                        "eventos": [
+                            {
+                                "nome": "",
+                                "data": ["10"],
+                                "url": "https://a.com",
+                                "cidade": "São Paulo",
+                                "uf": "SP",
+                                "tipo": "presencial",
+                            }
+                        ],
+                    }
+                ],
+            }
+        ],
+        "tba": [],
+    }
+    write_db(db_path, db_data)
+
+    with patch("validate_database.get_db_path", return_value=str(db_path)):
+        exit_code = main()
+
+    assert exit_code == 1
