@@ -18,20 +18,21 @@ VALID_UFS = {
 }
 
 
-def validate_event(event, path):
+def validate_event(event, path, skip_data=False):
     errors = []
 
     nome = event.get("nome", "")
     if not isinstance(nome, str) or not nome.strip():
         errors.append(f"{path}.nome: não pode ser vazio")
 
-    data = event.get("data", [])
-    if not isinstance(data, list) or len(data) == 0:
-        errors.append(f"{path}.data: deve ser uma lista não vazia")
-    else:
-        for d in data:
-            if not isinstance(d, str) or not d.isdigit() or not (1 <= int(d) <= 31):
-                errors.append(f"{path}.data: valor inválido '{d}', esperado string numérica de 01 a 31")
+    if not skip_data:
+        data = event.get("data", [])
+        if not isinstance(data, list) or len(data) == 0:
+            errors.append(f"{path}.data: deve ser uma lista não vazia")
+        else:
+            for d in data:
+                if not isinstance(d, str) or not d.isdigit() or not (1 <= int(d) <= 31):
+                    errors.append(f"{path}.data: valor inválido '{d}', esperado string numérica de 01 a 31")
 
     url = event.get("url", "")
     if not isinstance(url, str) or not url.startswith("http"):
@@ -99,5 +100,37 @@ def validate_year(year, path):
 
         for i, mes in enumerate(meses):
             errors.extend(validate_month(mes, f"{path}.meses[{i}]"))
+
+    return errors
+
+
+def validate_tba(tba_list):
+    errors = []
+    seen = set()
+
+    for i, evento in enumerate(tba_list):
+        path = f"tba[{i}]"
+        errors.extend(validate_event(evento, path, skip_data=True))
+
+        nome = evento.get("nome", "")
+        cidade = evento.get("cidade", "")
+        uf = evento.get("uf", "")
+        tipo = evento.get("tipo", "")
+        key = (nome, cidade, uf, tipo)
+        if key in seen:
+            errors.append(f"{path}: evento duplicado (nome+cidade+uf+tipo)")
+        seen.add(key)
+
+    return errors
+
+
+def validate_database(file_path):
+    data = load_database(file_path)
+    errors = []
+
+    for i, year in enumerate(data.get("eventos", [])):
+        errors.extend(validate_year(year, f"eventos[{i}]"))
+
+    errors.extend(validate_tba(data.get("tba", [])))
 
     return errors

@@ -1,6 +1,12 @@
 import json
 
-from validate_database import validate_event, validate_month, validate_year
+from validate_database import (
+    validate_event,
+    validate_month,
+    validate_year,
+    validate_tba,
+    validate_database,
+)
 
 
 def write_db(path, payload):
@@ -187,3 +193,103 @@ def test_validate_year_months_out_of_order():
     }
     errors = validate_year(year, "test")
     assert any("ordem" in e for e in errors)
+
+
+def test_validate_tba_valid_returns_no_errors():
+    tba = [
+        {
+            "nome": "Evento TBA",
+            "url": "https://tba.com",
+            "cidade": "Recife",
+            "uf": "PE",
+            "tipo": "presencial",
+        }
+    ]
+    errors = validate_tba(tba)
+    assert errors == []
+
+
+def test_validate_tba_detects_duplicates():
+    tba = [
+        {
+            "nome": "Evento TBA",
+            "url": "https://tba.com",
+            "cidade": "Recife",
+            "uf": "PE",
+            "tipo": "presencial",
+        },
+        {
+            "nome": "Evento TBA",
+            "url": "https://other.com",
+            "cidade": "Recife",
+            "uf": "PE",
+            "tipo": "presencial",
+        },
+    ]
+    errors = validate_tba(tba)
+    assert any("duplicado" in e for e in errors)
+
+
+def test_validate_database_valid_db(tmp_path):
+    db_path = tmp_path / "db.json"
+    db_data = {
+        "eventos": [
+            {
+                "ano": 2026,
+                "meses": [
+                    {
+                        "mes": "janeiro",
+                        "eventos": [
+                            {
+                                "nome": "Evento A",
+                                "data": ["10"],
+                                "url": "https://a.com",
+                                "cidade": "São Paulo",
+                                "uf": "SP",
+                                "tipo": "presencial",
+                            }
+                        ],
+                    }
+                ],
+            }
+        ],
+        "tba": [],
+    }
+    write_db(db_path, db_data)
+
+    errors = validate_database(str(db_path))
+
+    assert errors == []
+
+
+def test_validate_database_catches_nested_errors(tmp_path):
+    db_path = tmp_path / "db.json"
+    db_data = {
+        "eventos": [
+            {
+                "ano": 2026,
+                "meses": [
+                    {
+                        "mes": "janeiro",
+                        "eventos": [
+                            {
+                                "nome": "",
+                                "data": ["10"],
+                                "url": "https://a.com",
+                                "cidade": "São Paulo",
+                                "uf": "SP",
+                                "tipo": "presencial",
+                            }
+                        ],
+                    }
+                ],
+            }
+        ],
+        "tba": [],
+    }
+    write_db(db_path, db_data)
+
+    errors = validate_database(str(db_path))
+
+    assert len(errors) > 0
+    assert any("nome" in e for e in errors)
