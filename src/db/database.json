@@ -43,8 +43,8 @@
                 "06"
               ],
               "url": "https://gdg.community.dev/events/details/google-gdg-curitiba-presents-flutter-brasil-conf-2022/",
-              "cidade": "Curitiba",
-              "uf": "PR",
+              "cidade": "",
+              "uf": "",
               "tipo": "online"
             },
             {
@@ -370,8 +370,8 @@
                 "05"
               ],
               "url": "https://vrlps.co/0v4skjl/cp",
-              "cidade": "Rio de Janeiro",
-              "uf": "RJ",
+              "cidade": "",
+              "uf": "",
               "tipo": "online"
             },
             {
@@ -557,8 +557,8 @@
                 "25"
               ],
               "url": "https://www.expotec.org.br/2022/",
-              "cidade": "João Pessoa",
-              "uf": "PB",
+              "cidade": "",
+              "uf": "",
               "tipo": "online"
             },
             {
@@ -801,8 +801,8 @@
                 "11"
               ],
               "url": "https://scrumrio.com/",
-              "cidade": "Rio De Janeiro",
-              "uf": "RJ",
+              "cidade": "",
+              "uf": "",
               "tipo": "online"
             },
             {
@@ -3166,7 +3166,7 @@
               "data": [
                 "19"
               ],
-              "url": "https://developer.microsoft.com/en-us/reactor/events/23425/?wt.mc_id=1reg_23425_webpage_reactor)",
+              "url": "https://developer.microsoft.com/en-us/reactor/events/23425/?wt.mc_id=1reg_23425_webpage_reactor",
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "presencial"
@@ -7154,7 +7154,8 @@
               ],
               "url": "https://www.meetup.com/microsoft-reactor-sao-paulo/events/307942759",
               "cidade": "São Paulo",
-              "uf": "SP"
+              "uf": "SP",
+              "tipo": "presencial"
             },
             {
               "nome": "Pylestras de Junho das Pyladies + Grupy @ Microsoft Reactor",

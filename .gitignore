@@ -2,3 +2,6 @@
 coverage.xml
 .coverage
 **/.pytest_cache/
+CLAUDE.md
+docs/
+__pycache__
