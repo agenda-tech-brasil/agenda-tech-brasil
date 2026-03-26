@@ -38,3 +38,17 @@ def export_archives(db_path, template_path, output_dir):
             f.write(content)
 
         print(f"Arquivo {year_data['ano']}.md gerado com sucesso!")
+
+
+def main():
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    template_path = os.path.join(base_dir, "templates")
+    db_path = get_db_path(__file__)
+    output_dir = os.path.join(os.path.dirname(base_dir), "arquivo")
+
+    export_archives(db_path, template_path, output_dir)
+    print("Exportação de arquivos concluída!")
+
+
+if __name__ == "__main__":  # pragma: no cover
+    main()

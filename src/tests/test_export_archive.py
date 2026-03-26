@@ -2,7 +2,7 @@ import json
 import os
 from unittest.mock import patch
 
-from export_archive import get_archived_years, render_archive, export_archives
+from export_archive import get_archived_years, render_archive, export_archives, main
 
 
 def write_db(path, payload):
@@ -191,3 +191,18 @@ def test_export_archives_skips_archived_year_without_meses(tmp_path):
     export_archives(str(db_path), str(template_dir), str(output_dir))
 
     assert not (output_dir / "2022.md").exists()
+
+
+def test_main_calls_export_archives_with_expected_paths():
+    with patch("export_archive.export_archives") as mocked_export, patch(
+        "builtins.print"
+    ) as mocked_print:
+        main()
+
+    mocked_export.assert_called_once()
+    mocked_print.assert_called_once()
+    db_path, template_path, output_dir = mocked_export.call_args.args
+
+    assert db_path.endswith(os.path.join("src", "db", "database.json"))
+    assert template_path.endswith(os.path.join("src", "templates"))
+    assert output_dir.endswith(os.sep + "arquivo")
