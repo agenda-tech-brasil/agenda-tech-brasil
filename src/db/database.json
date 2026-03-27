@@ -8916,6 +8916,22 @@
           ]
         },
         {
+          "mes": "abril",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "GHC - GYN Hacker Conference",
+              "data": [
+                "18"
+              ],
+              "url": "https://hubconnecteventos.com.br/evento/ghc",
+              "cidade": "Goiânia",
+              "uf": "GO",
+              "tipo": "presencial"
+            }
+          ]
+        },
+        {
           "mes": "maio",
           "arquivado": false,
           "eventos": [
