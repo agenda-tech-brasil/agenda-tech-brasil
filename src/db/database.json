@@ -8920,6 +8920,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Código Aberto - Magalu Cloud",
+              "data": [
+                "02"
+              ],
+              "url": "https://discord.com/events/1327339621306073171/1487184152167186472",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
+            },
+            {
               "nome": "GHC - GYN Hacker Conference",
               "data": [
                 "18"
