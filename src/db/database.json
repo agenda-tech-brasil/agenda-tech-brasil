@@ -9163,6 +9163,16 @@
               "cidade": "São Carlos",
               "uf": "SP",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "Tech Woman",
+              "data": [
+                "29"
+              ],
+              "url": "https://www.instagram.com/techwoman.rec/",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial"
             }
           ]
         },
