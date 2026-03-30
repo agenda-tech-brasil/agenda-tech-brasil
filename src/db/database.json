@@ -9017,6 +9017,16 @@
             {
               "nome": "Agile Trends Nordeste",
               "data": [
+                "01"
+              ],
+              "url": "https://www.instagram.com/agiletrends/",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Agile Trends Nordeste",
+              "data": [
                 "01",
                 "02"
               ],
