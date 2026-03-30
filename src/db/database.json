@@ -8928,6 +8928,16 @@
               "cidade": "Goiânia",
               "uf": "GO",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Tech Made in Brazil #01 - Magalu Cloud",
+              "data": [
+                "29"
+              ],
+              "url": "https://luma.com/g4lgjals",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             }
           ]
         },
