@@ -52,7 +52,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 01: [Python Sul 2026](https://sul.python.org.br/) - _Londrina/PR_ ![presencial]
 - 08: [IA Network Summit](https://www.even3.com.br/ia-network-summit-652537/) - _São Paulo/SP_ ![presencial]
 - 11: [The Tech Summit](https://thetechsummit.com.br/) - _São Paulo/SP_ ![presencial]
-- 13 e 14: [AI StartSe Festival 2026](https://pages.startse.com/ai-festival-ingressos?hsctaattrib=208130425944) - _São Paulo/SP_ ![presencial]
+- 13 e 14: [AI StartSe Festival 2026](https://pages.startse.com/ai-festival-ingressos) - _São Paulo/SP_ ![presencial]
 - 13, 14 e 15: [São Paulo Innovation Week](https://saopauloinnovationweek.com.br/) - _São Paulo/SP_ ![presencial]
 - 21: [APIX - API Experience](https://www.sensedia.com.br/apix) - _São Paulo/SP_ ![presencial]
 - 30: [DunaSec 2026](https://dunasec.com.br) - _Natal/RN_ ![presencial]
@@ -66,6 +66,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- JULHO:START -->
 - 22, 23 e 24: [TDC Floripa 2026](https://thedevconf.com/tdc/2026/index.html) - _Florianópolis/SC_ ![híbrido]
 - 31: [Agile Trends São Paulo](https://doity.com.br/agile-trends-2026) - _São Paulo/SP_ ![presencial]
+- 08, 09, 10 e 11: [Web Summit Rio - SaaS Summit](https://rio.websummit.com/pt-br/tracks/saas-summit/) - _Rio De Janeiro/RJ_ ![presencial]
 <!-- JULHO:END -->
 ### Agosto
 <!-- AGOSTO:START -->
@@ -78,6 +79,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- SETEMBRO:START -->
 - 02, 03 e 04: [Gophercon LATAM 2026](https://gopherconlatam.org/) - _Florianópolis/SC_ ![presencial]
 - 23, 24 e 25: [TDC São Paulo](https://thedevconf.com/tdc/2026/index.html) - _São Paulo/SP_ ![híbrido]
+- 20: [RecrutaTech 9ª edição](https://recrutatech.com.br/) - _Curitiba/PR_ ![presencial]
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
@@ -96,17 +98,8 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ## TBA: To Be Announced
 <!-- Essa seção são de eventos que estão previstos para acontecer no ano mas ainda não tem mês, ou dia definidos -->
 <!-- TBA:START -->
-- TBA: [TDC Summit Recife](https://thedevconf.com/tdc/2024/summit-recife/) - _Recife/PE_ ![híbrido]
-- TBA: [TDC Summit Porto Alegre](https://thedevconf.com/tdc/2024/summit-porto-alegre/) - _Porto Alegre/RS_ ![híbrido]
-- TBA: [XXIII Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/657/xxiii-simposio-brasileiro-sobre-fatores-humanos-em-sistemas-computacionais-ihc) - _Brasília/DF_ ![presencial]
-- TBA: [XXX Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia 2024)](https://www.sbc.org.br/eventos/calendario-de-eventos/evento/669/xxx-simposio-brasileiro-de-sistemas-multimidia-e-web-webmedia-2024) - _Juiz de Fora/MG_ ![presencial]
-- TBA: [Esquenta CSBC 2025](https://csbc.sbc.org.br/2025/) - _Arapiraca/AL_ ![presencial]
-- TBA: [Datacon](https://codecon.dev/datacon) - _São Paulo/SP_ ![presencial]
 - TBA: [Select Experience](https://codecon.dev/select) - _São Paulo/SP_ ![presencial]
-- TBA: [Encontro #7 WTM - IWD'25 / Dia Internacional da Mulher](https://www.meetup.com/women-techmakers-curitiba/events/305753276) - _Curitiba/PR_ ![presencial]
-- TBA: [RecrutaTech 9ª edição](https://recrutatech.com.br/) - _Curitiba/PR_ ![presencial]
-- TBA: [HackBahia](https://hackbahia.github.io/) - _Salvador/BA_ ![presencial]
-- TBA: [Latinoware](https://latinoware.org/) - _Foz Do Iguaçu/PR_ ![presencial]
+- TBA: [Latinoware 2026](https://latinoware.org/) - _Foz Do Iguaçu/PR_ ![presencial]
 <!-- TBA:END -->
 
 ## Eventos dos anos anteriores
