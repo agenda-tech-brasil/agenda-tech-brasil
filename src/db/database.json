@@ -9220,7 +9220,7 @@
             {
               "nome": "RecrutaTech 9ª edição",
               "data": [
-              	"20"
+                "20"
               ],
               "url": "https://recrutatech.com.br/",
               "cidade": "Curitiba",
@@ -9259,6 +9259,16 @@
               "cidade": "Recife",
               "uf": "PE",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "Front in Floripa 2026",
+              "data": [
+                "26"
+              ],
+              "url": "https://frontin.floripa.br",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
             }
           ]
         },
