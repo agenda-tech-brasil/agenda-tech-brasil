@@ -8930,6 +8930,16 @@
               "tipo": "online"
             },
             {
+              "nome": "Paraibajs",
+              "data": [
+                "11"
+              ],
+              "url": "https://linktr.ee/paraibajs",
+              "cidade": "João Pessoa",
+              "uf": "PB",
+              "tipo": "presencial"
+            },
+            {
               "nome": "GHC - GYN Hacker Conference",
               "data": [
                 "18"
@@ -9220,7 +9230,7 @@
             {
               "nome": "RecrutaTech 9ª edição",
               "data": [
-              	"20"
+                "20"
               ],
               "url": "https://recrutatech.com.br/",
               "cidade": "Curitiba",
