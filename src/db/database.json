@@ -9216,16 +9216,17 @@
               "tipo": "presencial"
             },
             {
-              "nome": "TDC São Paulo",
+              "nome": "PHP Conference Brasil 2026",
               "data": [
-                "23",
-                "24",
-                "25"
+                "03",
+                "04",
+                "05",
+                "06"
               ],
-              "url": "https://thedevconf.com/tdc/2026/index.html",
-              "cidade": "São Paulo",
-              "uf": "SP",
-              "tipo": "híbrido"
+              "url": "https://phpconference.com.br/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             },
             {
               "nome": "RecrutaTech 9ª edição",
@@ -9236,6 +9237,18 @@
               "cidade": "Curitiba",
               "uf": "PR",
               "tipo": "presencial"
+            },
+            {
+              "nome": "TDC São Paulo",
+              "data": [
+                "23",
+                "24",
+                "25"
+              ],
+              "url": "https://thedevconf.com/tdc/2026/index.html",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
             }
           ]
         },
