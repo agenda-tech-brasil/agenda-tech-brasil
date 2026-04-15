@@ -9216,16 +9216,16 @@
               "tipo": "presencial"
             },
             {
-              "nome": "TDC São Paulo",
+              "nome": "pgconf.brasil 2026",
               "data": [
-                "23",
-                "24",
-                "25"
+                "02",
+                "03",
+                "04"
               ],
-              "url": "https://thedevconf.com/tdc/2026/index.html",
-              "cidade": "São Paulo",
-              "uf": "SP",
-              "tipo": "híbrido"
+              "url": "https://2026.pgconf.com.br/",
+              "cidade": "Blumenau",
+              "uf": "SC",
+              "tipo": "presencial"
             },
             {
               "nome": "RecrutaTech 9ª edição",
@@ -9236,6 +9236,18 @@
               "cidade": "Curitiba",
               "uf": "PR",
               "tipo": "presencial"
+            },
+            {
+              "nome": "TDC São Paulo",
+              "data": [
+                "23",
+                "24",
+                "25"
+              ],
+              "url": "https://thedevconf.com/tdc/2026/index.html",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
             }
           ]
         },
