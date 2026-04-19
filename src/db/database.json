@@ -8950,6 +8950,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Caminhos pra carreira internacional em Cloud",
+              "data": [
+                "22"
+              ],
+              "url": "https://www.linkedin.com/events/7448146395175395328/",
+              "cidade": "Montes Claros",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Tech Made in Brazil #01 - Magalu Cloud",
               "data": [
                 "29"
@@ -9227,6 +9237,21 @@
               "cidade": "",
               "uf": "",
               "tipo": "online"
+            },
+            {
+
+              "nome": "41° Simpósio brasileiro de banco de dados",
+              "data": [
+                "08",
+                "09",
+                "10",
+                "11"
+              ],
+              "url": "https://sbbd.org.br/2026/",
+              "cidade": "São Carlos",
+              "uf": "SP",
+              "tipo": "presencial"
+
             },
             {
               "nome": "RecrutaTech 9ª edição",
