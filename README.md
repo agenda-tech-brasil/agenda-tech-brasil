@@ -73,6 +73,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 01: [Agile Trends São Paulo](https://doity.com.br/agile-trends-2026) - _São Paulo/SP_ ![presencial]
 - 05 e 06: [TDC Experience Rio Innovation Week | Píer Mauá](https://thedevconf.com/tdc/2026/index.html) - _Rio De Janeiro/RJ_ ![híbrido]
 - 14: [Codecon Summit 2026](https://eventos.codecon.dev/eventos/codecon-summit-26) - _Pinhais/PR_ ![presencial]
+- 14 e 15: [RogaDX](https://rogadx.com/) - _Maceió/AL_ ![presencial]
 - 26 e 27: [TDC Experience São Carlos](https://thedevconf.com/tdc/2026/index.html) - _São Carlos/SP_ ![híbrido]
 <!-- AGOSTO:END -->
 ### Setembro
