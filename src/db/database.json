@@ -9197,6 +9197,17 @@
               "tipo": "presencial"
             },
             {
+              "nome": "RogaDX",
+              "data": [
+                "14",
+                "15"
+              ],
+              "url": "https://rogadx.com/",
+              "cidade": "Maceió",
+              "uf": "AL",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC Experience São Carlos",
               "data": [
                 "26",
