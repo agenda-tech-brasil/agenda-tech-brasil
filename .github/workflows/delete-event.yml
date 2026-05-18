@@ -21,9 +21,11 @@ jobs:
 
       - name: Obter detalhes do evento da issue
         id: event_details
+        env:
+            ISSUE_BODY: ${{ github.event.issue.body }}
         run: |
 
-          event_info="${{ github.event.issue.body }}"
+          event_info="$ISSUE_BODY"
 
           get_event_values() {
             local event_info="$1"
