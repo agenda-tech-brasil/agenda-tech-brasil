@@ -9029,6 +9029,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Devopsdays Natal",
+              "data": [
+                "16"
+              ],
+              "url": "https://linktr.ee/devopsdaysnatal",
+              "cidade": "Natal",
+              "uf": "RN",
+              "tipo": "presencial"
+            },
+            {
               "nome": "APIX - API Experience",
               "data": [
                 "21"
