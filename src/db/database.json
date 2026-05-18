@@ -9355,6 +9355,17 @@
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "presencial"
+            },
+            {
+              "nome": "GambiConf 2026",
+              "data": [
+                "28",
+                "29"
+              ],
+              "url": "https://gambiconf.dev/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
             }
           ]
         },
