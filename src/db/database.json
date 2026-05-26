@@ -9282,6 +9282,19 @@
               "tipo": "presencial"
             },
             {
+              "nome": "CBSOFT'26 - Congresso Brasileiro de Software",
+              "data": [
+                "08",
+                "09",
+                "10",
+                "11"
+              ],
+              "url": "https://cbsoft.sbc.org.br/2026/pt/",
+              "cidade": "Sao Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "RecrutaTech 9ª edição",
               "data": [
                 "20"
