@@ -9067,6 +9067,16 @@
               "cidade": "Natal",
               "uf": "RN",
               "tipo": "presencial"
+            },
+            {
+              "nome": "NOSS 2026 - Nosso Open Source Summit",
+              "data": [
+                "30"
+              ],
+              "url": "https://github.com/cumbucadev/noss/tree/main/2026",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             }
           ]
         },
