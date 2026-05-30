@@ -9127,6 +9127,16 @@
               "cidade": "Rio De Janeiro",
               "uf": "RJ",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Microsoft Build //localhost:Curitiba",
+              "data": [
+                "20"
+              ],
+              "url": "https://azureusergroupsbrasil.com.br/events/microsoft-build-curitiba-2026",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
             }
           ]
         },
