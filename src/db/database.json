@@ -9127,6 +9127,16 @@
               "cidade": "Rio De Janeiro",
               "uf": "RJ",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Microsoft Build //localhost:florianópolis",
+              "data": [
+                "20"
+              ],
+              "url": "https://developer.microsoft.com/pt-br/reactor/events/27206/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
             }
           ]
         },
