@@ -8960,6 +8960,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "MiniDebconf Campinas 2026",
+              "data": [
+                "25"
+              ],
+              "url": "https://campinas.mini.debconf.org/sobre/evento/",
+              "cidade": "Campinas",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "Tech Made in Brazil #01 - Magalu Cloud",
               "data": [
                 "29"
