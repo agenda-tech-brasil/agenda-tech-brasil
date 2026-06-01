@@ -9285,6 +9285,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Simpósio Brasileiro de Cibersegurança 2026",
+              "data": [
+                "01"
+              ],
+              "url": "https://www.sbseg2026.uff.br/",
+              "cidade": "Armação Dos Búzios",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Gophercon LATAM 2026",
               "data": [
                 "02",
