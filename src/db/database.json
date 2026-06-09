@@ -9157,6 +9157,16 @@
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Festival SGB Na Estrada Uberlândia",
+              "data": [
+                "20"
+              ],
+              "url": "https://festival.sgb.org.br/uberlandia/",
+              "cidade": "Uberlândia",
+              "uf": "MG",
+              "tipo": "presencial"
             }
           ]
         },
