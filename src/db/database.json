@@ -9335,6 +9335,17 @@
               "tipo": "híbrido"
             },
             {
+              "nome": "Festival SGB 2026",
+              "data": [
+                "17",
+                "18"
+              ],
+              "url": "https://festival.sgb.org.br/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
               "nome": "RecrutaTech 9ª edição",
               "data": [
                 "20"
