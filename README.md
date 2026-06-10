@@ -116,6 +116,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - [Eventos 2022](https://github.com/agenda-tech-brasil/agenda-tech-brasil/blob/main/arquivo/2022.md)
 - [Eventos 2023](https://github.com/agenda-tech-brasil/agenda-tech-brasil/blob/main/arquivo/2023.md)
 - [Eventos 2024](https://github.com/agenda-tech-brasil/agenda-tech-brasil/blob/main/arquivo/2024.md)
+- [Eventos 2025](https://github.com/agenda-tech-brasil/agenda-tech-brasil/blob/main/arquivo/2025.md)
 
 <!--LINK DAS BADGES:START-->
 
