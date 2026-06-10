@@ -150,6 +150,47 @@ def test_generate_readme_renders_two_events(tmp_path):
     assert "20 - Evento B" in output
 
 
+def test_generate_readme_renders_archived_years_links(tmp_path):
+    db_path = tmp_path / "database.json"
+    template_dir = tmp_path / "templates"
+    output_path = tmp_path / "README.md"
+    template_dir.mkdir()
+
+    db_data = {
+        "eventos": [
+            {
+                "ano": 2024,
+                "arquivado": True,
+                "meses": [{"mes": "janeiro", "arquivado": True, "eventos": []}],
+            },
+            {
+                "ano": 2026,
+                "arquivado": False,
+                "meses": [
+                    {"mes": "janeiro", "arquivado": True, "eventos": []},
+                    {"mes": "fevereiro", "arquivado": False, "eventos": []},
+                ],
+            },
+        ],
+        "tba": [],
+    }
+
+    db_path.write_text(json.dumps(db_data, ensure_ascii=False), encoding="utf-8")
+    template = "{% for ano_arquivado in anos_arquivados %}[Eventos {{ ano_arquivado }}] {% endfor %}"
+    (template_dir / "events.md.j2").write_text(template, encoding="utf-8")
+
+    generate_readme(
+        str(db_path),
+        str(template_dir),
+        str(output_path),
+        now=datetime(2026, 1, 1),
+    )
+
+    output = output_path.read_text(encoding="utf-8")
+    assert "[Eventos 2024]" in output
+    assert "[Eventos 2026]" in output
+
+
 def test_main_calls_generate_readme_with_expected_paths():
     with patch("generate_page.generate_readme") as mocked_generate_readme, patch(
         "builtins.print"

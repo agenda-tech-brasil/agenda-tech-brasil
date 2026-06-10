@@ -3,11 +3,7 @@ import os
 from jinja2 import Environment, FileSystemLoader
 
 from generate_page import format_date_list
-from utils import get_db_path, load_database
-
-
-def get_archived_years(data):
-    return [y for y in data.get("eventos", []) if y.get("arquivado", False)]
+from utils import get_archived_years, get_db_path, load_database
 
 
 def render_archive(year_data, template_path):
@@ -28,9 +24,6 @@ def export_archives(db_path, template_path, output_dir):
     os.makedirs(output_dir, exist_ok=True)
 
     for year_data in archived_years:
-        if not year_data.get("meses"):
-            continue
-
         content = render_archive(year_data, template_path)
         output_path = os.path.join(output_dir, f"{year_data['ano']}.md")
 

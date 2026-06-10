@@ -12,7 +12,7 @@ _Sabe aquele evento de tecnologia que você procura, mas não sabe onde encontra
 
 <h2 align="center">Selecione o mês do Evento</h2>
 <p class="navigation" align="center">
-<a href="#janeiro">Janeiro</a>・<a href="#fevereiro">Fevereiro</a>・<a href="#março">Março</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a>・<a href="#novembro">Novembro</a>・<a href="#dezembro">Dezembro</a></p>
+<a href="#janeiro">Janeiro</a>・<a href="#fevereiro">Fevereiro</a>・<a href="#março">Março</a>・<a href="#abril">Abril</a>・<a href="#maio">Maio</a>・<a href="#junho">Junho</a>・<a href="#julho">Julho</a>・<a href="#agosto">Agosto</a>・<a href="#setembro">Setembro</a>・<a href="#outubro">Outubro</a>・<a href="#novembro">Novembro</a>・<a href="#dezembro">Dezembro</a></p>
 
 ## Contribuindo
 
@@ -47,6 +47,15 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 28: [Tosconf[6]](https://tosconf.lhc.net.br) - _Campinas/SP_ ![presencial]
 - 28: [SQL Saturday](https://sqlsaturday.com/2026-03-28-sqlsaturday1142/) - _Guarulhos/SP_ ![presencial]
 <!-- MARÇO:END -->
+### Abril
+<!-- ABRIL:START -->
+- 02: [Código Aberto - Magalu Cloud](https://discord.com/events/1327339621306073171/1487184152167186472) ![online]
+- 11: [Paraibajs](https://linktr.ee/paraibajs) - _João Pessoa/PB_ ![presencial]
+- 18: [GHC - GYN Hacker Conference](https://hubconnecteventos.com.br/evento/ghc) - _Goiânia/GO_ ![presencial]
+- 22: [Caminhos pra carreira internacional em Cloud](https://www.linkedin.com/events/7448146395175395328/) - _Montes Claros/MG_ ![presencial]
+- 25: [MiniDebconf Campinas 2026](https://campinas.mini.debconf.org/sobre/evento/) - _Campinas/SP_ ![híbrido]
+- 29: [Tech Made in Brazil #01 - Magalu Cloud](https://luma.com/g4lgjals) - _São Paulo/SP_ ![presencial]
+<!-- ABRIL:END -->
 ### Maio
 <!-- MAIO:START -->
 - 01: [Python Sul 2026](https://sul.python.org.br/) - _Londrina/PR_ ![presencial]
@@ -54,13 +63,20 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - 11: [The Tech Summit](https://thetechsummit.com.br/) - _São Paulo/SP_ ![presencial]
 - 13 e 14: [AI StartSe Festival 2026](https://pages.startse.com/ai-festival-ingressos) - _São Paulo/SP_ ![presencial]
 - 13, 14 e 15: [São Paulo Innovation Week](https://saopauloinnovationweek.com.br/) - _São Paulo/SP_ ![presencial]
+- 16: [Devopsdays Natal](https://linktr.ee/devopsdaysnatal) - _Natal/RN_ ![presencial]
 - 21: [APIX - API Experience](https://www.sensedia.com.br/apix) - _São Paulo/SP_ ![presencial]
+- 26: [Meetup: Organizando o código com Package by component + C4 + Structurizr](https://organizandoocodigo.eventize.com.br/) - _Porto Alegre/RS_ ![presencial]
+- 28: [Insurtech Brasil](https://www.insurtechbrasil.com/) - _São Paulo/SP_ ![presencial]
 - 30: [DunaSec 2026](https://dunasec.com.br) - _Natal/RN_ ![presencial]
+- 30: [NOSS 2026 - Nosso Open Source Summit](https://github.com/cumbucadev/noss/tree/main/2026) ![online]
 <!-- MAIO:END -->
 ### Junho
 <!-- JUNHO:START -->
+- 01: [Agile Trends Nordeste](https://www.instagram.com/agiletrends/) - _Recife/PE_ ![presencial]
 - 01 e 02: [Agile Trends Nordeste](https://doity.com.br/agile-trends-nordeste-2026) - _Recife/PE_ ![presencial]
+- 02: [Agile Trends Nordeste](https://www.instagram.com/agiletrends/) - _Recife/PE_ ![presencial]
 - 08, 09, 10 e 11: [Web Summit Rio 2026](https://rio.websummit.com/) - _Rio De Janeiro/RJ_ ![presencial]
+- 20: [Microsoft Build //localhost:florianópolis](https://developer.microsoft.com/pt-br/reactor/events/27206/) - _Florianópolis/SC_ ![presencial]
 <!-- JUNHO:END -->
 ### Julho
 <!-- JULHO:START -->
@@ -71,15 +87,21 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ### Agosto
 <!-- AGOSTO:START -->
 - 01: [Agile Trends São Paulo](https://doity.com.br/agile-trends-2026) - _São Paulo/SP_ ![presencial]
+- 01: [Mulher Tech Sim Senhor](https://www.instagram.com/mulhertechsimsr/) - _João Pessoa/PB_ ![presencial]
 - 05 e 06: [TDC Experience Rio Innovation Week | Píer Mauá](https://thedevconf.com/tdc/2026/index.html) - _Rio De Janeiro/RJ_ ![híbrido]
 - 14: [Codecon Summit 2026](https://eventos.codecon.dev/eventos/codecon-summit-26) - _Pinhais/PR_ ![presencial]
+- 14 e 15: [RogaDX](https://rogadx.com/) - _Maceió/AL_ ![presencial]
 - 26 e 27: [TDC Experience São Carlos](https://thedevconf.com/tdc/2026/index.html) - _São Carlos/SP_ ![híbrido]
+- 29: [Tech Woman](https://www.instagram.com/techwoman.rec/) - _Recife/PE_ ![presencial]
 <!-- AGOSTO:END -->
 ### Setembro
 <!-- SETEMBRO:START -->
 - 02, 03 e 04: [Gophercon LATAM 2026](https://gopherconlatam.org/) - _Florianópolis/SC_ ![presencial]
-- 23, 24 e 25: [TDC São Paulo](https://thedevconf.com/tdc/2026/index.html) - _São Paulo/SP_ ![híbrido]
+- 02, 03 e 04: [pgconf.brasil 2026](https://2026.pgconf.com.br/) - _Blumenau/SC_ ![presencial]
+- 08, 09, 10 e 11: [41° Simpósio brasileiro de banco de dados](https://sbbd.org.br/2026/) - _São Carlos/SP_ ![presencial]
+- 08, 09, 10 e 11: [CBSOFT'26 - Congresso Brasileiro de Software](https://cbsoft.sbc.org.br/2026/pt/) - _Sao Paulo/SP_ ![híbrido]
 - 20: [RecrutaTech 9ª edição](https://recrutatech.com.br/) - _Curitiba/PR_ ![presencial]
+- 23, 24 e 25: [TDC São Paulo](https://thedevconf.com/tdc/2026/index.html) - _São Paulo/SP_ ![híbrido]
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
@@ -88,9 +110,13 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 ### Novembro
 <!-- NOVEMBRO:START -->
 - 11 e 12: [TDC Experience Recife | Rec'n'Play](https://thedevconf.com/tdc/2026/index.html) - _Recife/PE_ ![híbrido]
+- 26: [Front in Floripa 2026](https://frontin.floripa.br) - _Florianópolis/SC_ ![presencial]
+- 28: [Front in Floripa](https://frontin.floripa.br/) - _Florianópolis/SC_ ![presencial]
+- 28 e 29: [GambiConf 2026](https://gambiconf.dev/) - _São Paulo/SP_ ![híbrido]
 <!-- NOVEMBRO:END -->
 ### Dezembro
 <!-- DEZEMBRO:START -->
+- 03, 04, 05 e 06: [PHP Conference Brasil 2026](https://phpconference.com.br/) ![online]
 - 09 e 10: [TDCX PORTO ALEGRE](https://thedevconf.com/tdc/2026/index.html) - _Porto Alegre/RS_ ![híbrido]
 <!-- DEZEMBRO:END -->
 <!-- ANO2026:END -->
@@ -107,6 +133,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 - [Eventos 2022](https://github.com/agenda-tech-brasil/agenda-tech-brasil/blob/main/arquivo/2022.md)
 - [Eventos 2023](https://github.com/agenda-tech-brasil/agenda-tech-brasil/blob/main/arquivo/2023.md)
 - [Eventos 2024](https://github.com/agenda-tech-brasil/agenda-tech-brasil/blob/main/arquivo/2024.md)
+- [Eventos 2025](https://github.com/agenda-tech-brasil/agenda-tech-brasil/blob/main/arquivo/2025.md)
 
 <!--LINK DAS BADGES:START-->
 

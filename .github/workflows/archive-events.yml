@@ -56,6 +56,11 @@ jobs:
           pip3 install -r src/requirements.txt
           python3 src/archive.py
 
+      - name: Gerar markdown dos eventos arquivados
+        run: |
+          python3 src/export_archive.py
+          python3 src/generate_page.py
+
       - name: Set up Git
         run: |
           git config --global user.name "${{ github.event.issue.user.login }}"
@@ -65,8 +70,8 @@ jobs:
         run: |
           branch_name="feature/add-event-issue-${{ github.event.issue.number }}"
           git checkout -b $branch_name
-          git add src/db/database.json
-          git commit -m "Adicionando novo evento: ${{ env.event_name }}"
+          git add src/db/database.json arquivo README.md
+          git commit -m "Arquivando: ${{ env.archive_month != '' && format('{0}/{1}', env.archive_month, env.archive_year) || env.archive_year }}"
           git push origin $branch_name
 
           echo "branch_name=${branch_name}" >> $GITHUB_ENV
