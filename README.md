@@ -72,14 +72,16 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- AGOSTO:START -->
 - 01: [Agile Trends São Paulo](https://doity.com.br/agile-trends-2026) - _São Paulo/SP_ ![presencial]
 - 05 e 06: [TDC Experience Rio Innovation Week | Píer Mauá](https://thedevconf.com/tdc/2026/index.html) - _Rio De Janeiro/RJ_ ![híbrido]
+- 13 a 15: [Python Nordeste 2026](https://2026.pythonnordeste.org/) - _Fortaleza/CE_ ![presencial]
 - 14: [Codecon Summit 2026](https://eventos.codecon.dev/eventos/codecon-summit-26) - _Pinhais/PR_ ![presencial]
 - 26 e 27: [TDC Experience São Carlos](https://thedevconf.com/tdc/2026/index.html) - _São Carlos/SP_ ![híbrido]
 <!-- AGOSTO:END -->
 ### Setembro
 <!-- SETEMBRO:START -->
 - 02, 03 e 04: [Gophercon LATAM 2026](https://gopherconlatam.org/) - _Florianópolis/SC_ ![presencial]
-- 23, 24 e 25: [TDC São Paulo](https://thedevconf.com/tdc/2026/index.html) - _São Paulo/SP_ ![híbrido]
 - 20: [RecrutaTech 9ª edição](https://recrutatech.com.br/) - _Curitiba/PR_ ![presencial]
+- 23: [Security Leaders Fortaleza 2026](https://securityleaders.com.br/eventos/security-leaders-fortaleza-2026/) - _Fortaleza/CE_ ![presencial]
+- 23, 24 e 25: [TDC São Paulo](https://thedevconf.com/tdc/2026/index.html) - _São Paulo/SP_ ![híbrido]
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
@@ -87,7 +89,9 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- OUTUBRO:END -->
 ### Novembro
 <!-- NOVEMBRO:START -->
+- 05 e 06: [ABRINT - O maior evento de provedores de internet do Nordeste 2026](https://abrintnordeste.com.br/) - _Fortaleza/CE_ ![presencial]
 - 11 e 12: [TDC Experience Recife | Rec'n'Play](https://thedevconf.com/tdc/2026/index.html) - _Recife/PE_ ![híbrido]
+- 12 e 13: [RPA e AI TECH + AI WORLD SHOW FORTALEZA 2026](https://www.sympla.com.br/evento/rpa-e-ai-tech-ai-world-show-fortaleza-2026/3225183?) - _Fortaleza/CE_ ![presencial]
 <!-- NOVEMBRO:END -->
 ### Dezembro
 <!-- DEZEMBRO:START -->
