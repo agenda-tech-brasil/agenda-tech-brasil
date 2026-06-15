@@ -62,6 +62,27 @@ def save_database(file_path, data):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
+def get_archived_years(data):
+    """
+    Retorna os anos que possuem conteúdo arquivado, contendo apenas os meses arquivados.
+
+    Um ano entra na lista quando está arquivado (todos os meses contam) ou quando
+    possui ao menos um mês marcado como arquivado. Anos sem meses arquivados são
+    ignorados.
+    """
+    archived_years = []
+    for year_data in data.get("eventos", []):
+        year_archived = year_data.get("arquivado", False)
+        archived_months = [
+            month
+            for month in year_data.get("meses", [])
+            if year_archived or month.get("arquivado", False)
+        ]
+        if archived_months:
+            archived_years.append({**year_data, "meses": archived_months})
+    return archived_years
+
+
 def find_year(data, year):
     """Busca e retorna a entrada do ano em data['eventos'], ou None."""
     return next((y for y in data["eventos"] if y["ano"] == year), None)
