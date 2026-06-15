@@ -14,9 +14,10 @@ jobs:
       - name: Atualizar título da issue
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
         run: |
           # Extraindo o nome do evento do corpo da issue
-          event_info="${{ github.event.issue.body }}"
+          event_info="$ISSUE_BODY"
 
           # Get only the label names and join them
           LABELS="${{ join(github.event.issue.labels.*.name, ',') }}"
@@ -33,7 +34,7 @@ jobs:
             if ! echo "$LABELS" | grep -q 'arquivar'; then
               echo "Nome do evento não encontrado no corpo da issue."
               exit 1
-            fi 
+            fi
           fi
 
           new_title="Agenda/Evento: $event_name"
@@ -50,7 +51,7 @@ jobs:
               else
                 new_title="Arquivar: ${archive_month}/${archive_year}"
               fi
-          fi 
+          fi
 
           # Modificando o título da issue usando a API do GitHub
           issue_number="${{ github.event.issue.number }}"
