@@ -9258,6 +9258,20 @@
               "tipo": "presencial"
             },
             {
+              "nome": "SEMCOMP 2026 - Semana de Computação de Salvador",
+              "data": [
+                "24",
+                "25",
+                "26",
+                "27",
+                "28"
+              ],
+              "url": "https://www.semcomp.com.br/",
+              "cidade": "Salvador",
+              "uf": "BA",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC Experience São Carlos",
               "data": [
                 "26",
