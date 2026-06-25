@@ -9343,6 +9343,17 @@
               "tipo": "presencial"
             },
             {
+              "nome": "TDC Hacktown",
+              "data": [
+                "04",
+                "05"
+              ],
+              "url": "https://thedevconf.com/tdc/2026/stage/santa-rita/",
+              "cidade": "Santa Rita Do Sapucaí",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
               "nome": "41° Simpósio brasileiro de banco de dados",
               "data": [
                 "08",
