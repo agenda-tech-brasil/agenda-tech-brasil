@@ -9377,6 +9377,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "AWS Summit São Paulo",
+              "data": [
+                "03"
+              ],
+              "url": "https://aws.amazon.com/pt/events/summits/sao-paulo/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC Hacktown",
               "data": [
                 "04",
