@@ -9167,6 +9167,16 @@
               "cidade": "Uberlândia",
               "uf": "MG",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Esquenta Unicoder Summit - Palestra com Pablo Lacerda - Staff Technical Lead Manager do Google nos Estados Unidos",
+              "data": [
+                "23"
+              ],
+              "url": "https://www.instagram.com/unicoder.unimontes/",
+              "cidade": "Montes Claros",
+              "uf": "MG",
+              "tipo": "presencial"
             }
           ]
         },
