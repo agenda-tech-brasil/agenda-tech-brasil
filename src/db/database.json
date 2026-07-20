@@ -9457,6 +9457,17 @@
               "cidade": "Florianópolis",
               "uf": "SC",
               "tipo": "presencial"
+            },
+            {
+              "nome": "PHP Peste 2026",
+              "data": [
+                "15",
+                "17"
+              ],
+              "url": "https://eventiza.com.br/evento/phpeste-2026",
+              "cidade": "São Luís",
+              "uf": "MA",
+              "tipo": "presencial"
             }
           ]
         },
