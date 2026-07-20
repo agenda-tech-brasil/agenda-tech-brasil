@@ -9408,6 +9408,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Siará Tech Summit 2026",
+              "data": [
+                "07"
+              ],
+              "url": "https://stssebrae.com.br",
+              "cidade": "Fortaleza",
+              "uf": "CE",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Python Brasil 2026",
               "data": [
                 "14"
