@@ -9185,6 +9185,29 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Web Summit Rio - SaaS Summit",
+              "data": [
+                "08",
+                "09",
+                "10",
+                "11"
+              ],
+              "url": "https://rio.websummit.com/pt-br/tracks/saas-summit/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Hackathon CODA.CE",
+              "data": [
+                "16"
+              ],
+              "url": "https://coda-ce.com.br/hackathon",
+              "cidade": "Fortaleza",
+              "uf": "CE",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC Floripa 2026",
               "data": [
                 "22",
@@ -9204,19 +9227,6 @@
               "url": "https://doity.com.br/agile-trends-2026",
               "cidade": "São Paulo",
               "uf": "SP",
-              "tipo": "presencial"
-            },
-            {
-              "nome": "Web Summit Rio - SaaS Summit",
-              "data": [
-                "08",
-                "09",
-                "10",
-                "11"
-              ],
-              "url": "https://rio.websummit.com/pt-br/tracks/saas-summit/",
-              "cidade": "Rio De Janeiro",
-              "uf": "RJ",
               "tipo": "presencial"
             }
           ]
