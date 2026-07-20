@@ -8960,6 +8960,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "MiniDebconf Campinas 2026",
+              "data": [
+                "25"
+              ],
+              "url": "https://campinas.mini.debconf.org/sobre/evento/",
+              "cidade": "Campinas",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "Tech Made in Brazil #01 - Magalu Cloud",
               "data": [
                 "29"
@@ -9039,6 +9049,20 @@
               "tipo": "presencial"
             },
             {
+              "nome": "II SEMANA DA CIÊNCIA, TECNOLOGIA E ENGENHARIA - Unimontes/MG",
+              "data": [
+                "18",
+                "19",
+                "20",
+                "21",
+                "22"
+              ],
+              "url": "https://www.even3.com.br/ii-semana-da-ciencia-tecnologia-e-engenharia-729507/",
+              "cidade": "Montes Claros",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
               "nome": "APIX - API Experience",
               "data": [
                 "21"
@@ -9046,6 +9070,16 @@
               "url": "https://www.sensedia.com.br/apix",
               "cidade": "São Paulo",
               "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Meetup: Organizando o código com Package by component + C4 + Structurizr",
+              "data": [
+                "26"
+              ],
+              "url": "https://organizandoocodigo.eventize.com.br/",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
               "tipo": "presencial"
             },
             {
@@ -9067,6 +9101,16 @@
               "cidade": "Natal",
               "uf": "RN",
               "tipo": "presencial"
+            },
+            {
+              "nome": "NOSS 2026 - Nosso Open Source Summit",
+              "data": [
+                "30"
+              ],
+              "url": "https://github.com/cumbucadev/noss/tree/main/2026",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online"
             }
           ]
         },
@@ -9127,6 +9171,36 @@
               "cidade": "Curitiba",
               "uf": "PR",
               "tipo": "presencial"
+            },
+            {
+              "nome": "Microsoft Build //localhost:florianópolis",
+              "data": [
+                "20"
+              ],
+              "url": "https://developer.microsoft.com/pt-br/reactor/events/27206/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Festival SGB Na Estrada Uberlândia",
+              "data": [
+                "20"
+              ],
+              "url": "https://festival.sgb.org.br/uberlandia/",
+              "cidade": "Uberlândia",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Esquenta Unicoder Summit - Palestra com Pablo Lacerda - Staff Technical Lead Manager do Google nos Estados Unidos",
+              "data": [
+                "23"
+              ],
+              "url": "https://www.instagram.com/unicoder.unimontes/",
+              "cidade": "Montes Claros",
+              "uf": "MG",
+              "tipo": "presencial"
             }
           ]
         },
@@ -9134,6 +9208,29 @@
           "mes": "julho",
           "arquivado": false,
           "eventos": [
+            {
+              "nome": "Web Summit Rio - SaaS Summit",
+              "data": [
+                "08",
+                "09",
+                "10",
+                "11"
+              ],
+              "url": "https://rio.websummit.com/pt-br/tracks/saas-summit/",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "Hackathon CODA.CE",
+              "data": [
+                "16"
+              ],
+              "url": "https://coda-ce.com.br/hackathon",
+              "cidade": "Fortaleza",
+              "uf": "CE",
+              "tipo": "presencial"
+            },
             {
               "nome": "TDC Floripa 2026",
               "data": [
@@ -9154,19 +9251,6 @@
               "url": "https://doity.com.br/agile-trends-2026",
               "cidade": "São Paulo",
               "uf": "SP",
-              "tipo": "presencial"
-            },
-            {
-              "nome": "Web Summit Rio - SaaS Summit",
-              "data": [
-                "08",
-                "09",
-                "10",
-                "11"
-              ],
-              "url": "https://rio.websummit.com/pt-br/tracks/saas-summit/",
-              "cidade": "Rio De Janeiro",
-              "uf": "RJ",
               "tipo": "presencial"
             }
           ]
@@ -9228,6 +9312,20 @@
               "tipo": "presencial"
             },
             {
+              "nome": "SEMCOMP 2026 - Semana de Computação de Salvador",
+              "data": [
+                "24",
+                "25",
+                "26",
+                "27",
+                "28"
+              ],
+              "url": "https://www.semcomp.com.br/",
+              "cidade": "Salvador",
+              "uf": "BA",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC Experience São Carlos",
               "data": [
                 "26",
@@ -9255,6 +9353,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Simpósio Brasileiro de Cibersegurança 2026",
+              "data": [
+                "01"
+              ],
+              "url": "https://www.sbseg2026.uff.br/",
+              "cidade": "Armação Dos Búzios",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Gophercon LATAM 2026",
               "data": [
                 "02",
@@ -9279,6 +9387,17 @@
               "tipo": "presencial"
             },
             {
+              "nome": "TDC Hacktown",
+              "data": [
+                "04",
+                "05"
+              ],
+              "url": "https://thedevconf.com/tdc/2026/stage/santa-rita/",
+              "cidade": "Santa Rita Do Sapucaí",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
               "nome": "41° Simpósio brasileiro de banco de dados",
               "data": [
                 "08",
@@ -9289,6 +9408,30 @@
               "url": "https://sbbd.org.br/2026/",
               "cidade": "São Carlos",
               "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "CBSOFT'26 - Congresso Brasileiro de Software",
+              "data": [
+                "08",
+                "09",
+                "10",
+                "11"
+              ],
+              "url": "https://cbsoft.sbc.org.br/2026/pt/",
+              "cidade": "Sao Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
+              "nome": "Festival SGB 2026",
+              "data": [
+                "17",
+                "18"
+              ],
+              "url": "https://festival.sgb.org.br/",
+              "cidade": "Florianópolis",
+              "uf": "SC",
               "tipo": "presencial"
             },
             {
@@ -9320,6 +9463,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "Siará Tech Summit 2026",
+              "data": [
+                "07"
+              ],
+              "url": "https://stssebrae.com.br",
+              "cidade": "Fortaleza",
+              "uf": "CE",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Python Brasil 2026",
               "data": [
                 "14"
@@ -9327,6 +9480,17 @@
               "url": "https://2026.pythonbrasil.org.br/",
               "cidade": "Florianópolis",
               "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "PHP Peste 2026",
+              "data": [
+                "15",
+                "17"
+              ],
+              "url": "https://eventiza.com.br/evento/phpeste-2026",
+              "cidade": "São Luís",
+              "uf": "MA",
               "tipo": "presencial"
             }
           ]
@@ -9345,16 +9509,6 @@
               "cidade": "Recife",
               "uf": "PE",
               "tipo": "híbrido"
-            },
-            {
-              "nome": "Front in Floripa 2026",
-              "data": [
-                "26"
-              ],
-              "url": "https://frontin.floripa.br",
-              "cidade": "Florianópolis",
-              "uf": "SC",
-              "tipo": "presencial"
             },
             {
               "nome": "Front in Floripa",

@@ -1,7 +1,7 @@
 name: "[CI] Arquivar Agenda(s)/Evento(s)"
 on:
   issues:
-    types: [opened]
+    types: [opened, edited]
 
 permissions:
   contents: write
@@ -67,12 +67,17 @@ jobs:
           git checkout -b $branch_name
           git add src/db/database.json
           git commit -m "Adicionando novo evento: ${{ env.event_name }}"
-          git push origin $branch_name
+          git push --force origin $branch_name
 
           echo "branch_name=${branch_name}" >> $GITHUB_ENV
 
       - name: Criar Pull Request
         run: |
+          if [ -n "$(gh pr list --head "${{ env.branch_name }}" --state open --json number --jq '.[].number')" ]; then
+            echo "PR já existe para ${{ env.branch_name }}; o push --force atualizou o conteúdo."
+            exit 0
+          fi
+
           gh pr create \
           -B main \
           -H ${{ env.branch_name }} \
