@@ -9511,6 +9511,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "JSConf Brasil 2026",
+              "data": [
+                "28"
+              ],
+              "url": "https://jsconf.com.br/",
+              "cidade": "São Caetano Do Sul",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "GambiConf 2026",
               "data": [
                 "28",
