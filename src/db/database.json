@@ -9281,6 +9281,16 @@
               "tipo": "híbrido"
             },
             {
+              "nome": "Cursor Meetup Rio de Janeiro",
+              "data": [
+                "08"
+              ],
+              "url": "https://luma.com/6xm5wcbe",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Codecon Summit 2026",
               "data": [
                 "14"
