@@ -9316,6 +9316,20 @@
               "tipo": "presencial"
             },
             {
+              "nome": "SSI 2026 - Semana de Sistemas de Informação",
+              "data": [
+                "24",
+                "25",
+                "26",
+                "27",
+                "28"
+              ],
+              "url": "https://www.semanadesi.com/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "híbrido"
+            },
+            {
               "nome": "TDC Experience São Carlos",
               "data": [
                 "26",
