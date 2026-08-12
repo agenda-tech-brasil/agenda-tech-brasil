@@ -9387,6 +9387,20 @@
               "tipo": "presencial"
             },
             {
+              "nome": "HackTown",
+              "data": [
+                "03",
+                "04",
+                "05",
+                "06",
+                "07"
+              ],
+              "url": "https://hacktown.com.br/",
+              "cidade": "Santa Rita Do Sapucaí",
+              "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
               "nome": "AWS Summit São Paulo",
               "data": [
                 "03"
