@@ -9411,6 +9411,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "AWS Summit São Paulo",
+              "data": [
+                "03"
+              ],
+              "url": "https://aws.amazon.com/pt/events/summits/sao-paulo/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "HackTown",
               "data": [
                 "03",
@@ -9422,16 +9432,6 @@
               "url": "https://hacktown.com.br/",
               "cidade": "Santa Rita Do Sapucaí",
               "uf": "MG",
-              "tipo": "presencial"
-            },
-            {
-              "nome": "AWS Summit São Paulo",
-              "data": [
-                "03"
-              ],
-              "url": "https://aws.amazon.com/pt/events/summits/sao-paulo/",
-              "cidade": "São Paulo",
-              "uf": "SP",
               "tipo": "presencial"
             },
             {
@@ -9470,6 +9470,16 @@
               "cidade": "Sao Paulo",
               "uf": "SP",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "Paraibajs",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.sympla.com.br/evento/paraibajs/3494354",
+              "cidade": "João Pessoa",
+              "uf": "PB",
+              "tipo": "presencial"
             },
             {
               "nome": "Festival SGB 2026",
