@@ -9479,6 +9479,16 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "Devin Meetup Rio de Janeiro",
+              "data": [
+                "26"
+              ],
+              "url": "https://luma.com/l2f11j2p",
+              "cidade": "Rio De Janeiro",
+              "uf": "RJ",
+              "tipo": "presencial"
             }
           ]
         },
