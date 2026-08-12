@@ -9560,6 +9560,16 @@
               "cidade": "São Luís",
               "uf": "MA",
               "tipo": "presencial"
+            },
+            {
+              "nome": "DevFest Porto Alegre 2026",
+              "data": [
+                "31"
+              ],
+              "url": "https://devfestportoalegre.com.br",
+              "cidade": "Porto Alegre",
+              "uf": "RS",
+              "tipo": "presencial"
             }
           ]
         },
