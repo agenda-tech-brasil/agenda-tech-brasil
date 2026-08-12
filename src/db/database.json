@@ -9163,6 +9163,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Microsoft Build //localhost:Curitiba",
+              "data": [
+                "20"
+              ],
+              "url": "https://azureusergroupsbrasil.com.br/events/microsoft-build-curitiba-2026",
+              "cidade": "Curitiba",
+              "uf": "PR",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Microsoft Build //localhost:florianópolis",
               "data": [
                 "20"
@@ -9388,6 +9398,16 @@
               "url": "https://hacktown.com.br/",
               "cidade": "Santa Rita Do Sapucaí",
               "uf": "MG",
+              "tipo": "presencial"
+            },
+            {
+              "nome": "AWS Summit São Paulo",
+              "data": [
+                "03"
+              ],
+              "url": "https://aws.amazon.com/pt/events/summits/sao-paulo/",
+              "cidade": "São Paulo",
+              "uf": "SP",
               "tipo": "presencial"
             },
             {
