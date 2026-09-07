@@ -418,3 +418,25 @@ def test_main_returns_one_on_invalid_db(tmp_path):
         exit_code = main()
 
     assert exit_code == 1
+
+
+def test_validate_event_with_valid_image():
+    event = valid_presencial_event()
+    event["imagem"] = "https://example.com/banner.png"
+    errors = validate_event(event, "test")
+    assert errors == []
+
+
+def test_validate_event_with_invalid_image_not_string():
+    event = valid_presencial_event()
+    event["imagem"] = 123
+    errors = validate_event(event, "test")
+    assert any("imagem" in e for e in errors)
+
+
+def test_validate_event_with_invalid_image_not_http():
+    event = valid_presencial_event()
+    event["imagem"] = "ftp://example.com/banner.png"
+    errors = validate_event(event, "test")
+    assert any("imagem" in e for e in errors)
+

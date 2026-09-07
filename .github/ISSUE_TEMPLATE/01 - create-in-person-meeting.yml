@@ -31,6 +31,15 @@ body:
     validations:
       required: true
 
+  - type: textarea
+    id: event_image
+    attributes:
+      label: Banner ou Imagem do Evento (Opcional)
+      description: Arraste e solte o banner/logo aqui, ou cole a URL direta da imagem (ex: https://.../banner.png). Essa imagem será exibida na versão web (https://agenda-tech-brasil-site.js.org).
+      placeholder: "Arraste a imagem para cá ou cole a URL (ex: https://...)"
+    validations:
+      required: false
+
   - type: markdown
     attributes:
       value: |

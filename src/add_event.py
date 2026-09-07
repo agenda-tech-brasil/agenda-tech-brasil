@@ -1,6 +1,15 @@
 import os
+import re
 
 from utils import find_month, find_year, get_db_path, load_database, save_database
+
+
+def extract_image_url(raw):
+    if not raw or raw.strip() == "_No response_":
+        return ""
+    match = re.search(r"https?://[^\s\)]+", raw)
+    return match.group(0) if match else ""
+
 
 CALENDAR_ORDER = [
     "janeiro",
@@ -71,6 +80,8 @@ def add_tba_to_json(file_path, new_event):
         "uf": new_event["evento"]["uf"],
         "tipo": new_event["evento"]["tipo"],
     }
+    if "imagem" in new_event["evento"]:
+        event_tba["imagem"] = new_event["evento"]["imagem"]
 
     data["tba"].append(event_tba)
     save_database(file_path, data)
@@ -81,17 +92,22 @@ def get_event_from_env():
     """
     Recebe informações do evento de variáveis de ambiente configuradas no GitHub Actions.
     """
+    evento = {
+        "nome": os.getenv("event_name", "").strip(),
+        "data": sorted(os.getenv("event_day", "").strip().replace(" ", "").split(",")),
+        "url": os.getenv("event_url", "").strip(),
+        "cidade": os.getenv("event_city", "").strip().title(),
+        "uf": os.getenv("event_state", "").strip(),
+        "tipo": os.getenv("event_type", "").strip(),
+    }
+    image_url = extract_image_url(os.getenv("event_image", ""))
+    if image_url:
+        evento["imagem"] = image_url
+
     return {
         "ano": int(os.getenv("event_year", 0)),
         "mes": os.getenv("event_month", "").strip().lower(),
-        "evento": {
-            "nome": os.getenv("event_name", "").strip(),
-            "data": sorted(os.getenv("event_day", "").strip().replace(" ", "").split(",")),
-            "url": os.getenv("event_url", "").strip(),
-            "cidade": os.getenv("event_city", "").strip().title(),
-            "uf": os.getenv("event_state", "").strip(),
-            "tipo": os.getenv("event_type", "").strip(),
-        },
+        "evento": evento,
     }
 
 def main():

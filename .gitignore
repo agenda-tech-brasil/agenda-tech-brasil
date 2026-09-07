@@ -1,4 +1,6 @@
 **/venv/*
+.venv/
+uv.lock
 coverage.xml
 .coverage
 **/.pytest_cache/

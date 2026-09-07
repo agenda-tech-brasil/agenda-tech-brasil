@@ -50,6 +50,11 @@ jobs:
           event_year=$(get_event_values "$event_info" 'Ano do(a) Evento/Agenda')
           event_month=$(get_event_values "$event_info" 'Mês do(a) Evento/Agenda')
           event_day=$(get_event_values "$event_info" 'Dia do(a) Evento/Agenda')
+          event_image_raw=$(get_event_values "$event_info" 'Banner ou Imagem do Evento')
+          event_image=$(echo "$event_image_raw" | grep -oE 'https?://[^ )]+' | head -n 1 || true)
+          if [[ "$event_image" == "_No response_" ]]; then
+            event_image=""
+          fi
 
           if [[ $event_day == "_No response_" ]]; then
             event_month=TBA
@@ -70,6 +75,7 @@ jobs:
           echo "event_year=${event_year}" >> $GITHUB_ENV
           echo "event_month=${event_month}" >> $GITHUB_ENV
           echo "event_day=${event_day}" >> $GITHUB_ENV
+          echo "event_image=${event_image}" >> $GITHUB_ENV
 
       - name: Definir tipo de Evento como Presencial
         run: |
@@ -152,6 +158,11 @@ jobs:
           event_year=$(get_event_values "$event_info" 'Ano do(a) Evento/Agenda')
           event_month=$(get_event_values "$event_info" 'Mês do(a) Evento/Agenda')
           event_day=$(get_event_values "$event_info" 'Dia do(a) Evento/Agenda')
+          event_image_raw=$(get_event_values "$event_info" 'Banner ou Imagem do Evento')
+          event_image=$(echo "$event_image_raw" | grep -oE 'https?://[^ )]+' | head -n 1 || true)
+          if [[ "$event_image" == "_No response_" ]]; then
+            event_image=""
+          fi
 
           if [[ $event_day == "_No response_" ]]; then
             event_month=TBA
@@ -172,6 +183,7 @@ jobs:
           echo "event_year=${event_year}" >> $GITHUB_ENV
           echo "event_month=${event_month}" >> $GITHUB_ENV
           echo "event_day=${event_day}" >> $GITHUB_ENV
+          echo "event_image=${event_image}" >> $GITHUB_ENV
 
       - name: Definir tipo de Evento como Híbrido
         run: |
@@ -254,6 +266,11 @@ jobs:
           event_year=$(get_event_values "$event_info" 'Ano do(a) Evento/Agenda')
           event_month=$(get_event_values "$event_info" 'Mês do(a) Evento/Agenda')
           event_day=$(get_event_values "$event_info" 'Dia do(a) Evento/Agenda')
+          event_image_raw=$(get_event_values "$event_info" 'Banner ou Imagem do Evento')
+          event_image=$(echo "$event_image_raw" | grep -oE 'https?://[^ )]+' | head -n 1 || true)
+          if [[ "$event_image" == "_No response_" ]]; then
+            event_image=""
+          fi
 
           if [[ $event_day == "_No response_" ]]; then
             event_month=TBA
@@ -274,6 +291,7 @@ jobs:
           echo "event_year=${event_year}" >> $GITHUB_ENV
           echo "event_month=${event_month}" >> $GITHUB_ENV
           echo "event_day=${event_day}" >> $GITHUB_ENV
+          echo "event_image=${event_image}" >> $GITHUB_ENV
 
       - name: Definir tipo de Evento como Online
         run: |

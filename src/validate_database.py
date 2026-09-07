@@ -57,6 +57,11 @@ def validate_event(event, path, skip_data=False):
         elif uf not in VALID_UFS:
             errors.append(f"{path}.uf: valor inválido '{uf}', esperado sigla de UF brasileira")
 
+    imagem = event.get("imagem")
+    if imagem is not None:
+        if not isinstance(imagem, str) or not imagem.startswith("http"):
+            errors.append(f"{path}.imagem: se fornecida, deve ser uma URL começando com http")
+
     return errors
 
 

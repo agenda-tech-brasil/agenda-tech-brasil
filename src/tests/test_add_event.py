@@ -2,7 +2,13 @@ import json
 
 from unittest.mock import patch
 
-from add_event import add_event_to_json, add_tba_to_json, get_event_from_env, main
+from add_event import (
+    add_event_to_json,
+    add_tba_to_json,
+    extract_image_url,
+    get_event_from_env,
+    main,
+)
 
 
 def write_db(path, payload):
@@ -201,3 +207,53 @@ def test_main_calls_add_event_when_month_not_tba():
 
     mocked_add_event.assert_called_once()
     mocked_add_tba.assert_not_called()
+
+
+def test_extract_image_url():
+    assert extract_image_url("https://example.com/banner.png") == "https://example.com/banner.png"
+    assert extract_image_url("![banner](https://github.com/user-attachments/assets/12345)") == "https://github.com/user-attachments/assets/12345"
+    assert extract_image_url("_No response_") == ""
+    assert extract_image_url("") == ""
+    assert extract_image_url(None) == ""
+
+
+def test_get_event_from_env_with_image(monkeypatch):
+    monkeypatch.setenv("event_year", "2026")
+    monkeypatch.setenv("event_month", "agosto")
+    monkeypatch.setenv("event_name", "TDC Floripa")
+    monkeypatch.setenv("event_day", "22,23,24")
+    monkeypatch.setenv("event_url", "https://thedevconf.com")
+    monkeypatch.setenv("event_city", "Florianópolis")
+    monkeypatch.setenv("event_state", "SC")
+    monkeypatch.setenv("event_type", "híbrido")
+    monkeypatch.setenv("event_image", "![banner](https://github.com/user-attachments/assets/banner123)")
+
+    event = get_event_from_env()
+
+    assert event["evento"]["imagem"] == "https://github.com/user-attachments/assets/banner123"
+
+
+def test_add_tba_with_image(tmp_path):
+    db_path = tmp_path / "db.json"
+    write_db(db_path, {"eventos": [], "tba": []})
+
+    new_event = {
+        "ano": 2026,
+        "mes": "tba",
+        "evento": {
+            "nome": "Evento Futuro",
+            "data": [],
+            "url": "https://futuro.com",
+            "cidade": "Manaus",
+            "uf": "AM",
+            "tipo": "presencial",
+            "imagem": "https://futuro.com/logo.png",
+        },
+    }
+
+    add_tba_to_json(str(db_path), new_event)
+    db = read_db(db_path)
+
+    assert len(db["tba"]) == 1
+    assert db["tba"][0]["imagem"] == "https://futuro.com/logo.png"
+
