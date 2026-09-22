@@ -9553,6 +9553,16 @@
               "cidade": "Rio De Janeiro",
               "uf": "RJ",
               "tipo": "presencial"
+            },
+            {
+              "nome": "KCD(Kubernetes Community Days) São Paulo 2026",
+              "data": [
+                "26"
+              ],
+              "url": "https://community2.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-sao-paulo-2026/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
             }
           ]
         },
