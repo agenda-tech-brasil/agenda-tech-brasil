@@ -9571,6 +9571,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "Laboratório Hacker de Campinas",
+              "data": [
+                "07"
+              ],
+              "url": "https://eventos.lhc.net.br/event/lhc-convida-andre-chagas-tema-solucoes-abertas-para-problemas-locais-como-o-hardware-livre-pode-revolucionar-a-pesquisa-e-a-educacao",
+              "cidade": "Campinas",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Python Brasil 2026",
               "data": [
                 "14"
