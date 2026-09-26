@@ -418,3 +418,30 @@ def test_main_returns_one_on_invalid_db(tmp_path):
         exit_code = main()
 
     assert exit_code == 1
+
+
+def test_validate_event_with_valid_image():
+    event = valid_presencial_event()
+    event["imagem"] = "https://example.com/banner.png"
+    assert validate_event(event, "test") == []
+
+    event["imagem"] = "http://example.com/banner.png"
+    assert validate_event(event, "test") == []
+
+
+def test_validate_event_with_invalid_image_not_string():
+    event = valid_presencial_event()
+    for invalid in [123, None]:
+        event["imagem"] = invalid
+        errors = validate_event(event, "test")
+        assert any("imagem" in e for e in errors)
+
+
+def test_validate_event_with_invalid_image_scheme():
+    event = valid_presencial_event()
+    for invalid_url in ["ftp://example.com/banner.png", "httpx://example.com/banner.png", "https://example.com/banner.png>", ""]:
+        event["imagem"] = invalid_url
+        errors = validate_event(event, "test")
+        assert any("imagem" in e for e in errors)
+
+
