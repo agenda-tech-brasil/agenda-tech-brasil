@@ -9650,6 +9650,16 @@
           "arquivado": false,
           "eventos": [
             {
+              "nome": "PlatformCon São Paulo",
+              "data": [
+                "07"
+              ],
+              "url": "https://saopaulo.platformcon.com/pt/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC Experience Recife | Rec'n'Play",
               "data": [
                 "11",
