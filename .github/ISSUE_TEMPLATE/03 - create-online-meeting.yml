@@ -54,6 +54,7 @@ body:
       default: 0
       options:
         - "2026"
+        - "2027"
     validations:
       required: true
 
