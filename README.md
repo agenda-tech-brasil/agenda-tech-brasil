@@ -90,6 +90,7 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- OUTUBRO:START -->
 - 07, 08 e 09: [Siará Tech Summit 2026](https://stssebrae.com.br/?gad_source=1&gad_campaignid=24101432376&gclid=Cj0KCQjw79nUBhCgARIsADSHka1J62Ns97RoLZhQeINgwnWJoBOc8fzU1ybAMMm73O7E6hhyjqvikdEaAk3CEALw_wcB) - _Fortaleza/CE_ ![presencial]
 - 14: [Python Brasil 2026](https://2026.pythonbrasil.org.br/) - _Florianópolis/SC_ ![presencial]
+- 19, 20, 21, 22, 23 e 24 [PHP CONFERENCE BRASIL 2026](https://phpconference.com.br) - _Maringá - PR_ [híbrido]
 <!-- OUTUBRO:END -->
 ### Novembro
 <!-- NOVEMBRO:START -->
