@@ -9710,6 +9710,17 @@
               "cidade": "São Paulo",
               "uf": "SP",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "BHack Conference 2026",
+              "data": [
+                "28",
+                "29"
+              ],
+              "url": "https://www.sympla.com.br/evento/bhack-conference-2026/3376844",
+              "cidade": "Belo Horizonte",
+              "uf": "MG",
+              "tipo": "presencial"
             }
           ]
         },
