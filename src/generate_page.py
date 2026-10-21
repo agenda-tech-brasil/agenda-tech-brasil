@@ -3,7 +3,7 @@ import os
 
 from jinja2 import Environment, FileSystemLoader
 
-from utils import get_db_path, load_database
+from utils import get_archived_years, get_db_path, load_database
 
 
 def format_date_list(dates):
@@ -25,6 +25,7 @@ def get_available_months(json_data, current_year):
 
 def render_markdown(json_data, template_path, current_year):
     available_months = get_available_months(json_data, current_year)
+    archived_years = sorted(year["ano"] for year in get_archived_years(json_data))
 
     env = Environment(
         loader=FileSystemLoader(template_path),
@@ -34,7 +35,11 @@ def render_markdown(json_data, template_path, current_year):
     env.filters["format_date_list"] = format_date_list
     template = env.get_template("events.md.j2")
 
-    return template.render(data=json_data, link_meses=available_months)
+    return template.render(
+        data=json_data,
+        link_meses=available_months,
+        anos_arquivados=archived_years,
+    )
 
 
 def generate_readme(db_path, template_path, output_path, now=None):

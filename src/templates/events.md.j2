@@ -57,9 +57,9 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 
 ## Eventos dos anos anteriores
 
-- [Eventos 2022](https://github.com/agenda-tech-brasil/agenda-tech-brasil/blob/main/arquivo/2022.md)
-- [Eventos 2023](https://github.com/agenda-tech-brasil/agenda-tech-brasil/blob/main/arquivo/2023.md)
-- [Eventos 2024](https://github.com/agenda-tech-brasil/agenda-tech-brasil/blob/main/arquivo/2024.md)
+{% for ano_arquivado in anos_arquivados %}
+- [Eventos {{ ano_arquivado }}](https://github.com/agenda-tech-brasil/agenda-tech-brasil/blob/main/arquivo/{{ ano_arquivado }}.md)
+{% endfor %}
 
 <!--LINK DAS BADGES:START-->
 
