@@ -9652,6 +9652,21 @@
               "cidade": "Porto Alegre",
               "uf": "RS",
               "tipo": "presencial"
+            },
+            {
+              "nome": "PHP Conference Brasil 2026",
+              "data": [
+                "19",
+                "20",
+                "21",
+                "22",
+                "23",
+                "24"
+              ],
+              "url": "https://phpconference.com.br/",
+              "cidade": "Maringá",
+              "uf": "PR",
+              "tipo": "híbrido"
             }
           ]
         },
@@ -9717,19 +9732,6 @@
           "mes": "dezembro",
           "arquivado": false,
           "eventos": [
-            {
-              "nome": "PHP Conference Brasil 2026",
-              "data": [
-                "03",
-                "04",
-                "05",
-                "06"
-              ],
-              "url": "https://phpconference.com.br/",
-              "cidade": "",
-              "uf": "",
-              "tipo": "online"
-            },
             {
               "nome": "TDCX PORTO ALEGRE",
               "data": [
