@@ -8730,7 +8730,7 @@
     },
     {
       "ano": 2026,
-      "arquivado": false,
+      "arquivado": true,
       "meses": [
         {
           "mes": "janeiro",
