@@ -9685,6 +9685,16 @@
               "tipo": "presencial"
             },
             {
+              "nome": "MVP CONF REGIONAL FLORIANÓPOLIS",
+              "data": [
+                "07"
+              ],
+              "url": "https://mvpconf.com.br/regional/florianopolis/unisenai",
+              "cidade": "Florianópolis",
+              "uf": "SC",
+              "tipo": "presencial"
+            },
+            {
               "nome": "TDC Experience Recife | Rec'n'Play",
               "data": [
                 "11",
