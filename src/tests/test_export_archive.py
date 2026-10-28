@@ -25,9 +25,30 @@ def test_get_archived_years_returns_only_archived():
 
     result = get_archived_years(data)
 
-    assert len(result) == 2
-    assert result[0]["ano"] == 2024
-    assert result[1]["ano"] == 2023
+    assert len(result) == 1
+    assert result[0]["ano"] == 2023
+
+
+def test_get_archived_years_includes_archived_months_of_active_year():
+    data = {
+        "eventos": [
+            {
+                "ano": 2026,
+                "arquivado": False,
+                "meses": [
+                    {"mes": "janeiro", "arquivado": True, "eventos": []},
+                    {"mes": "fevereiro", "arquivado": False, "eventos": []},
+                ],
+            },
+        ],
+        "tba": [],
+    }
+
+    result = get_archived_years(data)
+
+    assert len(result) == 1
+    assert result[0]["ano"] == 2026
+    assert [m["mes"] for m in result[0]["meses"]] == ["janeiro"]
 
 
 def test_get_archived_years_returns_empty_when_none_archived():
@@ -170,6 +191,41 @@ def test_export_archives_creates_year_files(tmp_path):
     assert "### Março" in content
     assert "Conf X" in content
     assert not (output_dir / "2026.md").exists()
+
+
+def test_export_archives_creates_file_for_year_with_archived_month(tmp_path):
+    db_path = tmp_path / "db.json"
+    template_dir = tmp_path / "templates"
+    output_dir = tmp_path / "arquivo"
+    template_dir.mkdir()
+
+    template_content = (
+        "{% for mes in ano.meses %}"
+        "### {{ mes.mes | capitalize }}\n"
+        "{% endfor %}"
+    )
+    (template_dir / "archive.md.j2").write_text(template_content, encoding="utf-8")
+
+    db_data = {
+        "eventos": [
+            {
+                "ano": 2026,
+                "arquivado": False,
+                "meses": [
+                    {"mes": "janeiro", "arquivado": True, "eventos": []},
+                    {"mes": "fevereiro", "arquivado": False, "eventos": []},
+                ],
+            },
+        ],
+        "tba": [],
+    }
+    write_db(db_path, db_data)
+
+    export_archives(str(db_path), str(template_dir), str(output_dir))
+
+    content = (output_dir / "2026.md").read_text(encoding="utf-8")
+    assert "### Janeiro" in content
+    assert "### Fevereiro" not in content
 
 
 def test_export_archives_skips_archived_year_without_meses(tmp_path):
