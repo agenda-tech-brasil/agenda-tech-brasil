@@ -9706,6 +9706,17 @@
               "tipo": "híbrido"
             },
             {
+              "nome": "Tech Woman (4º Edição Recife)",
+              "data": [
+                "14"
+              ],
+              "url": "https://www.instagram.com/techwoman.rec/",
+              "cidade": "Recife",
+              "uf": "PE",
+              "tipo": "presencial",
+              "imagem": "https://github.com/user-attachments/assets/aabc3d0e-b3ef-48e7-afcf-6f9ed1a6d01f\""
+            },
+            {
               "nome": "Front in Floripa",
               "data": [
                 "28"
