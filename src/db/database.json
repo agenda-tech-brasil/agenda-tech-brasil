@@ -9706,6 +9706,16 @@
               "tipo": "híbrido"
             },
             {
+              "nome": "EmTech Brasil 2026",
+              "data": [
+                "16"
+              ],
+              "url": "https://emtechbrasil.com.br/agenda/",
+              "cidade": "São Paulo",
+              "uf": "SP",
+              "tipo": "presencial"
+            },
+            {
               "nome": "Front in Floripa",
               "data": [
                 "28"
