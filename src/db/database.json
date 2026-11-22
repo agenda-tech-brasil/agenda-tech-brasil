@@ -9752,6 +9752,17 @@
               "cidade": "Porto Alegre",
               "uf": "RS",
               "tipo": "híbrido"
+            },
+            {
+              "nome": "Roda de Conversa Online: Nuvem, Carreira e Certificações AWS",
+              "data": [
+                "12"
+              ],
+              "url": "https://www.meetup.com/aws-sbg-at-fametro-university-center-sede-main-campus/events/317539909/",
+              "cidade": "",
+              "uf": "",
+              "tipo": "online",
+              "imagem": "https://github.com/user-attachments/assets/7cca8c1e-61f6-47e0-90ac-c19a91a895b0\""
             }
           ]
         }
