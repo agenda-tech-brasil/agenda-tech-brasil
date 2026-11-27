@@ -9756,6 +9756,28 @@
           ]
         }
       ]
+    },
+    {
+      "ano": 2027,
+      "arquivado": false,
+      "meses": [
+        {
+          "mes": "maio",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Trends São Paulo 2027",
+              "data": [
+                "04"
+              ],
+              "url": "https://agiletrendsbr.com/",
+              "cidade": "São Paulo · Frei Caneca",
+              "uf": "SP",
+              "tipo": "presencial"
+            }
+          ]
+        }
+      ]
     }
   ],
   "tba": [
