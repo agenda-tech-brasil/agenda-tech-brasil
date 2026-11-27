@@ -9756,6 +9756,28 @@
           ]
         }
       ]
+    },
+    {
+      "ano": 2027,
+      "arquivado": false,
+      "meses": [
+        {
+          "mes": "agosto",
+          "arquivado": false,
+          "eventos": [
+            {
+              "nome": "Trends Gov 2027",
+              "data": [
+                "30"
+              ],
+              "url": "https://agiletrendsbr.com/",
+              "cidade": "Brasília · Espaço Dois Ipês",
+              "uf": "DF",
+              "tipo": "presencial"
+            }
+          ]
+        }
+      ]
     }
   ],
   "tba": [
